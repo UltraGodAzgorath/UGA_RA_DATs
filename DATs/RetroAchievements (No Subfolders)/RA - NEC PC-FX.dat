@@ -1,250 +1,270 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<?xml version='1.0' encoding='utf-8'?>
 <datafile>
 	<header>
 		<name>RA - NEC PC-FX</name>
 		<description>NEC PC-FX</description>
-		<category>No Subfolders</category>
-		<version>20260227</version>
-		<date>27 February 2026</date>
-		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
-		<homepage>https://retroachievements.org</homepage>
-		<url>https://retroachievements.org/system/49/games</url>
-		<titlecount>19</titlecount>
-		<hashcount>23</hashcount>
-		<clrmamepro forcepacking="unzip"/>
-		<romvault forcepacking="unzip"/>
+		<version>20260601</version>
+		<date>1 June 2026</date>
+		<author>Ultra God Azgorath</author>
+		<url>https://retroachievements.org/system/49-pc-fx/games</url>
+		<titlecount>21</titlecount>
+		<hashcount>26</hashcount>
 	</header>
-	<machine name="Simple Battle FX (World) (gameblabla) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Simple Battle FX (World) (gameblabla) (Aftermarket)</description>
-		<release name="Simple Battle FX (World) (gameblabla) (Aftermarket)" region="World"/>
-		<disk name="Simple Battle FX (World) (gameblabla) (Aftermarket).chd" sha1="3fa9fc8750f1bb4dbb53b99e1caa68a710c122ba"/>
-		<url>https://retroachievements.org/game/19912/hashes</url>
-		<hash>3c576145aee0c0b78245bbae4870be8a</hash>
-	</machine>
 
-	<machine name="Soviet Union 2010 (World) (Matej Horvat) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Soviet Union 2010 (World) (Matej Horvat) (Aftermarket)</description>
-		<release name="Soviet Union 2010 (World) (Matej Horvat) (Aftermarket)" region="World"/>
-		<disk name="Soviet Union 2010 (World) (Matej Horvat) (Aftermarket).chd" sha1="9a74f0485202f152f7f9a2920487ee1587349edf"/>
-		<url>https://retroachievements.org/game/16462/hashes</url>
-		<hash>770aaf1214a145ba2b1511b0de752a24</hash>
-	</machine>
-	
 	<machine name="Battle Heat (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Battle Heat (Japan)</description>
 		<release name="Battle Heat (Japan)" region="Japan"/>
 		<disk name="Battle Heat (Japan).chd" sha1="1a73ab8064ddfaebd5e555f51e4c153da6027fd7"/>
+		<ra_hash>7511f808929b912962e468daba4fe844</ra_hash>
 		<url>https://retroachievements.org/game/13339/hashes</url>
-		<hash>7511f808929b912962e468daba4fe844</hash>
 	</machine>
-	
+
 	<machine name="Chip-chan Kick! (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Chip-chan Kick! (Japan)</description>
 		<release name="Chip-chan Kick! (Japan)" region="Japan"/>
 		<disk name="Chip-chan Kick! (Japan).chd" sha1="845e67d31e3e92099b872d0d3133304a891b3a41"/>
+		<ra_hash>a83a3f08d17c4da8ac8f8e8e370c7b53</ra_hash>
 		<url>https://retroachievements.org/game/9961/hashes</url>
-		<hash>a83a3f08d17c4da8ac8f8e8e370c7b53</hash>
 	</machine>
-	
-	<machine name="Choujin Heiki Zeroigar (Japan)">
+
+	<machine name="Choujin Heiki Zeroigar (Japan)" cloneof="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Choujin Heiki Zeroigar (Japan)</description>
 		<release name="Choujin Heiki Zeroigar (Japan)" region="Japan"/>
 		<disk name="Choujin Heiki Zeroigar (Japan).chd" sha1="4ea9e0bf10a6edf77d6d22f01e2420ecdf1ddaaa"/>
+		<ra_hash>980b1c05ffa2a6c388d4364f29a758c9</ra_hash>
 		<url>https://retroachievements.org/game/9940/hashes</url>
-		<hash>980b1c05ffa2a6c388d4364f29a758c9</hash>
 	</machine>
-	<machine name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)" cloneof="Choujin Heiki Zeroigar (Japan)">
+	<machine name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)">
 		<category>Retail</category>
+		<source>Redump, RAPatches</source>
 		<description>Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)</description>
 		<release name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)" region="English"/>
 		<disk name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm).chd" sha1="d116e0c8ca5e9da2aa3ad8e2606407a0a3d52269"/>
+		<ra_hash>b4aa155ab9b800311efb3d70631189ed</ra_hash>
 		<url>https://retroachievements.org/game/9940/hashes</url>
-		<hash>b4aa155ab9b800311efb3d70631189ed</hash>
 	</machine>
-	
+
+	<machine name="Farland Story FX (Japan) (En) (v1.0) (Djlpap)" cloneof="Farland Story FX (Japan) (En) (v2.0) (Djlpap)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Farland Story FX (Japan) (En) (v1.0) (Djlpap)</description>
+		<disk name="Farland Story FX (Japan) (En) (v1.0) (Djlpap).chd" sha1="c285d9d88a5b375db8ef26d8efd6e093eb057625"/>
+		<ra_hash>6be42cbb531a2102b275ccf9e9007322</ra_hash>
+		<url>https://retroachievements.org/game/8112/hashes</url>
+	</machine>
 	<machine name="Farland Story FX (Japan) (En) (v2.0) (Djlpap)">
 		<category>Retail</category>
+		<source>Redump, RAPatches</source>
 		<description>Farland Story FX (Japan) (En) (v2.0) (Djlpap)</description>
 		<release name="Farland Story FX (Japan) (En) (v2.0) (Djlpap)" region="English"/>
 		<disk name="Farland Story FX (Japan) (En) (v2.0) (Djlpap).chd" sha1="1ed18d205b8129f9893a02736a5d6540d61ea4aa"/>
+		<ra_hash>33ceed42dba0b58bec1e0e1249cd4582</ra_hash>
 		<url>https://retroachievements.org/game/8112/hashes</url>
-		<hash>33ceed42dba0b58bec1e0e1249cd4582</hash>
 	</machine>
-	<machine name="Farland Story FX (Japan) (En) (v1.0) (Djlpap)" cloneof="Farland Story FX (Japan) (En) (v2.0) (Djlpap)">
-		<category>Retail</category>
-		<description>Farland Story FX (Japan) (En) (v1.0) (Djlpap)</description>
-		<disk name="Farland Story FX (Japan) (En) (v1.0) (Djlpap).chd" sha1="c285d9d88a5b375db8ef26d8efd6e093eb057625"/>
-		<url>https://retroachievements.org/game/8112/hashes</url>
-		<hash>6be42cbb531a2102b275ccf9e9007322</hash>
-	</machine>
-	
+
 	<machine name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)</description>
 		<release name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)" region="Japan"/>
 		<disk name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).chd" sha1="32cdb9bcf74becd8258293306a8b7516f9bd190d"/>
+		<ra_hash>d193dee874bafbda2122340bfb7cd715</ra_hash>
 		<url>https://retroachievements.org/game/16434/hashes</url>
-		<hash>d193dee874bafbda2122340bfb7cd715</hash>
 	</machine>
 
-	<machine name="J. B. Harold - Blue Chicago Blues (Japan)">
+	<machine name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
 		<category>Retail</category>
-		<description>J. B. Harold - Blue Chicago Blues (Japan)</description>
-		<release name="J. B. Harold - Blue Chicago Blues (Japan)" region="Japan"/>
-		<rom name="J. B. Harold - Blue Chicago Blues (Japan).m3u" size="110" crc="cf53e332" md5="ca3f07833db70d342e754baafbe33f2b" sha1="1cbc9ebfbf1400b2ed1eb47c91fbdfe1a8e817fb"/>
+		<source>Redump</source>
+		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
+		<release name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)" region="Japan"/>
 		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" sha1="97e605651b71c50f11d22787578c0e980079d2ac"/>
-		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd" sha1="a3850bf22182afba890107d8093bd2dc585e274a"/>
+		<ra_hash>4eaaad6532c74a9ffdff85a971afe43c</ra_hash>
 		<url>https://retroachievements.org/game/16436/hashes</url>
-		<hash>4eaaad6532c74a9ffdff85a971afe43c</hash>
 	</machine>
-	
+
 	<machine name="Kishin Douji Zenki FX - Vajra Fight (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Kishin Douji Zenki FX - Vajra Fight (Japan)</description>
 		<release name="Kishin Douji Zenki FX - Vajra Fight (Japan)" region="Japan"/>
 		<disk name="Kishin Douji Zenki FX - Vajra Fight (Japan).chd" sha1="6b5a1b118a1520c0dd05df20d5ddb2072f6ebab2"/>
+		<ra_hash>75b75e4bb1337e55ba75ac3cefc24844</ra_hash>
 		<url>https://retroachievements.org/game/9525/hashes</url>
-		<hash>75b75e4bb1337e55ba75ac3cefc24844</hash>
 	</machine>
 
 	<machine name="Last Imperial Prince (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Last Imperial Prince (Japan)</description>
 		<release name="Last Imperial Prince (Japan)" region="Japan"/>
-		<rom name="Last Imperial Prince (Japan).m3u" size="84" crc="04963161" md5="33fc102d1f5061e0e73b315229252198" sha1="1150c7fd90dfb2b32c1f78be46b59c68fefd6521"/>
-		<disk name="Last Imperial Prince (Japan) (Disc A).chd" sha1="d50c7c8d9215d5bd8041af7894e6a17ec705fe79"/>
-		<disk name="Last Imperial Prince (Japan) (Disc B).chd" sha1="17d197c4d0784d4bc58fb8038edbb0d56bbb4b0e"/>
+		<rom name="Last Imperial Prince (Japan).m3u" size="86" crc="FC064F97" md5="340217cc30b49204d85c2766f3e461a3" sha1="fd58942f8e49aaa8aa7e4ffb22cd15e4d740ef48"/>
+		<disk name="Last Imperial Prince (Japan) (Disc 1).chd" sha1="d50c7c8d9215d5bd8041af7894e6a17ec705fe79"/>
+		<ra_hash>b62aad2fb95226bf6ae234a0deb9b53f</ra_hash>
+		<disk name="Last Imperial Prince (Japan) (Disc 2).chd" sha1="17d197c4d0784d4bc58fb8038edbb0d56bbb4b0e"/>
+		<ra_hash>c434170699bfd0273842ce563e9c42e0</ra_hash>
 		<url>https://retroachievements.org/game/9373/hashes</url>
-		<hash>b62aad2fb95226bf6ae234a0deb9b53f</hash>
-		<hash>c434170699bfd0273842ce563e9c42e0</hash>
 	</machine>
-	
+
 	<machine name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</description>
 		<release name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)" region="Japan"/>
 		<disk name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).chd" sha1="2f62501da7bdd7891315b4a2de90cc7dc06bdf48"/>
+		<ra_hash>9c79291556d0b54a88c27420eced095a</ra_hash>
 		<url>https://retroachievements.org/game/16450/hashes</url>
-		<hash>9c79291556d0b54a88c27420eced095a</hash>
 	</machine>
-	
-	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)" cloneof="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
+
+	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" cloneof="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)">
 		<category>Retail</category>
-		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)</description>
-		<release name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)" region="English"/>
-		<disk name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel).chd" sha1="12bc8065c429cc753c6914ee669e66940ba0bf65"/>
-		<url>https://retroachievements.org/game/9786/hashes</url>
-		<hash>7112e47698346656e5ba5656e11c0a86</hash>
-	</machine>
-	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
-		<category>Retail</category>
+		<source>Redump</source>
 		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
 		<release name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" region="Japan"/>
 		<disk name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).chd" sha1="95a5c2f20d406dcaa0ab5e0ff692e3ee2cd4ad76"/>
+		<ra_hash>cdcdafd82876f1fbf532237c05b9e1fe</ra_hash>
 		<url>https://retroachievements.org/game/9786/hashes</url>
-		<hash>cdcdafd82876f1fbf532237c05b9e1fe</hash>
 	</machine>
-	
+	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)</description>
+		<release name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)" region="English"/>
+		<disk name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel).chd" sha1="881ac5a3e57a960968336ea45986e3d44a06cc6f"/>
+		<ra_hash>7112e47698346656e5ba5656e11c0a86</ra_hash>
+		<url>https://retroachievements.org/game/9786/hashes</url>
+	</machine>
+
 	<machine name="Power DoLLS FX (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Power DoLLS FX (Japan)</description>
 		<release name="Power DoLLS FX (Japan)" region="Japan"/>
 		<disk name="Power DoLLS FX (Japan).chd" sha1="5ff9bef5601f926de095b2209916c37718064871"/>
+		<ra_hash>1982933e6620687f0bf5b90f7a38dfdc</ra_hash>
 		<url>https://retroachievements.org/game/16454/hashes</url>
-		<hash>1982933e6620687f0bf5b90f7a38dfdc</hash>
 	</machine>
 
 	<machine name="Return to Zork (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Return to Zork (Japan)</description>
 		<release name="Return to Zork (Japan)" region="Japan"/>
 		<disk name="Return to Zork (Japan).chd" sha1="31db7cd03962f8b85b0b74ed18eaaa6d34eb6dd3"/>
+		<ra_hash>52edc3b3b0998ff36fd43c55dcdbc968</ra_hash>
 		<url>https://retroachievements.org/game/16455/hashes</url>
-		<hash>52edc3b3b0998ff36fd43c55dcdbc968</hash>
 	</machine>
-	
-	<machine name="Ruruli Ra Rura (Japan)">
+
+	<machine name="Ruruli Ra Rura (Japan)" cloneof="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Ruruli Ra Rura (Japan)</description>
 		<release name="Ruruli Ra Rura (Japan)" region="Japan"/>
 		<disk name="Ruruli Ra Rura (Japan).chd" sha1="b5c98b6b8706da42f2f5a7794925b4af193fbee3"/>
+		<ra_hash>2d67b1f38dd790b291b4909d81bba85b</ra_hash>
 		<url>https://retroachievements.org/game/16456/hashes</url>
-		<hash>2d67b1f38dd790b291b4909d81bba85b</hash>
 	</machine>
-	<machine name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)" cloneof="Ruruli Ra Rura (Japan)">
+	<machine name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)">
 		<category>Retail</category>
+		<source>Redump, RAPatches</source>
 		<description>Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)</description>
 		<release name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)" region="English"/>
 		<disk name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb).chd" sha1="ceb6b3d80e5515b7bf514d661673a3465afc9f4e"/>
+		<ra_hash>c363414552441e754f484d7fdf6a4381</ra_hash>
 		<url>https://retroachievements.org/game/16456/hashes</url>
-		<hash>c363414552441e754f484d7fdf6a4381</hash>
 	</machine>
 
 	<machine name="Shanghai - Banri no Choujou (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Shanghai - Banri no Choujou (Japan)</description>
 		<release name="Shanghai - Banri no Choujou (Japan)" region="Japan"/>
 		<disk name="Shanghai - Banri no Choujou (Japan).chd" sha1="db717314fc45aba417c8b7936cc8839105930ab6"/>
+		<ra_hash>b66c6490791269a180ff82097ee762a0</ra_hash>
 		<url>https://retroachievements.org/game/16458/hashes</url>
-		<hash>b66c6490791269a180ff82097ee762a0</hash>
+	</machine>
+
+	<machine name="Simple Battle FX (World) (Aftermarket) (gameblabla)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Simple Battle FX (World) (Aftermarket) (gameblabla)</description>
+		<release name="Simple Battle FX (World) (Aftermarket) (gameblabla)" region="World"/>
+		<disk name="Simple Battle FX (World) (Aftermarket) (gameblabla).chd" sha1="3fa9fc8750f1bb4dbb53b99e1caa68a710c122ba"/>
+		<ra_hash>3c576145aee0c0b78245bbae4870be8a</ra_hash>
+		<url>https://retroachievements.org/game/19912/hashes</url>
+	</machine>
+
+	<machine name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)</description>
+		<release name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)" region="World"/>
+		<disk name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).chd" sha1="9a74f0485202f152f7f9a2920487ee1587349edf"/>
+		<ra_hash>770aaf1214a145ba2b1511b0de752a24</ra_hash>
+		<url>https://retroachievements.org/game/16462/hashes</url>
 	</machine>
 
 	<machine name="Super Power League FX (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Super Power League FX (Japan)</description>
 		<release name="Super Power League FX (Japan)" region="Japan"/>
 		<disk name="Super Power League FX (Japan).chd" sha1="57dcabbfa3c0a5b86524d7683cd597826e4a77e5"/>
+		<ra_hash>8db3639a1aedaecf03bc90a3830dde43</ra_hash>
 		<url>https://retroachievements.org/game/16463/hashes</url>
-		<hash>8db3639a1aedaecf03bc90a3830dde43</hash>
 	</machine>
-	
+
 	<machine name="Super Real Mahjong P.V FX (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Super Real Mahjong P.V FX (Japan)</description>
 		<release name="Super Real Mahjong P.V FX (Japan)" region="Japan"/>
 		<disk name="Super Real Mahjong P.V FX (Japan).chd" sha1="7be52122f1747348fa69f5f645dc10d7809b28f3"/>
+		<ra_hash>de08e432ae7ccfc242587893c7409530</ra_hash>
 		<url>https://retroachievements.org/game/16464/hashes</url>
-		<hash>de08e432ae7ccfc242587893c7409530</hash>
 	</machine>
-	
-	<machine name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)">
+
+	<machine name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)" cloneof="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)</description>
 		<release name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)" region="Japan"/>
 		<disk name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).chd" sha1="60e5c898be652d9c3e0bf88fd4610cf4838a33b6"/>
+		<ra_hash>3827b255e716ef0670378fb6e0b47fb1</ra_hash>
 		<url>https://retroachievements.org/game/16465/hashes</url>
-		<hash>3827b255e716ef0670378fb6e0b47fb1</hash>
 	</machine>
-	<machine name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)" cloneof="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)">
+	<machine name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)">
 		<category>Retail</category>
+		<source>Redump, RAPatches</source>
 		<description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)</description>
 		<release name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)" region="English"/>
 		<disk name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella).chd" sha1="02027fca3850cfcf524b14be963d9af920f2b514"/>
+		<ra_hash>02ebdbd5b1a2193143b45296ea15fbb8</ra_hash>
 		<url>https://retroachievements.org/game/16465/hashes</url>
-		<hash>02ebdbd5b1a2193143b45296ea15fbb8</hash>
 	</machine>
-	
+
 	<machine name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</description>
 		<release name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)" region="Japan"/>
 		<disk name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan).chd" sha1="78ccc7aebc6252c99e6f9d4229a54f635d2f740c"/>
+		<ra_hash>8cf787a9459f25def0245b5bcee16bfd</ra_hash>
 		<url>https://retroachievements.org/game/9995/hashes</url>
-		<hash>8cf787a9459f25def0245b5bcee16bfd</hash>
 	</machine>
 
 	<machine name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)">
 		<category>Retail</category>
+		<source>Redump</source>
 		<description>Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)</description>
 		<release name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)" region="Japan"/>
 		<disk name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).chd" sha1="488777471c4de85180eabb10d34a6d33073d02cf"/>
+		<ra_hash>3e7dbbeaba3a3e2bfe5d8b257b90e1a5</ra_hash>
 		<url>https://retroachievements.org/game/16467/hashes</url>
-		<hash>3e7dbbeaba3a3e2bfe5d8b257b90e1a5</hash>
 	</machine>
 </datafile>

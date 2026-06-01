@@ -1,0 +1,1032 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+	<header>
+		<name>RA - NEC PC-8000-8800</name>
+		<description>NEC PC-8000-8800</description>
+		<version>20260601</version>
+		<date>1 June 2026</date>
+		<author>Ultra God Azgorath</author>
+		<url>https://retroachievements.org/system/47-nec-pc-8000-8800/games</url>
+		<titlecount>97</titlecount>
+		<hashcount>141</hashcount>
+	</header>
+
+	<game name="1942 (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>1942 (V1 mode)</description>
+		<release name="1942 (V1 mode)" region="World"/>
+		<rom name="1942 (V1 mode).d88" size="348848" crc="CB204288" md5="1c00b209336018c7bf618a11d63b57d7" sha1="08b96cc36261dc563b1e41920d780750f94f5b87"/>
+		<ra_hash>1c00b209336018c7bf618a11d63b57d7</ra_hash>
+		<url>https://retroachievements.org/game/14192/hashes</url>
+	</game>
+
+	<game name="American Truck (SR) (Set 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>American Truck (SR) (Set 1)</description>
+		<release name="American Truck (SR) (Set 1)" region="World"/>
+		<rom name="American Truck (SR) (Set 1).d88" size="349024" crc="0E1C417A" md5="7309672ed6318695d1e6a1e319d709f1" sha1="a365fc0d9df15294aab25e8dab31a35cb0639d26"/>
+		<ra_hash>7309672ed6318695d1e6a1e319d709f1</ra_hash>
+		<url>https://retroachievements.org/game/31189/hashes</url>
+	</game>
+
+	<game name="Arkanoid">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Arkanoid</description>
+		<release name="Arkanoid" region="World"/>
+		<rom name="Arkanoid.d88" size="348848" crc="6520C1E9" md5="82665654413828ecb9f59f9ee72cc27d" sha1="717add6ef5e70659a74c6b17c8370c9e6c9e921f"/>
+		<ra_hash>82665654413828ecb9f59f9ee72cc27d</ra_hash>
+		<url>https://retroachievements.org/game/30809/hashes</url>
+	</game>
+
+	<game name="Ascend (2022) (Inufuto)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Ascend (2022) (Inufuto)</description>
+		<release name="Ascend (2022) (Inufuto)" region="World"/>
+		<rom name="Ascend (2022) (Inufuto).d88" size="348848" crc="AADA6F57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538"/>
+		<ra_hash>5def00835e061a54fe6d1fa2d5a8d2b0</ra_hash>
+		<url>https://retroachievements.org/game/31315/hashes</url>
+	</game>
+
+	<game name="Balloon Fight">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Balloon Fight</description>
+		<release name="Balloon Fight" region="World"/>
+		<rom name="Balloon Fight.d88" size="48576" crc="D4FD5AB2" md5="217d98cd080c974f94070a8c759153d3" sha1="88eeb5c527cffef2ecfd28cf82917902f84ed6ab"/>
+		<ra_hash>217d98cd080c974f94070a8c759153d3</ra_hash>
+		<url>https://retroachievements.org/game/14193/hashes</url>
+	</game>
+
+	<game name="Battle Skin Panic">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Battle Skin Panic</description>
+		<release name="Battle Skin Panic" region="World"/>
+		<rom name="Battle Skin Panic.m3u" size="96" crc="D6D61182" md5="4afe2b20e79d5d9f70b84a7e1ed47340" sha1="da41f756564753b4cc129b61537ad6c6b3f3cce6"/>
+		<rom name="Battle Skin Panic (Disk A).d88" size="414992" crc="F9FF8122" md5="1f37c90372f768650491d33325a1e396" sha1="29faad7d41b1898e32d543b03a3018f0bef4d66c"/>
+		<ra_hash>1f37c90372f768650491d33325a1e396</ra_hash>
+		<rom name="Battle Skin Panic (Disk B).d88" size="414992" crc="CBE68661" md5="27d347480cc6dac3768297b6fd9defff" sha1="25f9baf7291ec2f28702ff31f26da8221fa3d579"/>
+		<ra_hash>27d347480cc6dac3768297b6fd9defff</ra_hash>
+		<rom name="Battle Skin Panic (Disk C).d88" size="414992" crc="DA136DA1" md5="5205c480ce8b60ab3200067ae2d8923d" sha1="46f8dfeae51460d5d459355f5a0eb19b37af3692"/>
+		<ra_hash>5205c480ce8b60ab3200067ae2d8923d</ra_hash>
+		<url>https://retroachievements.org/game/17483/hashes</url>
+	</game>
+
+	<game name="Blue Mint">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Blue Mint</description>
+		<release name="Blue Mint" region="World"/>
+		<rom name="Blue Mint.d88" size="348848" crc="862E4151" md5="e4a9591b33c0da0668458445142e3e27" sha1="1b130fe5474468119ea5ee9dca153b07ed1d5605"/>
+		<ra_hash>e4a9591b33c0da0668458445142e3e27</ra_hash>
+		<url>https://retroachievements.org/game/32648/hashes</url>
+	</game>
+
+	<game name="Bomb Jack">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Bomb Jack</description>
+		<release name="Bomb Jack" region="World"/>
+		<rom name="Bomb Jack.d88" size="348848" crc="DA4A20F6" md5="d00e07046291efda14a076b870d26fd5" sha1="09ebaa16ad4a0c20e865e6590b936f128dfea2c0"/>
+		<ra_hash>d00e07046291efda14a076b870d26fd5</ra_hash>
+		<url>https://retroachievements.org/game/14194/hashes</url>
+	</game>
+
+	<game name="Choplifter (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Choplifter (V1 mode)</description>
+		<release name="Choplifter (V1 mode)" region="World"/>
+		<rom name="Choplifter (V1 mode).d88" size="348848" crc="D264CCE0" md5="89b47d7cf7e794d62cdbabe98bb12a8a" sha1="908862610b75fe0b92807021a1a1b8f5839b9d34"/>
+		<ra_hash>89b47d7cf7e794d62cdbabe98bb12a8a</ra_hash>
+		<url>https://retroachievements.org/game/31162/hashes</url>
+	</game>
+
+	<game name="Choro Q Holiday Puzzle">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Choro Q Holiday Puzzle</description>
+		<release name="Choro Q Holiday Puzzle" region="World"/>
+		<rom name="Choro Q Holiday Puzzle.d88" size="366256" crc="E41E2E52" md5="5ceb3452093a933175f9f29022e84587" sha1="134b10be0f873d3de626993ff9d147ef2c9c0ca3"/>
+		<ra_hash>5ceb3452093a933175f9f29022e84587</ra_hash>
+		<url>https://retroachievements.org/game/14928/hashes</url>
+	</game>
+
+	<game name="Computer the Golf (Japan) (En) (v1.0) (Geofront)">
+		<category>Retail</category>
+		<source>RAPatches, Lost Level Archive</source>
+		<description>Computer the Golf (Japan) (En) (v1.0) (Geofront)</description>
+		<release name="Computer the Golf (Japan) (En) (v1.0) (Geofront)" region="English"/>
+		<rom name="Computer the Golf (Japan) (En) (v1.0) (Geofront).t88" size="24195" crc="7DD10355" md5="8801b3fd121300a193df4096a023c68b" sha1="646a48cdfef767e6492dfa5001b0683026b52a7d"/>
+		<ra_hash>8801b3fd121300a193df4096a023c68b</ra_hash>
+		<url>https://retroachievements.org/game/6752/hashes</url>
+	</game>
+
+	<game name="Cuby Panic">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Cuby Panic</description>
+		<release name="Cuby Panic" region="World"/>
+		<rom name="Cuby Panic.d88" size="344528" crc="4567EE43" md5="3876a310798ae116e21e09701eec8f09" sha1="dca371e0c71dda875aa49c74ed25a5ac2df22581"/>
+		<ra_hash>3876a310798ae116e21e09701eec8f09</ra_hash>
+		<url>https://retroachievements.org/game/14132/hashes</url>
+	</game>
+
+	<game name="Dezeni World">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dezeni World</description>
+		<release name="Dezeni World" region="World"/>
+		<rom name="Dezeni World.d88" size="348848" crc="CBF9E9F5" md5="283563f6202914596439481f86c7b42d" sha1="f7894f13a0649f42b49f7a145c44f4e04c9b7bb9"/>
+		<ra_hash>283563f6202914596439481f86c7b42d</ra_hash>
+		<url>https://retroachievements.org/game/30826/hashes</url>
+	</game>
+	<game name="Dezeni World (mkII) (V1 mode)" cloneof="Dezeni World">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dezeni World (mkII) (V1 mode)</description>
+		<rom name="Dezeni World (mkII) (V1 mode).d88" size="348848" crc="2B9B5EDD" md5="b951d24c58e13ce81267cfcac433c6d0" sha1="1dc4fabe4cabd0c9278a2d4e38bfd3a4823f86fa"/>
+		<ra_hash>b951d24c58e13ce81267cfcac433c6d0</ra_hash>
+		<url>https://retroachievements.org/game/30826/hashes</url>
+	</game>
+
+	<game name="Dig Dug (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dig Dug (V1 mode)</description>
+		<release name="Dig Dug (V1 mode)" region="World"/>
+		<rom name="Dig Dug (V1 mode).d88" size="348848" crc="00EDDCC2" md5="a38ec46f6c9d59697ad38bb3e4d5872d" sha1="7f99e99bed95846f96b41dd6dfbb912c6bf159d7"/>
+		<ra_hash>a38ec46f6c9d59697ad38bb3e4d5872d</ra_hash>
+		<url>https://retroachievements.org/game/30902/hashes</url>
+	</game>
+
+	<game name="Digital Devil Story - Megami Tensei">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Digital Devil Story - Megami Tensei</description>
+		<release name="Digital Devil Story - Megami Tensei" region="World"/>
+		<rom name="Digital Devil Story - Megami Tensei.m3u" size="100" crc="8E0E5482" md5="d91ca3ba49bd47ab4293f5356fb1a807" sha1="c347f80bb50083a3945162dfe0af9baa9b173a0a"/>
+		<rom name="Digital Devil Story - Megami Tensei (Disk 1).d88" size="414992" crc="4871CA27" md5="7ede109c078aa2b3fd052f537b9fa1c8" sha1="5e7459f12b608e8e1d27d423d0a66d33b03cc428"/>
+		<ra_hash>7ede109c078aa2b3fd052f537b9fa1c8</ra_hash>
+		<rom name="Digital Devil Story - Megami Tensei (Disk 2).d88" size="414992" crc="BCA2E361" md5="28aa5361383283482912682635a2e934" sha1="edf0713cb29c51b290e1ebe6a2360e69dafff7b8"/>
+		<ra_hash>28aa5361383283482912682635a2e934</ra_hash>
+		<url>https://retroachievements.org/game/13985/hashes</url>
+	</game>
+
+	<game name="Donkey Gorilla (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Donkey Gorilla (V1 mode)</description>
+		<release name="Donkey Gorilla (V1 mode)" region="World"/>
+		<rom name="Donkey Gorilla (V1 mode).d88" size="66240" crc="A8926AFC" md5="8c13b5d875e4cee792a00836e1b7d226" sha1="1900f3dbc67c4e1e3095ddb304f182d83ee23bbe"/>
+		<ra_hash>8c13b5d875e4cee792a00836e1b7d226</ra_hash>
+		<url>https://retroachievements.org/game/34876/hashes</url>
+	</game>
+
+	<game name="Donkey Kong 3 - The Great Counterattack (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Donkey Kong 3 - The Great Counterattack (V1 mode)</description>
+		<release name="Donkey Kong 3 - The Great Counterattack (V1 mode)" region="World"/>
+		<rom name="Donkey Kong 3 - The Great Counterattack (V1 mode).d88" size="587808" crc="5A0955FA" md5="2c371a4e9085410c6b457e0db5e68e88" sha1="95709bf3a4bc631aed98681db263f6f345c419df"/>
+		<ra_hash>2c371a4e9085410c6b457e0db5e68e88</ra_hash>
+		<url>https://retroachievements.org/game/6812/hashes</url>
+	</game>
+
+	<game name="Dragon Knight (Disk A) (Alt 4)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dragon Knight (Disk A) (Alt 4)</description>
+		<release name="Dragon Knight (Disk A) (Alt 4)" region="World"/>
+		<rom name="Dragon Knight (Disk A) (Alt 4).d88" size="436640" crc="CBE5414B" md5="345022a2b320faa48e174f1604a08070" sha1="8548a8ce9d441f2bed43ca0eaf1265e4049bea69"/>
+		<ra_hash>345022a2b320faa48e174f1604a08070</ra_hash>
+		<url>https://retroachievements.org/game/21935/hashes</url>
+	</game>
+
+	<game name="Dragon Knight II (Disk A) (Alt 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dragon Knight II (Disk A) (Alt 1)</description>
+		<release name="Dragon Knight II (Disk A) (Alt 1)" region="World"/>
+		<rom name="Dragon Knight II (Disk A) (Alt 1).d88" size="436640" crc="C2A6B47D" md5="75793c796b6b8bd88698eec24842d7b5" sha1="d5a92c5822540e0b9973b1eb8e9dc629f65a95b2"/>
+		<ra_hash>75793c796b6b8bd88698eec24842d7b5</ra_hash>
+		<url>https://retroachievements.org/game/22063/hashes</url>
+	</game>
+
+	<game name="Dragon Slayer (Level 1.1) (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dragon Slayer (Level 1.1) (V1 mode)</description>
+		<release name="Dragon Slayer (Level 1.1) (V1 mode)" region="World"/>
+		<rom name="Dragon Slayer (Level 1.1) (V1 mode).d88" size="448144" crc="7F3ECEA1" md5="8086bfe5e0a905e77ffef517aca77da1" sha1="0017c5f3af243f08687c8d2fa6d8e615c79ad837"/>
+		<ra_hash>8086bfe5e0a905e77ffef517aca77da1</ra_hash>
+		<url>https://retroachievements.org/game/13705/hashes</url>
+	</game>
+
+	<game name="Dragon Slayer (Level 2.0) (V1 mode) (Clean Save Data) (Euclide) (1.0)">
+		<category>Retail</category>
+		<source>neokobe, RAPatches</source>
+		<description>Dragon Slayer (Level 2.0) (V1 mode) (Clean Save Data) (Euclide) (1.0)</description>
+		<release name="Dragon Slayer (Level 2.0) (V1 mode) (Clean Save Data) (Euclide) (1.0)" region="World"/>
+		<rom name="Dragon Slayer (Level 2.0) (V1 mode) (Clean Save Data) (Euclide) (1.0).d88" size="499184" crc="E77020E6" md5="87417127a5ba7ac8dd9a67bb9f83ef6c" sha1="cc3b1af94ebc3cdc237b3950e8e0d26442671faf"/>
+		<ra_hash>87417127a5ba7ac8dd9a67bb9f83ef6c</ra_hash>
+		<url>https://retroachievements.org/game/14152/hashes</url>
+	</game>
+
+	<game name="Dynamite Bowl">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Dynamite Bowl</description>
+		<release name="Dynamite Bowl" region="World"/>
+		<rom name="Dynamite Bowl.d88" size="348848" crc="7BA95088" md5="9f587e86e51ec9c0fe6f6d8b71de86df" sha1="52e3b3e74b3cfcfae8a9307f279a6077bdb2da4a"/>
+		<ra_hash>9f587e86e51ec9c0fe6f6d8b71de86df</ra_hash>
+		<url>https://retroachievements.org/game/22559/hashes</url>
+	</game>
+
+	<game name="Emmy">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Emmy</description>
+		<release name="Emmy" region="World"/>
+		<rom name="Emmy.d88" size="348848" crc="AD5C4831" md5="c3fd72c922d4f9fd581d41b19b65772c" sha1="2b726b866fcbc4a130d52e44aeba88826af7f8c8"/>
+		<ra_hash>c3fd72c922d4f9fd581d41b19b65772c</ra_hash>
+		<url>https://retroachievements.org/game/14107/hashes</url>
+	</game>
+
+	<game name="Ever Green">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ever Green</description>
+		<release name="Ever Green" region="World"/>
+		<rom name="Ever Green.d88" size="422160" crc="1BEB9673" md5="3c0dc61c00ced48fea9173abee0b8b2a" sha1="93bcba533548e53bd3c0b5eeb95966e28bb75002"/>
+		<ra_hash>3c0dc61c00ced48fea9173abee0b8b2a</ra_hash>
+		<url>https://retroachievements.org/game/31303/hashes</url>
+	</game>
+
+	<game name="Excitebike">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Excitebike</description>
+		<release name="Excitebike" region="World"/>
+		<rom name="Excitebike.d88" size="47616" crc="CA90FDF7" md5="4f8777b899ec20720353fa0012476a48" sha1="d274a0ad60ac36a454d61f16178c1e1c1a231531"/>
+		<ra_hash>4f8777b899ec20720353fa0012476a48</ra_hash>
+		<url>https://retroachievements.org/game/30829/hashes</url>
+	</game>
+
+	<game name="Fan Fun">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Fan Fun</description>
+		<release name="Fan Fun" region="World"/>
+		<rom name="Fan Fun.d88" size="31424" crc="72BAC1B7" md5="a827214e2ce7c82ec619d9d647f1f383" sha1="7cc591ef225ffe629d39d98b082be20cd605b7a3"/>
+		<ra_hash>a827214e2ce7c82ec619d9d647f1f383</ra_hash>
+		<url>https://retroachievements.org/game/14665/hashes</url>
+	</game>
+
+	<game name="Fangs">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Fangs</description>
+		<release name="Fangs" region="World"/>
+		<rom name="Fangs.m3u" size="120" crc="F55AB05E" md5="6578999ae1a3a2b6c4ad3467f56e800f" sha1="eefe7d7d3542cb8a9a599ed2c26cfc82d90e733c"/>
+		<rom name="Fangs (Disk 1).d88" size="415840" crc="BD83DB80" md5="9645671a9ae60a2bce89ade8ba8c4f9c" sha1="501529ec1b6add0dd1747931e950fdd2ecc6cea4"/>
+		<ra_hash>9645671a9ae60a2bce89ade8ba8c4f9c</ra_hash>
+		<rom name="Fangs (Disk 2).d88" size="415840" crc="CDB8EEF8" md5="667d7af4874549a0c2dbcaa5b528445d" sha1="12e7e34326f5845ecb725a0f9e43a476100ee3be"/>
+		<ra_hash>667d7af4874549a0c2dbcaa5b528445d</ra_hash>
+		<rom name="Fangs (Disk 3).d88" size="415840" crc="4EFE0E29" md5="8f2a53c24e20b753c8c8141c6f01a93b" sha1="307a27ef8f1790ebd7e74ae6caf541e236323a59"/>
+		<ra_hash>8f2a53c24e20b753c8c8141c6f01a93b</ra_hash>
+		<rom name="Fangs (Disk 4).d88" size="432480" crc="191F68AB" md5="947642c1da1ae1e0cd9b744a06b64eec" sha1="88ef860e3c8ec8c97f7f33c8215d3f11317b4ddf"/>
+		<ra_hash>947642c1da1ae1e0cd9b744a06b64eec</ra_hash>
+		<rom name="Fangs (Disk 5).d88" size="431440" crc="B0260676" md5="896731b1a0579050faf08908e2b11b49" sha1="f252dae97679bf42dea06721fd6e765d3efd01b1"/>
+		<ra_hash>896731b1a0579050faf08908e2b11b49</ra_hash>
+		<rom name="Fangs (Disk 6).d88" size="415840" crc="C30B2169" md5="4f15fcab6830cfc1961c8bfd1f1ee648" sha1="c74a9ed070ee7ef26213b37953ff00307fdd46cc"/>
+		<ra_hash>4f15fcab6830cfc1961c8bfd1f1ee648</ra_hash>
+		<url>https://retroachievements.org/game/17516/hashes</url>
+	</game>
+
+	<game name="Final Crisis">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Final Crisis</description>
+		<release name="Final Crisis" region="World"/>
+		<rom name="Final Crisis.m3u" size="81" crc="D2B43079" md5="b47488b7031bc55d7e62f78412390397" sha1="a09c0aa1db59f15665ee009d8bc3e0b273c190aa"/>
+		<rom name="Final Crisis (Disk A).d88" size="353200" crc="BA6C3B21" md5="c7a225228ab2f24535b30d816883645d" sha1="51d22f71197309fa5d962d46397d296f1a141adc"/>
+		<ra_hash>c7a225228ab2f24535b30d816883645d</ra_hash>
+		<rom name="Final Crisis (Disk B).d88" size="348848" crc="9D20F002" md5="7dfd1a416f0e1434bbbddb87d19dc4d1" sha1="5524013df48505b3e294efae1840a9aebc596b2b"/>
+		<ra_hash>7dfd1a416f0e1434bbbddb87d19dc4d1</ra_hash>
+		<rom name="Final Crisis (Disk C).d88" size="348848" crc="08372A00" md5="1486b21aaf38c018229d3867c186a2bb" sha1="5d776784ae99dd15d0eb9f08b6ceb20d4ba87faf"/>
+		<ra_hash>1486b21aaf38c018229d3867c186a2bb</ra_hash>
+		<url>https://retroachievements.org/game/13990/hashes</url>
+	</game>
+
+	<game name="Flappy (Set 1) (V1 mode)" cloneof="Flappy (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Flappy (Set 1) (V1 mode)</description>
+		<rom name="Flappy (Set 1) (V1 mode).d88" size="348848" crc="B68EB322" md5="250308b334a42e5ad19df56593a17092" sha1="083caf374c14b25190677adeec1e1e0cb203e190"/>
+		<ra_hash>250308b334a42e5ad19df56593a17092</ra_hash>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+	</game>
+	<game name="Flappy (Set 2) (V1 mode)" cloneof="Flappy (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Flappy (Set 2) (V1 mode)</description>
+		<rom name="Flappy (Set 2) (V1 mode).d88" size="348848" crc="08B6182F" md5="dc486220d22e36877b164f89397b10f7" sha1="5221dbd3f71b3515df486de754e2f4065a73a60c"/>
+		<ra_hash>dc486220d22e36877b164f89397b10f7</ra_hash>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+	</game>
+	<game name="Flappy (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Flappy (V1 mode)</description>
+		<release name="Flappy (V1 mode)" region="World"/>
+		<rom name="Flappy (V1 mode).d88" size="349120" crc="E0A7E30C" md5="eb63ca7ebd38357d8eb5f793296564b0" sha1="703212fb302c1b6aa99ee17dbe33ef68ccc0a622"/>
+		<ra_hash>eb63ca7ebd38357d8eb5f793296564b0</ra_hash>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+	</game>
+
+	<game name="Flicky (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Flicky (V1 mode)</description>
+		<release name="Flicky (V1 mode)" region="World"/>
+		<rom name="Flicky (V1 mode).d88" size="353200" crc="E027D4F5" md5="568a050e947538b0dcac87696af64804" sha1="bb4beea512afddc93c5fe495903873fc41811c72"/>
+		<ra_hash>568a050e947538b0dcac87696af64804</ra_hash>
+		<url>https://retroachievements.org/game/30862/hashes</url>
+	</game>
+
+	<game name="Fruit Panic (Set 1) (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Fruit Panic (Set 1) (V1 mode)</description>
+		<release name="Fruit Panic (Set 1) (V1 mode)" region="World"/>
+		<rom name="Fruit Panic (Set 1) (V1 mode).d88" size="348848" crc="4C725865" md5="b2ceee3005dc0a1d96389e5b2a2a42f7" sha1="382dad099b3a375779f04cbab0b53bd2ee916356"/>
+		<ra_hash>b2ceee3005dc0a1d96389e5b2a2a42f7</ra_hash>
+		<url>https://retroachievements.org/game/28558/hashes</url>
+	</game>
+
+	<game name="Galaxian (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Galaxian (V1 mode)</description>
+		<release name="Galaxian (V1 mode)" region="World"/>
+		<rom name="Galaxian (V1 mode).d88" size="348848" crc="7D6BFB84" md5="082e581be6f2d16b7d734f90ef7bd2c4" sha1="b69f94bf3ae10e1161ce9b26ed24bb4dd1ddf473"/>
+		<ra_hash>082e581be6f2d16b7d734f90ef7bd2c4</ra_hash>
+		<url>https://retroachievements.org/game/14196/hashes</url>
+	</game>
+
+	<game name="Gradius">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Gradius</description>
+		<release name="Gradius" region="World"/>
+		<rom name="Gradius.d88" size="348848" crc="44ED4087" md5="af69e0d2474531f0f1b55e59e919c553" sha1="9914864e4e0d85ade7d13ca7d27c9aaacb85781b"/>
+		<ra_hash>af69e0d2474531f0f1b55e59e919c553</ra_hash>
+		<url>https://retroachievements.org/game/13987/hashes</url>
+	</game>
+
+	<game name="Hard Rank">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Hard Rank</description>
+		<release name="Hard Rank" region="World"/>
+		<rom name="Hard Rank.m3u" size="48" crc="0CA0FD65" md5="708cf72676dc2ba3d95a1dc68e6170d2" sha1="3c25674f162970ba42096e7b73da48b96eb60331"/>
+		<rom name="Hard Rank (Disk A).d88" size="348848" crc="E9068F29" md5="05c20126e9d4dbdae4c1e8627a8b1d9f" sha1="30e2409f67184ca6fa1f131c8b0b363596a9df06"/>
+		<ra_hash>05c20126e9d4dbdae4c1e8627a8b1d9f</ra_hash>
+		<rom name="Hard Rank (Disk B).d88" size="348848" crc="B6A33DCF" md5="576349956ad4a706e1b90ddc9c1fbc2a" sha1="d797e37387129349e200d6d736a1614f57148322"/>
+		<ra_hash>576349956ad4a706e1b90ddc9c1fbc2a</ra_hash>
+		<url>https://retroachievements.org/game/13942/hashes</url>
+	</game>
+
+	<game name="Hopman (2023) (Inufuto)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Hopman (2023) (Inufuto)</description>
+		<release name="Hopman (2023) (Inufuto)" region="World"/>
+		<rom name="Hopman (2023) (Inufuto).d88" size="348848" crc="06DB7CA7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd"/>
+		<ra_hash>17fce162c8ac66bad21bb8e801bd8bb3</ra_hash>
+		<url>https://retroachievements.org/game/28625/hashes</url>
+	</game>
+
+	<game name="Horror House (V1 mode, MON R, press S) (Japan) (En) (v1.1) (Umbrella Terms)">
+		<category>Retail</category>
+		<source>neokobe, RAPatches</source>
+		<description>Horror House (V1 mode, MON R, press S) (Japan) (En) (v1.1) (Umbrella Terms)</description>
+		<release name="Horror House (V1 mode, MON R, press S) (Japan) (En) (v1.1) (Umbrella Terms)" region="English"/>
+		<rom name="Horror House (V1 mode, MON R, press S) (Japan) (En) (v1.1) (Umbrella Terms).t88" size="51507" crc="03A97E7C" md5="9c76a2e7e8224d9bc5a3ca0dd0093e3d" sha1="b553765ced434b354e59e7b13c50f015f2e9e6ab"/>
+		<ra_hash>9c76a2e7e8224d9bc5a3ca0dd0093e3d</ra_hash>
+		<url>https://retroachievements.org/game/13979/hashes</url>
+	</game>
+
+	<game name="Hydlide II (Alt 2) (V1 mode)" cloneof="Hydlide II (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Hydlide II (Alt 2) (V1 mode)</description>
+		<rom name="Hydlide II (Alt 2) (V1 mode).d88" size="348848" crc="7F82E522" md5="1fed914fd693b14dca4ea00026f72248" sha1="8801cf3deeb376ca3cc78491b335c61a3ff4aa94"/>
+		<ra_hash>1fed914fd693b14dca4ea00026f72248</ra_hash>
+		<url>https://retroachievements.org/game/14243/hashes</url>
+	</game>
+	<game name="Hydlide II (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Hydlide II (V1 mode)</description>
+		<release name="Hydlide II (V1 mode)" region="World"/>
+		<rom name="Hydlide II (V1 mode).d88" size="348848" crc="FD125EF8" md5="e8f1aa4bcd196a6f7892b9b5e7d354ca" sha1="a53a692f624c3e215cbb0bb5076a501199f0c692"/>
+		<ra_hash>e8f1aa4bcd196a6f7892b9b5e7d354ca</ra_hash>
+		<url>https://retroachievements.org/game/14243/hashes</url>
+	</game>
+
+	<game name="Hydlide (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Hydlide (V1 mode)</description>
+		<release name="Hydlide (V1 mode)" region="World"/>
+		<rom name="Hydlide (V1 mode).d88" size="348848" crc="18A29C47" md5="a62b04973732fed5038989c61b61bbbe" sha1="0084412795f7bdfdb4852b0a7571febf351d7e75"/>
+		<ra_hash>a62b04973732fed5038989c61b61bbbe</ra_hash>
+		<url>https://retroachievements.org/game/13684/hashes</url>
+	</game>
+
+	<game name="Ice Climber">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ice Climber</description>
+		<release name="Ice Climber" region="World"/>
+		<rom name="Ice Climber.d88" size="348848" crc="ABDBE51E" md5="85831fe9365d42f8535c11a9e649f25a" sha1="7601c8db05c1d724121fc8a478b0448df3ebd418"/>
+		<ra_hash>85831fe9365d42f8535c11a9e649f25a</ra_hash>
+		<url>https://retroachievements.org/game/30828/hashes</url>
+	</game>
+
+	<game name="Joshidaisei Private (Private Stripper) (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Joshidaisei Private (Private Stripper) (V1 mode)</description>
+		<release name="Joshidaisei Private (Private Stripper) (V1 mode)" region="World"/>
+		<rom name="Joshidaisei Private (Private Stripper) (V1 mode).d88" size="66240" crc="E92D3BD5" md5="6c911f359a383ce501533d90200df4a3" sha1="7e4a9650f5034f654c8c2fc92a748a4b947e644d"/>
+		<ra_hash>6c911f359a383ce501533d90200df4a3</ra_hash>
+		<url>https://retroachievements.org/game/13743/hashes</url>
+	</game>
+
+	<game name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu</description>
+		<release name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu" region="World"/>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu.m3u" size="137" crc="3EBDF8E0" md5="53d10acd97744245fa256fa16176903e" sha1="326c546f6f6584f5e0f90ec723710f00a3fea0c9"/>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Game disk).d88" size="422160" crc="988B8BC4" md5="f8e1ac1c9e92814602a1b516e9adcf0c" sha1="60525c757fcc08f8b63689374098387c7ad2151f"/>
+		<ra_hash>f8e1ac1c9e92814602a1b516e9adcf0c</ra_hash>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (PCM disk).d88" size="788656" crc="7509BF9D" md5="89c0682bcdf2c80a3cbb829d9a258960" sha1="1d7ab64d9cdb357a24f4ee23e940ff0e8d389a98"/>
+		<ra_hash>89c0682bcdf2c80a3cbb829d9a258960</ra_hash>
+		<url>https://retroachievements.org/game/30887/hashes</url>
+	</game>
+
+	<game name="Knither - Demon Crystal II">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Knither - Demon Crystal II</description>
+		<release name="Knither - Demon Crystal II" region="World"/>
+		<rom name="Knither - Demon Crystal II.d88" size="348848" crc="F934D903" md5="01e64aaf482eabf2f0cedb6d5b6dc0e9" sha1="b1e393a8595481782305f80e955f5f7e60b6cf07"/>
+		<ra_hash>01e64aaf482eabf2f0cedb6d5b6dc0e9</ra_hash>
+		<url>https://retroachievements.org/game/30913/hashes</url>
+	</game>
+
+	<game name="Lock On">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Lock On</description>
+		<release name="Lock On" region="World"/>
+		<rom name="Lock On.d88" size="348848" crc="BE798626" md5="eb90117ac001a9518e79a8df2d903e5e" sha1="131e3646a62c7d8ea27b9433933506b1c6850c66"/>
+		<ra_hash>eb90117ac001a9518e79a8df2d903e5e</ra_hash>
+		<url>https://retroachievements.org/game/31423/hashes</url>
+	</game>
+
+	<game name="Lunar Ball (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Lunar Ball (V1 mode)</description>
+		<release name="Lunar Ball (V1 mode)" region="World"/>
+		<rom name="Lunar Ball (V1 mode).d88" size="348848" crc="33F248C2" md5="17018d645592852a74e5ad965388f94e" sha1="211d1cc167ffabfb7e2e273bff04a3473e60dfb9"/>
+		<ra_hash>17018d645592852a74e5ad965388f94e</ra_hash>
+		<url>https://retroachievements.org/game/9138/hashes</url>
+	</game>
+
+	<game name="Magnet Girl">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Magnet Girl</description>
+		<release name="Magnet Girl" region="World"/>
+		<rom name="Magnet Girl.d88" size="369968" crc="4B45EACE" md5="f1296ead6a441f087120b3e2eab016a9" sha1="59f495fdd7de07d454f15eda34666f6038bcde90"/>
+		<ra_hash>f1296ead6a441f087120b3e2eab016a9</ra_hash>
+		<url>https://retroachievements.org/game/25815/hashes</url>
+	</game>
+
+	<game name="Magnet World 2">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Magnet World 2</description>
+		<release name="Magnet World 2" region="World"/>
+		<rom name="Magnet World 2.d88" size="348848" crc="794DE53A" md5="69513f2ea19b19dabc1727b819d8d059" sha1="c7c9a815e04f0138dfbdc04428592147ad899661"/>
+		<ra_hash>69513f2ea19b19dabc1727b819d8d059</ra_hash>
+		<url>https://retroachievements.org/game/30867/hashes</url>
+	</game>
+
+	<game name="Magnet World Final">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Magnet World Final</description>
+		<release name="Magnet World Final" region="World"/>
+		<rom name="Magnet World Final.d88" size="348848" crc="DF43E79B" md5="023f5b0818e6dad5c987c41ea1c81dc8" sha1="82ea2a0889f48d38213cadf40d3d56c901eeb10b"/>
+		<ra_hash>023f5b0818e6dad5c987c41ea1c81dc8</ra_hash>
+		<url>https://retroachievements.org/game/30824/hashes</url>
+	</game>
+
+	<game name="Makaimura">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Makaimura</description>
+		<release name="Makaimura" region="World"/>
+		<rom name="Makaimura.d88" size="348848" crc="A98E2AEA" md5="06901a21b5a11b88edcf09ab381906e0" sha1="574e3a317defca9ec45ca9009e5e0a736f0a02bd"/>
+		<ra_hash>06901a21b5a11b88edcf09ab381906e0</ra_hash>
+		<url>https://retroachievements.org/game/28895/hashes</url>
+	</game>
+
+	<game name="Mappy">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Mappy</description>
+		<release name="Mappy" region="World"/>
+		<rom name="Mappy.d88" size="348848" crc="94025F20" md5="61ca405fb5063c7e0b5e157a888beb3a" sha1="3eea20056443d8f8016dbc615a0ee10eb1fc3867"/>
+		<ra_hash>61ca405fb5063c7e0b5e157a888beb3a</ra_hash>
+		<url>https://retroachievements.org/game/30716/hashes</url>
+	</game>
+
+	<game name="Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)">
+		<category>Retail</category>
+		<source>Lost Level Archive</source>
+		<description>Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)</description>
+		<release name="Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)" region="World"/>
+		<rom name="Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8).cmt" size="6203" crc="E2F281B6" md5="64b282b08e51eed92b6cdd386a5d2fd0" sha1="1b2e6fbc886a851d7d6833b3301a67504db3acc7"/>
+		<ra_hash>64b282b08e51eed92b6cdd386a5d2fd0</ra_hash>
+		<url>https://retroachievements.org/game/14121/hashes</url>
+	</game>
+
+	<game name="Mario Bros. Special (Set 1) (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Mario Bros. Special (Set 1) (V1 mode)</description>
+		<release name="Mario Bros. Special (Set 1) (V1 mode)" region="World"/>
+		<rom name="Mario Bros. Special (Set 1) (V1 mode).d88" size="348848" crc="47AD0E15" md5="dc66bcd1034c08879a2a47a10e6c95c8" sha1="620a896dd704348e20400dc5a18c3bba3db44def"/>
+		<ra_hash>dc66bcd1034c08879a2a47a10e6c95c8</ra_hash>
+		<url>https://retroachievements.org/game/13753/hashes</url>
+	</game>
+
+	<game name="Metal Orange">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Metal Orange</description>
+		<release name="Metal Orange" region="World"/>
+		<rom name="Metal Orange.m3u" size="108" crc="655F526C" md5="47f6a5654309a1f42cccd26be480df54" sha1="bda629b62d2285463269d5cbbb13205d4d6b2c49"/>
+		<rom name="Metal Orange (Disk A).d88" size="415840" crc="EB00B157" md5="f2459e0da5cf90af376fee954097554b" sha1="f458383c0b596daf48e86b42f485dd6ce7fca3da"/>
+		<ra_hash>f2459e0da5cf90af376fee954097554b</ra_hash>
+		<rom name="Metal Orange (Disk B).d88" size="415840" crc="1D8F2F42" md5="1e31b73f60328d6fd735443d5c9a70cc" sha1="03cc54a30620ec0bad7751cbdb6a6ee2f4459915"/>
+		<ra_hash>1e31b73f60328d6fd735443d5c9a70cc</ra_hash>
+		<rom name="Metal Orange (Disk C).d88" size="415840" crc="B78F466A" md5="beb7a8768362b03e671c8e69415e0870" sha1="a0dd1441136a10774670a572cc1103b43f175112"/>
+		<ra_hash>beb7a8768362b03e671c8e69415e0870</ra_hash>
+		<rom name="Metal Orange (Disk D).d88" size="415840" crc="F4768EA1" md5="e06e28e0ef60a3d46f8b5337cd9da816" sha1="50e03f4d4d101aee4ceb9d0a101b11b22250d88b"/>
+		<ra_hash>e06e28e0ef60a3d46f8b5337cd9da816</ra_hash>
+		<url>https://retroachievements.org/game/13989/hashes</url>
+	</game>
+
+	<game name="Minky Momo no Panic Ball (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Minky Momo no Panic Ball (V1 mode)</description>
+		<release name="Minky Momo no Panic Ball (V1 mode)" region="World"/>
+		<rom name="Minky Momo no Panic Ball (V1 mode).d88" size="66240" crc="8151CEFF" md5="e7c22b3f0deca65ecdc2124477877452" sha1="7013912b6db33f53ca973a250279de67e3eb7747"/>
+		<ra_hash>e7c22b3f0deca65ecdc2124477877452</ra_hash>
+		<url>https://retroachievements.org/game/23554/hashes</url>
+	</game>
+
+	<game name="Mobile Suit Zeta Gundam">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Mobile Suit Zeta Gundam</description>
+		<release name="Mobile Suit Zeta Gundam" region="World"/>
+		<rom name="Mobile Suit Zeta Gundam.d88" size="348848" crc="A61E0C71" md5="840c07405084eccf0dcb4a542f73be72" sha1="c203ce616a216bb14e9cb5a5265e7fd82626606f"/>
+		<ra_hash>840c07405084eccf0dcb4a542f73be72</ra_hash>
+		<url>https://retroachievements.org/game/7314/hashes</url>
+	</game>
+
+	<game name="New Rally-X">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>New Rally-X</description>
+		<release name="New Rally-X" region="World"/>
+		<rom name="New Rally-X.d88" size="31424" crc="7A619338" md5="cf6dc67d32868c0dca89c2bcd94d912d" sha1="cda51808ba71490a1a5b8960d9027498a22cdf8b"/>
+		<ra_hash>cf6dc67d32868c0dca89c2bcd94d912d</ra_hash>
+		<url>https://retroachievements.org/game/30830/hashes</url>
+	</game>
+
+	<game name="Nintendo no Golf">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Nintendo no Golf</description>
+		<release name="Nintendo no Golf" region="World"/>
+		<rom name="Nintendo no Golf.d88" size="102128" crc="1BF220FA" md5="a2558e8b836005fc2b869c0edfb9d89a" sha1="e041c673613616c1669e3f5c98a7606d8637640c"/>
+		<ra_hash>a2558e8b836005fc2b869c0edfb9d89a</ra_hash>
+		<url>https://retroachievements.org/game/26926/hashes</url>
+	</game>
+
+	<game name="Nintendo no Tennis">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Nintendo no Tennis</description>
+		<release name="Nintendo no Tennis" region="World"/>
+		<rom name="Nintendo no Tennis.d88" size="61008" crc="9D00ADBA" md5="8cf31bf1e408f4e6cfc360bac24ad6d5" sha1="0462474ab48d75b0c4d4c41ad5a1b5a4f9db8182"/>
+		<ra_hash>8cf31bf1e408f4e6cfc360bac24ad6d5</ra_hash>
+		<url>https://retroachievements.org/game/27378/hashes</url>
+	</game>
+
+	<game name="Pac-Man">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Pac-Man</description>
+		<release name="Pac-Man" region="World"/>
+		<rom name="Pac-Man.d88" size="348848" crc="A94A1C9D" md5="1e7bbbcf38ef36656377cde6a6af7c4a" sha1="f0a88d4d13943867384282d9838a519c15235d00"/>
+		<ra_hash>1e7bbbcf38ef36656377cde6a6af7c4a</ra_hash>
+		<url>https://retroachievements.org/game/17772/hashes</url>
+	</game>
+
+	<game name="Punch Ball Mario Bros. (Set 1) (V1 mode)" cloneof="Punch Ball Mario Bros. (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Punch Ball Mario Bros. (Set 1) (V1 mode)</description>
+		<rom name="Punch Ball Mario Bros. (Set 1) (V1 mode).d88" size="348848" crc="BCD3CD56" md5="bca101651484195a0d55a71a06108e5a" sha1="0cd4591baba0c89ae4abab6075d7638efdd48dc5"/>
+		<ra_hash>bca101651484195a0d55a71a06108e5a</ra_hash>
+		<url>https://retroachievements.org/game/13777/hashes</url>
+	</game>
+	<game name="Punch Ball Mario Bros. (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Punch Ball Mario Bros. (V1 mode)</description>
+		<release name="Punch Ball Mario Bros. (V1 mode)" region="World"/>
+		<rom name="Punch Ball Mario Bros. (V1 mode).d88" size="79056" crc="3B08AB18" md5="52def00692358027f26fb1d596f829cf" sha1="9968619d0eadf306d4d7c04c4da4c3a42de762e3"/>
+		<ra_hash>52def00692358027f26fb1d596f829cf</ra_hash>
+		<url>https://retroachievements.org/game/13777/hashes</url>
+	</game>
+
+	<game name="Puzzle Kana">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Puzzle Kana</description>
+		<release name="Puzzle Kana" region="World"/>
+		<rom name="Puzzle Kana.d88" size="348848" crc="F7974FD3" md5="7b8387228e629fffe80fc103f30962e4" sha1="c1f37dc4b1a8ba86690dc9efa141cc58201d89a6"/>
+		<ra_hash>7b8387228e629fffe80fc103f30962e4</ra_hash>
+		<url>https://retroachievements.org/game/19755/hashes</url>
+	</game>
+
+	<game name="Red Stack (1985) (Cosmos Computer)">
+		<category>Retail</category>
+		<source>Lost Level Archive</source>
+		<description>Red Stack (1985) (Cosmos Computer)</description>
+		<release name="Red Stack (1985) (Cosmos Computer)" region="World"/>
+		<rom name="Red Stack (1985) (Cosmos Computer).d88" size="185008" crc="FCCEF1B2" md5="99308a38ca6714a02110b0888932c473" sha1="f60b23641cd627667c16b1b44582e247e35aa389"/>
+		<ra_hash>99308a38ca6714a02110b0888932c473</ra_hash>
+		<url>https://retroachievements.org/game/14020/hashes</url>
+	</game>
+	<game name="Red Stack (Japan) (Project Egg Download)" cloneof="Red Stack (1985) (Cosmos Computer)">
+		<category>Retail</category>
+		<source>egg</source>
+		<description>Red Stack (Japan) (Project Egg Download)</description>
+		<release name="Red Stack (Japan) (Project Egg Download)" region="Japan"/>
+		<rom name="Red Stack (Japan) (Project Egg Download).d88" size="174768" crc="BBA1791D" md5="1ae481ca1e2b383d077709949eda169d" sha1="365da1ff105cae5d39801da59b28ed59d3b4bfb1"/>
+		<ra_hash>1ae481ca1e2b383d077709949eda169d</ra_hash>
+		<url>https://retroachievements.org/game/14020/hashes</url>
+	</game>
+
+	<game name="Revolter (v1.01) (4MHz)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Revolter (v1.01) (4MHz)</description>
+		<release name="Revolter (v1.01) (4MHz)" region="World"/>
+		<rom name="Revolter (v1.01) (4MHz).m3u" size="76" crc="4CA01EF2" md5="925b0bd753ff168c2a070e0a630cb5c5" sha1="6aafa54afe6771f94bd5f2f59918993b6f3c3851"/>
+		<rom name="Revolter (v1.01) (Disk A) (4MHz).d88" size="436640" crc="3A6AFC0F" md5="71b7cff0d481bf5f94f03b344cdb7efc" sha1="46fb4bdb7581eb027fd6a709373704f86957b1f5"/>
+		<ra_hash>71b7cff0d481bf5f94f03b344cdb7efc</ra_hash>
+		<rom name="Revolter (v1.01) (Disk B) (4MHz).d88" size="436640" crc="9619D78F" md5="a88374206826fb45e8bacc0f16736bb3" sha1="229a6d475675237b7fcd780bd3dcaa3dbeff14f1"/>
+		<ra_hash>a88374206826fb45e8bacc0f16736bb3</ra_hash>
+		<url>https://retroachievements.org/game/30885/hashes</url>
+	</game>
+
+	<game name="Rogue">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Rogue</description>
+		<release name="Rogue" region="World"/>
+		<rom name="Rogue.d88" size="348848" crc="630219A7" md5="ed791512b651b0a787c798dcfa5e22d4" sha1="aec25fb2e4acdc386d8df0b3a30b6710291c361f"/>
+		<ra_hash>ed791512b651b0a787c798dcfa5e22d4</ra_hash>
+		<url>https://retroachievements.org/game/6977/hashes</url>
+	</game>
+
+	<game name="Shampoo (Set 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Shampoo (Set 1)</description>
+		<release name="Shampoo (Set 1)" region="World"/>
+		<rom name="Shampoo (Set 1).d88" size="348848" crc="11F3EFB5" md5="44f3480628d3203f7acbf0025bc4b336" sha1="ed2141bfcab80cb28c9ff4440a480d9b0f7ec9c8"/>
+		<ra_hash>44f3480628d3203f7acbf0025bc4b336</ra_hash>
+		<url>https://retroachievements.org/game/25816/hashes</url>
+	</game>
+
+	<game name="Shanghai II (Set 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Shanghai II (Set 1)</description>
+		<release name="Shanghai II (Set 1)" region="World"/>
+		<rom name="Shanghai II (Set 1).d88" size="348848" crc="01AD2C0F" md5="e5b77f3a077fae0d44ccd6bdfd850f30" sha1="891af6bb46ee596750a3ad6c9f1ae4a985fc6bf6"/>
+		<ra_hash>e5b77f3a077fae0d44ccd6bdfd850f30</ra_hash>
+		<url>https://retroachievements.org/game/30889/hashes</url>
+	</game>
+
+	<game name="Silpheed (Disk A)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Silpheed (Disk A)</description>
+		<release name="Silpheed (Disk A)" region="World"/>
+		<rom name="Silpheed (Disk A).d88" size="392368" crc="AB9B12BB" md5="d2bf8ef1abf7bb47e54da38a286f4ac8" sha1="c344abb88b7b7142666e7a1e8904015a031700cf"/>
+		<ra_hash>d2bf8ef1abf7bb47e54da38a286f4ac8</ra_hash>
+		<url>https://retroachievements.org/game/14133/hashes</url>
+	</game>
+
+	<game name="Solitaire Royale">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Solitaire Royale</description>
+		<release name="Solitaire Royale" region="World"/>
+		<rom name="Solitaire Royale.d88" size="392368" crc="64DC57E7" md5="ee4c7205d56384f37414f7f199484ece" sha1="1461d2c3c57084dcf9afbf872f8d2d2e82aa145f"/>
+		<ra_hash>ee4c7205d56384f37414f7f199484ece</ra_hash>
+		<url>https://retroachievements.org/game/14135/hashes</url>
+	</game>
+
+	<game name="Soukoban (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Soukoban (V1 mode)</description>
+		<release name="Soukoban (V1 mode)" region="World"/>
+		<rom name="Soukoban (V1 mode).d88" size="66240" crc="AFB96353" md5="e9ff3dfb280a795bf2ca8ade11be5683" sha1="017a0c125bf30fbbefc55cd313948562097cb054"/>
+		<ra_hash>e9ff3dfb280a795bf2ca8ade11be5683</ra_hash>
+		<url>https://retroachievements.org/game/14405/hashes</url>
+	</game>
+
+	<game name="Space Harrier (Disk 1) (Alt 2)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Space Harrier (Disk 1) (Alt 2)</description>
+		<release name="Space Harrier (Disk 1) (Alt 2)" region="World"/>
+		<rom name="Space Harrier (Disk 1) (Alt 2).d88" size="348848" crc="C835EF09" md5="b327fabd0e95fb0b0948b5b9bc410c1a" sha1="fd33efa0ca1f9fca56ab1d3307db7683e852e495"/>
+		<ra_hash>b327fabd0e95fb0b0948b5b9bc410c1a</ra_hash>
+		<url>https://retroachievements.org/game/30884/hashes</url>
+	</game>
+
+	<game name="Super Jack" cloneof="Super Jack (Set 2) (En) (JPN Translations) (0.9.1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Super Jack</description>
+		<release name="Super Jack" region="World"/>
+		<rom name="Super Jack.d88" size="348848" crc="00C6053D" md5="806ac9c875076375f63de1cb0aad2d34" sha1="18e50a67b14bdfcd52359ac1aca35ae073d82743"/>
+		<ra_hash>806ac9c875076375f63de1cb0aad2d34</ra_hash>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+	</game>
+	<game name="Super Jack (Set 2)" cloneof="Super Jack (Set 2) (En) (JPN Translations) (0.9.1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Super Jack (Set 2)</description>
+		<rom name="Super Jack (Set 2).d88" size="348848" crc="2165121C" md5="d2aff22e02df81eea501e13d75a3da28" sha1="c397344a0e5457e62394f19dbb55864d99d3e24a"/>
+		<ra_hash>d2aff22e02df81eea501e13d75a3da28</ra_hash>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+	</game>
+	<game name="Super Jack (Set 2) (En) (JPN Translations) (0.9.1)">
+		<category>Retail</category>
+		<source>neokobe, RAPatches</source>
+		<description>Super Jack (Set 2) (En) (JPN Translations) (0.9.1)</description>
+		<release name="Super Jack (Set 2) (En) (JPN Translations) (0.9.1)" region="English"/>
+		<rom name="Super Jack (Set 2) (En) (JPN Translations) (0.9.1).d88" size="348848" crc="1C7C8310" md5="05f2a5bdc7ab885b5da760276154a6ce" sha1="92b45477e4c7a22dc4461b5b67edc2a69b875b93"/>
+		<ra_hash>05f2a5bdc7ab885b5da760276154a6ce</ra_hash>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+	</game>
+
+	<game name="Super Mario Bros. Special (Alt 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Super Mario Bros. Special (Alt 1)</description>
+		<release name="Super Mario Bros. Special (Alt 1)" region="World"/>
+		<rom name="Super Mario Bros. Special (Alt 1).d88" size="348848" crc="EDA544BB" md5="b91d5929e5d62ac34b0f7732236cb492" sha1="9e89fe17bf75216e5b4f1d6d2d9d5f3f0c0872c1"/>
+		<ra_hash>b91d5929e5d62ac34b0f7732236cb492</ra_hash>
+		<url>https://retroachievements.org/game/13685/hashes</url>
+	</game>
+	<game name="Super Mario Bros. Special (Alt 2)" cloneof="Super Mario Bros. Special (Alt 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Super Mario Bros. Special (Alt 2)</description>
+		<rom name="Super Mario Bros. Special (Alt 2).d88" size="348848" crc="EC5C23EE" md5="ae02fab35b9e4374353d927435e64693" sha1="2a6a797d17ed3068dc463b1909d653666a0de0a8"/>
+		<ra_hash>ae02fab35b9e4374353d927435e64693</ra_hash>
+		<url>https://retroachievements.org/game/13685/hashes</url>
+	</game>
+
+	<game name="Super Pitfall">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Super Pitfall</description>
+		<release name="Super Pitfall" region="World"/>
+		<rom name="Super Pitfall.d88" size="348848" crc="3758B113" md5="1b830c4b55621c3807e77927221e6e02" sha1="c0f5b58b00f648dd3dd258549fcbbe47f2fd5af5"/>
+		<ra_hash>1b830c4b55621c3807e77927221e6e02</ra_hash>
+		<url>https://retroachievements.org/game/30871/hashes</url>
+	</game>
+
+	<game name="Telenet Music Box">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Telenet Music Box</description>
+		<release name="Telenet Music Box" region="World"/>
+		<rom name="Telenet Music Box.m3u" size="64" crc="5A45E39E" md5="8a36c17684e6d1192c1a140408cdbf7d" sha1="c91094456cbee6f1c4b2fba068ed1b56eb82feb2"/>
+		<rom name="Telenet Music Box (Disk A).d88" size="415840" crc="8179F513" md5="bbfdb481c69c5f58a227da667adbcd16" sha1="17b7aa983c08c0589071a514afcb6da6ecbe8c08"/>
+		<ra_hash>bbfdb481c69c5f58a227da667adbcd16</ra_hash>
+		<rom name="Telenet Music Box (Disk B).d88" size="415840" crc="0EFDFDDA" md5="0e03bc5a0ca5d3756d154f1de40f9876" sha1="16ab2ef01dc7e3c6cd2617f82cee05aad676d3e5"/>
+		<ra_hash>0e03bc5a0ca5d3756d154f1de40f9876</ra_hash>
+		<url>https://retroachievements.org/game/13747/hashes</url>
+	</game>
+
+	<game name="Tetras">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Tetras</description>
+		<release name="Tetras" region="World"/>
+		<rom name="Tetras.d88" size="348848" crc="971EC9D0" md5="487c1d6b9750508442e4cb93c30b8991" sha1="724dc9ffe134137f12bdd5183993abbad3581f2c"/>
+		<ra_hash>487c1d6b9750508442e4cb93c30b8991</ra_hash>
+		<url>https://retroachievements.org/game/29805/hashes</url>
+	</game>
+
+	<game name="Tetris (BPS)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Tetris (BPS)</description>
+		<release name="Tetris (BPS)" region="World"/>
+		<rom name="Tetris (BPS).d88" size="348848" crc="F48DF809" md5="fd6199123cff370e7f2694c350615ee1" sha1="fa6de85b59a37ceb1b61542a252955dba979c1ff"/>
+		<ra_hash>fd6199123cff370e7f2694c350615ee1</ra_hash>
+		<url>https://retroachievements.org/game/14200/hashes</url>
+	</game>
+
+	<game name="The Castle">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>The Castle</description>
+		<release name="The Castle" region="World"/>
+		<rom name="The Castle.d88" size="348848" crc="47A3F510" md5="b8288592592e960d7b505943491db7dc" sha1="941ae9dbe28f0c2676a20694e643e965f39ddb34"/>
+		<ra_hash>b8288592592e960d7b505943491db7dc</ra_hash>
+		<url>https://retroachievements.org/game/13939/hashes</url>
+	</game>
+
+	<game name="The Scheme">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>The Scheme</description>
+		<release name="The Scheme" region="World"/>
+		<rom name="The Scheme.m3u" size="50" crc="AD5B7DA9" md5="e143203157af5b700590029ad0533614" sha1="d29f55d7055725bf1b7af8f0b0e0473052f7d0de"/>
+		<rom name="The Scheme (Disk 1).d88" size="349120" crc="92082A84" md5="6d88a725bf097c4a7ffbc3817936a757" sha1="bc25e3065624f354b08d2b457ab86cca94230ad3"/>
+		<ra_hash>6d88a725bf097c4a7ffbc3817936a757</ra_hash>
+		<rom name="The Scheme (Disk 2).d88" size="349120" crc="55340918" md5="ef20128a5f6431115903a5ec455f48ad" sha1="c075377a59a1dd2d5444a554bda5508cc4aa7a1a"/>
+		<ra_hash>ef20128a5f6431115903a5ec455f48ad</ra_hash>
+		<url>https://retroachievements.org/game/13973/hashes</url>
+	</game>
+
+	<game name="Thexder">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Thexder</description>
+		<release name="Thexder" region="World"/>
+		<rom name="Thexder.d88" size="344528" crc="38384A7B" md5="56b193d0d4beeeb00f01e56ce5df1081" sha1="5195bed499785ffe1f1048920a79b827d721ea33"/>
+		<ra_hash>56b193d0d4beeeb00f01e56ce5df1081</ra_hash>
+		<url>https://retroachievements.org/game/13709/hashes</url>
+	</game>
+
+	<game name="Thunder Force (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Thunder Force (V1 mode)</description>
+		<release name="Thunder Force (V1 mode)" region="World"/>
+		<rom name="Thunder Force (V1 mode).d88" size="348544" crc="2F432870" md5="1a23ddb5aae763edc765013bd0cccefe" sha1="9ad50045d1c83c72412fb42cd8d6de458b564bac"/>
+		<ra_hash>1a23ddb5aae763edc765013bd0cccefe</ra_hash>
+		<url>https://retroachievements.org/game/25323/hashes</url>
+	</game>
+
+	<game name="Topple Zip (V1 mode)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Topple Zip (V1 mode)</description>
+		<release name="Topple Zip (V1 mode)" region="World"/>
+		<rom name="Topple Zip (V1 mode).d88" size="348848" crc="0662F3EA" md5="7a61df0cdf5644186b6bc9d138f002f3" sha1="4d210bcc1b673ba78b825900332a3ffad8208a76"/>
+		<ra_hash>7a61df0cdf5644186b6bc9d138f002f3</ra_hash>
+		<url>https://retroachievements.org/game/30808/hashes</url>
+	</game>
+
+	<game name="Xanadu (Disk A - Program) (Alt 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Xanadu (Disk A - Program) (Alt 1)</description>
+		<release name="Xanadu (Disk A - Program) (Alt 1)" region="World"/>
+		<rom name="Xanadu (Disk A - Program) (Alt 1).d88" size="415840" crc="A52E7C2B" md5="cbc04cb70d3410636b79af7c3d2d3d44" sha1="e2b827591e7e1d873b1f234c8c47a03d65617504"/>
+		<ra_hash>cbc04cb70d3410636b79af7c3d2d3d44</ra_hash>
+		<url>https://retroachievements.org/game/13706/hashes</url>
+	</game>
+	<game name="Xanadu (Set 1) (Disk A - Program)" cloneof="Xanadu (Disk A - Program) (Alt 1)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Xanadu (Set 1) (Disk A - Program)</description>
+		<rom name="Xanadu (Set 1) (Disk A - Program).d88" size="415840" crc="640B628A" md5="6108ac1bd2d86c899756a69693d7f230" sha1="c4270bb4ace09f3cd39bd497f9b3db42d0ca9c38"/>
+		<ra_hash>6108ac1bd2d86c899756a69693d7f230</ra_hash>
+		<url>https://retroachievements.org/game/13706/hashes</url>
+	</game>
+
+	<game name="Ys" cloneof="Ys (En) (v1.0) (Fishbone, Rednaxela)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ys</description>
+		<release name="Ys" region="World"/>
+		<rom name="Ys.m3u" size="34" crc="023EF234" md5="314526a725363e35b2f91b104bfc6beb" sha1="7f5409ba11b7f4c04a1683620f1f2d171d48b439"/>
+		<rom name="Ys (Disk A).d88" size="415840" crc="638ACBD6" md5="b838e8767516ffaa5b469bb9e319f5a5" sha1="c5dd95092222aaabaccf3c42128ed66ac6790890"/>
+		<ra_hash>b838e8767516ffaa5b469bb9e319f5a5</ra_hash>
+		<rom name="Ys (Disk B).d88" size="415840" crc="3B6D9CA1" md5="f73ecb4451453a45adb14f99c82decf3" sha1="af514f9810961858f67ee24df1a2f9e52592839d"/>
+		<ra_hash>f73ecb4451453a45adb14f99c82decf3</ra_hash>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+	</game>
+	<game name="Ys (En) (v1.0) (Fishbone, Rednaxela)">
+		<category>Retail</category>
+		<source>neokobe, RAPatches</source>
+		<description>Ys (En) (v1.0) (Fishbone, Rednaxela)</description>
+		<release name="Ys (En) (v1.0) (Fishbone, Rednaxela)" region="English"/>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela).m3u" size="102" crc="93425913" md5="f86297999df991e24fe1ff040a3d5898" sha1="369c9585ef004732e0ad6dfb4a72455189002b8f"/>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela) (Disk A).d88" size="415840" crc="14558E3C" md5="5ba646701048b2c0aaca6f6b077aa84e" sha1="c49c19d613fe7b7eb08e88b529d5df4aec7755a7"/>
+		<ra_hash>5ba646701048b2c0aaca6f6b077aa84e</ra_hash>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela) (Disk B).d88" size="415840" crc="7E66CA76" md5="68882481623e84b8bb80aba60bccad4f" sha1="5c3779db243ab1abe614c06723bed7826868f0fa"/>
+		<ra_hash>68882481623e84b8bb80aba60bccad4f</ra_hash>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+	</game>
+	<game name="Ys (Set 1)" cloneof="Ys (En) (v1.0) (Fishbone, Rednaxela)">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ys (Set 1)</description>
+		<rom name="Ys (Set 1).m3u" size="50" crc="77EC0763" md5="f5fb82988770abbb19fb12f203d3ff63" sha1="2359e5d5c2fceae25df12d88a461dceef6022d02"/>
+		<rom name="Ys (Set 1) (Disk A).d88" size="415840" crc="9BD5D527" md5="734fe755f206208b2de2fdf9a4c60ca4" sha1="48b6ba25f079838d09fd9161da3244ca45665f88"/>
+		<ra_hash>734fe755f206208b2de2fdf9a4c60ca4</ra_hash>
+		<rom name="Ys (Set 1) (Disk B).d88" size="415840" crc="CF222045" md5="8be6d4d610808cc192b53103f72a40f5" sha1="aba1539567390ce9f98465cc741dae565cd2145c"/>
+		<ra_hash>8be6d4d610808cc192b53103f72a40f5</ra_hash>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+	</game>
+
+	<game name="Ys II">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ys II</description>
+		<release name="Ys II" region="World"/>
+		<rom name="Ys II.m3u" size="66" crc="BAB6C636" md5="18186ce5666796bdb5d00761a7f86244" sha1="bfce04c60730455850a2184a3b5f204bd2de2903"/>
+		<rom name="Ys II (Disk A).d88" size="415840" crc="EBDD4009" md5="d4646d4e1fd57dc998f87b679719bc36" sha1="2a8e27f2f11f5453af96e8ac577d5f9765669d02"/>
+		<ra_hash>d4646d4e1fd57dc998f87b679719bc36</ra_hash>
+		<rom name="Ys II (Disk B).d88" size="415840" crc="CB09E6B8" md5="09a2d928953001f81a16d189e97e45e8" sha1="bf2f133743263b33d452c329dab11ae2cc73b779"/>
+		<ra_hash>09a2d928953001f81a16d189e97e45e8</ra_hash>
+		<rom name="Ys II (Program disk).d88" size="415840" crc="5B3540FE" md5="91f88b9e8db38509dd6cb0751a0535c9" sha1="97eddc41beddb815e77495bd37fac742de951ee1"/>
+		<ra_hash>91f88b9e8db38509dd6cb0751a0535c9</ra_hash>
+		<url>https://retroachievements.org/game/13855/hashes</url>
+	</game>
+	<game name="Ys II (Set 1)" cloneof="Ys II">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ys II (Set 1)</description>
+		<rom name="Ys II (Set 1).m3u" size="90" crc="B3680B81" md5="4fc22976204e99b8489b9d0f64efc20e" sha1="1735795ea43362ee98e61e19234616fa4a8f08da"/>
+		<rom name="Ys II (Set 1) (Disk A).d88" size="415840" crc="029BE7AE" md5="09af339f48e5f8c70e3967d8eb0645e2" sha1="4f4e9989fcd38d8885f82da352e4897559e38f73"/>
+		<ra_hash>09af339f48e5f8c70e3967d8eb0645e2</ra_hash>
+		<rom name="Ys II (Set 1) (Disk B).d88" size="415840" crc="8C42B012" md5="c085bdfbb700c0f9e93ee39bc522163e" sha1="71ebf11a7a1ecaabc73767c282389950e78ecdd7"/>
+		<ra_hash>c085bdfbb700c0f9e93ee39bc522163e</ra_hash>
+		<rom name="Ys II (Set 1) (Program disk).d88" size="420192" crc="8AF776CA" md5="333568562d78f8e9a849776f02454f27" sha1="26a6b47d0eb7e24f57b389e8175809cd3e57d900"/>
+		<ra_hash>333568562d78f8e9a849776f02454f27</ra_hash>
+		<url>https://retroachievements.org/game/13855/hashes</url>
+	</game>
+
+	<game name="Ys III - Wanderers from Ys">
+		<category>Retail</category>
+		<source>neokobe</source>
+		<description>Ys III - Wanderers from Ys</description>
+		<release name="Ys III - Wanderers from Ys" region="World"/>
+		<rom name="Ys III - Wanderers from Ys.m3u" size="196" crc="A780E56F" md5="3ae16b371aa5185c860b8815ffd42959" sha1="590e8c95bac9fafd20538fc2949f626f55b37fb2"/>
+		<rom name="Ys III - Wanderers from Ys (Data disk 1).d88" size="415840" crc="D04D5154" md5="9624e437532e6ea60f7a55f5aa0c04f3" sha1="b2b42200397c0e0f18af09fc60543e40b49eb43b"/>
+		<ra_hash>9624e437532e6ea60f7a55f5aa0c04f3</ra_hash>
+		<rom name="Ys III - Wanderers from Ys (Data disk 2).d88" size="415840" crc="3F0742C4" md5="a3b7b1f53b7e075cc9ac05a0f5f04c25" sha1="6dda503476fa3b63c4227f870301609003af2841"/>
+		<ra_hash>a3b7b1f53b7e075cc9ac05a0f5f04c25</ra_hash>
+		<rom name="Ys III - Wanderers from Ys (Data disk 3 - Opening).d88" size="415840" crc="78681F78" md5="28c2e77e4d80b869604d243527d3a9f5" sha1="4a83ebc43c82b1f34fede691ccad009acd2c81c8"/>
+		<ra_hash>28c2e77e4d80b869604d243527d3a9f5</ra_hash>
+		<rom name="Ys III - Wanderers from Ys (Scenario disk).d88" size="415840" crc="AAF45808" md5="b8a8b191f89bf70e8539843321a69cf1" sha1="fd5f81189c27bd4d163e1801cbe320965eb57186"/>
+		<ra_hash>b8a8b191f89bf70e8539843321a69cf1</ra_hash>
+		<url>https://retroachievements.org/game/13982/hashes</url>
+	</game>
+</datafile>

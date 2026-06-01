@@ -1,311 +1,454 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<?xml version='1.0' encoding='utf-8'?>
 <datafile>
 	<header>
 		<name>RA - Mattel Intellivision</name>
 		<description>Mattel Intellivision</description>
-		<category>No Subfolders</category>
-		<version>20260227</version>
-		<date>27 February 2026</date>
-		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
-		<homepage>https://retroachievements.org</homepage>
-		<url>https://retroachievements.org/system/45/games</url>
-		<titlecount>36</titlecount>
-		<hashcount>36</hashcount>
+		<version>20260601</version>
+		<date>1 June 2026</date>
+		<author>Ultra God Azgorath</author>
+		<url>https://retroachievements.org/system/45-intellivision/games</url>
+		<titlecount>42</titlecount>
+		<hashcount>42</hashcount>
 	</header>
-	<game name="4-Tris (World) (Aftermarket)">
+
+	<game name="4-Tris (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>4-Tris (World) (Aftermarket)</description>
-		<rom name="4-Tris (World) (Aftermarket).rom" size="16441" crc="7fd2a11a" md5="bdf1ffe620738e6f54740ded6e175693" sha1="17efae049715528a2a85c9412f5c0ec4824f3557"/>
+		<source>Lost Level Archive</source>
+		<description>4-Tris (World) (Aftermarket) (Unl)</description>
+		<release name="4-Tris (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="4-Tris (World) (Aftermarket) (Unl).int" size="16441" crc="7FD2A11A" md5="bdf1ffe620738e6f54740ded6e175693" sha1="17efae049715528a2a85c9412f5c0ec4824f3557"/>
+		<ra_hash>bdf1ffe620738e6f54740ded6e175693</ra_hash>
 		<url>https://retroachievements.org/game/17712/hashes</url>
-		<hash>bdf1ffe620738e6f54740ded6e175693</hash>
 	</game>
-	
-	<game name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket)</description>
-		<rom name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket).rom" size="77396" crc="9ba5a798" md5="27051b100ff89970d8a24291e8b6cb67" sha1="bc8d07fc972770dabf6a77ef73a7be15c0521c3e"/>
-		<url>https://retroachievements.org/game/24890/hashes</url>
-		<hash>27051b100ff89970d8a24291e8b6cb67</hash>
-	</game>
-	
-	<game name="DK Arcade (World) (Intelligentvision) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>DK Arcade (World) (Intelligentvision) (Aftermarket)</description>
-		<rom name="DK Arcade (World) (Intelligentvision) (Aftermarket).int" size="49152" crc="ef1bec41" md5="607d0a959d1c64f6feb66433b4171d5f" sha1="fad323a8c88b7155ec4456e8909fe21e3cdbbe07"/>
-		<url>https://retroachievements.org/game/31167/hashes</url>
-		<hash>607d0a959d1c64f6feb66433b4171d5f</hash>
-	</game>
-	
-	<game name="Flapee Bird (World) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Flapee Bird (World) (Aftermarket)</description>
-		<rom name="Flapee Bird (World) (Aftermarket).bin" size="9728" crc="9c7de352" md5="5b065c30735a4b0feee2aac48ebaf633" sha1="f91d4507baf41626d839308659e68de048c767c8"/>
-		<url>https://retroachievements.org/game/20037/hashes</url>
-		<hash>5b065c30735a4b0feee2aac48ebaf633</hash>
-	</game>
-	
-	<game name="Princess Quest (World) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Princess Quest (World) (Aftermarket)</description>
-		<rom name="Princess Quest (World) (Aftermarket).rom" size="76357" crc="38e9ef48" md5="ed8e8a3c94b8f3b59579047a297cac32" sha1="a9841432efa5aeea64ca44155a034efaded2201e"/>
-		<url>https://retroachievements.org/game/22456/hashes</url>
-		<hash>ed8e8a3c94b8f3b59579047a297cac32</hash>
-	</game>
-	
-	<game name="Pumpkin Attack (World) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Pumpkin Attack (World) (Aftermarket)</description>
-		<rom name="Pumpkin Attack (World) (Aftermarket).rom" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4"/>
-		<url>https://retroachievements.org/game/29151/hashes</url>
-		<hash>b593690baa3643df336e2385e9c24dfe</hash>
-	</game>
-	
-	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Tag-Along Todd (World) (v3.13) (Aftermarket)</description>
-		<rom name="Tag-Along Todd (World) (v3.13) (Aftermarket).bin" size="10752" crc="1ecdd51b" md5="57e82ac5ef6c1bff0b810874c4b2c30c" sha1="9e1666a68d50bb4a1f618cc2f9bcd7dfbadc8188"/>
-		<url>https://retroachievements.org/game/20050/hashes</url>
-		<hash>57e82ac5ef6c1bff0b810874c4b2c30c</hash>
-	</game>
-	
-	<game name="Ultimate Pong (World) (v9.0) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Ultimate Pong (World) (v9.0) (Aftermarket)</description>
-		<rom name="Ultimate Pong (World) (v9.0) (Aftermarket).bin" size="57925" crc="30575596" md5="03a20a7287601bdae309693ca4f6f0b9" sha1="9469d231a910777b8f46276fa497dc75d7a6a88f"/>
-		<url>https://retroachievements.org/game/24463/hashes</url>
-		<hash>03a20a7287601bdae309693ca4f6f0b9</hash>
-	</game>
-	
-	<game name="Adventure (USA, Europe) (Intellivision Lives!)">
-		<category>Retail</category>
-		<description>Adventure (USA, Europe) (Intellivision Lives!)</description>
-		<rom name="Adventure (USA, Europe) (Intellivision Lives!).int" size="16384" crc="11c3bcfa" md5="17fd2af3368c310fb7928dcfe0311514" sha1="009683f3a40adbdd97b7256d64614feff12469ae"/>
-		<url>https://retroachievements.org/game/17395/hashes</url>
-		<hash>17fd2af3368c310fb7928dcfe0311514</hash>
-	</game>
-	
+
 	<game name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe)</description>
-		<rom name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe).int" size="16384" crc="16c3b62f" md5="0229a4889e18a37d1d631505d1cb83df" sha1="deffe81ac52caa93401ca2aaed734a1fb69c498d"/>
+		<release name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe)" region="USA"/>
+		<release name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe)" region="Europe"/>
+		<rom name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA, Europe).int" size="16384" crc="16C3B62F" md5="0229a4889e18a37d1d631505d1cb83df" sha1="deffe81ac52caa93401ca2aaed734a1fb69c498d"/>
+		<ra_hash>0229a4889e18a37d1d631505d1cb83df</ra_hash>
 		<url>https://retroachievements.org/game/7404/hashes</url>
-		<hash>0229a4889e18a37d1d631505d1cb83df</hash>
 	</game>
-	
+
+	<game name="Adventure (USA, Europe) (Intellivision Lives!)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Adventure (USA, Europe) (Intellivision Lives!)</description>
+		<release name="Adventure (USA, Europe) (Intellivision Lives!)" region="USA"/>
+		<release name="Adventure (USA, Europe) (Intellivision Lives!)" region="Europe"/>
+		<rom name="Adventure (USA, Europe) (Intellivision Lives!).int" size="16384" crc="11C3BCFA" md5="17fd2af3368c310fb7928dcfe0311514" sha1="009683f3a40adbdd97b7256d64614feff12469ae"/>
+		<ra_hash>17fd2af3368c310fb7928dcfe0311514</ra_hash>
+		<url>https://retroachievements.org/game/17395/hashes</url>
+	</game>
+
+	<game name="Antarctic Tales (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>Antarctic Tales (World) (Aftermarket) (Unl)</description>
+		<release name="Antarctic Tales (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Antarctic Tales (World) (Aftermarket) (Unl).rom" size="77396" crc="9BA5A798" md5="27051b100ff89970d8a24291e8b6cb67" sha1="bc8d07fc972770dabf6a77ef73a7be15c0521c3e"/>
+		<ra_hash>27051b100ff89970d8a24291e8b6cb67</ra_hash>
+		<url>https://retroachievements.org/game/24890/hashes</url>
+	</game>
+
 	<game name="Astrosmash (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Astrosmash (USA, Europe)</description>
-		<rom name="Astrosmash (USA, Europe).int" size="8192" crc="fab2992c" md5="8f6a5b5b65d84f947236e503d378370b" sha1="d3529cad339b3fd5c67b4f503e9360188be9d3e8"/>
+		<release name="Astrosmash (USA, Europe)" region="USA"/>
+		<release name="Astrosmash (USA, Europe)" region="Europe"/>
+		<rom name="Astrosmash (USA, Europe).int" size="8192" crc="FAB2992C" md5="8f6a5b5b65d84f947236e503d378370b" sha1="d3529cad339b3fd5c67b4f503e9360188be9d3e8"/>
+		<ra_hash>8f6a5b5b65d84f947236e503d378370b</ra_hash>
 		<url>https://retroachievements.org/game/8283/hashes</url>
-		<hash>8f6a5b5b65d84f947236e503d378370b</hash>
 	</game>
-	
+
 	<game name="Atlantis (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Atlantis (USA, Europe)</description>
-		<rom name="Atlantis (USA, Europe).int" size="16384" crc="13ff363c" md5="317ef1ee4d12df7ce7dd57dbc273b4b1" sha1="094b207668c03a6d903270490f495ddc237cd8d7"/>
+		<release name="Atlantis (USA, Europe)" region="USA"/>
+		<release name="Atlantis (USA, Europe)" region="Europe"/>
+		<rom name="Atlantis (USA, Europe).int" size="16384" crc="13FF363C" md5="317ef1ee4d12df7ce7dd57dbc273b4b1" sha1="094b207668c03a6d903270490f495ddc237cd8d7"/>
+		<ra_hash>317ef1ee4d12df7ce7dd57dbc273b4b1</ra_hash>
 		<url>https://retroachievements.org/game/10682/hashes</url>
-		<hash>317ef1ee4d12df7ce7dd57dbc273b4b1</hash>
 	</game>
-	
+
 	<game name="Beauty &amp; the Beast (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Beauty &amp; the Beast (USA, Europe)</description>
-		<rom name="Beauty &amp; the Beast (USA, Europe).int" size="16384" crc="c047d487" md5="f6d0e268efe254dc4539fb6df5a6ce24" sha1="1b6fd19e745e50e8ea679bd5adfb719d1f276bc5"/>
+		<release name="Beauty &amp; the Beast (USA, Europe)" region="USA"/>
+		<release name="Beauty &amp; the Beast (USA, Europe)" region="Europe"/>
+		<rom name="Beauty &amp; the Beast (USA, Europe).int" size="16384" crc="C047D487" md5="f6d0e268efe254dc4539fb6df5a6ce24" sha1="1b6fd19e745e50e8ea679bd5adfb719d1f276bc5"/>
+		<ra_hash>f6d0e268efe254dc4539fb6df5a6ce24</ra_hash>
 		<url>https://retroachievements.org/game/6865/hashes</url>
-		<hash>f6d0e268efe254dc4539fb6df5a6ce24</hash>
 	</game>
-	
+
 	<game name="BurgerTime (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>BurgerTime (USA, Europe)</description>
+		<release name="BurgerTime (USA, Europe)" region="USA"/>
+		<release name="BurgerTime (USA, Europe)" region="Europe"/>
 		<rom name="BurgerTime (USA, Europe).int" size="16384" crc="43806375" md5="d81075a4c254463724ac3bab0b500a08" sha1="eacd83365da40a1a3d6c77ca2da4a0393460e02f"/>
+		<ra_hash>d81075a4c254463724ac3bab0b500a08</ra_hash>
 		<url>https://retroachievements.org/game/17859/hashes</url>
-		<hash>d81075a4c254463724ac3bab0b500a08</hash>
 	</game>
-	
+
 	<game name="Buzz Bombers (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Buzz Bombers (USA, Europe)</description>
-		<rom name="Buzz Bombers (USA, Europe).int" size="16384" crc="fa492bbd" md5="0032f034ed1d761d1f0dff79115fec78" sha1="a0ef9a23976de6ee88c1f970a6585ded2a2b8c04"/>
+		<release name="Buzz Bombers (USA, Europe)" region="USA"/>
+		<release name="Buzz Bombers (USA, Europe)" region="Europe"/>
+		<rom name="Buzz Bombers (USA, Europe).int" size="16384" crc="FA492BBD" md5="0032f034ed1d761d1f0dff79115fec78" sha1="a0ef9a23976de6ee88c1f970a6585ded2a2b8c04"/>
+		<ra_hash>0032f034ed1d761d1f0dff79115fec78</ra_hash>
 		<url>https://retroachievements.org/game/10686/hashes</url>
-		<hash>0032f034ed1d761d1f0dff79115fec78</hash>
 	</game>
-	
+
 	<game name="Checkers (USA, Europe) (Intellivision Lives!)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Checkers (USA, Europe) (Intellivision Lives!)</description>
-		<rom name="Checkers (USA, Europe) (Intellivision Lives!).int" size="8192" crc="36e1d858" md5="8122bb07816acdcb3f0a037b72f02142" sha1="4fef3342c0e7100113b4022e4395ad552fddacf1"/>
+		<release name="Checkers (USA, Europe) (Intellivision Lives!)" region="USA"/>
+		<release name="Checkers (USA, Europe) (Intellivision Lives!)" region="Europe"/>
+		<rom name="Checkers (USA, Europe) (Intellivision Lives!).int" size="8192" crc="36E1D858" md5="8122bb07816acdcb3f0a037b72f02142" sha1="4fef3342c0e7100113b4022e4395ad552fddacf1"/>
+		<ra_hash>8122bb07816acdcb3f0a037b72f02142</ra_hash>
 		<url>https://retroachievements.org/game/28554/hashes</url>
-		<hash>8122bb07816acdcb3f0a037b72f02142</hash>
 	</game>
-	
+
 	<game name="Commando (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Commando (USA)</description>
-		<rom name="Commando (USA).int" size="32768" crc="3289c8ba" md5="9ff5833918a5accbfddc856258bc2d3b" sha1="40a1418e2768991f82e6d453e598ac2170b981ad"/>
+		<release name="Commando (USA)" region="USA"/>
+		<rom name="Commando (USA).int" size="32768" crc="3289C8BA" md5="9ff5833918a5accbfddc856258bc2d3b" sha1="40a1418e2768991f82e6d453e598ac2170b981ad"/>
+		<ra_hash>9ff5833918a5accbfddc856258bc2d3b</ra_hash>
 		<url>https://retroachievements.org/game/20501/hashes</url>
-		<hash>9ff5833918a5accbfddc856258bc2d3b</hash>
 	</game>
-	
+
 	<game name="Demon Attack (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Demon Attack (USA, Europe)</description>
-		<rom name="Demon Attack (USA, Europe).int" size="16384" crc="5e6a8cd8" md5="9855aefcc210df151ba3373d869e8b66" sha1="d6054e8ead16f3e076c26880fe641543e8519e18"/>
+		<release name="Demon Attack (USA, Europe)" region="USA"/>
+		<release name="Demon Attack (USA, Europe)" region="Europe"/>
+		<rom name="Demon Attack (USA, Europe).int" size="16384" crc="5E6A8CD8" md5="9855aefcc210df151ba3373d869e8b66" sha1="d6054e8ead16f3e076c26880fe641543e8519e18"/>
+		<ra_hash>9855aefcc210df151ba3373d869e8b66</ra_hash>
 		<url>https://retroachievements.org/game/8282/hashes</url>
-		<hash>9855aefcc210df151ba3373d869e8b66</hash>
 	</game>
-	
+
 	<game name="Dig Dug (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Dig Dug (USA)</description>
-		<rom name="Dig Dug (USA).int" size="32768" crc="159af7f7" md5="a8f2aee64d0163309bf17e90c69fe5b9" sha1="6e281043c7bb37b20cfc48cfefb5f28922b3a3ce"/>
+		<release name="Dig Dug (USA)" region="USA"/>
+		<rom name="Dig Dug (USA).int" size="32768" crc="159AF7F7" md5="a8f2aee64d0163309bf17e90c69fe5b9" sha1="6e281043c7bb37b20cfc48cfefb5f28922b3a3ce"/>
+		<ra_hash>a8f2aee64d0163309bf17e90c69fe5b9</ra_hash>
 		<url>https://retroachievements.org/game/33029/hashes</url>
-		<hash>a8f2aee64d0163309bf17e90c69fe5b9</hash>
 	</game>
-	
+
 	<game name="Diner (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Diner (USA)</description>
-		<rom name="Diner (USA).int" size="32768" crc="13ee56f1" md5="ae3b9621c32fd1d327e2aa994e69f62a" sha1="b55d83d2f5b2bf408ea696d6b7d56e71782c3507"/>
+		<release name="Diner (USA)" region="USA"/>
+		<rom name="Diner (USA).int" size="32768" crc="13EE56F1" md5="ae3b9621c32fd1d327e2aa994e69f62a" sha1="b55d83d2f5b2bf408ea696d6b7d56e71782c3507"/>
+		<ra_hash>ae3b9621c32fd1d327e2aa994e69f62a</ra_hash>
 		<url>https://retroachievements.org/game/3600/hashes</url>
-		<hash>ae3b9621c32fd1d327e2aa994e69f62a</hash>
 	</game>
-	
+
+	<game name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)</description>
+		<release name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)" region="World"/>
+		<rom name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl).int" size="49152" crc="EF1BEC41" md5="607d0a959d1c64f6feb66433b4171d5f" sha1="fad323a8c88b7155ec4456e8909fe21e3cdbbe07"/>
+		<ra_hash>607d0a959d1c64f6feb66433b4171d5f</ra_hash>
+		<url>https://retroachievements.org/game/31167/hashes</url>
+	</game>
+
 	<game name="Donkey Kong (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Donkey Kong (USA, Europe)</description>
-		<rom name="Donkey Kong (USA, Europe).int" size="8192" crc="c30f61c0" md5="a43d060b5e7c6155f7469bf3dd245de4" sha1="93807afeee023ce6c787b073705c8bf32bbd8abf"/>
+		<release name="Donkey Kong (USA, Europe)" region="USA"/>
+		<release name="Donkey Kong (USA, Europe)" region="Europe"/>
+		<rom name="Donkey Kong (USA, Europe).int" size="8192" crc="C30F61C0" md5="a43d060b5e7c6155f7469bf3dd245de4" sha1="93807afeee023ce6c787b073705c8bf32bbd8abf"/>
+		<ra_hash>a43d060b5e7c6155f7469bf3dd245de4</ra_hash>
 		<url>https://retroachievements.org/game/10678/hashes</url>
-		<hash>a43d060b5e7c6155f7469bf3dd245de4</hash>
 	</game>
-	
+
 	<game name="Donkey Kong Junior (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Donkey Kong Junior (USA, Europe)</description>
-		<rom name="Donkey Kong Junior (USA, Europe).int" size="16384" crc="6df61a9f" md5="4f16342d203da7af060cc6eec3d103f7" sha1="9d983308ef7051eef0c324e696776a6f9b9c38d4"/>
+		<release name="Donkey Kong Junior (USA, Europe)" region="USA"/>
+		<release name="Donkey Kong Junior (USA, Europe)" region="Europe"/>
+		<rom name="Donkey Kong Junior (USA, Europe).int" size="16384" crc="6DF61A9F" md5="4f16342d203da7af060cc6eec3d103f7" sha1="9d983308ef7051eef0c324e696776a6f9b9c38d4"/>
+		<ra_hash>4f16342d203da7af060cc6eec3d103f7</ra_hash>
 		<url>https://retroachievements.org/game/10684/hashes</url>
-		<hash>4f16342d203da7af060cc6eec3d103f7</hash>
 	</game>
-	
+
 	<game name="Dracula (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Dracula (USA, Europe)</description>
-		<rom name="Dracula (USA, Europe).int" size="16384" crc="84bedcc1" md5="a52574877a018ef1ec10e0ff3038fbb9" sha1="d211da07ab620854ee7a2de3bc103d71d649612f"/>
+		<release name="Dracula (USA, Europe)" region="USA"/>
+		<release name="Dracula (USA, Europe)" region="Europe"/>
+		<rom name="Dracula (USA, Europe).int" size="16384" crc="84BEDCC1" md5="a52574877a018ef1ec10e0ff3038fbb9" sha1="d211da07ab620854ee7a2de3bc103d71d649612f"/>
+		<ra_hash>a52574877a018ef1ec10e0ff3038fbb9</ra_hash>
 		<url>https://retroachievements.org/game/5947/hashes</url>
-		<hash>a52574877a018ef1ec10e0ff3038fbb9</hash>
 	</game>
-	
+
+	<game name="Flapee Bird (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Flapee Bird (World) (Aftermarket) (Unl)</description>
+		<release name="Flapee Bird (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Flapee Bird (World) (Aftermarket) (Unl).int" size="9728" crc="9C7DE352" md5="5b065c30735a4b0feee2aac48ebaf633" sha1="f91d4507baf41626d839308659e68de048c767c8"/>
+		<ra_hash>5b065c30735a4b0feee2aac48ebaf633</ra_hash>
+		<url>https://retroachievements.org/game/20037/hashes</url>
+	</game>
+
 	<game name="Frog Bog (World)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Frog Bog (World)</description>
+		<release name="Frog Bog (World)" region="World"/>
 		<rom name="Frog Bog (World).int" size="8192" crc="37222762" md5="bb806b41644e33b6fc5a4d9d3f8c7aee" sha1="58842e4425ad5a8f6ec65528c4b485039057f289"/>
+		<ra_hash>bb806b41644e33b6fc5a4d9d3f8c7aee</ra_hash>
 		<url>https://retroachievements.org/game/5698/hashes</url>
-		<hash>bb806b41644e33b6fc5a4d9d3f8c7aee</hash>
 	</game>
-	
+
 	<game name="Frogger (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Frogger (USA, Europe)</description>
-		<rom name="Frogger (USA, Europe).int" size="8192" crc="d27495e9" md5="523d46bcab6c0c11f0672562fe31cd47" sha1="c84f2a2f0007de06057f7e22a489f76def482c86"/>
+		<release name="Frogger (USA, Europe)" region="USA"/>
+		<release name="Frogger (USA, Europe)" region="Europe"/>
+		<rom name="Frogger (USA, Europe).int" size="8192" crc="D27495E9" md5="523d46bcab6c0c11f0672562fe31cd47" sha1="c84f2a2f0007de06057f7e22a489f76def482c86"/>
+		<ra_hash>523d46bcab6c0c11f0672562fe31cd47</ra_hash>
 		<url>https://retroachievements.org/game/22044/hashes</url>
-		<hash>523d46bcab6c0c11f0672562fe31cd47</hash>
 	</game>
-	
+
 	<game name="Ice Trek (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Ice Trek (USA, Europe)</description>
-		<rom name="Ice Trek (USA, Europe).int" size="16384" crc="4f3e3f69" md5="79d475ff853683ffd9be630628a491fa" sha1="d70bd2d71227faba51de575df110818ed50bdee7"/>
+		<release name="Ice Trek (USA, Europe)" region="USA"/>
+		<release name="Ice Trek (USA, Europe)" region="Europe"/>
+		<rom name="Ice Trek (USA, Europe).int" size="16384" crc="4F3E3F69" md5="79d475ff853683ffd9be630628a491fa" sha1="d70bd2d71227faba51de575df110818ed50bdee7"/>
+		<ra_hash>79d475ff853683ffd9be630628a491fa</ra_hash>
 		<url>https://retroachievements.org/game/6041/hashes</url>
-		<hash>79d475ff853683ffd9be630628a491fa</hash>
 	</game>
-	
+
+	<game name="Intellivania (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Intellivania (World) (Aftermarket) (Unl)</description>
+		<release name="Intellivania (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Intellivania (World) (Aftermarket) (Unl).int" size="88656" crc="B7A33E8E" md5="7431758763b233ab4b14155c4cf0f001" sha1="6490f5cfba9bd69c05ad89a0d1a7a9d71bc0e43a"/>
+		<ra_hash>7431758763b233ab4b14155c4cf0f001</ra_hash>
+		<url>https://retroachievements.org/game/33028/hashes</url>
+	</game>
+
 	<game name="Lady Bug (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Lady Bug (USA, Europe)</description>
-		<rom name="Lady Bug (USA, Europe).int" size="16384" crc="a6840736" md5="b512d919bf3db6f1e6b9a80835e032ec" sha1="ca3f0d52fc077c98becefe3e566895807840152a"/>
+		<release name="Lady Bug (USA, Europe)" region="USA"/>
+		<release name="Lady Bug (USA, Europe)" region="Europe"/>
+		<rom name="Lady Bug (USA, Europe).int" size="16384" crc="A6840736" md5="b512d919bf3db6f1e6b9a80835e032ec" sha1="ca3f0d52fc077c98becefe3e566895807840152a"/>
+		<ra_hash>b512d919bf3db6f1e6b9a80835e032ec</ra_hash>
 		<url>https://retroachievements.org/game/18500/hashes</url>
-		<hash>b512d919bf3db6f1e6b9a80835e032ec</hash>
 	</game>
-	
+
 	<game name="Las Vegas Poker &amp; Blackjack (World) (Intellivision Lives!)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Las Vegas Poker &amp; Blackjack (World) (Intellivision Lives!)</description>
-		<rom name="Las Vegas Poker &amp; Blackjack (World) (Intellivision Lives!).int" size="8192" crc="604611c0" md5="6506a1bf0c749fc768cb6b5162e0cbd7" sha1="a6c03e253e615a06f838e623df5f557636fdf8e1"/>
+		<release name="Las Vegas Poker &amp; Blackjack (World) (Intellivision Lives!)" region="World"/>
+		<rom name="Las Vegas Poker &amp; Blackjack (World) (Intellivision Lives!).int" size="8192" crc="604611C0" md5="6506a1bf0c749fc768cb6b5162e0cbd7" sha1="a6c03e253e615a06f838e623df5f557636fdf8e1"/>
+		<ra_hash>6506a1bf0c749fc768cb6b5162e0cbd7</ra_hash>
 		<url>https://retroachievements.org/game/17418/hashes</url>
-		<hash>6506a1bf0c749fc768cb6b5162e0cbd7</hash>
 	</game>
-	
+
+	<game name="Lock 'N' Chase (USA, Europe) (Alt)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Lock 'N' Chase (USA, Europe) (Alt)</description>
+		<release name="Lock 'N' Chase (USA, Europe) (Alt)" region="USA"/>
+		<release name="Lock 'N' Chase (USA, Europe) (Alt)" region="Europe"/>
+		<rom name="Lock 'N' Chase (USA, Europe) (Alt).int" size="16384" crc="E00D1399" md5="92c9ce0470cfc12e20df5b0246c60fea" sha1="3958c1d400a76a9534e05f03fb34efe90f32f113"/>
+		<ra_hash>92c9ce0470cfc12e20df5b0246c60fea</ra_hash>
+		<url>https://retroachievements.org/game/8562/hashes</url>
+	</game>
+
 	<game name="Masters of the Universe - The Power of He-Man (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Masters of the Universe - The Power of He-Man (USA, Europe)</description>
-		<rom name="Masters of the Universe - The Power of He-Man (USA, Europe).int" size="32768" crc="573b9b6d" md5="aee9f481abd8c290e6a0c3990c185e60" sha1="f1d505b51d9516f4bcd9c4f7231553fa9d4c13c7"/>
+		<release name="Masters of the Universe - The Power of He-Man (USA, Europe)" region="USA"/>
+		<release name="Masters of the Universe - The Power of He-Man (USA, Europe)" region="Europe"/>
+		<rom name="Masters of the Universe - The Power of He-Man (USA, Europe).int" size="32768" crc="573B9B6D" md5="aee9f481abd8c290e6a0c3990c185e60" sha1="f1d505b51d9516f4bcd9c4f7231553fa9d4c13c7"/>
+		<ra_hash>aee9f481abd8c290e6a0c3990c185e60</ra_hash>
 		<url>https://retroachievements.org/game/18029/hashes</url>
-		<hash>aee9f481abd8c290e6a0c3990c185e60</hash>
 	</game>
-	
+
 	<game name="Mission X (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Mission X (USA, Europe)</description>
-		<rom name="Mission X (USA, Europe).int" size="16384" crc="11fb9974" md5="30f68d218bae18b69daeb9e273fdc9d0" sha1="2e6760f418f4e54a244fe1baa57e573573cc1b7d"/>
+		<release name="Mission X (USA, Europe)" region="USA"/>
+		<release name="Mission X (USA, Europe)" region="Europe"/>
+		<rom name="Mission X (USA, Europe).int" size="16384" crc="11FB9974" md5="30f68d218bae18b69daeb9e273fdc9d0" sha1="2e6760f418f4e54a244fe1baa57e573573cc1b7d"/>
+		<ra_hash>30f68d218bae18b69daeb9e273fdc9d0</ra_hash>
 		<url>https://retroachievements.org/game/29725/hashes</url>
-		<hash>30f68d218bae18b69daeb9e273fdc9d0</hash>
 	</game>
-	
+
+	<game name="Night Stalker (World)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Night Stalker (World)</description>
+		<release name="Night Stalker (World)" region="World"/>
+		<rom name="Night Stalker (World).int" size="8192" crc="7334CD44" md5="b5e9a146f4f04daab3ba68b0ec45958a" sha1="13e321593daf93c2e3e964a05e43e4bb21da6ea6"/>
+		<ra_hash>b5e9a146f4f04daab3ba68b0ec45958a</ra_hash>
+		<url>https://retroachievements.org/game/7747/hashes</url>
+	</game>
+
 	<game name="Pac-Man (1983) (Atarisoft)">
 		<category>Retail</category>
+		<source>Lost Level Archive</source>
 		<description>Pac-Man (1983) (Atarisoft)</description>
-		<rom name="Pac-Man (1983) (Atarisoft).int" size="24576" crc="a21c31c3" md5="34b9e686aee6f418d431a2f9a5a5c0cb" sha1="66ddc9c56edee06564c1252c7c6bc3123da8c31d"/>
+		<release name="Pac-Man (1983) (Atarisoft)" region="World"/>
+		<rom name="Pac-Man (1983) (Atarisoft).int" size="24576" crc="A21C31C3" md5="34b9e686aee6f418d431a2f9a5a5c0cb" sha1="66ddc9c56edee06564c1252c7c6bc3123da8c31d"/>
+		<ra_hash>34b9e686aee6f418d431a2f9a5a5c0cb</ra_hash>
 		<url>https://retroachievements.org/game/25209/hashes</url>
-		<hash>34b9e686aee6f418d431a2f9a5a5c0cb</hash>
 	</game>
-	
+
 	<game name="Pinball (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Pinball (USA)</description>
-		<rom name="Pinball (USA).int" size="24576" crc="d7c5849c" md5="2828ce0b76c7f8a5e3a4569fac5c8eb9" sha1="c24bf2e31ce331fac4ca5012501bde7f5bd94adb"/>
+		<release name="Pinball (USA)" region="USA"/>
+		<rom name="Pinball (USA).int" size="24576" crc="D7C5849C" md5="2828ce0b76c7f8a5e3a4569fac5c8eb9" sha1="c24bf2e31ce331fac4ca5012501bde7f5bd94adb"/>
+		<ra_hash>2828ce0b76c7f8a5e3a4569fac5c8eb9</ra_hash>
 		<url>https://retroachievements.org/game/18532/hashes</url>
-		<hash>2828ce0b76c7f8a5e3a4569fac5c8eb9</hash>
 	</game>
-	
+
+	<game name="Princess Quest (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Princess Quest (World) (Aftermarket) (Unl)</description>
+		<release name="Princess Quest (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Princess Quest (World) (Aftermarket) (Unl).int" size="76357" crc="38E9EF48" md5="ed8e8a3c94b8f3b59579047a297cac32" sha1="a9841432efa5aeea64ca44155a034efaded2201e"/>
+		<ra_hash>ed8e8a3c94b8f3b59579047a297cac32</ra_hash>
+		<url>https://retroachievements.org/game/22456/hashes</url>
+	</game>
+
+	<game name="Pumpkin Attack (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Pumpkin Attack (World) (Aftermarket) (Unl)</description>
+		<release name="Pumpkin Attack (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Pumpkin Attack (World) (Aftermarket) (Unl).int" size="26685" crc="26E0BCAA" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4"/>
+		<ra_hash>b593690baa3643df336e2385e9c24dfe</ra_hash>
+		<url>https://retroachievements.org/game/29151/hashes</url>
+	</game>
+
+	<game name="Q-bert (USA, Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Q-bert (USA, Europe)</description>
+		<release name="Q-bert (USA, Europe)" region="USA"/>
+		<release name="Q-bert (USA, Europe)" region="Europe"/>
+		<rom name="Q-bert (USA, Europe).int" size="16384" crc="D8C9856A" md5="1c697df0beb93eec95407bf87285a58a" sha1="60132870a1bf5f5b9d0aa19b4dd9c13a94702f70"/>
+		<ra_hash>1c697df0beb93eec95407bf87285a58a</ra_hash>
+		<url>https://retroachievements.org/game/6751/hashes</url>
+	</game>
+
 	<game name="Shark! Shark! (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Shark! Shark! (USA, Europe)</description>
-		<rom name="Shark! Shark! (USA, Europe).int" size="16384" crc="2a4c761d" md5="9f85b961e6c40c2c786026f460ae02fa" sha1="53d10e890571ef67d39874582f3668b29c580590"/>
+		<release name="Shark! Shark! (USA, Europe)" region="USA"/>
+		<release name="Shark! Shark! (USA, Europe)" region="Europe"/>
+		<rom name="Shark! Shark! (USA, Europe).int" size="16384" crc="2A4C761D" md5="9f85b961e6c40c2c786026f460ae02fa" sha1="53d10e890571ef67d39874582f3668b29c580590"/>
+		<ra_hash>9f85b961e6c40c2c786026f460ae02fa</ra_hash>
 		<url>https://retroachievements.org/game/14508/hashes</url>
-		<hash>9f85b961e6c40c2c786026f460ae02fa</hash>
 	</game>
-	
+
+	<game name="Slap Shot - Super Pro Hockey (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Slap Shot - Super Pro Hockey (USA)</description>
+		<release name="Slap Shot - Super Pro Hockey (USA)" region="USA"/>
+		<rom name="Slap Shot - Super Pro Hockey (USA).int" size="16384" crc="BA68FF28" md5="5ec328d358ff8c9664e4ab1deaa89f80" sha1="35e27d918cad45129fcc3924fbb4f2fef8f31776"/>
+		<ra_hash>5ec328d358ff8c9664e4ab1deaa89f80</ra_hash>
+		<url>https://retroachievements.org/game/27237/hashes</url>
+	</game>
+
+	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)</description>
+		<release name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl).int" size="10752" crc="1ECDD51B" md5="57e82ac5ef6c1bff0b810874c4b2c30c" sha1="9e1666a68d50bb4a1f618cc2f9bcd7dfbadc8188"/>
+		<ra_hash>57e82ac5ef6c1bff0b810874c4b2c30c</ra_hash>
+		<url>https://retroachievements.org/game/20050/hashes</url>
+	</game>
+
 	<game name="Thin Ice (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Thin Ice (USA)</description>
-		<rom name="Thin Ice (USA).int" size="16384" crc="975ae6df" md5="a3434d8d4314b1eba3662ed9c9e7faaa" sha1="79c4b9f26528ee662ce11a1ca7588aed33ee87ac"/>
+		<release name="Thin Ice (USA)" region="USA"/>
+		<rom name="Thin Ice (USA).int" size="16384" crc="975AE6DF" md5="a3434d8d4314b1eba3662ed9c9e7faaa" sha1="79c4b9f26528ee662ce11a1ca7588aed33ee87ac"/>
+		<ra_hash>a3434d8d4314b1eba3662ed9c9e7faaa</ra_hash>
 		<url>https://retroachievements.org/game/19908/hashes</url>
-		<hash>a3434d8d4314b1eba3662ed9c9e7faaa</hash>
 	</game>
-	
+
 	<game name="Tower of Doom (USA)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Tower of Doom (USA)</description>
-		<rom name="Tower of Doom (USA).int" size="49152" crc="d1d352a0" md5="95b106acaecab4fe3d43970eae893452" sha1="de35812076bda03999a55b2969a67299ccfb83c4"/>
+		<release name="Tower of Doom (USA)" region="USA"/>
+		<rom name="Tower of Doom (USA).int" size="49152" crc="D1D352A0" md5="95b106acaecab4fe3d43970eae893452" sha1="de35812076bda03999a55b2969a67299ccfb83c4"/>
+		<ra_hash>95b106acaecab4fe3d43970eae893452</ra_hash>
 		<url>https://retroachievements.org/game/29769/hashes</url>
-		<hash>95b106acaecab4fe3d43970eae893452</hash>
 	</game>
-	
+
 	<game name="Triple Action (World)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Triple Action (World)</description>
-		<rom name="Triple Action (World).int" size="8192" crc="1ac989e2" md5="df8bf33772ee8a983ee67687a53a0d4a" sha1="6c1011b98ac76653632fd13e93466802f7d4dea9"/>
+		<release name="Triple Action (World)" region="World"/>
+		<rom name="Triple Action (World).int" size="8192" crc="1AC989E2" md5="df8bf33772ee8a983ee67687a53a0d4a" sha1="6c1011b98ac76653632fd13e93466802f7d4dea9"/>
+		<ra_hash>df8bf33772ee8a983ee67687a53a0d4a</ra_hash>
 		<url>https://retroachievements.org/game/17574/hashes</url>
-		<hash>df8bf33772ee8a983ee67687a53a0d4a</hash>
 	</game>
-	
+
 	<game name="Tropical Trouble (USA, Europe)">
 		<category>Retail</category>
+		<source>No-Intro</source>
 		<description>Tropical Trouble (USA, Europe)</description>
-		<rom name="Tropical Trouble (USA, Europe).int" size="16384" crc="6f23a741" md5="e5836f66acd6ba7b31c7dccda23b34dc" sha1="63fadc61f9fe850bead7df76ed915ea00e569cb5"/>
+		<release name="Tropical Trouble (USA, Europe)" region="USA"/>
+		<release name="Tropical Trouble (USA, Europe)" region="Europe"/>
+		<rom name="Tropical Trouble (USA, Europe).int" size="16384" crc="6F23A741" md5="e5836f66acd6ba7b31c7dccda23b34dc" sha1="63fadc61f9fe850bead7df76ed915ea00e569cb5"/>
+		<ra_hash>e5836f66acd6ba7b31c7dccda23b34dc</ra_hash>
 		<url>https://retroachievements.org/game/24895/hashes</url>
-		<hash>e5836f66acd6ba7b31c7dccda23b34dc</hash>
+	</game>
+
+	<game name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)</description>
+		<release name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl).int" size="57925" crc="30575596" md5="03a20a7287601bdae309693ca4f6f0b9" sha1="9469d231a910777b8f46276fa497dc75d7a6a88f"/>
+		<ra_hash>03a20a7287601bdae309693ca4f6f0b9</ra_hash>
+		<url>https://retroachievements.org/game/24463/hashes</url>
 	</game>
 </datafile>

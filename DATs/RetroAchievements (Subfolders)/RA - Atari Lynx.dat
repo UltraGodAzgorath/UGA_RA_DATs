@@ -5,346 +5,397 @@
 		<name>RA - Atari Lynx</name>
 		<description>Atari Lynx</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
-		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
-		<homepage>https://retroachievements.org</homepage>
-		<url>https://retroachievements.org/system/13/games</url>
-		<titlecount>39</titlecount>
-		<hashcount>40</hashcount>
+		<version>20260601</version>
+		<date>1 June 2026</date>
+		<author>Ultra God Azgorath</author>
+		<url>https://retroachievements.org/system/13-atari-lynx/games</url>
+		<titlecount>42</titlecount>
+		<hashcount>43</hashcount>
 	</header>
-	<game name="Homebrew/CHIP-8 Emulator (World) (Aftermarket)">
-		<category></category>
-		<description>CHIP-8 Emulator (World) (Aftermarket)</description>
-		<rom name="CHIP-8 Emulator (World) (Aftermarket).lyx" size="23511" crc="ed70fbcc" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
-		<url>https://retroachievements.org/game/25950/hashes</url>
-		<hash>3d4c70cba51a5c1f0e2fc3c1acb4be50</hash>
-	</game>
-	
-	<game name="Homebrew/Flappy Bird/Flappy Bird (86) (World) (tonma) (Aftermarket)">
-		<category></category>
-		<description>Flappy Bird (86) (World) (tonma) (Aftermarket)</description>
-		<rom name="Flappy Bird (86) (World) (tonma) (Aftermarket).lyx" size="32111" crc="c61f1606" md5="85e80cae6da0cbced0d409a48a49c33e" sha1="eae69daddb1a9de53fc45755af135dd25d185c2a"/>
-		<url>https://retroachievements.org/game/19508/hashes</url>
-		<hash>0173ec92e8e8a0359901f310c5f12bb1</hash>
-	</game>
-	<game name="Homebrew/Flappy Bird/Flappy Bird (EE) (World) (tonma) (Aftermarket)">
-		<category></category>
-		<description>Flappy Bird (EE) (World) (tonma) (Aftermarket)</description>
-		<rom name="Flappy Bird (EE) (World) (tonma) (Aftermarket).lyx" size="32073" crc="e6787336" md5="84d02bc4f902462f654216007a379fbb" sha1="da3ca5809a475f70a2275ceac43198f98dbe0b79"/>
-		<url>https://retroachievements.org/game/19508/hashes</url>
-		<hash>8f05d2ffdadffdbce7a1040a9aa0f8e7</hash>
-	</game>
-	
-	<game name="Homebrew/Critter Championship (World) (Aftermarket)">
-		<category></category>
-		<description>Critter Championship (World) (Aftermarket)</description>
-		<rom name="Critter Championship (World) (Aftermarket).lnx" size="82289" crc="1785665b" md5="e138c8c988b6ed948e33af73eae1764f" sha1="c3399a6ac822ff3de2659de5894df505a08e7a90"/>
-		<url>https://retroachievements.org/game/19715/hashes</url>
-		<hash>757852d987db4cc79a1a81eadc9dd821</hash>
-	</game>
-	
-	<game name="Homebrew/Running Knight (World) (LynxJam 2023) (Dr. Ludos) (Aftermarket)">
-		<category></category>
-		<description>Running Knight (World) (LynxJam 2023) (Dr. Ludos) (Aftermarket)</description>
-		<rom name="Running Knight (World) (LynxJam 2023) (Dr. Ludos) (Aftermarket).lnx" size="262208" crc="482719d8" md5="f3663cf094ca1ab6883d6b3c03e7429d" sha1="f826cecb0e2ddc3620d6509b821591aa11d0ec4e"/>
-		<url>https://retroachievements.org/game/29053/hashes</url>
-		<hash>24077ab7bf46300ff02aa4ca78a81c2c</hash>
-	</game>
-	
-	<game name="Homebrew/Scooternia (World) (Aftermarket)">
-		<category></category>
-		<description>Scooternia (World) (Aftermarket)</description>
-		<rom name="Scooternia (World) (Aftermarket).lyx" size="262144" crc="7606dcac" md5="459aaf1e66384ea3534e3ce2149a1718" sha1="93e228f35b5b38f1d5bfac0fbb934ea5fbc98263"/>
-		<url>https://retroachievements.org/game/24300/hashes</url>
-		<hash>459aaf1e66384ea3534e3ce2149a1718</hash>
-	</game>
-	
-	<game name="Homebrew/T-Tris (World) (Alt) (Aftermarket)">
-		<category></category>
-		<description>T-Tris (World) (Alt) (Aftermarket)</description>
-		<rom name="T-Tris (World) (Alt) (Aftermarket).bll" size="15700" crc="a261fcbc" md5="1b6a8a0b7f80332e9c7dfecaded8683e" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f"/>
-		<url>https://retroachievements.org/game/24898/hashes</url>
-		<hash>1b6a8a0b7f80332e9c7dfecaded8683e</hash>
-	</game>
-	
-	<game name="Homebrew/Timeloop (World) (Aftermarket)">
-		<category></category>
-		<description>Timeloop (World) (Aftermarket)</description>
-		<rom name="Timeloop (World) (Aftermarket).lnx" size="262208" crc="5508e5f5" md5="dc0919e6666a61b11a0f904b543a7518" sha1="7c30f02e6a908b1c93e8251e0ed3f96234ebe72f"/>
-		<url>https://retroachievements.org/game/27007/hashes</url>
-		<hash>749f3e82357bab232731f0e56f97569c</hash>
-	</game>
-	
-	<game name="Homebrew/Z.A.P. (World) (Aftermarket)">
-		<category></category>
-		<description>Z.A.P. (World) (Aftermarket)</description>
-		<rom name="Z.A.P. (World) (Aftermarket).lnx" size="24873" crc="6b51794e" md5="fb84478cb62f47c0773996515ada47c9" sha1="7cd0c413e12c812fdb6476f7ed661111fe90bec1"/>
-		<url>https://retroachievements.org/game/19714/hashes</url>
-		<hash>d5079e2e6e1ad9c2b730e47c240a4da0</hash>
-	</game>
-	
-	<game name="Prototype/Marlboro Go! (Europe) (Proto 2)">
-		<category></category>
-		<description>Marlboro Go! (Europe) (Proto 2)</description>
-		<rom name="Marlboro Go! (Europe) (Proto 2).lyx" size="262144" crc="c3fa0d4d" md5="194a3eeb876d2b74cc480f4d337d79b3" sha1="26b18b706359b093d0b1bbca4dba9cd2d73e0372"/>
-		<url>https://retroachievements.org/game/11492/hashes</url>
-		<hash>194a3eeb876d2b74cc480f4d337d79b3</hash>
-	</game>
-	
+
 	<game name="Retail/Baseball Heroes (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Baseball Heroes (USA, Europe)</description>
-		<rom name="Baseball Heroes (USA, Europe).lyx" size="262144" crc="3943c116" md5="8c9a72ddbb5559293862684ec67bfa92" sha1="b30a1fe12dc3e69e1a179a5e4d1799d93996fc24"/>
+		<rom name="Baseball Heroes (USA, Europe).lnx" size="262144" crc="3943C116" md5="8c9a72ddbb5559293862684ec67bfa92" sha1="b30a1fe12dc3e69e1a179a5e4d1799d93996fc24"/>
+		<ra_hash>8c9a72ddbb5559293862684ec67bfa92</ra_hash>
 		<url>https://retroachievements.org/game/11472/hashes</url>
-		<hash>8c9a72ddbb5559293862684ec67bfa92</hash>
 	</game>
-	
+
 	<game name="Retail/Batman Returns (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Batman Returns (USA, Europe)</description>
-		<rom name="Batman Returns (USA, Europe).lyx" size="262144" crc="277f82c2" md5="6e9bbff3c7b66d3ec0411ffbe0e41dfd" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4"/>
+		<rom name="Batman Returns (USA, Europe).lnx" size="262144" crc="277F82C2" md5="6e9bbff3c7b66d3ec0411ffbe0e41dfd" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4"/>
+		<ra_hash>6e9bbff3c7b66d3ec0411ffbe0e41dfd</ra_hash>
 		<url>https://retroachievements.org/game/10597/hashes</url>
-		<hash>6e9bbff3c7b66d3ec0411ffbe0e41dfd</hash>
 	</game>
-	
+
 	<game name="Retail/Battlezone 2000 (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Battlezone 2000 (USA, Europe)</description>
-		<rom name="Battlezone 2000 (USA, Europe).lyx" size="262144" crc="30fee726" md5="d405ea54b77390b06222f9dac7cea827" sha1="fb50ddee638aa316c7eae6d50961e3b69b112c4f"/>
+		<rom name="Battlezone 2000 (USA, Europe).lnx" size="262144" crc="30FEE726" md5="d405ea54b77390b06222f9dac7cea827" sha1="fb50ddee638aa316c7eae6d50961e3b69b112c4f"/>
+		<ra_hash>d405ea54b77390b06222f9dac7cea827</ra_hash>
 		<url>https://retroachievements.org/game/13039/hashes</url>
-		<hash>d405ea54b77390b06222f9dac7cea827</hash>
 	</game>
-	
+
 	<game name="Retail/Bill &amp; Ted's Excellent Adventure (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Bill &amp; Ted's Excellent Adventure (USA, Europe)</description>
-		<rom name="Bill &amp; Ted's Excellent Adventure (USA, Europe).lyx" size="262144" crc="143a313e" md5="87dff4f4d5e1e4a7132d19f94d4e9b3a" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae"/>
+		<rom name="Bill &amp; Ted's Excellent Adventure (USA, Europe).lnx" size="262144" crc="143A313E" md5="87dff4f4d5e1e4a7132d19f94d4e9b3a" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae"/>
+		<ra_hash>87dff4f4d5e1e4a7132d19f94d4e9b3a</ra_hash>
 		<url>https://retroachievements.org/game/11490/hashes</url>
-		<hash>87dff4f4d5e1e4a7132d19f94d4e9b3a</hash>
 	</game>
-	
+
 	<game name="Retail/Block Out (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Block Out (USA, Europe)</description>
-		<rom name="Block Out (USA, Europe).lnx" size="131072" crc="3cd75df3" md5="c81abf2919effd525b83c2103b75e6ca" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177"/>
+		<rom name="Block Out (USA, Europe).lnx" size="131072" crc="3CD75DF3" md5="c81abf2919effd525b83c2103b75e6ca" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177"/>
+		<ra_hash>c81abf2919effd525b83c2103b75e6ca</ra_hash>
 		<url>https://retroachievements.org/game/11235/hashes</url>
-		<hash>c81abf2919effd525b83c2103b75e6ca</hash>
 	</game>
-	
+
 	<game name="Retail/California Games (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>California Games (World)</description>
-		<rom name="California Games (World).lyx" size="131072" crc="a08f0b59" md5="73e02bb77dcf857a6578f0e24b4ecb9e" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e"/>
+		<rom name="California Games (World).lnx" size="131072" crc="A08F0B59" md5="73e02bb77dcf857a6578f0e24b4ecb9e" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e"/>
+		<ra_hash>73e02bb77dcf857a6578f0e24b4ecb9e</ra_hash>
 		<url>https://retroachievements.org/game/11482/hashes</url>
-		<hash>73e02bb77dcf857a6578f0e24b4ecb9e</hash>
 	</game>
-	
+
 	<game name="Retail/Checkered Flag (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Checkered Flag (USA, Europe)</description>
-		<rom name="Checkered Flag (USA, Europe).lyx" size="262144" crc="19c5a7a5" md5="85b33c5e5985ab041ecc44555a8cfb42" sha1="f115bb5f98992d98c8d11b1daa68bb1961b59660"/>
+		<rom name="Checkered Flag (USA, Europe).lnx" size="262144" crc="19C5A7A5" md5="85b33c5e5985ab041ecc44555a8cfb42" sha1="f115bb5f98992d98c8d11b1daa68bb1961b59660"/>
+		<ra_hash>85b33c5e5985ab041ecc44555a8cfb42</ra_hash>
 		<url>https://retroachievements.org/game/11481/hashes</url>
-		<hash>85b33c5e5985ab041ecc44555a8cfb42</hash>
 	</game>
-	
+
 	<game name="Retail/Chip's Challenge (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Chip's Challenge (World)</description>
-		<rom name="Chip's Challenge (World).lyx" size="131072" crc="6a5f53ed" md5="24611d1445ebd34ab79fb0ae996ff4e4" sha1="6a90e6627086e13d99bacbcaafea7ab2f6aba8a0"/>
+		<rom name="Chip's Challenge (World).lnx" size="131072" crc="6A5F53ED" md5="24611d1445ebd34ab79fb0ae996ff4e4" sha1="6a90e6627086e13d99bacbcaafea7ab2f6aba8a0"/>
+		<ra_hash>24611d1445ebd34ab79fb0ae996ff4e4</ra_hash>
 		<url>https://retroachievements.org/game/10596/hashes</url>
-		<hash>24611d1445ebd34ab79fb0ae996ff4e4</hash>
 	</game>
-	
+
+	<game name="Homebrew/CHIP-8 Emulator (World) (Aftermarket) (Unl)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>CHIP-8 Emulator (World) (Aftermarket) (Unl)</description>
+		<rom name="CHIP-8 Emulator (World) (Aftermarket) (Unl).lnx" size="23511" crc="ED70FBCC" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
+		<ra_hash>3d4c70cba51a5c1f0e2fc3c1acb4be50</ra_hash>
+		<url>https://retroachievements.org/game/25950/hashes</url>
+	</game>
+
+	<game name="Homebrew/Critter Championship (World) (Demo) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Critter Championship (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Critter Championship (World) (Demo) (Aftermarket) (Unl).lnx" size="82289" crc="1785665B" md5="e138c8c988b6ed948e33af73eae1764f" sha1="c3399a6ac822ff3de2659de5894df505a08e7a90"/>
+		<ra_hash>757852d987db4cc79a1a81eadc9dd821</ra_hash>
+		<url>https://retroachievements.org/game/19715/hashes</url>
+	</game>
+
 	<game name="Retail/Crystal Mines II (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Crystal Mines II (USA, Europe)</description>
-		<rom name="Crystal Mines II (USA, Europe).lyx" size="131072" crc="aec474c8" md5="b4acbd3c544a0d92cc8ad1380bf8a810" sha1="3364bde38508c5c4fed5575295cc80c6f72edebe"/>
+		<rom name="Crystal Mines II (USA, Europe).lnx" size="131072" crc="AEC474C8" md5="b4acbd3c544a0d92cc8ad1380bf8a810" sha1="3364bde38508c5c4fed5575295cc80c6f72edebe"/>
+		<ra_hash>b4acbd3c544a0d92cc8ad1380bf8a810</ra_hash>
 		<url>https://retroachievements.org/game/10669/hashes</url>
-		<hash>b4acbd3c544a0d92cc8ad1380bf8a810</hash>
 	</game>
-	
+
 	<game name="Retail/Dirty Larry - Renegade Cop (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Dirty Larry - Renegade Cop (USA, Europe)</description>
-		<rom name="Dirty Larry - Renegade Cop (USA, Europe).lyx" size="262144" crc="d565fbb7" md5="8cd77bec912c9b4dcebd8a82dcf91a0b" sha1="ca856dc880663d7f105ae5aa2ff160b9fc209f92"/>
+		<rom name="Dirty Larry - Renegade Cop (USA, Europe).lnx" size="262144" crc="D565FBB7" md5="8cd77bec912c9b4dcebd8a82dcf91a0b" sha1="ca856dc880663d7f105ae5aa2ff160b9fc209f92"/>
+		<ra_hash>8cd77bec912c9b4dcebd8a82dcf91a0b</ra_hash>
 		<url>https://retroachievements.org/game/11038/hashes</url>
-		<hash>8cd77bec912c9b4dcebd8a82dcf91a0b</hash>
 	</game>
-	
-	<game name="Retail/Dracula - The Undead (USA, Europe)">
+
+	<game name="Retail/Dracula the Undead (USA, Europe)">
 		<category></category>
-		<description>Dracula - The Undead (USA, Europe)</description>
-		<rom name="Dracula - The Undead (USA, Europe).lyx" size="262144" crc="33bb74c7" md5="3ff35996887c2ff95e275085efbbbbed" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2"/>
+		<source>No-Intro</source>
+		<description>Dracula the Undead (USA, Europe)</description>
+		<rom name="Dracula the Undead (USA, Europe).lnx" size="262144" crc="33BB74C7" md5="3ff35996887c2ff95e275085efbbbbed" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2"/>
+		<ra_hash>3ff35996887c2ff95e275085efbbbbed</ra_hash>
 		<url>https://retroachievements.org/game/10862/hashes</url>
-		<hash>3ff35996887c2ff95e275085efbbbbed</hash>
 	</game>
-	
+
+	<game name="Homebrew/Flappy Bird - Testing/Flappy Bird (86) (World) (Aftermarket) (tonma)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Flappy Bird (86) (World) (Aftermarket) (tonma)</description>
+		<rom name="Flappy Bird (86) (World) (Aftermarket) (tonma).lnx" size="32111" crc="C61F1606" md5="85e80cae6da0cbced0d409a48a49c33e" sha1="eae69daddb1a9de53fc45755af135dd25d185c2a"/>
+		<ra_hash>0173ec92e8e8a0359901f310c5f12bb1</ra_hash>
+		<url>https://retroachievements.org/game/19508/hashes</url>
+	</game>
+	<game name="Homebrew/Flappy Bird - Testing/Flappy Bird (EE) (World) (Aftermarket) (tonma)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Flappy Bird (EE) (World) (Aftermarket) (tonma)</description>
+		<rom name="Flappy Bird (EE) (World) (Aftermarket) (tonma).lnx" size="32073" crc="E6787336" md5="84d02bc4f902462f654216007a379fbb" sha1="da3ca5809a475f70a2275ceac43198f98dbe0b79"/>
+		<ra_hash>8f05d2ffdadffdbce7a1040a9aa0f8e7</ra_hash>
+		<url>https://retroachievements.org/game/19508/hashes</url>
+	</game>
+
 	<game name="Retail/Gates of Zendocon (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Gates of Zendocon (World)</description>
-		<rom name="Gates of Zendocon (World).lnx" size="131072" crc="494cc568" md5="d5be9118bcb14243468001b08c4aa21a" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe"/>
+		<rom name="Gates of Zendocon (World).lnx" size="131072" crc="494CC568" md5="d5be9118bcb14243468001b08c4aa21a" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe"/>
+		<ra_hash>d5be9118bcb14243468001b08c4aa21a</ra_hash>
 		<url>https://retroachievements.org/game/11494/hashes</url>
-		<hash>d5be9118bcb14243468001b08c4aa21a</hash>
 	</game>
-	
+
 	<game name="Retail/Gauntlet - The Third Encounter (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Gauntlet - The Third Encounter (World)</description>
-		<rom name="Gauntlet - The Third Encounter (World).lyx" size="131072" crc="7f0ec7ad" md5="0b572c0dfb938849eeec39b2c9583547" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55"/>
+		<rom name="Gauntlet - The Third Encounter (World).lnx" size="131072" crc="7F0EC7AD" md5="0b572c0dfb938849eeec39b2c9583547" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55"/>
+		<ra_hash>0b572c0dfb938849eeec39b2c9583547</ra_hash>
 		<url>https://retroachievements.org/game/11512/hashes</url>
-		<hash>0b572c0dfb938849eeec39b2c9583547</hash>
 	</game>
-	
+
 	<game name="Retail/Ishido - The Way of Stones (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Ishido - The Way of Stones (USA, Europe)</description>
-		<rom name="Ishido - The Way of Stones (USA, Europe).lyx" size="131072" crc="5cf8bbf0" md5="addc6c0ae7b535839815b8e7f7fd0f11" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89"/>
+		<rom name="Ishido - The Way of Stones (USA, Europe).lnx" size="131072" crc="5CF8BBF0" md5="addc6c0ae7b535839815b8e7f7fd0f11" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89"/>
+		<ra_hash>addc6c0ae7b535839815b8e7f7fd0f11</ra_hash>
 		<url>https://retroachievements.org/game/10201/hashes</url>
-		<hash>addc6c0ae7b535839815b8e7f7fd0f11</hash>
 	</game>
-	
+
 	<game name="Retail/Krazy Ace - Miniature Golf (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Krazy Ace - Miniature Golf (USA, Europe)</description>
-		<rom name="Krazy Ace - Miniature Golf (USA, Europe).lyx" size="262144" crc="bed5ba2b" md5="7e82db12a5749ab983e2f3c8bf4c0f6e" sha1="20e9011c922f06d9c8823f15c71e005ac2268295"/>
+		<rom name="Krazy Ace - Miniature Golf (USA, Europe).lnx" size="262144" crc="BED5BA2B" md5="7e82db12a5749ab983e2f3c8bf4c0f6e" sha1="20e9011c922f06d9c8823f15c71e005ac2268295"/>
+		<ra_hash>7e82db12a5749ab983e2f3c8bf4c0f6e</ra_hash>
 		<url>https://retroachievements.org/game/11487/hashes</url>
-		<hash>7e82db12a5749ab983e2f3c8bf4c0f6e</hash>
 	</game>
-	
+
 	<game name="Retail/Kung Food (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Kung Food (USA, Europe)</description>
-		<rom name="Kung Food (USA, Europe).lyx" size="262144" crc="cd1bd405" md5="e5e42190918847b8c6056e78316ee91d" sha1="ae1bd18b30dd9ae67472c4c532f4d65d23324555"/>
+		<rom name="Kung Food (USA, Europe).lnx" size="262144" crc="CD1BD405" md5="e5e42190918847b8c6056e78316ee91d" sha1="ae1bd18b30dd9ae67472c4c532f4d65d23324555"/>
+		<ra_hash>e5e42190918847b8c6056e78316ee91d</ra_hash>
 		<url>https://retroachievements.org/game/11478/hashes</url>
-		<hash>e5e42190918847b8c6056e78316ee91d</hash>
 	</game>
-	
-	<game name="Retail/Lexis (World) (Aftermarket)">
+
+	<game name="Retail/Lexis (World) (Aftermarket) (Unl)">
 		<category></category>
-		<description>Lexis (World) (Aftermarket)</description>
-		<rom name="Lexis (World) (Aftermarket).lyx" size="262144" crc="0271b6e9" md5="7ee41edaef283459c9df93366c5da267" sha1="b973cee4a58dbae5ab2d540b38db90aae78ba323"/>
+		<source>No-Intro</source>
+		<description>Lexis (World) (Aftermarket) (Unl)</description>
+		<rom name="Lexis (World) (Aftermarket) (Unl).lnx" size="262144" crc="0271B6E9" md5="7ee41edaef283459c9df93366c5da267" sha1="b973cee4a58dbae5ab2d540b38db90aae78ba323"/>
+		<ra_hash>7ee41edaef283459c9df93366c5da267</ra_hash>
 		<url>https://retroachievements.org/game/10242/hashes</url>
-		<hash>7ee41edaef283459c9df93366c5da267</hash>
 	</game>
-	
+
+	<game name="Prototype/Marlboro Go! (Europe) (Proto 2)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Marlboro Go! (Europe) (Proto 2)</description>
+		<rom name="Marlboro Go! (Europe) (Proto 2).lnx" size="262144" crc="C3FA0D4D" md5="194a3eeb876d2b74cc480f4d337d79b3" sha1="26b18b706359b093d0b1bbca4dba9cd2d73e0372"/>
+		<ra_hash>194a3eeb876d2b74cc480f4d337d79b3</ra_hash>
+		<url>https://retroachievements.org/game/11492/hashes</url>
+	</game>
+
 	<game name="Retail/Ms. Pac-Man (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Ms. Pac-Man (World)</description>
-		<rom name="Ms. Pac-Man (World).lyx" size="131072" crc="7de3783a" md5="192b6b764a3a1c7831e0a785fa4b5453" sha1="ff644034cd840f8c13b643c44ec2c685290e0326"/>
+		<rom name="Ms. Pac-Man (World).lnx" size="131072" crc="7DE3783A" md5="192b6b764a3a1c7831e0a785fa4b5453" sha1="ff644034cd840f8c13b643c44ec2c685290e0326"/>
+		<ra_hash>192b6b764a3a1c7831e0a785fa4b5453</ra_hash>
 		<url>https://retroachievements.org/game/10598/hashes</url>
-		<hash>192b6b764a3a1c7831e0a785fa4b5453</hash>
 	</game>
-	
+
 	<game name="Retail/Ninja Gaiden (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Ninja Gaiden (USA, Europe)</description>
-		<rom name="Ninja Gaiden (USA, Europe).lyx" size="262144" crc="22d47d51" md5="7ec4063eb6c7c74600d6a16fb3a3bdbd" sha1="a40b5dabff9c2f6114fdbc587c72312704d7fabb"/>
+		<rom name="Ninja Gaiden (USA, Europe).lnx" size="262144" crc="22D47D51" md5="7ec4063eb6c7c74600d6a16fb3a3bdbd" sha1="a40b5dabff9c2f6114fdbc587c72312704d7fabb"/>
+		<ra_hash>7ec4063eb6c7c74600d6a16fb3a3bdbd</ra_hash>
 		<url>https://retroachievements.org/game/10637/hashes</url>
-		<hash>7ec4063eb6c7c74600d6a16fb3a3bdbd</hash>
 	</game>
-	
+
 	<game name="Retail/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)</description>
-		<rom name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lyx" size="524288" crc="f3e3f811" md5="c9ed2a3bdefd6d5fdf67302d87b5cfb2" sha1="37861cc3025d9addbace8d07c8f65961cba29eaa"/>
+		<rom name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lnx" size="524288" crc="F3E3F811" md5="c9ed2a3bdefd6d5fdf67302d87b5cfb2" sha1="37861cc3025d9addbace8d07c8f65961cba29eaa"/>
+		<ra_hash>c9ed2a3bdefd6d5fdf67302d87b5cfb2</ra_hash>
 		<url>https://retroachievements.org/game/12665/hashes</url>
-		<hash>c9ed2a3bdefd6d5fdf67302d87b5cfb2</hash>
 	</game>
-	
+
+	<game name="Retail/Pac-Land (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Pac-Land (USA, Europe)</description>
+		<rom name="Pac-Land (USA, Europe).lyx" size="131072" crc="AA50DD22" md5="0a14754b351b4f11a1359e252b8eb992" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d"/>
+		<ra_hash>0a14754b351b4f11a1359e252b8eb992</ra_hash>
+		<url>https://retroachievements.org/game/10600/hashes</url>
+	</game>
+
 	<game name="Retail/Pinball Jam (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Pinball Jam (USA, Europe)</description>
-		<rom name="Pinball Jam (USA, Europe).lyx" size="262144" crc="14d38ca7" md5="29a248fbc87f477b49587581e29c1dc7" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e"/>
+		<rom name="Pinball Jam (USA, Europe).lnx" size="262144" crc="14D38CA7" md5="29a248fbc87f477b49587581e29c1dc7" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e"/>
+		<ra_hash>29a248fbc87f477b49587581e29c1dc7</ra_hash>
 		<url>https://retroachievements.org/game/11475/hashes</url>
-		<hash>29a248fbc87f477b49587581e29c1dc7</hash>
 	</game>
-	
+
 	<game name="Retail/Pit-Fighter (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Pit-Fighter (USA, Europe)</description>
-		<rom name="Pit-Fighter (USA, Europe).lyx" size="524288" crc="2393135f" md5="5565889a9a8817f99ec6dda322a70877" sha1="30f8c7acf41a988578768b251e88b636462752cb"/>
+		<rom name="Pit-Fighter (USA, Europe).lnx" size="524288" crc="2393135F" md5="5565889a9a8817f99ec6dda322a70877" sha1="30f8c7acf41a988578768b251e88b636462752cb"/>
+		<ra_hash>5565889a9a8817f99ec6dda322a70877</ra_hash>
 		<url>https://retroachievements.org/game/11489/hashes</url>
-		<hash>5565889a9a8817f99ec6dda322a70877</hash>
 	</game>
-	
+
 	<game name="Retail/Rampart (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Rampart (USA, Europe)</description>
-		<rom name="Rampart (USA, Europe).lyx" size="262144" crc="139f301d" md5="d8045ed542d5e58c779c884e0930e16c" sha1="3c3a0729bb4ddecf5e5fd2d9ced4671d2e0e702e"/>
+		<rom name="Rampart (USA, Europe).lnx" size="262144" crc="139F301D" md5="d8045ed542d5e58c779c884e0930e16c" sha1="3c3a0729bb4ddecf5e5fd2d9ced4671d2e0e702e"/>
+		<ra_hash>d8045ed542d5e58c779c884e0930e16c</ra_hash>
 		<url>https://retroachievements.org/game/25884/hashes</url>
-		<hash>d8045ed542d5e58c779c884e0930e16c</hash>
 	</game>
-	
+
 	<game name="Retail/Robotron 2084 (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Robotron 2084 (USA, Europe)</description>
-		<rom name="Robotron 2084 (USA, Europe).lyx" size="131072" crc="7a6049b5" md5="60c1dfbf112bbb2a49cf16eddb191842" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89"/>
+		<rom name="Robotron 2084 (USA, Europe).lnx" size="131072" crc="7A6049B5" md5="60c1dfbf112bbb2a49cf16eddb191842" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89"/>
+		<ra_hash>60c1dfbf112bbb2a49cf16eddb191842</ra_hash>
 		<url>https://retroachievements.org/game/12858/hashes</url>
-		<hash>60c1dfbf112bbb2a49cf16eddb191842</hash>
 	</game>
-	
+
+	<game name="Homebrew/Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)</description>
+		<rom name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos).lnx" size="262208" crc="482719D8" md5="f3663cf094ca1ab6883d6b3c03e7429d" sha1="f826cecb0e2ddc3620d6509b821591aa11d0ec4e"/>
+		<ra_hash>24077ab7bf46300ff02aa4ca78a81c2c</ra_hash>
+		<url>https://retroachievements.org/game/29053/hashes</url>
+	</game>
+
 	<game name="Retail/Rygar (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Rygar (World)</description>
-		<rom name="Rygar (World).lyx" size="262144" crc="67e5bdba" md5="ff6fff314446ab70dfecb21e2de4a2f6" sha1="8743769af583af681fd1d96aadb533d26b1b510d"/>
+		<rom name="Rygar (World).lnx" size="262144" crc="67E5BDBA" md5="ff6fff314446ab70dfecb21e2de4a2f6" sha1="8743769af583af681fd1d96aadb533d26b1b510d"/>
+		<ra_hash>ff6fff314446ab70dfecb21e2de4a2f6</ra_hash>
 		<url>https://retroachievements.org/game/11473/hashes</url>
-		<hash>ff6fff314446ab70dfecb21e2de4a2f6</hash>
 	</game>
-	
+
+	<game name="Homebrew/Scooternia (World) (Demo) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Scooternia (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Scooternia (World) (Demo) (Aftermarket) (Unl).lyx" size="262144" crc="7606DCAC" md5="459aaf1e66384ea3534e3ce2149a1718" sha1="93e228f35b5b38f1d5bfac0fbb934ea5fbc98263"/>
+		<ra_hash>459aaf1e66384ea3534e3ce2149a1718</ra_hash>
+		<url>https://retroachievements.org/game/24300/hashes</url>
+	</game>
+
 	<game name="Retail/Shadow of the Beast (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Shadow of the Beast (USA, Europe)</description>
-		<rom name="Shadow of the Beast (USA, Europe).lyx" size="262144" crc="eb78baa3" md5="f92d57198ef2da30dba63bdd7c15ff83" sha1="8b891b5dafba71740294c8dc818717d3b00be3a5"/>
+		<rom name="Shadow of the Beast (USA, Europe).lnx" size="262144" crc="EB78BAA3" md5="f92d57198ef2da30dba63bdd7c15ff83" sha1="8b891b5dafba71740294c8dc818717d3b00be3a5"/>
+		<ra_hash>f92d57198ef2da30dba63bdd7c15ff83</ra_hash>
 		<url>https://retroachievements.org/game/10857/hashes</url>
-		<hash>f92d57198ef2da30dba63bdd7c15ff83</hash>
 	</game>
-	
+
 	<game name="Retail/Shanghai (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Shanghai (World)</description>
-		<rom name="Shanghai (World).lyx" size="131072" crc="192bcd04" md5="46634eb87e6380d4d10f7b80d177c1ff" sha1="9e67e05545934a7d375597b0e8c469468c5748a4"/>
+		<rom name="Shanghai (World).lnx" size="131072" crc="192BCD04" md5="46634eb87e6380d4d10f7b80d177c1ff" sha1="9e67e05545934a7d375597b0e8c469468c5748a4"/>
+		<ra_hash>46634eb87e6380d4d10f7b80d177c1ff</ra_hash>
 		<url>https://retroachievements.org/game/13040/hashes</url>
-		<hash>46634eb87e6380d4d10f7b80d177c1ff</hash>
 	</game>
-	
+
 	<game name="Retail/Switchblade II (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Switchblade II (USA, Europe)</description>
-		<rom name="Switchblade II (USA, Europe).lyx" size="262144" crc="13657705" md5="4971dd8b47d3475dc8d31b5325c14459" sha1="256d55e8e9478c53e340321c858df6710a9f69a6"/>
+		<rom name="Switchblade II (USA, Europe).lnx" size="262144" crc="13657705" md5="4971dd8b47d3475dc8d31b5325c14459" sha1="256d55e8e9478c53e340321c858df6710a9f69a6"/>
+		<ra_hash>4971dd8b47d3475dc8d31b5325c14459</ra_hash>
 		<url>https://retroachievements.org/game/10997/hashes</url>
-		<hash>4971dd8b47d3475dc8d31b5325c14459</hash>
 	</game>
-	
+
+	<game name="Homebrew/T-Tris (World) (Pirate) (Alt)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>T-Tris (World) (Pirate) (Alt)</description>
+		<rom name="T-Tris (World) (Pirate) (Alt).bll" size="15700" crc="A261FCBC" md5="1b6a8a0b7f80332e9c7dfecaded8683e" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f"/>
+		<ra_hash>1b6a8a0b7f80332e9c7dfecaded8683e</ra_hash>
+		<url>https://retroachievements.org/game/24898/hashes</url>
+	</game>
+
+	<game name="Homebrew/Timeloop (World) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Timeloop (World) (Aftermarket) (Unl)</description>
+		<rom name="Timeloop (World) (Aftermarket) (Unl).lnx" size="262208" crc="5508E5F5" md5="dc0919e6666a61b11a0f904b543a7518" sha1="7c30f02e6a908b1c93e8251e0ed3f96234ebe72f"/>
+		<ra_hash>749f3e82357bab232731f0e56f97569c</ra_hash>
+		<url>https://retroachievements.org/game/27007/hashes</url>
+	</game>
+
 	<game name="Retail/Toki (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Toki (USA, Europe)</description>
-		<rom name="Toki (USA, Europe).lyx" size="262144" crc="156a4a4c" md5="ec46311f47276e20cc43228c96d119a1" sha1="242fee76ea2ae263511df5d8bd3f7b0ddc81757d"/>
+		<rom name="Toki (USA, Europe).lnx" size="262144" crc="156A4A4C" md5="ec46311f47276e20cc43228c96d119a1" sha1="242fee76ea2ae263511df5d8bd3f7b0ddc81757d"/>
+		<ra_hash>ec46311f47276e20cc43228c96d119a1</ra_hash>
 		<url>https://retroachievements.org/game/11161/hashes</url>
-		<hash>ec46311f47276e20cc43228c96d119a1</hash>
 	</game>
-	
+
 	<game name="Retail/Tournament Cyberball (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Tournament Cyberball (USA, Europe)</description>
-		<rom name="Tournament Cyberball (USA, Europe).lyx" size="262144" crc="0590a9e3" md5="391dfaba9ab8b9b60e9d8ca2a73f5711" sha1="e63cc54e34840a4e3c1aa5bbce4e406895e44534"/>
+		<rom name="Tournament Cyberball (USA, Europe).lnx" size="262144" crc="0590A9E3" md5="391dfaba9ab8b9b60e9d8ca2a73f5711" sha1="e63cc54e34840a4e3c1aa5bbce4e406895e44534"/>
+		<ra_hash>391dfaba9ab8b9b60e9d8ca2a73f5711</ra_hash>
 		<url>https://retroachievements.org/game/26382/hashes</url>
-		<hash>391dfaba9ab8b9b60e9d8ca2a73f5711</hash>
 	</game>
-	
+
 	<game name="Retail/Warbirds (USA, Europe)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Warbirds (USA, Europe)</description>
-		<rom name="Warbirds (USA, Europe).lyx" size="131072" crc="b946ba49" md5="e7f118ac59f985ceea2ecfc0f17e9cc6" sha1="2c376581ac20fb5de8538b51820e1f007cca8260"/>
+		<rom name="Warbirds (USA, Europe).lnx" size="131072" crc="B946BA49" md5="e7f118ac59f985ceea2ecfc0f17e9cc6" sha1="2c376581ac20fb5de8538b51820e1f007cca8260"/>
+		<ra_hash>e7f118ac59f985ceea2ecfc0f17e9cc6</ra_hash>
 		<url>https://retroachievements.org/game/12913/hashes</url>
-		<hash>e7f118ac59f985ceea2ecfc0f17e9cc6</hash>
 	</game>
-	
+
+	<game name="Homebrew/Z.A.P. (World) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Z.A.P. (World) (Aftermarket) (Unl)</description>
+		<rom name="Z.A.P. (World) (Aftermarket) (Unl).lnx" size="24873" crc="6B51794E" md5="fb84478cb62f47c0773996515ada47c9" sha1="7cd0c413e12c812fdb6476f7ed661111fe90bec1"/>
+		<ra_hash>d5079e2e6e1ad9c2b730e47c240a4da0</ra_hash>
+		<url>https://retroachievements.org/game/19714/hashes</url>
+	</game>
+
 	<game name="Retail/Zarlor Mercenary (World)">
 		<category></category>
+		<source>No-Intro</source>
 		<description>Zarlor Mercenary (World)</description>
-		<rom name="Zarlor Mercenary (World).lyx" size="131072" crc="cb27199d" md5="d008f41ec119e2c5c6a0782aebf148a8" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069"/>
+		<rom name="Zarlor Mercenary (World).lnx" size="131072" crc="CB27199D" md5="d008f41ec119e2c5c6a0782aebf148a8" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069"/>
+		<ra_hash>d008f41ec119e2c5c6a0782aebf148a8</ra_hash>
 		<url>https://retroachievements.org/game/10196/hashes</url>
-		<hash>d008f41ec119e2c5c6a0782aebf148a8</hash>
 	</game>
 </datafile>
