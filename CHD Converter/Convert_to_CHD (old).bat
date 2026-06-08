@@ -18,7 +18,7 @@ rem Added checker/fixer:
 rem - Uses chdman info -v to inspect existing CHD metadata.
 rem - Detects CD CHD vs DVD CHD when metadata is available.
 rem - Detects ZSTD vs standard/default compression, including CD codec cdzs.
-rem - Can fix wrong compression by directly recompressing with chdman copy.
+rem - Can fix wrong compression by extracting to temp files and recompressing.
 rem - Original CHDs are renamed to .backup_RANDOM.chd after a successful fix.
 rem - CHD check/fix uses environment variables plus PowerShell for chdman calls,
 rem   so legal filename characters like %, ^, &, and ! do not need renaming.
@@ -222,7 +222,6 @@ echo   - Source files are never deleted.
 echo   - Optional cleanup can move successfully converted source files to _Converted_Source.
 echo   - Loose .bin files are ignored; convert from the matching .cue.
 echo   - chdman progress is shown live during conversion and fixing.
-echo   - Fixing existing CHDs uses direct chdman copy, not extract/rebuild.
 echo   - Check/fix uses CHD metadata. Unknown CD/DVD type is logged and skipped by fixer.
 echo.
 pause
@@ -793,7 +792,8 @@ echo ============================================================
 echo Fix Wrong CHD Compression
 echo ============================================================
 echo.
-echo This will scan existing CHDs and recompress them with the correct compression.
+echo This will scan existing CHDs, extract fixable wrong-compression CHDs
+echo to temporary files, then recompress them with the correct compression.
 echo.
 echo Original CHDs are not deleted. After a successful fix, the original CHD
 echo is renamed to:
@@ -853,7 +853,8 @@ echo.
 echo Selected system:
 echo %SELECTED_SYSTEM%
 echo.
-echo This will scan only this system folder and recompress them with the correct compression.
+echo This will scan only this system folder, extract fixable wrong-compression
+echo CHDs to temporary files, then recompress them with the correct compression.
 echo.
 echo Original CHDs are not deleted. After a successful fix, the original CHD
 echo is renamed to:
@@ -1115,11 +1116,6 @@ for %%A in ("%CHD_FILE%") do (
 set "TMPDIR=%TEMP%\chd_fix_%RANDOM%_%RANDOM%"
 set "FIXED=%TMPDIR%\fixed.chd"
 set "BACKUP=%CHD_DIR%%CHD_BASE%.backup_%RANDOM%.chd"
-set "COPY_COMP_ARG="
-if /I "%TARGET_COMP%"=="ZSTD" (
-    if /I "%DETECT_TYPE%"=="CD" set "COPY_COMP_ARG=-c cdzs,cdzl,cdfl"
-    if /I "%DETECT_TYPE%"=="DVD" set "COPY_COMP_ARG=-c zstd,zlib,huff,flac"
-)
 
 echo.
 echo [FIX] %DETECT_TYPE% -> %TARGET_COMP%
@@ -1132,19 +1128,34 @@ if exist "%TMPDIR%" rmdir /s /q "%TMPDIR%" >nul 2>nul
 mkdir "%TMPDIR%" >nul 2>nul
 if exist "%FIXED%" del /f /q "%FIXED%" >nul 2>nul
 
-if /I "%DETECT_TYPE%"=="CD" goto FixCopy
-if /I "%DETECT_TYPE%"=="DVD" goto FixCopy
+if /I "%DETECT_TYPE%"=="CD" goto FixCD
+if /I "%DETECT_TYPE%"=="DVD" goto FixDVD
 
 echo [FIX SKIP] Unknown CHD type: "%CHD_FILE%"
 echo [FIX SKIP] Unknown CHD type: "%CHD_FILE%">>"%LOG%"
 set /a CHD_FIX_FAILED+=1
 goto FixCleanup
 
-:FixCopy
-if defined COPY_COMP_ARG (
-    "%CHDMAN%" copy -i "%CHD_FILE%" -o "%FIXED%" %COPY_COMP_ARG%
+:FixCD
+"%CHDMAN%" extractcd -i "%CHD_FILE%" -o "%TMPDIR%\source.cue"
+if errorlevel 1 goto FixFailed
+
+if /I "%TARGET_COMP%"=="ZSTD" (
+    "%CHDMAN%" createcd -i "%TMPDIR%\source.cue" -o "%FIXED%" -c cdzs,cdzl,cdfl
 ) else (
-    "%CHDMAN%" copy -i "%CHD_FILE%" -o "%FIXED%"
+    "%CHDMAN%" createcd -i "%TMPDIR%\source.cue" -o "%FIXED%"
+)
+if errorlevel 1 goto FixFailed
+goto FixReplace
+
+:FixDVD
+"%CHDMAN%" extractdvd -i "%CHD_FILE%" -o "%TMPDIR%\source.iso"
+if errorlevel 1 goto FixFailed
+
+if /I "%TARGET_COMP%"=="ZSTD" (
+    "%CHDMAN%" createdvd -i "%TMPDIR%\source.iso" -o "%FIXED%" -c zstd,zlib,huff,flac
+) else (
+    "%CHDMAN%" createdvd -i "%TMPDIR%\source.iso" -o "%FIXED%"
 )
 if errorlevel 1 goto FixFailed
 goto FixReplace
