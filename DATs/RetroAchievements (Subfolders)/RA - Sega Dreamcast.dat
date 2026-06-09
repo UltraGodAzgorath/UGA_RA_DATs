@@ -5,12 +5,12 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
-		<titlecount>172</titlecount>
-		<hashcount>218</hashcount>
+		<titlecount>173</titlecount>
+		<hashcount>219</hashcount>
 	</header>
 
 	<machine name="Retail/18 Wheeler - American Pro Trucker/18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)">
@@ -28,6 +28,15 @@
 		<disk name="18 Wheeler - American Pro Trucker (USA).chd" sha1="8946758a2568920c90471418d7eaff750b5cdec5"/>
 		<ra_hash>aa571861964e9f58437f609239cbfb7c</ra_hash>
 		<url>https://retroachievements.org/game/9761/hashes</url>
+	</machine>
+
+	<machine name="Retail/4 Wheel Thunder (Europe) (En,Fr)">
+		<category></category>
+		<source>Redump</source>
+		<description>4 Wheel Thunder (Europe) (En,Fr)</description>
+		<disk name="4 Wheel Thunder (Europe) (En,Fr).chd" sha1="78b6908abdb534a076b37bd39880021353d1f8e0"/>
+		<ra_hash>bfcc470ff96f95728d13683cc5df28cb</ra_hash>
+		<url>https://retroachievements.org/game/4604/hashes</url>
 	</machine>
 
 	<machine name="Retail/Aerowings/Aero Dancing featuring Blue Impulse (Japan)">

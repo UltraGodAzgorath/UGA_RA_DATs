@@ -5,12 +5,12 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>933</titlecount>
-		<hashcount>933</hashcount>
+		<titlecount>936</titlecount>
+		<hashcount>936</hashcount>
 	</header>
 
 	<game name="Homebrew/16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -356,6 +356,23 @@
 		<rom name="AlterEgo - Remastered (World) (Aftermarket) (Unl).md" size="786432" crc="3BE95745" md5="30c01f5a82b51fd7e23315dd070d5818" sha1="6f80b92b01aa35df3ea08d44225809f9d33c486b"/>
 		<ra_hash>30c01f5a82b51fd7e23315dd070d5818</ra_hash>
 		<url>https://retroachievements.org/game/17392/hashes</url>
+	</game>
+
+	<game name="Unlicensed/Angry Birds/Angry Birds (Russia) (En) (Aftermarket) (Unl)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Angry Birds (Russia) (En) (Aftermarket) (Unl)</description>
+		<rom name="Angry Birds (Russia) (En) (Aftermarket) (Unl).md" size="2621440" crc="A7F4ACA9" md5="26dd62c05ed4f3338a76b5e20109e04f" sha1="ebf0e1bbd37481c0c60bc3eca7f9a179ab730bc7"/>
+		<ra_hash>26dd62c05ed4f3338a76b5e20109e04f</ra_hash>
+		<url>https://retroachievements.org/game/12830/hashes</url>
+	</game>
+	<game name="Unlicensed/Angry Birds/Angry Birds (Unl)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Angry Birds (Unl)</description>
+		<rom name="Angry Birds (Unl).bin" size="3145728" crc="9EC3A54A" md5="26c8b55381f3cbd43f54f4db7aeffe25" sha1="f2c7613f6055ac94efe555d08dec44fdd698f8a9"/>
+		<ra_hash>26c8b55381f3cbd43f54f4db7aeffe25</ra_hash>
+		<url>https://retroachievements.org/game/12830/hashes</url>
 	</game>
 
 	<game name="Unlicensed/Angry Birds - Star Wars (Russia) (Aftermarket) (Unl)">
@@ -7103,6 +7120,15 @@
 		<rom name="TaleSpin (USA, Europe).md" size="524288" crc="F5C0C8D0" md5="2ac0d4208641095358d663b3eb17b397" sha1="9b6ab86fea23adb3cfba38b893278d856540c8b8"/>
 		<ra_hash>2ac0d4208641095358d663b3eb17b397</ra_hash>
 		<url>https://retroachievements.org/game/1352/hashes</url>
+	</game>
+
+	<game name="Retail/Target Earth (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Target Earth (USA)</description>
+		<rom name="Target Earth (USA).md" size="524288" crc="CDDF62D3" md5="ae816c5017578267060fd4733586cba7" sha1="e19f7a02f140882e0364f11cd096aec712e56f83"/>
+		<ra_hash>ae816c5017578267060fd4733586cba7</ra_hash>
+		<url>https://retroachievements.org/game/811/hashes</url>
 	</game>
 
 	<game name="Retail/Taz in Escape From Mars/Taz in Escape from Mars (Europe)">

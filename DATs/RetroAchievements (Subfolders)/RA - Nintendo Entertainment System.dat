@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1964</titlecount>
-		<hashcount>1964</hashcount>
+		<titlecount>1965</titlecount>
+		<hashcount>1965</hashcount>
 	</header>
 
 	<game name="Retail/10-Yard Fight (USA, Europe)">
@@ -2528,6 +2528,15 @@
 		<rom name="Chocobo Kwehst (Maeson) (v1.0).nes" size="65556" crc="DE054819" md5="76be97c26375b8c4c9b2c529a817e866" sha1="a5d25b8d899eadd611f84c4ddb14b02acdf63a36"/>
 		<ra_hash>50811428a9c36bd7c52185f2a3ecafe3</ra_hash>
 		<url>https://retroachievements.org/game/11118/hashes</url>
+	</game>
+
+	<game name="Retail/Choplifter (Japan) (En) (Rev 1)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Choplifter (Japan) (En) (Rev 1)</description>
+		<rom name="Choplifter (Japan) (En) (Rev 1).nes" size="49168" crc="A522E845" md5="83d2badc78560db5e62e3c2f857ee551" sha1="1589f4e46791a330a65c953ca15228145e24216d"/>
+		<ra_hash>159b14782dea180d92719454c1ac0869</ra_hash>
+		<url>https://retroachievements.org/game/4823/hashes</url>
 	</game>
 
 	<game name="Retail/Chou Fuyuu Yousai - Exed Exes (Japan)">
@@ -7483,7 +7492,7 @@
 		<url>https://retroachievements.org/game/1772/hashes</url>
 	</game>
 
-	<game name="Retail/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations)">
+	<game name="Retail/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations)</description>
@@ -7491,7 +7500,7 @@
 		<ra_hash>d26e9dab1a15a6cf6dc4a5316da6cb32</ra_hash>
 		<url>https://retroachievements.org/game/5001/hashes</url>
 	</game>
-	<game name="Retail/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations) (Addendum) (Proveaux)">
+	<game name="Retail/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations) (Addendum) (Proveaux)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (En) (v1.0) (Suicidal Translations) (Addendum) (Proveaux)</description>
@@ -7499,7 +7508,7 @@
 		<ra_hash>9d7b08af2ae54671b2c634db4cbc81af</ra_hash>
 		<url>https://retroachievements.org/game/5001/hashes</url>
 	</game>
-	<game name="Retail/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (Japan)">
+	<game name="Retail/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (Japan)</description>

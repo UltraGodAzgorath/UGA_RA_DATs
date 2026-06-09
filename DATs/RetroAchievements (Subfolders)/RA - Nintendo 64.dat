@@ -5,12 +5,12 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>828</titlecount>
-		<hashcount>828</hashcount>
+		<titlecount>829</titlecount>
+		<hashcount>829</hashcount>
 	</header>
 
 	<game name="Hack/007 - Goldfinger (Hack) (Various)">
@@ -6024,6 +6024,15 @@
 		<rom name="SM64 - The Super Mario Bros. Super Show 64 (v1.1 Widescreen) (Pasta Power).z64" size="67108864" crc="EC1D6D0B" md5="7142aef068be455a721cd7fd2fd5d41c" sha1="4b4108d689076db00358f1aca725ff3444eaf98a"/>
 		<ra_hash>7142aef068be455a721cd7fd2fd5d41c</ra_hash>
 		<url>https://retroachievements.org/game/33396/hashes</url>
+	</game>
+
+	<game name="Hack/SM64 - The Unknown Courses (v2.1) (aextasy)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, rhdc, RAPatches</source>
+		<description>SM64 - The Unknown Courses (v2.1) (aextasy)</description>
+		<rom name="SM64 - The Unknown Courses (v2.1) (aextasy).z64" size="67413792" crc="06F23525" md5="adcf6720f3166cf06d7468137f82500a" sha1="4480cb4b916b48b3646ec3043fab9d75ae84d8ee"/>
+		<ra_hash>6c18bf903890d4a0f7ec76b53dadd3dd</ra_hash>
+		<url>https://retroachievements.org/game/38622/hashes</url>
 	</game>
 
 	<game name="Hack/SM64 - Through the Ages (v1.1) (Kaze Emanuar)">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>325</titlecount>
-		<hashcount>325</hashcount>
+		<titlecount>327</titlecount>
+		<hashcount>327</hashcount>
 	</header>
 
 	<game name="3D Pixel Racing (USA) (WiiWare)">
@@ -254,6 +254,16 @@
 		<rom name="Blaster Master - Overdrive (USA) (WiiWare).wad" size="36702144" crc="B74D199F" md5="5095e9b112aeee46a4b59d4cdefbfc90" sha1="8a2f871be3fa6299c6fe0a630cd39f3722dcd427"/>
 		<ra_hash>1df6b3fdad3512fd42f9553353dcbfe5</ra_hash>
 		<url>https://retroachievements.org/game/34730/hashes</url>
+	</game>
+
+	<game name="Bleach - Shattered Blade (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Bleach - Shattered Blade (USA)</description>
+		<release name="Bleach - Shattered Blade (USA)" region="USA"/>
+		<rom name="Bleach - Shattered Blade (USA).rvz" size="838938752" crc="9C8E0A61" md5="3bddfdf0fc025d7ff2dae71bc09a23f5" sha1="90c285ba04d51f5d84f079fbf47f86da2bcabfe2"/>
+		<ra_hash>47221f5cf79e47b5795e18d78262c554</ra_hash>
+		<url>https://retroachievements.org/game/35367/hashes</url>
 	</game>
 
 	<game name="Bloons (USA) (WiiWare)">
@@ -2215,6 +2225,16 @@
 		<rom name="MiniCopter Adventure Flight (USA).rvz" size="505255176" crc="843376E9" md5="a3f10ab0c9c0bb2bbd2e768a6c478db6" sha1="633e4b9f7ba6286bc8ab98e12fd70b048e144e2d"/>
 		<ra_hash>a37961f54397fa776cf28a4ddfb5967f</ra_hash>
 		<url>https://retroachievements.org/game/36027/hashes</url>
+	</game>
+
+	<game name="Monkey King, The - The Legend Begins (USA) (Rev 1)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Monkey King, The - The Legend Begins (USA) (Rev 1)</description>
+		<release name="Monkey King, The - The Legend Begins (USA) (Rev 1)" region="USA"/>
+		<rom name="Monkey King, The - The Legend Begins (USA) (Rev 1).rvz" size="99465728" crc="42D560DD" md5="004f41e875ca5288d7efdae80eefe7dc" sha1="7421e8522a6cfc0d03996c637d6fdc16c792c152"/>
+		<ra_hash>70de626f8c52e726cff304d1f7bb574c</ra_hash>
+		<url>https://retroachievements.org/game/34772/hashes</url>
 	</game>
 
 	<game name="Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl)">

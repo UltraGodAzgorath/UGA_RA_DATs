@@ -5,12 +5,12 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/29-microsoft-msx/games</url>
-		<titlecount>205</titlecount>
-		<hashcount>241</hashcount>
+		<titlecount>207</titlecount>
+		<hashcount>243</hashcount>
 	</header>
 
 	<game name="Homebrew/10 Lines Princess (World) (Aftermarket) (Unl)">
@@ -827,6 +827,15 @@
 		<url>https://retroachievements.org/game/33781/hashes</url>
 	</game>
 
+	<game name="Homebrew/Magical Boco (2024) (meichnpp)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Magical Boco (2024) (meichnpp)</description>
+		<rom name="Magical Boco (2024) (meichnpp).dsk" size="737280" crc="361C3CFA" md5="6309b4f93b799f0464ad0f13c81dd426" sha1="1937df260f3617c4572183efb5eda6f493699fcb"/>
+		<ra_hash>6309b4f93b799f0464ad0f13c81dd426</ra_hash>
+		<url>https://retroachievements.org/game/33952/hashes</url>
+	</game>
+
 	<game name="Retail/Magical Tree (Japan)">
 		<category>MSX</category>
 		<source>No-Intro</source>
@@ -1635,6 +1644,15 @@
 		<rom name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).rom" size="720896" crc="6DDDEB62" md5="3e900c93a758c417afe6bb3c11434c7a" sha1="1463f1e0216ad9f944bb1da748a01034da445cef"/>
 		<ra_hash>3e900c93a758c417afe6bb3c11434c7a</ra_hash>
 		<url>https://retroachievements.org/game/18786/hashes</url>
+	</game>
+
+	<game name="Retail/Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP)">
+		<category></category>
+		<source>TOSEC</source>
+		<description>Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP)</description>
+		<rom name="Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP).dsk" size="737280" crc="C9C9E404" md5="363ed5de9bd5d701d122c770d473e6c8" sha1="7a3f9b86274f0a11cc4efabf28b8ca122632d695"/>
+		<ra_hash>363ed5de9bd5d701d122c770d473e6c8</ra_hash>
+		<url>https://retroachievements.org/game/11060/hashes</url>
 	</game>
 
 	<game name="Homebrew/Tales of Popolon/Tales of Popolon (2017) (En) (Brain Games)">

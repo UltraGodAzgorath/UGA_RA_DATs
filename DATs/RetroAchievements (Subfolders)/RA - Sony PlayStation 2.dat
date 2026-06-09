@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>887</titlecount>
-		<hashcount>1159</hashcount>
+		<titlecount>896</titlecount>
+		<hashcount>1166</hashcount>
 	</header>
 
 	<machine name="Retail/007 - Agent Under Fire/007 - Agent Under Fire (USA)">
@@ -105,6 +105,15 @@
 		<disk name="10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="e8907c617089a0f95bcb24a49208ffd0f4b0c250"/>
 		<ra_hash>5bb946be2ce2e1c5e8f0e5868eefbc65</ra_hash>
 		<url>https://retroachievements.org/game/21541/hashes</url>
+	</machine>
+
+	<machine name="Retail/187 - Ride or Die (USA) (En,Fr,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>187 - Ride or Die (USA) (En,Fr,Es)</description>
+		<disk name="187 - Ride or Die (USA) (En,Fr,Es).chd" sha1="5313f98aceec2478e913746c04531a6b0566837c"/>
+		<ra_hash>6d42a5136c11eaf676b95e8037c0455d</ra_hash>
+		<url>https://retroachievements.org/game/21553/hashes</url>
 	</machine>
 
 	<machine name="Retail/25 to Life/25 to Life (USA)">
@@ -4341,6 +4350,15 @@
 		<url>https://retroachievements.org/game/19351/hashes</url>
 	</machine>
 
+	<machine name="Retail/Hitman - Contracts (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Hitman - Contracts (USA)</description>
+		<disk name="Hitman - Contracts (USA).chd" sha1="702d54cb1ef0adb4ca3eeb75d5d100c4b2413841"/>
+		<ra_hash>550eccc0f3829dfda5e03166739ea7da</ra_hash>
+		<url>https://retroachievements.org/game/19092/hashes</url>
+	</machine>
+
 	<machine name="Retail/Hitman 2 - Silent Assassin (USA) (v3.01)">
 		<category></category>
 		<source>Redump</source>
@@ -4986,6 +5004,15 @@
 		<disk name="Kuon (USA).chd" sha1="3d5958371000c72dc389374cafb4b5b550b4b8f5"/>
 		<ra_hash>4d066b1c36d124505c0e5deca2d92118</ra_hash>
 		<url>https://retroachievements.org/game/19259/hashes</url>
+	</machine>
+
+	<machine name="Retail/Kya - Dark Lineage (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Kya - Dark Lineage (USA)</description>
+		<disk name="Kya - Dark Lineage (USA).chd" sha1="2087a169342a6d9f86cc13654cdd148792eb6311"/>
+		<ra_hash>522e9c093b87e357b6b40b67586021b6</ra_hash>
+		<url>https://retroachievements.org/game/22604/hashes</url>
 	</machine>
 
 	<machine name="Retail/L.A. Rush (USA)">
@@ -5782,6 +5809,15 @@
 		<url>https://retroachievements.org/game/23926/hashes</url>
 	</machine>
 
+	<machine name="Retail/Monster Jam - Maximum Destruction (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Monster Jam - Maximum Destruction (USA)</description>
+		<disk name="Monster Jam - Maximum Destruction (USA).chd" sha1="b90a6e698f0a5651faebe5fce15b0625e3c713bc"/>
+		<ra_hash>12de5191affe0bfe8f200360d8b9fd06</ra_hash>
+		<url>https://retroachievements.org/game/29299/hashes</url>
+	</machine>
+
 	<machine name="Retail/Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)">
 		<category></category>
 		<source>Redump</source>
@@ -6133,6 +6169,15 @@
 		<disk name="Nickelodeon Barnyard (USA).chd" sha1="854fcdbe1f7db66d8e77af663c46b3bc890560a2"/>
 		<ra_hash>fc422b53b0abd79012f8b37793d2f1f1</ra_hash>
 		<url>https://retroachievements.org/game/20694/hashes</url>
+	</machine>
+
+	<machine name="Retail/Nickelodeon Go Diego Go! Great Dinosaur Rescue (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Nickelodeon Go Diego Go! Great Dinosaur Rescue (USA)</description>
+		<disk name="Nickelodeon Go Diego Go! Great Dinosaur Rescue (USA).chd" sha1="32356ff025918c4d0d42abbdf2eb537deaaad789"/>
+		<ra_hash>b9f0ad76538a28c545ed9d661139a7c8</ra_hash>
+		<url>https://retroachievements.org/game/25062/hashes</url>
 	</machine>
 
 	<machine name="Retail/Nickelodeon Jimmy Neutron - Boy Genius (USA)">
@@ -7070,6 +7115,15 @@
 		<disk name="Red Ninja - End of Honor (USA).chd" sha1="b50f4010905f7f33f9a7a8e20a9e5ac5484705d2"/>
 		<ra_hash>8664cbfa31c044756a72e7d2b21a86f0</ra_hash>
 		<url>https://retroachievements.org/game/20538/hashes</url>
+	</machine>
+
+	<machine name="Retail/RedCard (Europe) (En,Fr,De,It,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>RedCard (Europe) (En,Fr,De,It,Es)</description>
+		<disk name="RedCard (Europe) (En,Fr,De,It,Es).chd" sha1="69f444c4cdc40e7f8f2e73bf049ef082cf210b6a"/>
+		<ra_hash>e67847498a67144400f1bc7a9a92bbd9</ra_hash>
+		<url>https://retroachievements.org/game/25821/hashes</url>
 	</machine>
 
 	<machine name="Retail/Resident Evil - Code - Veronica X (USA)">
@@ -8294,6 +8348,15 @@
 		<disk name="Sonic Unleashed (USA) (En,Ja,Fr,De,Es,It).chd" sha1="fa9c1c6a99867a4eec7d5daa3572d558ec828b9f"/>
 		<ra_hash>8bed9b997226c549d74bd9621c158e8b</ra_hash>
 		<url>https://retroachievements.org/game/19798/hashes</url>
+	</machine>
+
+	<machine name="Retail/Sopranos, The - Road to Respect (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Sopranos, The - Road to Respect (USA)</description>
+		<disk name="Sopranos, The - Road to Respect (USA).chd" sha1="8607a6deeb93b5ceb3a8100f3db862616563ed7d"/>
+		<ra_hash>1157ed1b4f81d10d4c79856bf8e520dc</ra_hash>
+		<url>https://retroachievements.org/game/21119/hashes</url>
 	</machine>
 
 	<machine name="Retail/Soul Eater - Battle Resonance/Soul Eater - Battle Resonance (Japan)">

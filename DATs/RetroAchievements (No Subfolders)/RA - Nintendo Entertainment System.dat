@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1964</titlecount>
-		<hashcount>1964</hashcount>
+		<titlecount>1965</titlecount>
+		<hashcount>1965</hashcount>
 	</header>
 
 	<game name="10-Yard Fight (USA, Europe)">
@@ -2797,6 +2797,16 @@
 		<rom name="Chocobo Kwehst (Maeson) (v1.0).nes" size="65556" crc="DE054819" md5="76be97c26375b8c4c9b2c529a817e866" sha1="a5d25b8d899eadd611f84c4ddb14b02acdf63a36"/>
 		<ra_hash>50811428a9c36bd7c52185f2a3ecafe3</ra_hash>
 		<url>https://retroachievements.org/game/11118/hashes</url>
+	</game>
+
+	<game name="Choplifter (Japan) (En) (Rev 1)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Choplifter (Japan) (En) (Rev 1)</description>
+		<release name="Choplifter (Japan) (En) (Rev 1)" region="English"/>
+		<rom name="Choplifter (Japan) (En) (Rev 1).nes" size="49168" crc="A522E845" md5="83d2badc78560db5e62e3c2f857ee551" sha1="1589f4e46791a330a65c953ca15228145e24216d"/>
+		<ra_hash>159b14782dea180d92719454c1ac0869</ra_hash>
+		<url>https://retroachievements.org/game/4823/hashes</url>
 	</game>
 
 	<game name="Chou Fuyuu Yousai - Exed Exes (Japan)">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>259</titlecount>
-		<hashcount>281</hashcount>
+		<titlecount>261</titlecount>
+		<hashcount>283</hashcount>
 	</header>
 
 	<game name="1080 Avalanche (USA)">
@@ -482,6 +482,16 @@
 		<rom name="Donkey Konga 2 (USA).rvz" size="205768596" crc="4DFE6D0B" md5="9794782fecc151c9693bb7c1047e5743" sha1="0cdf5d1aa182878f049826c2bd72931f6dd674c8"/>
 		<ra_hash>3720b4306b4588ccefb09ed0c5bbcdc9</ra_hash>
 		<url>https://retroachievements.org/game/28607/hashes</url>
+	</game>
+
+	<game name="Doraemon - Minna de Asobou! Miniland (Japan)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Doraemon - Minna de Asobou! Miniland (Japan)</description>
+		<release name="Doraemon - Minna de Asobou! Miniland (Japan)" region="Japan"/>
+		<rom name="Doraemon - Minna de Asobou! Miniland (Japan).rvz" size="381995004" crc="4915818A" md5="b114a72d3b7afff8f3ebda6408755031" sha1="c21c2a748d555836da43c1b80232eb2ce97a0070"/>
+		<ra_hash>a6841cfd67dec9de349e0bfdb211f888</ra_hash>
+		<url>https://retroachievements.org/game/30267/hashes</url>
 	</game>
 
 	<game name="Doshin the Giant (Europe) (En,Fr,De,Es,It)" cloneof="Doshin the Giant (Europe) (En,Fr,De,Es,It) (60Hz) (v1.0) (Maeson)">
@@ -1648,21 +1658,13 @@
 		<url>https://retroachievements.org/game/28658/hashes</url>
 	</game>
 
-	<game name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)">
+	<game name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)">
 		<category>Hack</category>
 		<source>Redump, gamebanana, Lost Level Archive</source>
-		<description>Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)</description>
-		<release name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)" region="World"/>
-		<rom name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns).rvz" size="1106264424" crc="67B33356" md5="72a6423f6b6383d62f2f24d1a8836c82" sha1="34a3e43ed1d46d35f43ce80bd2db95d56784c31a"/>
-		<ra_hash>f861d6f29be496e09a58af3e8e59d958</ra_hash>
-		<url>https://retroachievements.org/game/34511/hashes</url>
-	</game>
-	<game name="Pikmin 2 - Regrown (v2.1_0dadd - Console Build) (Ochrehorns)" cloneof="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)">
-		<category>Hack</category>
-		<source>Redump, gamebanana, Lost Level Archive</source>
-		<description>Pikmin 2 - Regrown (v2.1_0dadd - Console Build) (Ochrehorns)</description>
-		<rom name="Pikmin 2 - Regrown (v2.1_0dadd - Console Build) (Ochrehorns).rvz" size="1110855972" crc="2A31A113" md5="945e6e89e1a0f1de3d2b8a84db0ecfbc" sha1="2320f870e46b1fdf5af1e7a26871fd2d6af857eb"/>
-		<ra_hash>4f7e4855bf126db89bd562a0af9ee350</ra_hash>
+		<description>Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)</description>
+		<release name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)" region="World"/>
+		<rom name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns).rvz" size="1106220792" crc="E83DC5AA" md5="e8b2aeba9905b900890436ad5ecf2b91" sha1="d5a2d7a98cb9f96edddf9359548a6dbfea12b1a2"/>
+		<ra_hash>f48ad84a9f3915c4c40112a3bafebcc3</ra_hash>
 		<url>https://retroachievements.org/game/34511/hashes</url>
 	</game>
 
@@ -2494,6 +2496,26 @@
 		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).rvz" size="753696108" crc="A1B95ECA" md5="f3410d26f7f9402aa4d805dbf48f69ef" sha1="a06befa370b80e2e1926fb8dc8c24b9081694172"/>
 		<ra_hash>0b4fb1873f47b173590d679796c9948c</ra_hash>
 		<url>https://retroachievements.org/game/31185/hashes</url>
+	</game>
+
+	<game name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)">
+		<category>Hack</category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)</description>
+		<release name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)" region="World"/>
+		<rom name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman).rvz" size="716113640" crc="D9D0921B" md5="e4531654e3c8e16ca7230868defbab17" sha1="fa01a57054dd002f7fc709d0e706db6dfdc707ba"/>
+		<ra_hash>1d10070b4d082c04f3daa7f4c35b6177</ra_hash>
+		<url>https://retroachievements.org/game/38561/hashes</url>
+	</game>
+
+	<game name="Super Monkey Ball 349">
+		<category>Hack</category>
+		<source>Unknown</source>
+		<description>Super Monkey Ball 349</description>
+		<release name="Super Monkey Ball 349" region="World"/>
+		<rom name="Super Monkey Ball 349.iso" size="666356992" crc="A87C7DBC" md5="d39f3fba320093f3e771542de335edb1" sha1="eb0ad5af2941a382a7c2a7a084da6a47669aad0f"/>
+		<ra_hash>a158b9d5cf847df8554031fdc276412a</ra_hash>
+		<url>https://retroachievements.org/game/38660/hashes</url>
 	</game>
 
 	<game name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)" cloneof="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player)">

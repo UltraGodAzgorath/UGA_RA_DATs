@@ -3,9 +3,9 @@
 	<header>
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
 		<titlecount>725</titlecount>
 		<hashcount>725</hashcount>
@@ -366,16 +366,6 @@
 		<rom name="Amida (Japan).gb" size="32768" crc="60128AA8" md5="9642b7c599b47135cbd4e45e039d608d" sha1="2b502583aa73cb72557589791dec7e28a2d29969"/>
 		<ra_hash>9642b7c599b47135cbd4e45e039d608d</ra_hash>
 		<url>https://retroachievements.org/game/7421/hashes</url>
-	</game>
-
-	<game name="Among Us (World) (GBComp2021) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
-		<source>itchio, Lost Level Archive</source>
-		<description>Among Us (World) (GBComp2021) (Aftermarket) (Unl)</description>
-		<release name="Among Us (World) (GBComp2021) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Among Us (World) (GBComp2021) (Aftermarket) (Unl).gb" size="262144" crc="EB0874A7" md5="d3bfde5d973230ba15078e4f5ca78ad5" sha1="db6918e4209885030297c4339c8777d9b7bfc52c"/>
-		<ra_hash>d3bfde5d973230ba15078e4f5ca78ad5</ra_hash>
-		<url>https://retroachievements.org/game/26471/hashes</url>
 	</game>
 
 	<game name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced)">
@@ -2875,6 +2865,16 @@
 		<rom name="Kaeru no Tame ni Kane wa Naru (Japan) (Es) (v1.0).gb" size="1048576" crc="64CA9590" md5="1fd8f7940f3a63012888c0014d5ab014" sha1="c2531494402cdd8a7c769f17151dfc5b1adcae69"/>
 		<ra_hash>1fd8f7940f3a63012888c0014d5ab014</ra_hash>
 		<url>https://retroachievements.org/game/5045/hashes</url>
+	</game>
+
+	<game name="Kaijuu Ou Gojira (Japan)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Kaijuu Ou Gojira (Japan)</description>
+		<release name="Kaijuu Ou Gojira (Japan)" region="Japan"/>
+		<rom name="Kaijuu Ou Gojira (Japan).gb" size="262144" crc="C529A96A" md5="deb601b4fadefb13f5e6251c945d10f4" sha1="56271383f34a7709668a982df95ebd083831e30f"/>
+		<ra_hash>deb601b4fadefb13f5e6251c945d10f4</ra_hash>
+		<url>https://retroachievements.org/game/25619/hashes</url>
 	</game>
 
 	<game name="Kid Dracula (USA, Europe)">

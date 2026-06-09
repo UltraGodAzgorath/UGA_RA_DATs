@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>874</titlecount>
-		<hashcount>1323</hashcount>
+		<titlecount>875</titlecount>
+		<hashcount>1324</hashcount>
 	</header>
 
 	<machine name="...Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -2036,6 +2036,16 @@
 		<disk name="CTR - Crash Team Racing - Unlimited (v1.0) (Custom Team Racing).chd" sha1="85a06d4dba42ccffea1597611da37e25d6096b46"/>
 		<ra_hash>44b819a30e23a1b4a3b7b8627c0cf00a</ra_hash>
 		<url>https://retroachievements.org/game/33902/hashes</url>
+	</machine>
+
+	<machine name="CTR - Lolo Racing GP (LoloTheSamurai)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>CTR - Lolo Racing GP (LoloTheSamurai)</description>
+		<release name="CTR - Lolo Racing GP (LoloTheSamurai)" region="World"/>
+		<disk name="CTR - Lolo Racing GP (LoloTheSamurai).chd" sha1="f54b6249074fbf0751ff82d324536701eefdc9e8"/>
+		<ra_hash>2ebcc75213f0403031c6d835ababf6c6</ra_hash>
+		<url>https://retroachievements.org/game/38652/hashes</url>
 	</machine>
 
 	<machine name="CTR - St. Patrick's Day Racing (LoloTheSamurai)">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/71-arduboy/games</url>
-		<titlecount>102</titlecount>
-		<hashcount>106</hashcount>
+		<titlecount>103</titlecount>
+		<hashcount>107</hashcount>
 	</header>
 
 	<game name="1944 (World) (Erwin's Collection)">
@@ -675,6 +675,16 @@
 		<rom name="Monpals (World).hex" size="79631" crc="1EB2F89B" md5="94400e55213df786e956f7cf1aad6575" sha1="506e24c62a1551252e67924e62e0ddde976d9cdc"/>
 		<ra_hash>8cff835493bf90ca063d03bbed4671f2</ra_hash>
 		<url>https://retroachievements.org/game/19519/hashes</url>
+	</game>
+
+	<game name="Montana Solitaire (World) (FrankVanDeVen)">
+		<category>Retail</category>
+		<source>Lost Level Archive</source>
+		<description>Montana Solitaire (World) (FrankVanDeVen)</description>
+		<release name="Montana Solitaire (World) (FrankVanDeVen)" region="World"/>
+		<rom name="Montana Solitaire (World) (FrankVanDeVen).hex" size="36427" crc="8460A871" md5="d36a95d26becf02c8f91bad0def190aa" sha1="a0699a2ee07de55065153fb60e1bd420c60cf0be"/>
+		<ra_hash>a15eacb5eb637e42e8541dc733fb136e</ra_hash>
+		<url>https://retroachievements.org/game/38161/hashes</url>
 	</game>
 
 	<game name="Mystic Balloon (World) (No QR Code)">

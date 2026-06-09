@@ -5,12 +5,12 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1929</titlecount>
-		<hashcount>1929</hashcount>
+		<titlecount>1932</titlecount>
+		<hashcount>1932</hashcount>
 	</header>
 
 	<game name="Homebrew/16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -2003,6 +2003,23 @@
 		<rom name="Chrono Trigger - Retranslation of Chrono Compendium (v1.01) (KajarLab).sfc" size="6291456" crc="A9671EA3" md5="3bdc014de7ed0a7de617a872a13cda70" sha1="de6448bee7492bf78109b83bef76b6c9bf484f81"/>
 		<ra_hash>3bdc014de7ed0a7de617a872a13cda70</ra_hash>
 		<url>https://retroachievements.org/game/319/hashes</url>
+	</game>
+
+	<game name="Hack/Chrono Trigger+/Chrono Trigger + (v2.1) (ThegreatBen)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Chrono Trigger + (v2.1) (ThegreatBen)</description>
+		<rom name="Chrono Trigger + (v2.1) (ThegreatBen).sfc" size="6291456" crc="60D01C3A" md5="3c792c4686a682f96f28241358e36839" sha1="d6681a02da6c52293492ab3b747f2c699de84d00"/>
+		<ra_hash>3c792c4686a682f96f28241358e36839</ra_hash>
+		<url>https://retroachievements.org/game/17944/hashes</url>
+	</game>
+	<game name="Hack/Chrono Trigger+/Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen)</description>
+		<rom name="Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen).sfc" size="6291456" crc="C9F6F320" md5="612228e08787829df533e7163fb41e8c" sha1="cb328e4c1d21f0f9d0d7473679a4235e4bae3a4f"/>
+		<ra_hash>612228e08787829df533e7163fb41e8c</ra_hash>
+		<url>https://retroachievements.org/game/17944/hashes</url>
 	</game>
 
 	<game name="Hack/Chrono Trigger - Flames of Eternity/Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear)">
@@ -10522,6 +10539,15 @@
 		<rom name="SMW - Baby Kaizo World (Nowieso).sfc" size="4194304" crc="457986D9" md5="526830cb760eb7e82720dfaa20eda75f" sha1="2159c751d5a6e53c77da175792acdf2b76e20171"/>
 		<ra_hash>526830cb760eb7e82720dfaa20eda75f</ra_hash>
 		<url>https://retroachievements.org/game/9487/hashes</url>
+	</game>
+
+	<game name="Hack/SMW - Baby Kaizo World 2 (v1.1) (Phyll)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Baby Kaizo World 2 (v1.1) (Phyll)</description>
+		<rom name="SMW - Baby Kaizo World 2 (v1.1) (Phyll).sfc" size="4194304" crc="5FE7AFEB" md5="8181418ceca5f94f78ad35cdffaa7a6a" sha1="d8abc729e55433a593f3bc40f2ecbfd169d3d961"/>
+		<ra_hash>8181418ceca5f94f78ad35cdffaa7a6a</ra_hash>
+		<url>https://retroachievements.org/game/38645/hashes</url>
 	</game>
 
 	<game name="Hack/SMW - Backwards Mario World (westslasher2)">

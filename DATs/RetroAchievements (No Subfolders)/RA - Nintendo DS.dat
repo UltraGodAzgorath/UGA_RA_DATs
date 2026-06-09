@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
-		<version>20260601</version>
-		<date>1 June 2026</date>
-		<author>Ultra God Azgorath</author>
+		<version>20260609</version>
+		<date>9 June 2026</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>793</titlecount>
-		<hashcount>793</hashcount>
+		<titlecount>797</titlecount>
+		<hashcount>797</hashcount>
 	</header>
 
 	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -2437,6 +2437,16 @@
 		<url>https://retroachievements.org/game/10412/hashes</url>
 	</game>
 
+	<game name="Etrian Odyssey III - The Drowned City (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Etrian Odyssey III - The Drowned City (USA)</description>
+		<release name="Etrian Odyssey III - The Drowned City (USA)" region="USA"/>
+		<rom name="Etrian Odyssey III - The Drowned City (USA).nds" size="67108864" crc="1502FA04" md5="b0d9f071824bdade6facc6798bc228cf" sha1="402e40351d59916ddfbbf58a8fa7767fa0e9e503"/>
+		<ra_hash>936564476fc5db2fddd6d3052ecfc518</ra_hash>
+		<url>https://retroachievements.org/game/6979/hashes</url>
+	</game>
+
 	<game name="EunHye DS (World) (v1.0) (Aftermarket) (Unl) (Ryu Seung-Ryul)">
 		<category>Homebrew</category>
 		<source>Lost Level Archive</source>
@@ -4772,6 +4782,16 @@
 		<url>https://retroachievements.org/game/18334/hashes</url>
 	</game>
 
+	<game name="My SAT Coach with The Princeton Review - Crack the SAT (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>My SAT Coach with The Princeton Review - Crack the SAT (USA)</description>
+		<release name="My SAT Coach with The Princeton Review - Crack the SAT (USA)" region="USA"/>
+		<rom name="My SAT Coach with The Princeton Review - Crack the SAT (USA).nds" size="16777216" crc="9166B762" md5="f94359cdafff4649ad90a08ed2db22bd" sha1="b742bf04be62991f80d50456848105b3b15faecc"/>
+		<ra_hash>da55c9a21dd05c1267e6a3c900b9d006</ra_hash>
+		<url>https://retroachievements.org/game/17788/hashes</url>
+	</game>
+
 	<game name="My Spanish Coach - Level 1 (Europe) (En,Es)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -5572,6 +5592,21 @@
 		<rom name="Plants vs. Zombies (USA).nds" size="67108864" crc="1ABDCC9C" md5="17dcb6aacc3f64d528440c8060aea647" sha1="fcc5ec4cfd4fabcbb26dee847d9ed6803e9ad93b"/>
 		<ra_hash>76cf05a94a00998e28878ffe3e82a3ba</ra_hash>
 		<url>https://retroachievements.org/game/12718/hashes</url>
+	</game>
+
+	<game name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Platinum Sudoku (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Platinum Sudoku (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Platinum Sudoku (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="20B3591D" md5="d67b411d8d58c9bd2f5805eac92cc379" sha1="ef58d4e8ba014dcca347bf966f7cbab4f05013ed"/>
+		<ra_hash>8f16917030b926a3ad2a86887e480e2f</ra_hash>
+		<url>https://retroachievements.org/game/14912/hashes</url>
 	</game>
 
 	<game name="PMD Explorers of Sky - Future of Hope (v1.0) (baronessfaron#0)">
@@ -9063,6 +9098,21 @@
 		<rom name="Yukkuri Tanoshimu - Otona no Jigsaw Puzzle DS - Sekai no Meiga 1 - Renaissance, Baroque no Kyoshou (Japan).nds" size="16777216" crc="0F220910" md5="4fc83eaa4965f6997cf1ba26fa1f962d" sha1="a2a06d43ebef96c10ce9dfd26def9241e82f7958"/>
 		<ra_hash>709bc5e0fe5ae073969565c8191ee533</ra_hash>
 		<url>https://retroachievements.org/game/14949/hashes</url>
+	</game>
+
+	<game name="Zoo Keeper (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Zoo Keeper (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Zoo Keeper (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Zoo Keeper (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="E8CB0841" md5="941b3b9b4ce525d24e12c52b60d0a530" sha1="1bbd14721ca7aa74261b91f7740422960a0c1c75"/>
+		<ra_hash>03fa9fd137ef29e962274f3f0bb755b7</ra_hash>
+		<url>https://retroachievements.org/game/8433/hashes</url>
 	</game>
 
 	<game name="Zoo Tycoon DS (Europe) (En,Fr)">
