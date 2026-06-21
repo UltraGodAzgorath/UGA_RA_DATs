@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/5-game-boy-advance/games</url>
-		<titlecount>1200</titlecount>
-		<hashcount>1200</hashcount>
+		<titlecount>1203</titlecount>
+		<hashcount>1203</hashcount>
 	</header>
 
 	<game name="Retail/007 - NightFire (USA, Europe) (En,Fr,De)">
@@ -1075,20 +1075,11 @@
 		<url>https://retroachievements.org/game/18655/hashes</url>
 	</game>
 
-	<game name="Subset/Castlevania - Aria of Sorrow (Subset - Bonus)">
+	<game name="Subset/Castlevania - Aria of Sorrow (Specialty Subset - NOSOUL-NOUSE)">
 		<category>GBA</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Castlevania - Aria of Sorrow (Subset - Bonus)</description>
-		<rom name="Castlevania - Aria of Sorrow (Subset - Bonus).gba" size="8388608" crc="AE81AD0D" md5="521fed769a79cc485b2463bfaad161b6" sha1="9b775e112c88f28828edeb66935bb4025cbc6e1b"/>
-		<ra_hash>521fed769a79cc485b2463bfaad161b6</ra_hash>
-		<url>https://retroachievements.org/game/16272/hashes</url>
-	</game>
-
-	<game name="Subset/Castlevania - Aria of Sorrow (Subset - NOSOUL-NOUSE)">
-		<category>GBA</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Castlevania - Aria of Sorrow (Subset - NOSOUL-NOUSE)</description>
-		<rom name="Castlevania - Aria of Sorrow (Subset - NOSOUL-NOUSE).gba" size="6623712" crc="0C768A76" md5="6dab829c8637ddd3408a97c083605c93" sha1="de908e8c670862ff8b231c41ff0a9d1429dbf46a"/>
+		<description>Castlevania - Aria of Sorrow (Specialty Subset - NOSOUL-NOUSE)</description>
+		<rom name="Castlevania - Aria of Sorrow (Specialty Subset - NOSOUL-NOUSE).gba" size="6623712" crc="0C768A76" md5="6dab829c8637ddd3408a97c083605c93" sha1="de908e8c670862ff8b231c41ff0a9d1429dbf46a"/>
 		<ra_hash>6dab829c8637ddd3408a97c083605c93</ra_hash>
 		<url>https://retroachievements.org/game/22865/hashes</url>
 	</game>
@@ -4883,6 +4874,15 @@
 		<url>https://retroachievements.org/game/16684/hashes</url>
 	</game>
 
+	<game name="Retail/Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<rom name="Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="63592451" md5="3f1cb5398649ff0c43673e73cad3010e" sha1="41ee9ed772264a2bb2edb8adfc7e9d3a58b00392"/>
+		<ra_hash>3f1cb5398649ff0c43673e73cad3010e</ra_hash>
+		<url>https://retroachievements.org/game/14087/hashes</url>
+	</game>
+
 	<game name="Retail/Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)">
 		<category>GBA</category>
 		<source>No-Intro</source>
@@ -6680,6 +6680,14 @@
 		<ra_hash>61623a55ac0ff4cb97db7c9a78a477ad</ra_hash>
 		<url>https://retroachievements.org/game/790/hashes</url>
 	</game>
+	<game name="Retail/Pokémon Ruby Version/Pokemon - Rubin-Edition (Germany) (Rev 1)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Pokemon - Rubin-Edition (Germany) (Rev 1)</description>
+		<rom name="Pokemon - Rubin-Edition (Germany) (Rev 1).gba" size="16777216" crc="CAE89464" md5="9aa6ac6fd369a686373a2e1bf8bb6aa3" sha1="424740be1fc67a5ddb954794443646e6aeee2c1b"/>
+		<ra_hash>9aa6ac6fd369a686373a2e1bf8bb6aa3</ra_hash>
+		<url>https://retroachievements.org/game/790/hashes</url>
+	</game>
 	<game name="Retail/Pokémon Ruby Version/Pokemon - Ruby Version (USA) (Moemon) (v2018-04-21)">
 		<category>GBA</category>
 		<source>No-Intro, RAPatches</source>
@@ -7677,6 +7685,15 @@
 		<url>https://retroachievements.org/game/789/hashes</url>
 	</game>
 
+	<game name="Specialty Subset/Pokemon Sapphire Version (Specialty Subset - Professor Oak Challenge)">
+		<category>GBA</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Pokemon Sapphire Version (Specialty Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon Sapphire Version (Specialty Subset - Professor Oak Challenge).gba" size="16777216" crc="091E4F4A" md5="bec888af544cd36872e422c4cfb1dc74" sha1="7f08f92315265049da0742db275681c2f3d9ba84"/>
+		<ra_hash>bec888af544cd36872e422c4cfb1dc74</ra_hash>
+		<url>https://retroachievements.org/game/17887/hashes</url>
+	</game>
+
 	<game name="Subset/Pokemon Unbound (Subset - Professor Oak Challenge)">
 		<category>GBA</category>
 		<source>No-Intro, RAPatches</source>
@@ -8092,6 +8109,15 @@
 		<rom name="Sabre Wulf (USA).gba" size="8388608" crc="73787A16" md5="b4b8e9fbb47a947850f127465c8bee40" sha1="d8803e742253e4b6712bdf07d49d3d7ed7fb23d6"/>
 		<ra_hash>b4b8e9fbb47a947850f127465c8bee40</ra_hash>
 		<url>https://retroachievements.org/game/5988/hashes</url>
+	</game>
+
+	<game name="Retail/Samurai Deeper Kyo (USA)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Samurai Deeper Kyo (USA)</description>
+		<rom name="Samurai Deeper Kyo (USA).gba" size="8388608" crc="4AB65478" md5="9d01c59abe3149ca2a9c0900571e6914" sha1="57feaabccb511280d18c44c5f2011e45321ecd29"/>
+		<ra_hash>9d01c59abe3149ca2a9c0900571e6914</ra_hash>
+		<url>https://retroachievements.org/game/14230/hashes</url>
 	</game>
 
 	<game name="Retail/Santa Claus Jr. Advance (Europe)">

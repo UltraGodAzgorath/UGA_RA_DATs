@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>327</titlecount>
-		<hashcount>327</hashcount>
+		<titlecount>337</titlecount>
+		<hashcount>337</hashcount>
 	</header>
 
 	<game name="Retail/3D Pixel Racing (USA) (WiiWare)">
@@ -231,6 +231,15 @@
 		<rom name="Bleach - Shattered Blade (USA).rvz" size="838938752" crc="9C8E0A61" md5="3bddfdf0fc025d7ff2dae71bc09a23f5" sha1="90c285ba04d51f5d84f079fbf47f86da2bcabfe2"/>
 		<ra_hash>47221f5cf79e47b5795e18d78262c554</ra_hash>
 		<url>https://retroachievements.org/game/35367/hashes</url>
+	</game>
+
+	<game name="Retail/Bleach - Versus Crusade (Japan)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Bleach - Versus Crusade (Japan)</description>
+		<rom name="Bleach - Versus Crusade (Japan).rvz" size="909326928" crc="652945F7" md5="3f5c8a9c7925bcfd0e57b027fabf3e65" sha1="c65c9e7b032188f919cace7613ef8781974bdc78"/>
+		<ra_hash>1c3bedec3c3808f892f926168eddca07</ra_hash>
+		<url>https://retroachievements.org/game/34611/hashes</url>
 	</game>
 
 	<game name="Retail/Bloons (USA) (WiiWare)">
@@ -564,6 +573,24 @@
 		<rom name="Deadly Creatures (USA) (En,Fr,Es).rvz" size="3591464760" crc="FDDA07E5" md5="71e180963b2198938d3d165efa8e63b4" sha1="b631423d577e001e4e3b1e9e6325fb4848310531"/>
 		<ra_hash>ffd19112369f31553fde011a1ddc3a43</ra_hash>
 		<url>https://retroachievements.org/game/34649/hashes</url>
+	</game>
+
+	<game name="Retail/Defend Your Castle (USA) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Defend Your Castle (USA) (WiiWare)</description>
+		<rom name="Defend Your Castle (USA) (WiiWare).wad" size="23552896" crc="DD2D8041" md5="122a97edd79e3dcfce22e8a3b0a4e342" sha1="9bb3c211c22752c8b4af255d080fa41db6ce6bf2"/>
+		<ra_hash>e1081fe97ab309fdd76f24c76b57ef98</ra_hash>
+		<url>https://retroachievements.org/game/36054/hashes</url>
+	</game>
+
+	<game name="Retail/Diner Dash (Europe) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Diner Dash (Europe) (WiiWare)</description>
+		<rom name="Diner Dash (Europe) (WiiWare).wad" size="38358912" crc="3BDBF248" md5="e3cca655b81a08be9daeee2fcf861496" sha1="3b6842ae3083f234256017ee7bdfed23bf1fd32e"/>
+		<ra_hash>cc8f5fbd6bc73c8f27f683634f495930</ra_hash>
+		<url>https://retroachievements.org/game/35730/hashes</url>
 	</game>
 
 	<game name="Retail/Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It)">
@@ -914,6 +941,23 @@
 		<rom name="Fishing Resort (USA).rvz" size="776763424" crc="3740D0ED" md5="75549f466a5c3c191dbe2a8bae42de6b" sha1="63c562f78152c8116b2211a94e89132df4ebed0c"/>
 		<ra_hash>283ac168cafe3365831f47abfec722bf</ra_hash>
 		<url>https://retroachievements.org/game/34610/hashes</url>
+	</game>
+
+	<game name="Retail/Flight Control/Flight Control (Europe) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Flight Control (Europe) (WiiWare)</description>
+		<rom name="Flight Control (Europe) (WiiWare).wad" size="22667712" crc="BBCA0573" md5="98c79636540d4834f70ae891d8a593b3" sha1="c3dee0e70c9a974d389b3083a335470c3efc89fb"/>
+		<ra_hash>c15fa849ccfaafb22f5d20cd3cfcc9e3</ra_hash>
+		<url>https://retroachievements.org/game/34671/hashes</url>
+	</game>
+	<game name="Retail/Flight Control/Flight Control (USA) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Flight Control (USA) (WiiWare)</description>
+		<rom name="Flight Control (USA) (WiiWare).wad" size="22679040" crc="516B6E09" md5="6caa4ec6bf40b92ebb1fcb5f49bd3d96" sha1="533e2deb6938927367efaa9b4c3d5223128e9616"/>
+		<ra_hash>11f0fc2dc7ab9c2969d16a25f35f7dc7</ra_hash>
+		<url>https://retroachievements.org/game/34671/hashes</url>
 	</game>
 
 	<game name="Retail/Fluidity (USA) (WiiWare)">
@@ -1361,6 +1405,15 @@
 		<url>https://retroachievements.org/game/38156/hashes</url>
 	</game>
 
+	<game name="Retail/Learning with the PooYoos - Episode 2 (USA) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Learning with the PooYoos - Episode 2 (USA) (WiiWare)</description>
+		<rom name="Learning with the PooYoos - Episode 2 (USA) (WiiWare).wad" size="41292800" crc="D80A5D26" md5="e8f523cb65f58889dbedd48547b08fc1" sha1="ba4404954a13e6ac21554c7464295a0c2a551952"/>
+		<ra_hash>088b1ea18c54d11f98cb87c41fc6ddb3</ra_hash>
+		<url>https://retroachievements.org/game/38157/hashes</url>
+	</game>
+
 	<game name="Retail/Learning with the PooYoos - Episode 3 (USA) (WiiWare)">
 		<category>WiiWare</category>
 		<source>No-Intro</source>
@@ -1482,6 +1535,15 @@
 		<rom name="M&amp;M's Kart Racing (USA).rvz" size="302107516" crc="A8DAC013" md5="a1e5186091d2d88e52294f3d8f7624e3" sha1="ac968893c96abfd56f4cfe02e85e8131c549e22b"/>
 		<ra_hash>3c9175e016d8810e3610e252d118557b</ra_hash>
 		<url>https://retroachievements.org/game/34596/hashes</url>
+	</game>
+
+	<game name="Retail/Mad Dog McCree - Gunslinger Pack (USA) (En,Fr,Es)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Mad Dog McCree - Gunslinger Pack (USA) (En,Fr,Es)</description>
+		<rom name="Mad Dog McCree - Gunslinger Pack (USA) (En,Fr,Es).rvz" size="4270301756" crc="1ED42767" md5="504552db7aa0d3680fa659e512aeef4b" sha1="1d71173165990e5114a258a3a321bc6bbf9c5350"/>
+		<ra_hash>5992757160d695e8d88acaf8cd025e46</ra_hash>
+		<url>https://retroachievements.org/game/35261/hashes</url>
 	</game>
 
 	<game name="Retail/Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It)">
@@ -2329,6 +2391,23 @@
 		<url>https://retroachievements.org/game/34725/hashes</url>
 	</game>
 
+	<game name="Retail/Sin &amp; Punishment - Star Successor/Sin &amp; Punishment - Star Successor (USA)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Sin &amp; Punishment - Star Successor (USA)</description>
+		<rom name="Sin &amp; Punishment - Star Successor (USA).rvz" size="863721508" crc="15B33D97" md5="03a372149d1c1b1c48ba922d9fbb8240" sha1="d9f55967b39a634c20d08a9e09b88d319b3d5c28"/>
+		<ra_hash>14afecb872da9a41bfa74ac5b666ee02</ra_hash>
+		<url>https://retroachievements.org/game/85/hashes</url>
+	</game>
+	<game name="Retail/Sin &amp; Punishment - Star Successor/Sin and Punishment - Successor of the Skies (Europe) (En,Fr,De,Es,It)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Sin and Punishment - Successor of the Skies (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Sin and Punishment - Successor of the Skies (Europe) (En,Fr,De,Es,It).rvz" size="875589548" crc="A5DB7FE1" md5="45a7fc3d40fa8cf32b474458965e1a4d" sha1="aeedb892c452ac5787d82e725b529fe40eaa70b3"/>
+		<ra_hash>eb3f7d5efa096cac8888ef556c52f3e2</ra_hash>
+		<url>https://retroachievements.org/game/85/hashes</url>
+	</game>
+
 	<game name="Retail/Skylanders - Spyro's Adventure/Skylanders - Spyro's Adventure (Brazil) (En,Es)">
 		<category>Wii</category>
 		<source>Redump</source>
@@ -2779,6 +2858,15 @@
 		<rom name="Who Wants to Be a Millionaire (Europe) (En,Fr,De,Es,It,Nl).rvz" size="882971876" crc="C3B92F6B" md5="cc873ab440645c2bca1bd041cc96307f" sha1="b9a7f7d5e3407b38221d6d4a1542c2a28d734914"/>
 		<ra_hash>b7a3150615d2478d969d6978dd0aa247</ra_hash>
 		<url>https://retroachievements.org/game/35522/hashes</url>
+	</game>
+
+	<game name="Retail/Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl).rvz" size="2661728624" crc="CA978182" md5="03ee7368c88c15d36b3f49d853e47d37" sha1="77624f959e8354e903bc5c50b406366134398265"/>
+		<ra_hash>b2f8010e0806241451c9605a0e600237</ra_hash>
+		<url>https://retroachievements.org/game/35523/hashes</url>
 	</game>
 
 	<game name="Retail/Wii Play (USA) (Rev 1)">

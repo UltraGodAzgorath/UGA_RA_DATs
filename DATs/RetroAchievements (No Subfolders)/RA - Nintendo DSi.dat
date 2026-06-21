@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/78-nintendo-dsi/games</url>
-		<titlecount>75</titlecount>
-		<hashcount>75</hashcount>
+		<titlecount>76</titlecount>
+		<hashcount>76</hashcount>
 	</header>
 
 	<game name="1001 Blockbusters (Europe)">
@@ -90,6 +90,16 @@
 		<rom name="Ancient Tribe (USA).nds" size="6257664" crc="9C44F709" md5="f62da13c444d6dc6e444473b0e3e23c8" sha1="99be3cb9f3d67c21edad57444ad4b4fcea26308f"/>
 		<ra_hash>a356faede1ade29f93e060f2e9ce485a</ra_hash>
 		<url>https://retroachievements.org/game/22375/hashes</url>
+	</game>
+
+	<game name="Animal Crossing Calculator (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Animal Crossing Calculator (USA)</description>
+		<release name="Animal Crossing Calculator (USA)" region="USA"/>
+		<rom name="Animal Crossing Calculator (USA).nds" size="2178048" crc="6894131E" md5="0925d698641e220abb0c77d4a4a69c3c" sha1="e36b276a0a0a5bcd483953707fccfb5ac1cda142"/>
+		<ra_hash>5bb38e02d4a9ca76b7f1f48cde9ebce2</ra_hash>
+		<url>https://retroachievements.org/game/27463/hashes</url>
 	</game>
 
 	<game name="Anonymous Notes 1 - From the Abyss (Europe)">

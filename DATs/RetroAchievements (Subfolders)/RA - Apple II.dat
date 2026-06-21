@@ -5,12 +5,12 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/38/games</url>
-		<titlecount>147</titlecount>
-		<hashcount>395</hashcount>
+		<titlecount>149</titlecount>
+		<hashcount>397</hashcount>
 	</header>
 
 	<game name="Retail/A.E">
@@ -444,6 +444,15 @@
 		<rom name="Frog Jump - Ordering Numbers.woz" size="234772" crc="4D5EEF72" md5="f03195e9fac7e2d69bd94d0189eeb141" sha1="6fa1a3278180e2742d2156870b1248b571bcaf3e"/>
 		<ra_hash>f03195e9fac7e2d69bd94d0189eeb141</ra_hash>
 		<url>https://retroachievements.org/game/33058/hashes</url>
+	</game>
+
+	<game name="Retail/Frogger">
+		<category></category>
+		<source>wozaday</source>
+		<description>Frogger</description>
+		<rom name="Frogger.woz" size="260154" crc="A6529172" md5="53a741dc23594017ae52a83c5f562979" sha1="583e0cccc428fec0ddfba2f781c1fa42804323f8"/>
+		<ra_hash>53a741dc23594017ae52a83c5f562979</ra_hash>
+		<url>https://retroachievements.org/game/25361/hashes</url>
 	</game>
 
 	<game name="Retail/Galaxian/Galaxian">
@@ -1737,5 +1746,14 @@
 		<rom name="Zork II (r48) (4am crack).dsk" size="143360" crc="4010432C" md5="fd40f31ccfd801186a02160b9fa51f05" sha1="a8bb2511f434f173eff2ce5c2ebf681c0eca1ff9"/>
 		<ra_hash>fd40f31ccfd801186a02160b9fa51f05</ra_hash>
 		<url>https://retroachievements.org/game/18584/hashes</url>
+	</game>
+
+	<game name="Retail/Zork III (r17) (4am crack)">
+		<category></category>
+		<source>4amcrack</source>
+		<description>Zork III (r17) (4am crack)</description>
+		<rom name="Zork III (r17) (4am crack).dsk" size="143360" crc="97916825" md5="0d9f361108db26e44a64ad003b375cdf" sha1="814b0ffba40fd63c8695cc61e531e8df7ea911cb"/>
+		<ra_hash>0d9f361108db26e44a64ad003b375cdf</ra_hash>
+		<url>https://retroachievements.org/game/18585/hashes</url>
 	</game>
 </datafile>

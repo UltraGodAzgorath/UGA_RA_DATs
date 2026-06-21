@@ -5,12 +5,12 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>797</titlecount>
-		<hashcount>797</hashcount>
+		<titlecount>801</titlecount>
+		<hashcount>801</hashcount>
 	</header>
 
 	<game name="Homebrew/10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -6447,6 +6447,23 @@
 		<url>https://retroachievements.org/game/15715/hashes</url>
 	</game>
 
+	<game name="Retail/Tenchu - Dark Secret/Tenchu - Dark Secret (Europe) (En,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tenchu - Dark Secret (Europe) (En,Es,It)</description>
+		<rom name="Tenchu - Dark Secret (Europe) (En,Es,It).nds" size="134217728" crc="120CC965" md5="6151442c79ee025a7b101dfe89f28748" sha1="6bb305412f94746b415565df90acf1d3210743e5"/>
+		<ra_hash>b1fe0b2896dd69b2e45462cacbb40ca6</ra_hash>
+		<url>https://retroachievements.org/game/27851/hashes</url>
+	</game>
+	<game name="Retail/Tenchu - Dark Secret/Tenchu - Dark Secret (Europe) (En,Fr,De)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tenchu - Dark Secret (Europe) (En,Fr,De)</description>
+		<rom name="Tenchu - Dark Secret (Europe) (En,Fr,De).nds" size="134217728" crc="636CC455" md5="689aaac6578698dcc4641f97e2c11d14" sha1="2a911ae13d59b1a0065544bf956dfa59e15514b4"/>
+		<ra_hash>1c0283ccc5cd81dec172d91871717e38</ra_hash>
+		<url>https://retroachievements.org/game/27851/hashes</url>
+	</game>
+
 	<game name="Retail/Tetris DS (USA, Australia)">
 		<category></category>
 		<source>No-Intro</source>
@@ -6454,6 +6471,15 @@
 		<rom name="Tetris DS (USA, Australia).nds" size="16777216" crc="377536D4" md5="dd12d68dff6cc5fc571374117b6ad1c4" sha1="13eb2e7e5357a6e31f94ea238826c111c965bc9b"/>
 		<ra_hash>9dbd0337235cd8acf032c0fbfd649d70</ra_hash>
 		<url>https://retroachievements.org/game/9878/hashes</url>
+	</game>
+
+	<game name="Retail/Theresia.. (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Theresia.. (USA)</description>
+		<rom name="Theresia.. (USA).nds" size="67108864" crc="535C621C" md5="f158aa2e808061a5334f87e98fafb633" sha1="55c846e3eacef50e89e54f226da782d9875f1622"/>
+		<ra_hash>b97a87dc19f7c758229482705d5a2e45</ra_hash>
+		<url>https://retroachievements.org/game/9779/hashes</url>
 	</game>
 
 	<game name="Retail/Thomas &amp; Friends - Hero of the Rails (Europe)">
@@ -6829,6 +6855,15 @@
 		<rom name="Wedding Dash (USA) (En,Fr).nds" size="16777216" crc="7598842E" md5="07a8da28206b0391a9ec0fe69b89653b" sha1="c238333d7cf729e1d04f2490747a37a3455d7a02"/>
 		<ra_hash>d56d0ec52d9f3a762137c61753becb6c</ra_hash>
 		<url>https://retroachievements.org/game/32945/hashes</url>
+	</game>
+
+	<game name="Retail/Witch's Tale, A (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Witch's Tale, A (USA)</description>
+		<rom name="Witch's Tale, A (USA).nds" size="134217728" crc="F4FA89F0" md5="76573ac331aec9027b01efe369432d25" sha1="92f30daf2fefa328ee680ba9bf114b2e2dac106a"/>
+		<ra_hash>31d7640ceb02884e696f1a29aba96330</ra_hash>
+		<url>https://retroachievements.org/game/9967/hashes</url>
 	</game>
 
 	<game name="Homebrew/Without Escape (World) (Aftermarket) (Unl)">

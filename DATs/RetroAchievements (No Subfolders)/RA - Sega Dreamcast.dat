@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
-		<titlecount>173</titlecount>
-		<hashcount>219</hashcount>
+		<titlecount>171</titlecount>
+		<hashcount>217</hashcount>
 	</header>
 
 	<machine name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)" cloneof="18 Wheeler - American Pro Trucker (USA)">
@@ -580,16 +580,6 @@
 		<disk name="Disney-Pixar Buzz Lightyear of Star Command (USA).chd" sha1="e179e0457edd071d41c4a00793bc88997492eb57"/>
 		<ra_hash>9edee9f48068e7449f53a79a82c8dfff</ra_hash>
 		<url>https://retroachievements.org/game/316/hashes</url>
-	</machine>
-
-	<machine name="Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)</description>
-		<release name="Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)" region="USA"/>
-		<disk name="Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA).chd" sha1="9b74fa35bddd79ee3e5b0134c81dc88d1f63c8e7"/>
-		<ra_hash>efc1e1340d4b1baf4699af5bbf29e940</ra_hash>
-		<url>https://retroachievements.org/game/18590/hashes</url>
 	</machine>
 
 	<machine name="Dynamite Cop! (USA)">
@@ -1878,16 +1868,6 @@
 		<disk name="Wacky Races (USA).chd" sha1="1c9dd49cb87e474005ffcbeb68f4ede6e3b72a68"/>
 		<ra_hash>7efbcc214081d134037fdbf0fd32688c</ra_hash>
 		<url>https://retroachievements.org/game/10827/hashes</url>
-	</machine>
-
-	<machine name="Walt Disney World Quest - Magical Racing Tour (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Walt Disney World Quest - Magical Racing Tour (USA)</description>
-		<release name="Walt Disney World Quest - Magical Racing Tour (USA)" region="USA"/>
-		<disk name="Walt Disney World Quest - Magical Racing Tour (USA).chd" sha1="cba99cda8dd7bc79fc2747c7f7b73dea9077748a"/>
-		<ra_hash>d66413658a114080ff179cc9f89c9335</ra_hash>
-		<url>https://retroachievements.org/game/20067/hashes</url>
 	</machine>
 
 	<machine name="Who Wants to Be a Millionaire (Europe)">

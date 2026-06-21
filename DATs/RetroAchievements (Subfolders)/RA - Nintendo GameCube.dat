@@ -5,12 +5,12 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>261</titlecount>
-		<hashcount>283</hashcount>
+		<titlecount>262</titlecount>
+		<hashcount>284</hashcount>
 	</header>
 
 	<game name="Retail/1080 Avalanche (USA)">
@@ -2137,6 +2137,15 @@
 		<rom name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player).rvz" size="1156717536" crc="2CCA33C8" md5="27afa2ba52e28b8d5fcf3015ba49ebb9" sha1="6486f37c61b7cb276264f23021737bf937544939"/>
 		<ra_hash>8f0b014a1da84167f3f8f8b2145b95cd</ra_hash>
 		<url>https://retroachievements.org/game/9602/hashes</url>
+	</game>
+
+	<game name="Hack/Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia)">
+		<category></category>
+		<source>Redump, github, Lost Level Archive</source>
+		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia)</description>
+		<rom name="Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia).rvz" size="770264052" crc="6AA77DDA" md5="cb753482c131e1c580a74b296f855a7b" sha1="d4b037725fc7ead5a9ab1508df1ab4299d660559"/>
+		<ra_hash>786d44bbf718f843340246fb215a32b2</ra_hash>
+		<url>https://retroachievements.org/game/29773/hashes</url>
 	</game>
 
 	<game name="Retail/Swingerz Golf (USA)">

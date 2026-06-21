@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1932</titlecount>
-		<hashcount>1932</hashcount>
+		<titlecount>1934</titlecount>
+		<hashcount>1934</hashcount>
 	</header>
 
 	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -12098,6 +12098,16 @@
 		<url>https://retroachievements.org/game/17427/hashes</url>
 	</game>
 
+	<game name="SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel)</description>
+		<release name="SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel)" region="World"/>
+		<rom name="SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel).sfc" size="2097152" crc="D560E573" md5="b7dcf0ad61864878cb1b2a433e3633e8" sha1="a352b258e69bb2aa520f0cb831e31196f18877ff"/>
+		<ra_hash>b7dcf0ad61864878cb1b2a433e3633e8</ra_hash>
+		<url>https://retroachievements.org/game/27734/hashes</url>
+	</game>
+
 	<game name="SMW - Elysium Shells (v2.0) (Eryck)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -13630,6 +13640,16 @@
 		<rom name="SMW - stick mice in my head (v1.2) (JUMP Team,idol).sfc" size="3145728" crc="66CD79BD" md5="7ec6a3fc126e806dff6314a28579065e" sha1="54530253d981abda55eb7a2e4d3df685b17be284"/>
 		<ra_hash>7ec6a3fc126e806dff6314a28579065e</ra_hash>
 		<url>https://retroachievements.org/game/27731/hashes</url>
+	</game>
+
+	<game name="SMW - Storks and Apes and Crocodiles (v1.14) (Morsel)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches, smwcentral</source>
+		<description>SMW - Storks and Apes and Crocodiles (v1.14) (Morsel)</description>
+		<release name="SMW - Storks and Apes and Crocodiles (v1.14) (Morsel)" region="World"/>
+		<rom name="SMW - Storks and Apes and Crocodiles (v1.14) (Morsel).sfc" size="2097152" crc="65B36A20" md5="678f7eb9c951840d98c89b5cea4301cd" sha1="74c8e5200031f20e97c186d9bca083430da3646b"/>
+		<ra_hash>678f7eb9c951840d98c89b5cea4301cd</ra_hash>
+		<url>https://retroachievements.org/game/3788/hashes</url>
 	</game>
 
 	<game name="SMW - Sui Mario (Sui)">

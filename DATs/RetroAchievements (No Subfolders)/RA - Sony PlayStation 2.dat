@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>896</titlecount>
-		<hashcount>1166</hashcount>
+		<titlecount>904</titlecount>
+		<hashcount>1174</hashcount>
 	</header>
 
 	<machine name="007 - Agent Under Fire (USA)" cloneof="007 - Agent Under Fire (USA) (Widescreen + 60fps Driving) (v1.0) (Souzooka)">
@@ -1438,6 +1438,16 @@
 		<url>https://retroachievements.org/game/20614/hashes</url>
 	</machine>
 
+	<machine name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Cinderella (RA Compatibility) (SLES-54485) (08401EA8)</description>
+		<release name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8)" region="World"/>
+		<disk name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8).chd" sha1="63cf6e3bfd4382c73e01b4b9a10eb8b4c2b6b6f3"/>
+		<ra_hash>ae3142e0e32c248e03e931a34d5ed108</ra_hash>
+		<url>https://retroachievements.org/game/32015/hashes</url>
+	</machine>
+
 	<machine name="City Crisis (Europe) (En,Fr,De,It)" cloneof="City Crisis (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2482,6 +2492,16 @@
 		<url>https://retroachievements.org/game/25053/hashes</url>
 	</machine>
 
+	<machine name="Disney-Pixar Cars (USA) (RA Compatibility) (Souzooka)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Disney-Pixar Cars (USA) (RA Compatibility) (Souzooka)</description>
+		<release name="Disney-Pixar Cars (USA) (RA Compatibility) (Souzooka)" region="USA"/>
+		<disk name="Disney-Pixar Cars (USA) (RA Compatibility) (Souzooka).chd" sha1="d4ea1570dc4ac87d71e1d107288c435443b52202"/>
+		<ra_hash>25f666628c24464b8688dbf62a8056e7</ra_hash>
+		<url>https://retroachievements.org/game/20525/hashes</url>
+	</machine>
+
 	<machine name="Disney-Pixar Cars - Mater-National Championship (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2627,6 +2647,20 @@
 		<disk name="DJ Hero (USA).chd" sha1="05cac212931668e385cbb53a2006bf4e11d8d6c0"/>
 		<ra_hash>fcb403f83f51399f2fe26d8df68257a7</ra_hash>
 		<url>https://retroachievements.org/game/25307/hashes</url>
+	</machine>
+
+	<machine name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)</description>
+		<release name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)" region="France"/>
+		<release name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)" region="Germany"/>
+		<release name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)" region="Italy"/>
+		<release name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)" region="Spain"/>
+		<release name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It)" region="English"/>
+		<disk name="DOA2 - Hardcore (Japan) (En,Ja,Fr,De,Es,It).chd" sha1="43736e1a4db39cc5952071e5d0ac7d76a84ff3b2"/>
+		<ra_hash>61f79ca71595f03cc4c1a9c897d13dd4</ra_hash>
+		<url>https://retroachievements.org/game/19124/hashes</url>
 	</machine>
 
 	<machine name="Dog of Bay (Japan)" cloneof="Dog of Bay (Japan) (En) (v1.0) (Hilltop)">
@@ -3040,6 +3074,16 @@
 		<disk name="Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).chd" sha1="06b23e7bf541e865c7c558c3c102b1637cb9607f"/>
 		<ra_hash>e6302582e8c4477933fbec082faafab6</ra_hash>
 		<url>https://retroachievements.org/game/20090/hashes</url>
+	</machine>
+
+	<machine name="Dual Hearts (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Dual Hearts (USA)</description>
+		<release name="Dual Hearts (USA)" region="USA"/>
+		<disk name="Dual Hearts (USA).chd" sha1="b800d7dc825c78351f10f6d8c4f376b9b1deb6a7"/>
+		<ra_hash>3dbdc7eb102f3ba55672527d12789efa</ra_hash>
+		<url>https://retroachievements.org/game/21680/hashes</url>
 	</machine>
 
 	<machine name="Dynasty Warriors - Gundam 2 (USA)" cloneof="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)">
@@ -4763,6 +4807,16 @@
 		<disk name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex).chd" sha1="9990e3da023953beb3ef21768463c567c5c15c1f"/>
 		<ra_hash>e7b820a7a2dabd33d61a0728bafe984a</ra_hash>
 		<url>https://retroachievements.org/game/20536/hashes</url>
+	</machine>
+
+	<machine name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)</description>
+		<release name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)" region="World"/>
+		<disk name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037).chd" sha1="9d1d334692b06e557c01f4302630685c9c980287"/>
+		<ra_hash>23012f7363f39ea534e0f22749b57cd0</ra_hash>
+		<url>https://retroachievements.org/game/33333/hashes</url>
 	</machine>
 
 	<machine name="Harry Potter - Quidditch World Cup (USA) (En,Fr,Es)">
@@ -7937,6 +7991,19 @@
 		<url>https://retroachievements.org/game/20557/hashes</url>
 	</machine>
 
+	<machine name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)</description>
+		<release name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)" region="Europe"/>
+		<release name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)" region="France"/>
+		<release name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)" region="Germany"/>
+		<release name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)" region="English"/>
+		<disk name="Peter Pan (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu).chd" sha1="2d7a566c94da3215e17db49fca645e42f4fdb9d4"/>
+		<ra_hash>179c6bb1c7b13b4e6b10eb1925da2440</ra_hash>
+		<url>https://retroachievements.org/game/32016/hashes</url>
+	</machine>
+
 	<machine name="Petz - Catz 2 (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -7963,6 +8030,16 @@
 		<disk name="Phantasy Star Universe (USA).chd" sha1="fa8ab447571d56ae23fce89f9a995ccd94d19fac"/>
 		<ra_hash>d1d6c91b696dfe26757da1204dd9f440</ra_hash>
 		<url>https://retroachievements.org/game/19096/hashes</url>
+	</machine>
+
+	<machine name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)</description>
+		<release name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)" region="World"/>
+		<disk name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F).chd" sha1="69d66178fe5b246fec31c51a0db01b4cd6d5a0b2"/>
+		<ra_hash>2c12768b8e7e0012e86c285f9ca85ce4</ra_hash>
+		<url>https://retroachievements.org/game/33349/hashes</url>
 	</machine>
 
 	<machine name="Piposaru 2001 (Japan)">
@@ -8757,6 +8834,21 @@
 		<disk name="Rogue Galaxy (USA) (Widescreen).chd" sha1="58afbfc1066db1615413b2e480bbdc2750a02d6d"/>
 		<ra_hash>98fd0bc79b2d6202ac8253b6bb25b1b8</ra_hash>
 		<url>https://retroachievements.org/game/2671/hashes</url>
+	</machine>
+
+	<machine name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)</description>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<disk name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It).chd" sha1="6c5982536241e99d86f66bac7874c43d9c984601"/>
+		<ra_hash>71d11ede54d53de26043294382fbca06</ra_hash>
+		<url>https://retroachievements.org/game/38417/hashes</url>
 	</machine>
 
 	<machine name="Rule of Rose (Europe) (En,Fr,De,Es,It)" cloneof="Rule of Rose (USA)">

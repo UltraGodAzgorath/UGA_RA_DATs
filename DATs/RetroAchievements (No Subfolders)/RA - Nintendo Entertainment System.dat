@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1965</titlecount>
-		<hashcount>1965</hashcount>
+		<titlecount>1966</titlecount>
+		<hashcount>1966</hashcount>
 	</header>
 
 	<game name="10-Yard Fight (USA, Europe)">
@@ -15775,6 +15775,16 @@
 		<rom name="Star Wars (USA).nes" size="262160" crc="D53F76F6" md5="6be763499918424496274e1daaa0c55a" sha1="40c41eb086defc83cf4c45a1571ed0ff27153948"/>
 		<ra_hash>25496df74d7e25bb0daff1adcc40cadc</ra_hash>
 		<url>https://retroachievements.org/game/1982/hashes</url>
+	</game>
+
+	<game name="Star Wars - The Empire Strikes Back (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Star Wars - The Empire Strikes Back (USA)</description>
+		<release name="Star Wars - The Empire Strikes Back (USA)" region="USA"/>
+		<rom name="Star Wars - The Empire Strikes Back (USA).nes" size="524304" crc="A7409FBC" md5="8091f4d2818a52998dce845cf4dc85da" sha1="3b672a315488d60a9ab44a314668f553e54f436f"/>
+		<ra_hash>9f8286fb3cb61583bfc92c82d848e5d9</ra_hash>
+		<url>https://retroachievements.org/game/1676/hashes</url>
 	</game>
 
 	<game name="StarTropics (Europe)" cloneof="StarTropics (USA)">

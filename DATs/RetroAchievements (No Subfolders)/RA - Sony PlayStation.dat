@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>875</titlecount>
-		<hashcount>1324</hashcount>
+		<titlecount>873</titlecount>
+		<hashcount>1321</hashcount>
 	</header>
 
 	<machine name="...Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -2647,24 +2647,6 @@
 		<disk name="Discworld Noir (Europe) (En,Es,It).chd" sha1="72db93d844a9e88f4980b860d1cf4eb996f8d563"/>
 		<ra_hash>2aa4faed80a4d4eeb0a6d8c6fae00340</ra_hash>
 		<url>https://retroachievements.org/game/6584/hashes</url>
-	</machine>
-
-	<machine name="Disney Presents Tigger's Honey Hunt (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Disney Presents Tigger's Honey Hunt (USA)</description>
-		<release name="Disney Presents Tigger's Honey Hunt (USA)" region="USA"/>
-		<disk name="Disney Presents Tigger's Honey Hunt (USA).chd" sha1="7588e30744238177a8a85c58e7e4e285b2794c50"/>
-		<ra_hash>e8e3b4b82bc1262bbbb3c1ce4adae60d</ra_hash>
-		<url>https://retroachievements.org/game/16669/hashes</url>
-	</machine>
-	<machine name="Disney Presents Tigger's Honey Hunt (USA) (Rerelease)" cloneof="Disney Presents Tigger's Honey Hunt (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Disney Presents Tigger's Honey Hunt (USA) (Rerelease)</description>
-		<disk name="Disney Presents Tigger's Honey Hunt (USA) (Rerelease).chd" sha1="003ab2cae6589186b977c5b1e1db526e565a7722"/>
-		<ra_hash>e918897bce09adeba25565c162831fab</ra_hash>
-		<url>https://retroachievements.org/game/16669/hashes</url>
 	</machine>
 
 	<machine name="Disney's 101 Dalmatians II - Patch's London Adventure (USA)">
@@ -6525,16 +6507,6 @@
 		<disk name="Mr. Prospector - Horiate-kun (Japan).chd" sha1="36ad0e417c40598ad13997cd9120173d538ba0b1"/>
 		<ra_hash>6dc4a4c2c31b3fbeaabd728e74507d77</ra_hash>
 		<url>https://retroachievements.org/game/32920/hashes</url>
-	</machine>
-
-	<machine name="Ms. Pac-Man Maze Madness (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Ms. Pac-Man Maze Madness (USA)</description>
-		<release name="Ms. Pac-Man Maze Madness (USA)" region="USA"/>
-		<disk name="Ms. Pac-Man Maze Madness (USA).chd" sha1="17e8692b1cd7adef949fe756665b24d52cb71af9"/>
-		<ra_hash>1d15a62a3f0f28ee3298b4812fb3aae3</ra_hash>
-		<url>https://retroachievements.org/game/14722/hashes</url>
 	</machine>
 
 	<machine name="Mummy, The (USA)">

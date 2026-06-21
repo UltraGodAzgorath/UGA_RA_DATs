@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/25-atari-2600/games</url>
-		<titlecount>200</titlecount>
-		<hashcount>214</hashcount>
+		<titlecount>202</titlecount>
+		<hashcount>216</hashcount>
 	</header>
 
 	<game name="3-D Tic-Tac-Toe (Europe)" cloneof="3-D Tic-Tac-Toe (USA)">
@@ -178,6 +178,16 @@
 		<rom name="Asteroids (Japan, USA) (En).a26" size="8192" crc="C7D64C94" md5="dd7884b4f93cab423ac471aa1935e3df" sha1="d68937e57a367e61eaa4b44550ae8b9d69456661"/>
 		<ra_hash>dd7884b4f93cab423ac471aa1935e3df</ra_hash>
 		<url>https://retroachievements.org/game/11687/hashes</url>
+	</game>
+
+	<game name="Atari Video Cube (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Atari Video Cube (USA)</description>
+		<release name="Atari Video Cube (USA)" region="USA"/>
+		<rom name="Atari Video Cube (USA).a26" size="4096" crc="272AE37F" md5="3f540a30fdee0b20aed7288e4a5ea528" sha1="d1563c24208766cf8d28de7af995021a9f89d7e1"/>
+		<ra_hash>3f540a30fdee0b20aed7288e4a5ea528</ra_hash>
+		<url>https://retroachievements.org/game/18691/hashes</url>
 	</game>
 
 	<game name="Atlantis (USA)">
@@ -1271,6 +1281,16 @@
 		<rom name="Ms. Pac-Man (USA).a26" size="8192" crc="B2D08FC9" md5="87e79cd41ce136fd4f72cc6e2c161bee" sha1="62b933cdd8844bb1816ce57889203954fe782603"/>
 		<ra_hash>87e79cd41ce136fd4f72cc6e2c161bee</ra_hash>
 		<url>https://retroachievements.org/game/14260/hashes</url>
+	</game>
+
+	<game name="Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss)">
+		<category>Homebrew</category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss)</description>
+		<release name="Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss)" region="USA"/>
+		<rom name="Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss).a26" size="16384" crc="4FD76C4D" md5="1c11a231ef51cd45075d9c3c30c9621a" sha1="53d30e5f3805eec497010a3077722e3a697439a8"/>
+		<ra_hash>1c11a231ef51cd45075d9c3c30c9621a</ra_hash>
+		<url>https://retroachievements.org/game/26012/hashes</url>
 	</game>
 
 	<game name="Off the Wall (USA)">

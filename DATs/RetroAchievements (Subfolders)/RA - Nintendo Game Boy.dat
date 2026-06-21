@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>725</titlecount>
-		<hashcount>725</hashcount>
+		<titlecount>728</titlecount>
+		<hashcount>728</hashcount>
 	</header>
 
 	<game name="Homebrew/204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -366,6 +366,15 @@
 		<rom name="Asterix (Europe) (En,Fr,De,Es,It) (Pt) (Guto).gb" size="131072" crc="E948A5AA" md5="c016ae8567a649c17b77171f4fd4dd7f" sha1="253a1abdb1fba897e78ecd6454f573147772f3ab"/>
 		<ra_hash>c016ae8567a649c17b77171f4fd4dd7f</ra_hash>
 		<url>https://retroachievements.org/game/3661/hashes</url>
+	</game>
+
+	<game name="Retail/Asteroids (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Asteroids (USA, Europe)</description>
+		<rom name="Asteroids (USA, Europe).gb" size="32768" crc="C1F88833" md5="13749826df12da4574e34ccb6d9c780d" sha1="435dbdaa9b9d2e0d0bc7c1c010cdc5ec9bd9f359"/>
+		<ra_hash>13749826df12da4574e34ccb6d9c780d</ra_hash>
+		<url>https://retroachievements.org/game/27342/hashes</url>
 	</game>
 
 	<game name="Retail/Atomic Punk/Atomic Punk (USA)">
@@ -2071,7 +2080,7 @@
 		<url>https://retroachievements.org/game/2411/hashes</url>
 	</game>
 
-	<game name="Retail/Gargoyle's Quest II - The Demon Darkness/Gargoyle's Quest II - The Demon Darkness (Japan) (En) (v1.0) (bailli)">
+	<game name="Retail/Makaimura Gaiden - The Demon Darkness/Gargoyle's Quest II - The Demon Darkness (Japan) (En) (v1.0) (bailli)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Gargoyle's Quest II - The Demon Darkness (Japan) (En) (v1.0) (bailli)</description>
@@ -2079,7 +2088,7 @@
 		<ra_hash>3574c3ae7c83faeb018cb1c05950c25d</ra_hash>
 		<url>https://retroachievements.org/game/6200/hashes</url>
 	</game>
-	<game name="Retail/Gargoyle's Quest II - The Demon Darkness/Makaimura Gaiden - The Demon Darkness (Japan)">
+	<game name="Retail/Makaimura Gaiden - The Demon Darkness/Makaimura Gaiden - The Demon Darkness (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Makaimura Gaiden - The Demon Darkness (Japan)</description>
@@ -2095,6 +2104,15 @@
 		<rom name="GB Dash (World) (v1.0) (Aftermarket) (TiTi).gb" size="32768" crc="5FC615E6" md5="7d38f43df5cd5613fa1256de1d351d33" sha1="6e16b44d1c63ca93801194e23232b51ab51e890d"/>
 		<ra_hash>7d38f43df5cd5613fa1256de1d351d33</ra_hash>
 		<url>https://retroachievements.org/game/38047/hashes</url>
+	</game>
+
+	<game name="Homebrew/GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)</description>
+		<rom name="GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio).gb" size="262144" crc="050347BC" md5="c6ae0dee7a42b51caeae2c7e3d20eb9b" sha1="313b1da8fc384cfbd8de4fb052283339485fa54e"/>
+		<ra_hash>c6ae0dee7a42b51caeae2c7e3d20eb9b</ra_hash>
+		<url>https://retroachievements.org/game/25390/hashes</url>
 	</game>
 
 	<game name="Homebrew/GB-Wordyl - English (World) (v1.0.3) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)">
@@ -2282,6 +2300,15 @@
 		<rom name="Heracles no Eikou - Ugokidashita Kamigami (Japan) (En) (v1.01) (HTI).gb" size="262144" crc="45334E58" md5="51d4ff9a9346b16cf290f50111b110c0" sha1="b9b06bd9127c1535e2cb7f39acb6b1c19e6728e0"/>
 		<ra_hash>51d4ff9a9346b16cf290f50111b110c0</ra_hash>
 		<url>https://retroachievements.org/game/20292/hashes</url>
+	</game>
+
+	<game name="Retail/Hercules (USA, Europe) (SGB Enhanced)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Hercules (USA, Europe) (SGB Enhanced)</description>
+		<rom name="Hercules (USA, Europe) (SGB Enhanced).gb" size="524288" crc="00A9001E" md5="abd4baa57f0b90b402c2e56090394f9e" sha1="215cceaccd4a33a2da6205f33a2803ff4004e2b1"/>
+		<ra_hash>abd4baa57f0b90b402c2e56090394f9e</ra_hash>
+		<url>https://retroachievements.org/game/3611/hashes</url>
 	</game>
 
 	<game name="Retail/Hero Shuugou!! Pinball Party (Japan)">
@@ -2475,7 +2502,7 @@
 		<url>https://retroachievements.org/game/8361/hashes</url>
 	</game>
 
-	<game name="Retail/The Frog For Whom the Bell Tolls/Kaeru no Tame ni Kane wa Naru (Japan)">
+	<game name="Retail/Kaeru no Tame ni Kane wa Naru/Kaeru no Tame ni Kane wa Naru (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Kaeru no Tame ni Kane wa Naru (Japan)</description>
@@ -2483,7 +2510,7 @@
 		<ra_hash>4ebe14c4c51555908c0e4cabb66dc813</ra_hash>
 		<url>https://retroachievements.org/game/5045/hashes</url>
 	</game>
-	<game name="Retail/The Frog For Whom the Bell Tolls/Kaeru no Tame ni Kane wa Naru (Japan) (En) (v1.0) (ryanbgstl)">
+	<game name="Retail/Kaeru no Tame ni Kane wa Naru/Kaeru no Tame ni Kane wa Naru (Japan) (En) (v1.0) (ryanbgstl)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaeru no Tame ni Kane wa Naru (Japan) (En) (v1.0) (ryanbgstl)</description>
@@ -2491,7 +2518,7 @@
 		<ra_hash>5e477cdea0b3266b505ac5938ddc5e5c</ra_hash>
 		<url>https://retroachievements.org/game/5045/hashes</url>
 	</game>
-	<game name="Retail/The Frog For Whom the Bell Tolls/Kaeru no Tame ni Kane wa Naru (Japan) (Es) (v1.0)">
+	<game name="Retail/Kaeru no Tame ni Kane wa Naru/Kaeru no Tame ni Kane wa Naru (Japan) (Es) (v1.0)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaeru no Tame ni Kane wa Naru (Japan) (Es) (v1.0)</description>

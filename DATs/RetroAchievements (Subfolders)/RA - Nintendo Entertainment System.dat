@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1965</titlecount>
-		<hashcount>1965</hashcount>
+		<titlecount>1966</titlecount>
+		<hashcount>1966</hashcount>
 	</header>
 
 	<game name="Retail/10-Yard Fight (USA, Europe)">
@@ -7924,7 +7924,7 @@
 		<url>https://retroachievements.org/game/1782/hashes</url>
 	</game>
 
-	<game name="Retail/Kinnikuman - Muscle Tag Match/Kinnikuman - Muscle Tag Match (Japan)">
+	<game name="Retail/M.U.S.C.L.E. - Tag Team Match/Kinnikuman - Muscle Tag Match (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Kinnikuman - Muscle Tag Match (Japan)</description>
@@ -7932,7 +7932,7 @@
 		<ra_hash>5bd5aeac6a4f3023afd9516d4c8ed050</ra_hash>
 		<url>https://retroachievements.org/game/1812/hashes</url>
 	</game>
-	<game name="Retail/Kinnikuman - Muscle Tag Match/M.U.S.C.L.E. - Tag Team Match (USA)">
+	<game name="Retail/M.U.S.C.L.E. - Tag Team Match/M.U.S.C.L.E. - Tag Team Match (USA)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>M.U.S.C.L.E. - Tag Team Match (USA)</description>
@@ -7940,7 +7940,7 @@
 		<ra_hash>3a6a9a20a017880eebb71d3f9c93d919</ra_hash>
 		<url>https://retroachievements.org/game/1812/hashes</url>
 	</game>
-	<game name="Retail/Kinnikuman - Muscle Tag Match/M.U.S.C.L.E. - Tag Team Match (USA) (Flashless) (Landa)">
+	<game name="Retail/M.U.S.C.L.E. - Tag Team Match/M.U.S.C.L.E. - Tag Team Match (USA) (Flashless) (Landa)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>M.U.S.C.L.E. - Tag Team Match (USA) (Flashless) (Landa)</description>
@@ -11250,7 +11250,7 @@
 		<url>https://retroachievements.org/game/2248/hashes</url>
 	</game>
 
-	<game name="Retail/Chubby Cherub/Obake no Q Tarou - Wanwan Panic (Japan)">
+	<game name="Retail/Obake no Q Tarou - Wanwan Panic/Obake no Q Tarou - Wanwan Panic (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Obake no Q Tarou - Wanwan Panic (Japan)</description>
@@ -11258,7 +11258,7 @@
 		<ra_hash>2de0ebcb8221d9e60428866b18ab259e</ra_hash>
 		<url>https://retroachievements.org/game/4838/hashes</url>
 	</game>
-	<game name="Retail/Chubby Cherub/Obake no Q-taro - WanWan Panic (Japan) (En) (v1.0) (pacnsacdave)">
+	<game name="Retail/Obake no Q Tarou - Wanwan Panic/Obake no Q-taro - WanWan Panic (Japan) (En) (v1.0) (pacnsacdave)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Obake no Q-taro - WanWan Panic (Japan) (En) (v1.0) (pacnsacdave)</description>
@@ -14314,6 +14314,15 @@
 		<rom name="Star Wars (USA).nes" size="262160" crc="D53F76F6" md5="6be763499918424496274e1daaa0c55a" sha1="40c41eb086defc83cf4c45a1571ed0ff27153948"/>
 		<ra_hash>25496df74d7e25bb0daff1adcc40cadc</ra_hash>
 		<url>https://retroachievements.org/game/1982/hashes</url>
+	</game>
+
+	<game name="Retail/Star Wars - The Empire Strikes Back (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Star Wars - The Empire Strikes Back (USA)</description>
+		<rom name="Star Wars - The Empire Strikes Back (USA).nes" size="524304" crc="A7409FBC" md5="8091f4d2818a52998dce845cf4dc85da" sha1="3b672a315488d60a9ab44a314668f553e54f436f"/>
+		<ra_hash>9f8286fb3cb61583bfc92c82d848e5d9</ra_hash>
+		<url>https://retroachievements.org/game/1676/hashes</url>
 	</game>
 
 	<game name="Retail/StarTropics/StarTropics (Europe)">

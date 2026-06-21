@@ -5,12 +5,12 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1932</titlecount>
-		<hashcount>1932</hashcount>
+		<titlecount>1934</titlecount>
+		<hashcount>1934</hashcount>
 	</header>
 
 	<game name="Homebrew/16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -5847,7 +5847,7 @@
 		<url>https://retroachievements.org/game/972/hashes</url>
 	</game>
 
-	<game name="Retail/Cyber Citizen Shockman Zero/Kaizou Choujin Shubibinman Zero (Japan)">
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan)">
 		<category>Super Nintendo</category>
 		<source>No-Intro</source>
 		<description>Kaizou Choujin Shubibinman Zero (Japan)</description>
@@ -5855,7 +5855,7 @@
 		<ra_hash>06d6f77f59bef272c5e975056dc6e956</ra_hash>
 		<url>https://retroachievements.org/game/7886/hashes</url>
 	</game>
-	<game name="Retail/Cyber Citizen Shockman Zero/Kaizou Choujin Shubibinman Zero (Japan) (En) (DeDRM)">
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (En) (DeDRM)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaizou Choujin Shubibinman Zero (Japan) (En) (DeDRM)</description>
@@ -5863,7 +5863,7 @@
 		<ra_hash>edcbf9168dddd6cf7c82f176cca88b69</ra_hash>
 		<url>https://retroachievements.org/game/7886/hashes</url>
 	</game>
-	<game name="Retail/Cyber Citizen Shockman Zero/Kaizou Choujin Shubibinman Zero (Japan) (En) (v1.0) (Svambo)">
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (En) (v1.0) (Svambo)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Kaizou Choujin Shubibinman Zero (Japan) (En) (v1.0) (Svambo)</description>
@@ -7916,7 +7916,7 @@
 		<url>https://retroachievements.org/game/3244/hashes</url>
 	</game>
 
-	<game name="Retail/Mickey and Donald's Magical Adventure 3/Mickey to Donald - Magical Adventure 3 (Japan)">
+	<game name="Retail/Mickey to Donald - Magical Adventure 3/Mickey to Donald - Magical Adventure 3 (Japan)">
 		<category>Super Nintendo</category>
 		<source>No-Intro</source>
 		<description>Mickey to Donald - Magical Adventure 3 (Japan)</description>
@@ -7924,7 +7924,7 @@
 		<ra_hash>4b87392aaf03517d3f45ebf06eb2d4bc</ra_hash>
 		<url>https://retroachievements.org/game/296/hashes</url>
 	</game>
-	<game name="Retail/Mickey and Donald's Magical Adventure 3/Mickey to Donald - Magical Adventure 3 (Japan) (En) (v1.5) (RPGone)">
+	<game name="Retail/Mickey to Donald - Magical Adventure 3/Mickey to Donald - Magical Adventure 3 (Japan) (En) (v1.5) (RPGone)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Mickey to Donald - Magical Adventure 3 (Japan) (En) (v1.5) (RPGone)</description>
@@ -10962,6 +10962,15 @@
 		<url>https://retroachievements.org/game/17427/hashes</url>
 	</game>
 
+	<game name="Hack/SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel)</description>
+		<rom name="SMW - Elephants and Snakes and Crocodiles (v1.05) (Morsel).sfc" size="2097152" crc="D560E573" md5="b7dcf0ad61864878cb1b2a433e3633e8" sha1="a352b258e69bb2aa520f0cb831e31196f18877ff"/>
+		<ra_hash>b7dcf0ad61864878cb1b2a433e3633e8</ra_hash>
+		<url>https://retroachievements.org/game/27734/hashes</url>
+	</game>
+
 	<game name="Hack/SMW - Elysium Shells (v2.0) (Eryck)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
@@ -12361,6 +12370,15 @@
 		<rom name="SMW - stick mice in my head (v1.2) (JUMP Team,idol).sfc" size="3145728" crc="66CD79BD" md5="7ec6a3fc126e806dff6314a28579065e" sha1="54530253d981abda55eb7a2e4d3df685b17be284"/>
 		<ra_hash>7ec6a3fc126e806dff6314a28579065e</ra_hash>
 		<url>https://retroachievements.org/game/27731/hashes</url>
+	</game>
+
+	<game name="Hack/SMW - Storks and Apes and Crocodiles (v1.14) (Morsel)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches, smwcentral</source>
+		<description>SMW - Storks and Apes and Crocodiles (v1.14) (Morsel)</description>
+		<rom name="SMW - Storks and Apes and Crocodiles (v1.14) (Morsel).sfc" size="2097152" crc="65B36A20" md5="678f7eb9c951840d98c89b5cea4301cd" sha1="74c8e5200031f20e97c186d9bca083430da3646b"/>
+		<ra_hash>678f7eb9c951840d98c89b5cea4301cd</ra_hash>
+		<url>https://retroachievements.org/game/3788/hashes</url>
 	</game>
 
 	<game name="Hack/SMW - Sui Mario (Sui)">

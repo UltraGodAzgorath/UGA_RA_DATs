@@ -5,12 +5,12 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20260609</version>
-		<date>9 June 2026</date>
+		<version>20260621</version>
+		<date>21 June 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/27-arcade/games</url>
-		<titlecount>524</titlecount>
-		<hashcount>775</hashcount>
+		<titlecount>525</titlecount>
+		<hashcount>776</hashcount>
 	</header>
 
 	<game name="Retail/Captain Commando/captcomm">
@@ -28051,6 +28051,43 @@
 		<driver status="preliminary"/>
 		<ra_hash>0ea411de0cbf2bc11a1b781860bd1d0a</ra_hash>
 		<url>https://retroachievements.org/game/33594/hashes</url>
+	</game>
+
+	<game name="Retail/archrivl">
+		<category>FBNeo</category>
+		<source>fbneo</source>
+		<description>Arch Rivals (rev 4.0 6/29/89)</description>
+		<year>1989</year>
+		<manufacturer>Bally Midway</manufacturer>
+		<rom name="arch_rivals_3c_rev4.3c" size="65536" crc="60d4b760"/>
+		<rom name="arch_rivals_3b_rev4.3b" size="65536" crc="e0c07a8d"/>
+		<rom name="arch_rivals_2c_rev4.2c" size="65536" crc="cc2893f7"/>
+		<rom name="arch_rivals_2b_rev4.2b" size="65536" crc="fa977050"/>
+		<rom name="arch_rivals_u4_rev1.u4" size="32768" crc="96b3c652"/>
+		<rom name="arch_rivals_u19_rev1.u19" size="32768" crc="c4b3dc23"/>
+		<rom name="arch_rivals_u20_rev1.u20" size="32768" crc="f7907a02"/>
+		<rom name="arch_rivals_11d_rev1.11d" size="65536" crc="7eb3d7c6"/>
+		<rom name="arch_rivals_12d_rev1.12d" size="65536" crc="31e68050"/>
+		<rom name="arch_rivals_7j_rev1.7j" size="131072" crc="148ce28c"/>
+		<rom name="arch_rivals_8j_rev1.8j" size="131072" crc="58187ac2"/>
+		<rom name="arch_rivals_9j_rev1.9j" size="131072" crc="0dd1204e"/>
+		<rom name="arch_rivals_10j_rev1.10j" size="131072" crc="eb3d0344"/>
+		<rom name="pls153.11j" size="235" crc="761c3b56"/>
+		<rom name="pls153.12j" size="235" crc="48eed036"/>
+		<rom name="pls153.14h" size="235" crc="d4203273"/>
+		<rom name="pal12h6.14e" size="52" status="nodump"/>
+		<rom name="pal16r4a.14k" size="260" status="nodump"/>
+		<rom name="pal16r4a.2k" size="260" status="nodump"/>
+		<rom name="pal16r6a.15e" size="260" status="nodump"/>
+		<rom name="pal16l8a.1j" size="260" status="nodump"/>
+		<rom name="pal16l8a.2j" size="260" status="nodump"/>
+		<rom name="pal20l8a.9b" size="324" status="nodump"/>
+		<rom name="pl20x10a.14f" size="204" status="nodump"/>
+		<rom name="pl20x10a.15f" size="204" status="nodump"/>
+		<video type="raster" orientation="horizontal" width="512" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>ce43d1dc7e14463db025032bfdab178c</ra_hash>
+		<url>https://retroachievements.org/game/36560/hashes</url>
 	</game>
 
 	<game name="Retail/retofinv">
