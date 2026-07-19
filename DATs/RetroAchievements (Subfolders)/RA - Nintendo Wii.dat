@@ -1322,7 +1322,7 @@
 		<category>Wii</category>
 		<source>Redump</source>
 		<description>Inazuma Eleven Strikers (Europe) (En,Es,It)</description>
-		<rom name="Inazuma Eleven Strikers (Europe) (En,Es,It).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Inazuma Eleven Strikers (Europe) (En,Es,It).rvz" size="2784019100" crc="88797DE7" md5="227a743ea74d68550bde4814812b8095" sha1="172eed78621baa0cce3db0f970cc8c78e6ea92f6"/>
 		<ra_hash>8cf79d0d6ba88f2241dcf16aee23111e</ra_hash>
 		<url>https://retroachievements.org/game/34686/hashes</url>
 	</game>
@@ -1330,7 +1330,7 @@
 		<category>Wii</category>
 		<source>Redump</source>
 		<description>Inazuma Eleven Strikers (Europe) (En,Fr,De)</description>
-		<rom name="Inazuma Eleven Strikers (Europe) (En,Fr,De).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Inazuma Eleven Strikers (Europe) (En,Fr,De).rvz" size="2767660384" crc="5A4759BB" md5="71f378dff5a2e86206328a9fcbee6b9f" sha1="b4882bf47016ab60ad58699cd901e3f3fbf11e09"/>
 		<ra_hash>718acf5047c8ea632d53d32a08a102c7</ra_hash>
 		<url>https://retroachievements.org/game/34686/hashes</url>
 	</game>
@@ -1869,7 +1869,7 @@
 		<category>Wii</category>
 		<source>Redump</source>
 		<description>Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)</description>
-		<rom name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition).rvz" size="3580692380" crc="F8A1A945" md5="7b81ec2052b45c236eae5d3d84da7df9" sha1="862dd717ebe10de3ba0fbcb4d74063591d158ff8"/>
 		<ra_hash>f7d3f21210f658fec4b436100c647ec7</ra_hash>
 		<url>https://retroachievements.org/game/35247/hashes</url>
 	</game>
