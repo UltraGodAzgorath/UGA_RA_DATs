@@ -7,8 +7,8 @@
 		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>368</titlecount>
-		<hashcount>368</hashcount>
+		<titlecount>371</titlecount>
+		<hashcount>371</hashcount>
 	</header>
 
 	<game name="3D Pixel Racing (USA) (WiiWare)">
@@ -1661,6 +1661,29 @@
 		<url>https://retroachievements.org/game/7770/hashes</url>
 	</game>
 
+	<game name="Inazuma Eleven Strikers (Europe) (En,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Inazuma Eleven Strikers (Europe) (En,Es,It)</description>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Es,It)" region="Europe"/>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Es,It)" region="Italy"/>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Es,It)" region="Spain"/>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Es,It)" region="English"/>
+		<rom name="Inazuma Eleven Strikers (Europe) (En,Es,It).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<ra_hash>8cf79d0d6ba88f2241dcf16aee23111e</ra_hash>
+		<url>https://retroachievements.org/game/34686/hashes</url>
+	</game>
+	<game name="Inazuma Eleven Strikers (Europe) (En,Fr,De)" cloneof="Inazuma Eleven Strikers (Europe) (En,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Inazuma Eleven Strikers (Europe) (En,Fr,De)</description>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Fr,De)" region="France"/>
+		<release name="Inazuma Eleven Strikers (Europe) (En,Fr,De)" region="Germany"/>
+		<rom name="Inazuma Eleven Strikers (Europe) (En,Fr,De).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<ra_hash>718acf5047c8ea632d53d32a08a102c7</ra_hash>
+		<url>https://retroachievements.org/game/34686/hashes</url>
+	</game>
+
 	<game name="Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2399,6 +2422,21 @@
 		<rom name="Metroid Prime 3 - Corruption (USA).rvz" size="4062965232" crc="95047193" md5="5be39211df380c8b4a7fff995ba78f0d" sha1="1eefe08d28a759743fee4cd6f04c88cc95d6726f"/>
 		<ra_hash>19a1c0da8cad36165fb6287c3ea4adde</ra_hash>
 		<url>https://retroachievements.org/game/34689/hashes</url>
+	</game>
+
+	<game name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)</description>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="Europe"/>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="France"/>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="Germany"/>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="Italy"/>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="Spain"/>
+		<release name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition)" region="English"/>
+		<rom name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It) (Special Edition).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<ra_hash>f7d3f21210f658fec4b436100c647ec7</ra_hash>
+		<url>https://retroachievements.org/game/35247/hashes</url>
 	</game>
 
 	<game name="MiniCopter Adventure Flight (USA)">

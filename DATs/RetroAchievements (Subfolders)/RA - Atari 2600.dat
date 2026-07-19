@@ -395,11 +395,11 @@
 		<url>https://retroachievements.org/game/11799/hashes</url>
 	</game>
 
-	<game name="Retail/Championship Soccer _ Soccer (USA)">
+	<game name="Retail/Championship Soccer (USA)">
 		<category></category>
 		<source>No-Intro</source>
-		<description>Championship Soccer _ Soccer (USA)</description>
-		<rom name="Championship Soccer _ Soccer (USA).a26" size="4096" crc="3F59BB60" md5="ace319dc4f76548659876741a6690d57" sha1="832283530f5dee332f29cf8c4854dd554f2030a0"/>
+		<description>Championship Soccer (USA)</description>
+		<rom name="Championship Soccer (USA).a26" size="4096" crc="3F59BB60" md5="ace319dc4f76548659876741a6690d57" sha1="832283530f5dee332f29cf8c4854dd554f2030a0"/>
 		<ra_hash>ace319dc4f76548659876741a6690d57</ra_hash>
 		<url>https://retroachievements.org/game/33731/hashes</url>
 	</game>

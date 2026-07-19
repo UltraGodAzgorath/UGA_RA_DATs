@@ -364,12 +364,12 @@
 		<url>https://retroachievements.org/game/13350/hashes</url>
 	</game>
 
-	<game name="Picture Puzzle (Europe) (1)">
+	<game name="Picture Puzzle (Europe)">
 		<category>Retail</category>
 		<source>No-Intro</source>
-		<description>Picture Puzzle (Europe) (1)</description>
-		<release name="Picture Puzzle (Europe) (1)" region="Europe"/>
-		<rom name="Picture Puzzle (Europe) (1).ngc" size="524288" crc="6F2D35E6" md5="9a58387d2110138dbcb7199e208174da" sha1="f6f4a7e412eca2235dfdd575cd0df64adaa2f476"/>
+		<description>Picture Puzzle (Europe)</description>
+		<release name="Picture Puzzle (Europe)" region="Europe"/>
+		<rom name="Picture Puzzle (Europe).ngc" size="524288" crc="6F2D35E6" md5="9a58387d2110138dbcb7199e208174da" sha1="f6f4a7e412eca2235dfdd575cd0df64adaa2f476"/>
 		<ra_hash>9a58387d2110138dbcb7199e208174da</ra_hash>
 		<url>https://retroachievements.org/game/10345/hashes</url>
 	</game>
