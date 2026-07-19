@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
 		<titlecount>171</titlecount>
@@ -1113,6 +1113,15 @@
 		<url>https://retroachievements.org/game/8392/hashes</url>
 	</machine>
 
+	<machine name="Retail/Sega Marine Fishing (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Sega Marine Fishing (USA)</description>
+		<disk name="Sega Marine Fishing (USA).chd" sha1="76b3a9ecaf9715f88ccaf764cb8ec080cf5a9b5f"/>
+		<ra_hash>a509032283580cb42cb82aa38e1656c7</ra_hash>
+		<url>https://retroachievements.org/game/10851/hashes</url>
+	</machine>
+
 	<machine name="Retail/Sega Rally 2 (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -1224,38 +1233,29 @@
 		<url>https://retroachievements.org/game/3443/hashes</url>
 	</machine>
 
-	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (Europe) (Subset - Official DLC)">
+	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (Europe) (Exclusive Subset - Official DLC)">
 		<category></category>
 		<source>Redump, RAPatches</source>
-		<description>Sonic Adventure (Europe) (Subset - Official DLC)</description>
-		<disk name="Sonic Adventure (Europe) (Subset - Official DLC).chd" sha1="cbba02cc457c19ea6f2ebff58101a53fa620339f"/>
+		<description>Sonic Adventure (Europe) (Exclusive Subset - Official DLC)</description>
+		<disk name="Sonic Adventure (Europe) (Exclusive Subset - Official DLC).chd" sha1="cbba02cc457c19ea6f2ebff58101a53fa620339f"/>
 		<ra_hash>8663f447c7b05a812e4405674e8f345e</ra_hash>
 		<url>https://retroachievements.org/game/22863/hashes</url>
 	</machine>
-	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (Japan) (Subset - Official DLC)">
+	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (Japan) (Exclusive Subset - Official DLC)">
 		<category></category>
 		<source>Redump, RAPatches</source>
-		<description>Sonic Adventure (Japan) (Subset - Official DLC)</description>
-		<disk name="Sonic Adventure (Japan) (Subset - Official DLC).chd" sha1="536d41c9d095ec196d102b44a3c17981b189a0a0"/>
+		<description>Sonic Adventure (Japan) (Exclusive Subset - Official DLC)</description>
+		<disk name="Sonic Adventure (Japan) (Exclusive Subset - Official DLC).chd" sha1="536d41c9d095ec196d102b44a3c17981b189a0a0"/>
 		<ra_hash>17daffe5c6e225a4ea502e8f345fe742</ra_hash>
 		<url>https://retroachievements.org/game/22863/hashes</url>
 	</machine>
-	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (USA) (Rev A) (Subset - Official DLC)">
+	<machine name="Subset/Sonic Adventure [Subset - Official DLC]/Sonic Adventure (USA) (Rev A) (Exclusive Subset - Official DLC)">
 		<category></category>
 		<source>Redump, RAPatches</source>
-		<description>Sonic Adventure (USA) (Rev A) (Subset - Official DLC)</description>
-		<disk name="Sonic Adventure (USA) (Rev A) (Subset - Official DLC).chd" sha1="303f21060ef5c34ebf6c555b84b344a069d0abd4"/>
+		<description>Sonic Adventure (USA) (Rev A) (Exclusive Subset - Official DLC)</description>
+		<disk name="Sonic Adventure (USA) (Rev A) (Exclusive Subset - Official DLC).chd" sha1="303f21060ef5c34ebf6c555b84b344a069d0abd4"/>
 		<ra_hash>ae7ca5e32c6ef30ab17f533e65afd381</ra_hash>
 		<url>https://retroachievements.org/game/22863/hashes</url>
-	</machine>
-
-	<machine name="Subset/Sonic Adventure (Subset - Chao Garden)">
-		<category></category>
-		<source>Redump, RAPatches</source>
-		<description>Sonic Adventure (Subset - Chao Garden)</description>
-		<disk name="Sonic Adventure (Subset - Chao Garden).chd" sha1="bd43f45e7736439e46f9eda39b8ce9358a18d430"/>
-		<ra_hash>dc085dd35498961b1cc165ae3b3b5bd1</ra_hash>
-		<url>https://retroachievements.org/game/19185/hashes</url>
 	</machine>
 
 	<machine name="Retail/Sonic Adventure/Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)">

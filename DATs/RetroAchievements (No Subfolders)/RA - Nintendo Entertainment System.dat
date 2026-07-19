@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1966</titlecount>
-		<hashcount>1966</hashcount>
+		<titlecount>1967</titlecount>
+		<hashcount>1967</hashcount>
 	</header>
 
 	<game name="10-Yard Fight (USA, Europe)">
@@ -2383,16 +2383,6 @@
 		<rom name="Castlevania II - Simon's Quest (USA).nes" size="262160" crc="38E82FAB" md5="87dae73b0c4c8fdeba8cf4209df87e2c" sha1="5cff70f8313a5ea9058e53ce933c02175e1275cb"/>
 		<ra_hash>755f9086b0567243b3ce25cc8a6dfd17</ra_hash>
 		<url>https://retroachievements.org/game/1461/hashes</url>
-	</game>
-
-	<game name="Castlevania II - Simon's Quest (USA) (Subset - Full Game Damageless)">
-		<category>Subset</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Castlevania II - Simon's Quest (USA) (Subset - Full Game Damageless)</description>
-		<release name="Castlevania II - Simon's Quest (USA) (Subset - Full Game Damageless)" region="USA"/>
-		<rom name="Castlevania II - Simon's Quest (USA) (Subset - Full Game Damageless).nes" size="262160" crc="6FD9458C" md5="dc874b35aeccef000901448a4c7494b2" sha1="8b3419c5562e3f3724feb8b49b67443c2ae6c77e"/>
-		<ra_hash>6396078ec874ce73bced3d841b82ca78</ra_hash>
-		<url>https://retroachievements.org/game/34505/hashes</url>
 	</game>
 
 	<game name="Castlevania II - Subotai's Hunt - Tenth Anniversary Edition (v1.05b rc) (clymax)">
@@ -5318,6 +5308,16 @@
 		<url>https://retroachievements.org/game/4766/hashes</url>
 	</game>
 
+	<game name="Filthy Kitchen (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>Filthy Kitchen (World) (Aftermarket) (Unl)</description>
+		<release name="Filthy Kitchen (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Filthy Kitchen (World) (Aftermarket) (Unl).nes" size="65552" crc="5AE9849E" md5="c856677e35386eaeba843347d5545c28" sha1="42de67bee8ff8033a4f1c991cac5d4827fb34a13"/>
+		<ra_hash>e3172d7217a5da161618e1bd30034331</ra_hash>
+		<url>https://retroachievements.org/game/8356/hashes</url>
+	</game>
+
 	<game name="Final Fantasy (USA)" cloneof="Final Fantasy (USA) (Eo)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -6040,6 +6040,16 @@
 		<rom name="G.I. Joe - A Real American Hero (USA).nes" size="393232" crc="397118ED" md5="b218591e99da8814e26d2f75eb8e8caf" sha1="f366690291bea3025ff63733f52c91632dffa445"/>
 		<ra_hash>fcb354cbdc180abc990da9317d619629</ra_hash>
 		<url>https://retroachievements.org/game/1700/hashes</url>
+	</game>
+
+	<game name="G.I. Joe - The Atlantis Factor (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>G.I. Joe - The Atlantis Factor (USA)</description>
+		<release name="G.I. Joe - The Atlantis Factor (USA)" region="USA"/>
+		<rom name="G.I. Joe - The Atlantis Factor (USA).nes" size="393232" crc="A8D166A4" md5="2d3a603b580c41dd7a81a14b91f79267" sha1="f1e511789b5a9dc039bd79b853307432e68de5b0"/>
+		<ra_hash>680990800e767abf2d64a6cf8d8474d8</ra_hash>
+		<url>https://retroachievements.org/game/1699/hashes</url>
 	</game>
 
 	<game name="Galaga (Europe)" cloneof="Galaga - Demons of Death (USA)">
@@ -6829,15 +6839,6 @@
 		<url>https://retroachievements.org/game/1475/hashes</url>
 	</game>
 
-	<game name="Gyruss (Japan)" cloneof="Gyruss (USA)">
-		<category>Retail</category>
-		<source>No-Intro</source>
-		<description>Gyruss (Japan)</description>
-		<release name="Gyruss (Japan)" region="Japan"/>
-		<rom name="Gyruss (Japan).fds.nes" size="131000" crc="BFC78F7D" md5="feb7399972c2908687d2a39dfb646daf" sha1="7cac3f8a1963be84aa20888996922f0599797ebd"/>
-		<ra_hash>feb7399972c2908687d2a39dfb646daf</ra_hash>
-		<url>https://retroachievements.org/game/1476/hashes</url>
-	</game>
 	<game name="Gyruss (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -11657,6 +11658,14 @@
 		<url>https://retroachievements.org/game/27402/hashes</url>
 	</game>
 
+	<game name="Mother - 25th Anniversary - Faithful Edition (v1.3) (ShadowOne333)" cloneof="Mother - 25th Anniversary Edition (v1.11) (DragonDePlatino)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Mother - 25th Anniversary - Faithful Edition (v1.3) (ShadowOne333)</description>
+		<rom name="Mother - 25th Anniversary - Faithful Edition (v1.3) (ShadowOne333).nes" size="524304" crc="DDD3AC67" md5="aebb7195d421ceada2258de12ed3e45f" sha1="1e664d36fd53f8966349725a28f2efbe51be1e30"/>
+		<ra_hash>6a480ad10b875ba4dfda5a94cc4d33a9</ra_hash>
+		<url>https://retroachievements.org/game/5175/hashes</url>
+	</game>
 	<game name="Mother - 25th Anniversary Edition (v1.11) (DragonDePlatino)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -11879,34 +11888,6 @@
 		<rom name="New Ghostbusters II (Japan).nes" size="262160" crc="A5A87587" md5="3144ac8ec3f7b9fe674d434c93900971" sha1="81f13c913f065e1710f42154b264d4fcf3812fd4"/>
 		<ra_hash>2f45a3bdcb0f77348e7429b19b30815e</ra_hash>
 		<url>https://retroachievements.org/game/6215/hashes</url>
-	</game>
-
-	<game name="New York Nyankies (Japan)" cloneof="Rockin' Kats (USA)">
-		<category>Retail</category>
-		<source>No-Intro</source>
-		<description>New York Nyankies (Japan)</description>
-		<release name="New York Nyankies (Japan)" region="Japan"/>
-		<rom name="New York Nyankies (Japan).nes" size="262160" crc="967AD398" md5="6be3479b8b5dcdebbdf68bd2f7a8e4fe" sha1="56b4df374bdb385c33ddd456d86e0e4230617936"/>
-		<ra_hash>89eed34ca4a758a5e6c1187907638957</ra_hash>
-		<url>https://retroachievements.org/game/1921/hashes</url>
-	</game>
-	<game name="Rockin' Kats (Europe)" cloneof="Rockin' Kats (USA)">
-		<category>Retail</category>
-		<source>No-Intro</source>
-		<description>Rockin' Kats (Europe)</description>
-		<release name="Rockin' Kats (Europe)" region="Europe"/>
-		<rom name="Rockin' Kats (Europe).nes" size="262160" crc="E3C58383" md5="59ac3d8e074202c894fd5548b7d457a2" sha1="1993d5510f84754d1ec1fe46e10e791e60212b4f"/>
-		<ra_hash>d25ea57f0dfa04fe0916d6ad74274acf</ra_hash>
-		<url>https://retroachievements.org/game/1921/hashes</url>
-	</game>
-	<game name="Rockin' Kats (USA)">
-		<category>Retail</category>
-		<source>No-Intro</source>
-		<description>Rockin' Kats (USA)</description>
-		<release name="Rockin' Kats (USA)" region="USA"/>
-		<rom name="Rockin' Kats (USA).nes" size="262160" crc="329E1F76" md5="0163786b14088f5a1c5d23cf0b1e4ede" sha1="18903cccfcb6a60f015147af99c3ad4a18e9e66e"/>
-		<ra_hash>ef9502bbc4b7698603aa8410e3dccf1c</ra_hash>
-		<url>https://retroachievements.org/game/1921/hashes</url>
 	</game>
 
 	<game name="Nightmare on Elm Street, A (USA)">
@@ -13369,6 +13350,16 @@
 		<url>https://retroachievements.org/game/28260/hashes</url>
 	</game>
 
+	<game name="Punch-Out!! (USA)">
+		<category>Hack</category>
+		<source>Unknown</source>
+		<description>Punch-Out!! (USA)</description>
+		<release name="Punch-Out!! (USA)" region="USA"/>
+		<rom name="Punch-Out!! (USA).nes" size="262160" crc="4FB4E9A7" md5="57b63c4b0a3ef541d4f0c2b7b190c2ef" sha1="79dd411ec5c6d2291ceeb4c47db7d8b276de8eef"/>
+		<ra_hash>3b0d04dadd76ac7228d2d6f62bd76cad</ra_hash>
+		<url>https://retroachievements.org/game/40860/hashes</url>
+	</game>
+
 	<game name="Punch-Out!! - Mike Tyson Challenge Mode (v1.1) (Hexadecimal Mantis)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -13914,6 +13905,16 @@
 		<rom name="Rocketeer, The (USA).nes" size="262160" crc="9242AAE1" md5="65a171441eb9fa208d5a5424fc536d24" sha1="60275936257d0ac799b2e7fc8e35e73c0fc08285"/>
 		<ra_hash>24d936b8d2281518258f623a3e10f5f1</ra_hash>
 		<url>https://retroachievements.org/game/1920/hashes</url>
+	</game>
+
+	<game name="Rockin' Kats (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Rockin' Kats (USA)</description>
+		<release name="Rockin' Kats (USA)" region="USA"/>
+		<rom name="Rockin' Kats (USA).nes" size="262160" crc="329E1F76" md5="0163786b14088f5a1c5d23cf0b1e4ede" sha1="18903cccfcb6a60f015147af99c3ad4a18e9e66e"/>
+		<ra_hash>ef9502bbc4b7698603aa8410e3dccf1c</ra_hash>
+		<url>https://retroachievements.org/game/1921/hashes</url>
 	</game>
 
 	<game name="Rockman - MegaMari (v1.0) (Unknown)">
@@ -18247,7 +18248,7 @@
 		<url>https://retroachievements.org/game/19538/hashes</url>
 	</game>
 
-	<game name="Zelda II - The Adventure of Link (Flash Removal) (v1.0) (Zenkerdus)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (Flash Removal) (v1.0) (Zenkerdus)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (Flash Removal) (v1.0) (Zenkerdus)</description>
@@ -18256,7 +18257,7 @@
 		<ra_hash>8e381e740c91dd183fb6ec866b6b0ce7</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro</source>
 		<description>Zelda II - The Adventure of Link (USA)</description>
@@ -18264,7 +18265,7 @@
 		<ra_hash>88c0493fb1146834836c0ff4f3e06e45</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (De) (v1.01) (Ice Man)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (De) (v1.01) (Ice Man)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (De) (v1.01) (Ice Man)</description>
@@ -18273,25 +18274,16 @@
 		<ra_hash>b59c67d97b6041346b0160cb0a97a39d</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
-		<category>Retail</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)</description>
-		<release name="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)" region="USA"/>
-		<release name="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)" region="Netherlands"/>
-		<rom name="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!).nes" size="262288" crc="51D0AE3A" md5="bdd891ec498d341ab103592aa202ebb4" sha1="b0becf16354f729e610e0d699dfeda95375a7857"/>
-		<ra_hash>20de5fbc067da27fb56242aae1515a0b</ra_hash>
-		<url>https://retroachievements.org/game/1453/hashes</url>
-	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)</description>
+		<release name="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)" region="USA"/>
 		<rom name="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto).nes" size="262160" crc="1AEA3835" md5="ed330b63a85934f1db0732b5b10243c5" sha1="ee83deb7f82982f43f79afa0b3e237bf8c4ca5de"/>
 		<ra_hash>79efcc636d33f9af534fe81ae5143e18</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Es) (v1.0) (jackic)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Es) (v1.0) (jackic)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Es) (v1.0) (jackic)</description>
@@ -18300,7 +18292,7 @@
 		<ra_hash>1397dbd4f3b651353fc9f95522d349cc</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Fr) (v1.0) (Generation IX)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Fr) (v1.0) (Generation IX)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Fr) (v1.0) (Generation IX)</description>
@@ -18309,7 +18301,7 @@
 		<ra_hash>5df477ffb9fcf57d8fc8b84d599d3aa0</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (La) (abw)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (La) (abw)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (La) (abw)</description>
@@ -18317,7 +18309,16 @@
 		<ra_hash>f240370ce4f22e3b6df1732c44317cd2</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (No) (v1.0) (Just4Fun)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Nl) (v1.1) (Ok Impala!)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Zelda II - The Adventure of Link (USA) (Nl) (v1.1) (Ok Impala!)</description>
+		<release name="Zelda II - The Adventure of Link (USA) (Nl) (v1.1) (Ok Impala!)" region="Netherlands"/>
+		<rom name="Zelda II - The Adventure of Link (USA) (Nl) (v1.1) (Ok Impala!).nes" size="262288" crc="51D0AE3A" md5="bdd891ec498d341ab103592aa202ebb4" sha1="b0becf16354f729e610e0d699dfeda95375a7857"/>
+		<ra_hash>20de5fbc067da27fb56242aae1515a0b</ra_hash>
+		<url>https://retroachievements.org/game/1453/hashes</url>
+	</game>
+	<game name="Zelda II - The Adventure of Link (USA) (No) (v1.0) (Just4Fun)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (No) (v1.0) (Just4Fun)</description>
@@ -18326,7 +18327,7 @@
 		<ra_hash>f94648a5e2f0b33a542659d9365338b1</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Ro) (v1.0) (gorgyrip)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Ro) (v1.0) (gorgyrip)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Ro) (v1.0) (gorgyrip)</description>
@@ -18334,7 +18335,7 @@
 		<ra_hash>aa86b61c8dbcec521e93cab48cd25386</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Tl) (v1.0) (Zynk Oxhyde)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Tl) (v1.0) (Zynk Oxhyde)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Tl) (v1.0) (Zynk Oxhyde)</description>
@@ -18342,7 +18343,7 @@
 		<ra_hash>445bebcac5e5538767656fc3cf92a281</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Tu) (knighTeen87)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Tu) (knighTeen87)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Tu) (knighTeen87)</description>
@@ -18350,7 +18351,7 @@
 		<ra_hash>96afde1deb2f1484c7fdc8fe8aa59aa3</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Zh) (wiiiii)" cloneof="Zelda II - The Adventure of Link (USA) (Du) (v1.1) (Ok Impala!)">
+	<game name="Zelda II - The Adventure of Link (USA) (Zh) (wiiiii)" cloneof="Zelda II - The Adventure of Link (USA) (Eo) (v1.0) (eokakto)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda II - The Adventure of Link (USA) (Zh) (wiiiii)</description>
@@ -18358,6 +18359,16 @@
 		<rom name="Zelda II - The Adventure of Link (USA) (Zh) (wiiiii).nes" size="262160" crc="FED6B127" md5="26bd2c87c2c6015092a7059cedc7339d" sha1="47d919775d61e9582fa01367f02fd938b8e167af"/>
 		<ra_hash>000cbbf155e03c0523fab879aee9b679</ra_hash>
 		<url>https://retroachievements.org/game/1453/hashes</url>
+	</game>
+
+	<game name="Zelda II - The Adventure of Mario (v1.1.2) (jroweboy)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Zelda II - The Adventure of Mario (v1.1.2) (jroweboy)</description>
+		<release name="Zelda II - The Adventure of Mario (v1.1.2) (jroweboy)" region="World"/>
+		<rom name="Zelda II - The Adventure of Mario (v1.1.2) (jroweboy).nes" size="393232" crc="01AA0C76" md5="f5b370f4e46ad361e15cc075ecf2e518" sha1="089c0b3967ec001955dc5840c7f9ca956315ad0b"/>
+		<ra_hash>3e0682d5a63dcb83da3b7493d5fa2249</ra_hash>
+		<url>https://retroachievements.org/game/39071/hashes</url>
 	</game>
 
 	<game name="Zelda II - The Nightmare of Ganon (v1.5) (HollowShadow)">

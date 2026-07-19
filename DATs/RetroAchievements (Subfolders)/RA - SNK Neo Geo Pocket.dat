@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo Pocket</name>
 		<description>SNK Neo Geo Pocket</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/14-neo-geo-pocket/games</url>
 		<titlecount>42</titlecount>
@@ -322,12 +322,12 @@
 		<url>https://retroachievements.org/game/13350/hashes</url>
 	</game>
 
-	<game name="Retail/Picture Puzzle (Europe)">
+	<game name="Retail/Picture Puzzle (Europe) (1)">
 		<category>Neo Geo Pocket Color</category>
 		<source>No-Intro</source>
-		<description>Picture Puzzle (Europe)</description>
-		<rom name="Picture Puzzle (Europe).ngc" size="1048576" crc="67E6DC56" md5="81d3c10271ad5b09032dd00321b41aa0" sha1="387d37cf60562da4e95ba18440ad6e0a4cccb537"/>
-		<ra_hash>81d3c10271ad5b09032dd00321b41aa0</ra_hash>
+		<description>Picture Puzzle (Europe) (1)</description>
+		<rom name="Picture Puzzle (Europe) (1).ngc" size="524288" crc="6F2D35E6" md5="9a58387d2110138dbcb7199e208174da" sha1="f6f4a7e412eca2235dfdd575cd0df64adaa2f476"/>
+		<ra_hash>9a58387d2110138dbcb7199e208174da</ra_hash>
 		<url>https://retroachievements.org/game/10345/hashes</url>
 	</game>
 

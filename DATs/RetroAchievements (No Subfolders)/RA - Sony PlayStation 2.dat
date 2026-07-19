@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>904</titlecount>
-		<hashcount>1174</hashcount>
+		<titlecount>919</titlecount>
+		<hashcount>1193</hashcount>
 	</header>
 
 	<machine name="007 - Agent Under Fire (USA)" cloneof="007 - Agent Under Fire (USA) (Widescreen + 60fps Driving) (v1.0) (Souzooka)">
@@ -630,6 +630,21 @@
 		<url>https://retroachievements.org/game/22599/hashes</url>
 	</machine>
 
+	<machine name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<disk name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It).chd" sha1="0082f8966c0ffd5aa4a4a5b9d6c6e7f58249aae0"/>
+		<ra_hash>635a2a6d3ae4e926ec7f3980497d9442</ra_hash>
+		<url>https://retroachievements.org/game/22598/hashes</url>
+	</machine>
+
 	<machine name="Atelier Iris - Eternal Mana (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -851,6 +866,16 @@
 		<disk name="Beyond Good &amp; Evil (USA) (En,Fr,Es).chd" sha1="c91414f07d7816113ebee6642dd8cb749d724cc3"/>
 		<ra_hash>cddbc6c631b2f553d271df2369eb9dae</ra_hash>
 		<url>https://retroachievements.org/game/3061/hashes</url>
+	</machine>
+
+	<machine name="Big Idea's VeggieTales - LarryBoy and the Bad Apple (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Big Idea's VeggieTales - LarryBoy and the Bad Apple (USA)</description>
+		<release name="Big Idea's VeggieTales - LarryBoy and the Bad Apple (USA)" region="USA"/>
+		<disk name="Big Idea's VeggieTales - LarryBoy and the Bad Apple (USA).chd" sha1="389ba3bd3f1aecfd29457a0691259bb31a0e6d2e"/>
+		<ra_hash>cb8e478696bbf9b68cc9fcbf9d1fdafb</ra_hash>
+		<url>https://retroachievements.org/game/23940/hashes</url>
 	</machine>
 
 	<machine name="BioHazard Outbreak (Exclusive Subset - Online Multiplayer)" cloneof="BioHazard Outbreak (SLPM-65428) (En) (v2.1) (REfan988 &amp; Silent Hell) (32088394) (Exclusive Subset - Online Multiplayer)">
@@ -1438,12 +1463,15 @@
 		<url>https://retroachievements.org/game/20614/hashes</url>
 	</machine>
 
-	<machine name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8)">
+	<machine name="Cinderella (Europe) (En,Fr,De) (RACompatibility)">
 		<category>Retail</category>
-		<source>Unknown</source>
-		<description>Cinderella (RA Compatibility) (SLES-54485) (08401EA8)</description>
-		<release name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8)" region="World"/>
-		<disk name="Cinderella (RA Compatibility) (SLES-54485) (08401EA8).chd" sha1="63cf6e3bfd4382c73e01b4b9a10eb8b4c2b6b6f3"/>
+		<source>Redump, RAPatches</source>
+		<description>Cinderella (Europe) (En,Fr,De) (RACompatibility)</description>
+		<release name="Cinderella (Europe) (En,Fr,De) (RACompatibility)" region="Europe"/>
+		<release name="Cinderella (Europe) (En,Fr,De) (RACompatibility)" region="France"/>
+		<release name="Cinderella (Europe) (En,Fr,De) (RACompatibility)" region="Germany"/>
+		<release name="Cinderella (Europe) (En,Fr,De) (RACompatibility)" region="English"/>
+		<disk name="Cinderella (Europe) (En,Fr,De) (RACompatibility).chd" sha1="63cf6e3bfd4382c73e01b4b9a10eb8b4c2b6b6f3"/>
 		<ra_hash>ae3142e0e32c248e03e931a34d5ed108</ra_hash>
 		<url>https://retroachievements.org/game/32015/hashes</url>
 	</machine>
@@ -1724,6 +1752,16 @@
 		<url>https://retroachievements.org/game/21439/hashes</url>
 	</machine>
 
+	<machine name="Dance Dance Revolution - Party Collection (Japan)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Dance Dance Revolution - Party Collection (Japan)</description>
+		<release name="Dance Dance Revolution - Party Collection (Japan)" region="Japan"/>
+		<disk name="Dance Dance Revolution - Party Collection (Japan).chd" sha1="bd035d02bce72229137b715b511d51a3d5ccd77a"/>
+		<ra_hash>3abb40bb90fd6dcee9a6afd09845c442</ra_hash>
+		<url>https://retroachievements.org/game/26361/hashes</url>
+	</machine>
+
 	<machine name="Dance Dance Revolution Extreme (Japan)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -1991,6 +2029,16 @@
 		<disk name="Destroy All Humans! (USA).chd" sha1="cabcbae7ccaefb244fd28bc5c9ac2dd5c93e1a04"/>
 		<ra_hash>61e3e76b2855f0bb18bcda5e249b20f8</ra_hash>
 		<url>https://retroachievements.org/game/19745/hashes</url>
+	</machine>
+
+	<machine name="Deus Ex - The Conspiracy (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Deus Ex - The Conspiracy (USA)</description>
+		<release name="Deus Ex - The Conspiracy (USA)" region="USA"/>
+		<disk name="Deus Ex - The Conspiracy (USA).chd" sha1="bb0d4a00a7d0d21ced9bd0899283339b23e7fb05"/>
+		<ra_hash>3e82931b8e00aec6b6d45d928e65a334</ra_hash>
+		<url>https://retroachievements.org/game/19084/hashes</url>
 	</machine>
 
 	<machine name="Devil Kings (USA)">
@@ -3276,6 +3324,19 @@
 		<url>https://retroachievements.org/game/19122/hashes</url>
 	</machine>
 
+	<machine name="Empire of Atlantis (Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Empire of Atlantis (Europe) (En,Fr,De)</description>
+		<release name="Empire of Atlantis (Europe) (En,Fr,De)" region="Europe"/>
+		<release name="Empire of Atlantis (Europe) (En,Fr,De)" region="France"/>
+		<release name="Empire of Atlantis (Europe) (En,Fr,De)" region="Germany"/>
+		<release name="Empire of Atlantis (Europe) (En,Fr,De)" region="English"/>
+		<disk name="Empire of Atlantis (Europe) (En,Fr,De).chd" sha1="64e282d6627904120d0b015bfb087263f0a0eb2a"/>
+		<ra_hash>d3b2208332db13a791c1322c3a6391db</ra_hash>
+		<url>https://retroachievements.org/game/33326/hashes</url>
+	</machine>
+
 	<machine name="Enter the Matrix (USA) (1.01)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -3601,6 +3662,41 @@
 		<url>https://retroachievements.org/game/21857/hashes</url>
 	</machine>
 
+	<machine name="FIFA 14 (Brazil) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>FIFA 14 (Brazil) (En,Fr,Es)</description>
+		<release name="FIFA 14 (Brazil) (En,Fr,Es)" region="Brazil"/>
+		<release name="FIFA 14 (Brazil) (En,Fr,Es)" region="France"/>
+		<release name="FIFA 14 (Brazil) (En,Fr,Es)" region="Spain"/>
+		<release name="FIFA 14 (Brazil) (En,Fr,Es)" region="English"/>
+		<disk name="FIFA 14 (Brazil) (En,Fr,Es).chd" sha1="98b149c0512cc77b2635dadc32499dcbc7adb5c1"/>
+		<ra_hash>698d3db226dc898f4e20cb4631bd0071</ra_hash>
+		<url>https://retroachievements.org/game/21991/hashes</url>
+	</machine>
+	<machine name="FIFA 14 (Europe) (En,Es,Pt,Pl)" cloneof="FIFA 14 (Brazil) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>FIFA 14 (Europe) (En,Es,Pt,Pl)</description>
+		<release name="FIFA 14 (Europe) (En,Es,Pt,Pl)" region="Europe"/>
+		<release name="FIFA 14 (Europe) (En,Es,Pt,Pl)" region="Portugal"/>
+		<release name="FIFA 14 (Europe) (En,Es,Pt,Pl)" region="Poland"/>
+		<disk name="FIFA 14 (Europe) (En,Es,Pt,Pl).chd" sha1="668757cc2d0284f92eb57fa96ea1a879fc7ee95f"/>
+		<ra_hash>0b73d75eceb9638c9c16c3b1583a2e3b</ra_hash>
+		<url>https://retroachievements.org/game/21991/hashes</url>
+	</machine>
+	<machine name="FIFA 14 (Europe) (En,Fr,De,It,Nl)" cloneof="FIFA 14 (Brazil) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>FIFA 14 (Europe) (En,Fr,De,It,Nl)</description>
+		<release name="FIFA 14 (Europe) (En,Fr,De,It,Nl)" region="Germany"/>
+		<release name="FIFA 14 (Europe) (En,Fr,De,It,Nl)" region="Italy"/>
+		<release name="FIFA 14 (Europe) (En,Fr,De,It,Nl)" region="Netherlands"/>
+		<disk name="FIFA 14 (Europe) (En,Fr,De,It,Nl).chd" sha1="1e390744c4611dd20b683f952ad23cc4ebb71464"/>
+		<ra_hash>ab80a11b4413f33a57c0df8eece4a67b</ra_hash>
+		<url>https://retroachievements.org/game/21991/hashes</url>
+	</machine>
+
 	<machine name="FIFA Street (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -3742,6 +3838,16 @@
 		<disk name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job).chd" sha1="825cf9955f61ce630af817df46798f24a5d3725b"/>
 		<ra_hash>5e19abf05845db0e4f8c712da9137118</ra_hash>
 		<url>https://retroachievements.org/game/20511/hashes</url>
+	</machine>
+
+	<machine name="Finny the Fish &amp; the Seven Waters (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Finny the Fish &amp; the Seven Waters (USA)</description>
+		<release name="Finny the Fish &amp; the Seven Waters (USA)" region="USA"/>
+		<disk name="Finny the Fish &amp; the Seven Waters (USA).chd" sha1="846199f4d787356edf021aab74685f6d8f75eef0"/>
+		<ra_hash>7bc51dc063f310c608b96e6eda68ae5c</ra_hash>
+		<url>https://retroachievements.org/game/28361/hashes</url>
 	</machine>
 
 	<machine name="Fire Heroes (Europe) (En,Fr,Es,It)" cloneof="Fire Heroes (Europe) (En,Fr,Es,It) (Widescreen) (v1.0) (Souzooka)">
@@ -3888,6 +3994,16 @@
 		<disk name="Formula One 06 (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi).chd" sha1="d8f587fe40f4250749d15345e1838290e1e743e2"/>
 		<ra_hash>f8af97e751bd392c6bb575f070ec7d8a</ra_hash>
 		<url>https://retroachievements.org/game/25864/hashes</url>
+	</machine>
+
+	<machine name="Freekstyle (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Freekstyle (USA)</description>
+		<release name="Freekstyle (USA)" region="USA"/>
+		<disk name="Freekstyle (USA).chd" sha1="997bd93cae24de7f0e663cd5e9e7f16b4a8987d9"/>
+		<ra_hash>80715b3aad665faec8c917c47ef6d9b1</ra_hash>
+		<url>https://retroachievements.org/game/19381/hashes</url>
 	</machine>
 
 	<machine name="Freestyle Metal X (USA)">
@@ -4809,12 +4925,15 @@
 		<url>https://retroachievements.org/game/20536/hashes</url>
 	</machine>
 
-	<machine name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)">
+	<machine name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)">
 		<category>Retail</category>
-		<source>Unknown</source>
-		<description>Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)</description>
-		<release name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037)" region="World"/>
-		<disk name="Hansel &amp; Gretel (RA Compatibility) (SLES-54685) (A38F0037).chd" sha1="9d1d334692b06e557c01f4302630685c9c980287"/>
+		<source>Redump, RAPatches</source>
+		<description>Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)</description>
+		<release name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)" region="Europe"/>
+		<release name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)" region="France"/>
+		<release name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)" region="Germany"/>
+		<release name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility)" region="English"/>
+		<disk name="Hansel and Gretel (Europe) (En,Fr,De) (RA Compatibility).chd" sha1="9d1d334692b06e557c01f4302630685c9c980287"/>
 		<ra_hash>23012f7363f39ea534e0f22749b57cd0</ra_hash>
 		<url>https://retroachievements.org/game/33333/hashes</url>
 	</machine>
@@ -5370,6 +5489,29 @@
 		<disk name="Hot Shots Golf Fore! (USA).chd" sha1="ce37ef7b229c9018325d60dd52af2387c754f234"/>
 		<ra_hash>93f3305c9c662ad0b77a823ee23289cc</ra_hash>
 		<url>https://retroachievements.org/game/20997/hashes</url>
+	</machine>
+
+	<machine name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" cloneof="Hot Wheels - Beat That! (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Hot Wheels - Beat That! (Europe) (En,Fr,De,It)</description>
+		<release name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" region="Europe"/>
+		<release name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" region="France"/>
+		<release name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" region="Germany"/>
+		<release name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" region="Italy"/>
+		<release name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It)" region="English"/>
+		<disk name="Hot Wheels - Beat That! (Europe) (En,Fr,De,It).chd" sha1="1d860b8ef0247c36cc27d67c34c2da0a7ce52146"/>
+		<ra_hash>3611ea5050e3d1e97735d4757f0af888</ra_hash>
+		<url>https://retroachievements.org/game/20581/hashes</url>
+	</machine>
+	<machine name="Hot Wheels - Beat That! (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Hot Wheels - Beat That! (USA)</description>
+		<release name="Hot Wheels - Beat That! (USA)" region="USA"/>
+		<disk name="Hot Wheels - Beat That! (USA).chd" sha1="9483a7aa63030cc78dee6a7065955254d074fb4a"/>
+		<ra_hash>35165d5516c7a0d5ab12720ff9ea6f23</ra_hash>
+		<url>https://retroachievements.org/game/20581/hashes</url>
 	</machine>
 
 	<machine name="Hot Wheels - Velocity X - Maximum Justice (USA)" cloneof="Hot Wheels - Velocity X - Maximum Justice (USA) (Widescreen) (v1.0) (Souzooka)">
@@ -6173,6 +6315,18 @@
 		<url>https://retroachievements.org/game/2676/hashes</url>
 	</machine>
 
+	<machine name="Legend of Herkules (Europe) (En,De)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Legend of Herkules (Europe) (En,De)</description>
+		<release name="Legend of Herkules (Europe) (En,De)" region="Europe"/>
+		<release name="Legend of Herkules (Europe) (En,De)" region="Germany"/>
+		<release name="Legend of Herkules (Europe) (En,De)" region="English"/>
+		<disk name="Legend of Herkules (Europe) (En,De).chd" sha1="1bfe4004f19991d20a2fddbf4a95dec4891a6af4"/>
+		<ra_hash>2300e0546c9d15ad289df7334ffd9464</ra_hash>
+		<url>https://retroachievements.org/game/32985/hashes</url>
+	</machine>
+
 	<machine name="Legend of Spyro, The - A New Beginning (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -6516,6 +6670,15 @@
 		<release name="Manhunt (USA)" region="USA"/>
 		<disk name="Manhunt (USA).chd" sha1="4dceef029803d42dc8fdb663a83ecc109a6b9c8a"/>
 		<ra_hash>7b812aecc0e09ea99e98e7d51037fac6</ra_hash>
+		<url>https://retroachievements.org/game/3007/hashes</url>
+	</machine>
+	<machine name="Manhunt (USA) (Ru) (NoData)" cloneof="Manhunt (USA)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Manhunt (USA) (Ru) (NoData)</description>
+		<release name="Manhunt (USA) (Ru) (NoData)" region="Russia"/>
+		<disk name="Manhunt (USA) (Ru) (NoData).chd" sha1="abc4e2fe71e7316abe674b8364fa3d0f3a65ce90"/>
+		<ra_hash>30dea2245c78c9eb131340db78a1b22d</ra_hash>
 		<url>https://retroachievements.org/game/3007/hashes</url>
 	</machine>
 
@@ -6945,22 +7108,31 @@
 		<url>https://retroachievements.org/game/19095/hashes</url>
 	</machine>
 
-	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)">
-		<category>Exclusive Subset</category>
-		<source>Redump, RAPatches</source>
-		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)</description>
-		<release name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)" region="English"/>
-		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests).chd" sha1="8ed982a84435913e9f94bb19384d069b784f9ec6"/>
-		<ra_hash>fcf67cf4ace623f5ea2c9fb23ec06c2a</ra_hash>
-		<url>https://retroachievements.org/game/28323/hashes</url>
+	<machine name="Monster Hunter (Japan)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Monster Hunter (Japan)</description>
+		<release name="Monster Hunter (Japan)" region="Japan"/>
+		<disk name="Monster Hunter (Japan).chd" sha1="839c97fc41ba7835fc1f3a1c64e814b8cc8873e6"/>
+		<ra_hash>4ba57ac625f59f82b487f62453bb2235</ra_hash>
+		<url>https://retroachievements.org/game/39928/hashes</url>
 	</machine>
-	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)">
-		<category>Exclusive Subset</category>
-		<source>Redump, RAPatches</source>
-		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests)</description>
-		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests).chd" sha1="10410193318dfe252db8ae83eaf24ca515c7dd60"/>
-		<ra_hash>af3aec4715dd9dee80bbe16f4241c53a</ra_hash>
-		<url>https://retroachievements.org/game/28323/hashes</url>
+	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)</description>
+		<release name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)" region="English"/>
+		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki).chd" sha1="7962e25622fb14a366f026107ea91b43c9951bbf"/>
+		<ra_hash>de7420a9f1d05ee4354212ed43db2b4d</ra_hash>
+		<url>https://retroachievements.org/game/39928/hashes</url>
+	</machine>
+	<machine name="Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki)</description>
+		<disk name="Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki).chd" sha1="cb36829c866bff1db93ae90789665865abd64a58"/>
+		<ra_hash>44ba2ff43ff799a93fb8909a2de68a18</ra_hash>
+		<url>https://retroachievements.org/game/39928/hashes</url>
 	</machine>
 
 	<machine name="Monster Hunter (USA)" cloneof="Monster Hunter (USA) (MH1Plus Control Patch) (v4)">
@@ -7024,6 +7196,14 @@
 		<description>Monster Hunter G (Japan) (En) (Remix v13) (Amaillo) (MHGPlus) (vFinal QuestFix2) (Yuzucchi)</description>
 		<disk name="Monster Hunter G (Japan) (En) (Remix v13) (Amaillo) (MHGPlus) (vFinal QuestFix2) (Yuzucchi).chd" sha1="eecd1a0152647deab026f5cee8a0dbbbf4e637dd"/>
 		<ra_hash>565ade0e68991e0910763145a18b80a9</ra_hash>
+		<url>https://retroachievements.org/game/23926/hashes</url>
+	</machine>
+	<machine name="Monster Hunter G (Japan) (En) (Remix v15) (Amaillo)" cloneof="Monster Hunter G (Japan) (En) (Remix v13) (Amaillo)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Monster Hunter G (Japan) (En) (Remix v15) (Amaillo)</description>
+		<disk name="Monster Hunter G (Japan) (En) (Remix v15) (Amaillo).chd" sha1="97a467b8d702654988d14e3403fbe3ce53eaea95"/>
+		<ra_hash>9261c6df17d0328d83efe459fe06adf3</ra_hash>
 		<url>https://retroachievements.org/game/23926/hashes</url>
 	</machine>
 
@@ -8032,12 +8212,15 @@
 		<url>https://retroachievements.org/game/19096/hashes</url>
 	</machine>
 
-	<machine name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)">
+	<machine name="Pinocchio (Europe) (En,Fr,De) (RA Compatability)">
 		<category>Retail</category>
-		<source>Unknown</source>
-		<description>Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)</description>
-		<release name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F)" region="World"/>
-		<disk name="Pinocchio (RA Compatability) (SLES-54619) (A6A0C67F).chd" sha1="69d66178fe5b246fec31c51a0db01b4cd6d5a0b2"/>
+		<source>Redump, RAPatches</source>
+		<description>Pinocchio (Europe) (En,Fr,De) (RA Compatability)</description>
+		<release name="Pinocchio (Europe) (En,Fr,De) (RA Compatability)" region="Europe"/>
+		<release name="Pinocchio (Europe) (En,Fr,De) (RA Compatability)" region="France"/>
+		<release name="Pinocchio (Europe) (En,Fr,De) (RA Compatability)" region="Germany"/>
+		<release name="Pinocchio (Europe) (En,Fr,De) (RA Compatability)" region="English"/>
+		<disk name="Pinocchio (Europe) (En,Fr,De) (RA Compatability).chd" sha1="69d66178fe5b246fec31c51a0db01b4cd6d5a0b2"/>
 		<ra_hash>2c12768b8e7e0012e86c285f9ca85ce4</ra_hash>
 		<url>https://retroachievements.org/game/33349/hashes</url>
 	</machine>
@@ -8344,7 +8527,7 @@
 		<url>https://retroachievements.org/game/29051/hashes</url>
 	</machine>
 
-	<machine name="Racing Battle - C1 Grand Prix (Japan)" cloneof="Racing Battle - C1 Grand Prix (Japan) (En) (v9) (igorciz777)">
+	<machine name="Racing Battle - C1 Grand Prix (Japan)" cloneof="Racing Battle - C1 Grand Prix (Japan) (En) (v10) (igorciz777)">
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Racing Battle - C1 Grand Prix (Japan)</description>
@@ -8353,12 +8536,12 @@
 		<ra_hash>98675270049feb00310a014db99cbd2e</ra_hash>
 		<url>https://retroachievements.org/game/20779/hashes</url>
 	</machine>
-	<machine name="Racing Battle - C1 Grand Prix (Japan) (En) (v9) (igorciz777)">
+	<machine name="Racing Battle - C1 Grand Prix (Japan) (En) (v10) (igorciz777)">
 		<category>Retail</category>
 		<source>Redump, Lost Level Archive</source>
-		<description>Racing Battle - C1 Grand Prix (Japan) (En) (v9) (igorciz777)</description>
-		<release name="Racing Battle - C1 Grand Prix (Japan) (En) (v9) (igorciz777)" region="English"/>
-		<disk name="Racing Battle - C1 Grand Prix (Japan) (En) (v9) (igorciz777).chd" sha1="070a6e6b1c5f476ed23e89321b155063cd16ad77"/>
+		<description>Racing Battle - C1 Grand Prix (Japan) (En) (v10) (igorciz777)</description>
+		<release name="Racing Battle - C1 Grand Prix (Japan) (En) (v10) (igorciz777)" region="English"/>
+		<disk name="Racing Battle - C1 Grand Prix (Japan) (En) (v10) (igorciz777).chd" sha1="070a6e6b1c5f476ed23e89321b155063cd16ad77"/>
 		<ra_hash>fbb92d0d6f55ea9de36408fd9fd035b3</ra_hash>
 		<url>https://retroachievements.org/game/20779/hashes</url>
 	</machine>
@@ -8540,6 +8723,16 @@
 		<url>https://retroachievements.org/game/19115/hashes</url>
 	</machine>
 
+	<machine name="RC Revenge Pro (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>RC Revenge Pro (USA)</description>
+		<release name="RC Revenge Pro (USA)" region="USA"/>
+		<disk name="RC Revenge Pro (USA).chd" sha1="4ebad55736ba2d5b8eed3b4d124875041dffa2ff"/>
+		<ra_hash>9d091d25bc7d184869ab16173b31ad96</ra_hash>
+		<url>https://retroachievements.org/game/32849/hashes</url>
+	</machine>
+
 	<machine name="Red Dead Revolver (Europe) (En,Fr,De,Es,It)" cloneof="Red Dead Revolver (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -8633,6 +8826,15 @@
 		<release name="Resident Evil - Code - Veronica X (USA)" region="USA"/>
 		<disk name="Resident Evil - Code - Veronica X (USA).chd" sha1="a48b9d9713937afab266f5caa62cf89e043bb000"/>
 		<ra_hash>ec3f6f87e668ded23eafaabda8576f48</ra_hash>
+		<url>https://retroachievements.org/game/1303/hashes</url>
+	</machine>
+	<machine name="Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999)" cloneof="Resident Evil - Code - Veronica X (USA)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999)</description>
+		<release name="Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999)" region="Portugal"/>
+		<disk name="Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999).chd" sha1="581e1c0c70a2394f6642c141fdcc33dd03fac5dc"/>
+		<ra_hash>28bac4408edebbd8a53f9bfca94604ef</ra_hash>
 		<url>https://retroachievements.org/game/1303/hashes</url>
 	</machine>
 
@@ -10825,6 +11027,19 @@
 		<disk name="Teenage Mutant Ninja Turtles (USA).chd" sha1="dd04a718cf07df3a1a6357d6a4b17c791d8c32c7"/>
 		<ra_hash>b58f52f81d0f87e4e4b2cec94f544630</ra_hash>
 		<url>https://retroachievements.org/game/20618/hashes</url>
+	</machine>
+
+	<machine name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)</description>
+		<release name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)" region="USA"/>
+		<release name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)" region="France"/>
+		<release name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)" region="Spain"/>
+		<release name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es)" region="English"/>
+		<disk name="Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,Es).chd" sha1="1781a652204f802c2886cf80d0e3080f5446c4b5"/>
+		<ra_hash>989942190fa6e4d0aac9fa59ee94f1e6</ra_hash>
+		<url>https://retroachievements.org/game/20845/hashes</url>
 	</machine>
 
 	<machine name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)">

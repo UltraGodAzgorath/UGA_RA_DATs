@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>873</titlecount>
-		<hashcount>1321</hashcount>
+		<titlecount>883</titlecount>
+		<hashcount>1337</hashcount>
 	</header>
 
 	<machine name="Retail/Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -74,6 +74,15 @@
 		<disk name="5 Star Racing (Europe).chd" sha1="62b26cbffa0c674cfee9a56afd1a0bbe7dd9b9e3"/>
 		<ra_hash>c33c78ce14734a20a527fdb310b65e17</ra_hash>
 		<url>https://retroachievements.org/game/14609/hashes</url>
+	</machine>
+
+	<machine name="Retail/Ace Combat 2 (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Ace Combat 2 (USA)</description>
+		<disk name="Ace Combat 2 (USA).chd" sha1="80a5aaf5c4d0fac0cf46cebd8a54b8a9eb14e604"/>
+		<ra_hash>ec916d1510bd03de5197b705d62989bb</ra_hash>
+		<url>https://retroachievements.org/game/11312/hashes</url>
 	</machine>
 
 	<machine name="Retail/Ace Combat 3 - Electrosphere/Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1)">
@@ -448,6 +457,18 @@
 		<disk name="Arc the Lad Collection - Arc the Lad II (USA).chd" sha1="69d750d855e1d411a23e6301dc3ba1005e6ea103"/>
 		<ra_hash>6357455df44bf720f1feba6b251c39d5</ra_hash>
 		<url>https://retroachievements.org/game/14373/hashes</url>
+	</machine>
+
+	<machine name="Retail/Arc the Lad Collection - Arc the Lad III (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Arc the Lad Collection - Arc the Lad III (USA)</description>
+		<rom name="Arc the Lad Collection - Arc the Lad III (USA).m3u" size="122" crc="B390D3F3" md5="fab6b7727e4dcb6a0efaa0bb99a85021" sha1="dd04d6b66d646ace6a196fef308facc6d76f3694"/>
+		<disk name="Arc the Lad Collection - Arc the Lad III (USA) (Disc 1).chd" sha1="2cc43ecd1215b8739e4c273e87e5cc8817c0ac6e"/>
+		<ra_hash>6ab6d9409496cf29a64d8719c1264c6b</ra_hash>
+		<disk name="Arc the Lad Collection - Arc the Lad III (USA) (Disc 2).chd" sha1="048775c616d925ca65b9cf83ef80141f53dc8d83"/>
+		<ra_hash>1fe1cd10e20e2e89bdac1864981ca66b</ra_hash>
+		<url>https://retroachievements.org/game/14374/hashes</url>
 	</machine>
 
 	<machine name="Retail/Ark of Time (Europe) (En,Fr,De,Es,It)">
@@ -1211,6 +1232,15 @@
 		<url>https://retroachievements.org/game/26016/hashes</url>
 	</machine>
 
+	<machine name="Retail/Championship Motocross featuring Ricky Carmichael (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Championship Motocross featuring Ricky Carmichael (USA)</description>
+		<disk name="Championship Motocross featuring Ricky Carmichael (USA).chd" sha1="918d20bee785ac041099a4ad31aaed4f7965726f"/>
+		<ra_hash>0ece18fca31c1253f1a845e132b60e73</ra_hash>
+		<url>https://retroachievements.org/game/17195/hashes</url>
+	</machine>
+
 	<machine name="Retail/Chase the Express/Covert Ops - Nuclear Dawn (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -1691,6 +1721,15 @@
 		<url>https://retroachievements.org/game/9272/hashes</url>
 	</machine>
 
+	<machine name="Prototype/Croc - Legend of the Gobbos (Unknown) (Beta) (1996-08-11)">
+		<category></category>
+		<source>No-Intro, nonredump</source>
+		<description>Croc - Legend of the Gobbos (Unknown) (Beta) (1996-08-11)</description>
+		<disk name="Croc - Legend of the Gobbos (Unknown) (Beta) (1996-08-11).chd" sha1="225af1505f8d49cd7be9ac7817825a1190b75059"/>
+		<ra_hash>48c1e96f9030925dfc2d05d573f9d99f</ra_hash>
+		<url>https://retroachievements.org/game/20210/hashes</url>
+	</machine>
+
 	<machine name="Retail/Croc - Legend of the Gobbos (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -1751,6 +1790,15 @@
 		<disk name="CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="df4b541bc49ea1e9b66830b4eae38663c19cda77"/>
 		<ra_hash>22ffaa341ec056d06ee052046e605783</ra_hash>
 		<url>https://retroachievements.org/game/18108/hashes</url>
+	</machine>
+
+	<machine name="Hack/CTR - Christmas Team Racing (v1.0) (Various)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>CTR - Christmas Team Racing (v1.0) (Various)</description>
+		<disk name="CTR - Christmas Team Racing (v1.0) (Various).chd" sha1="34618f987fc34c0ed382bda0a3aeae5a977c8a94"/>
+		<ra_hash>223e3fd23b56486cc46c16d274da3d11</ra_hash>
+		<url>https://retroachievements.org/game/39057/hashes</url>
 	</machine>
 
 	<machine name="Retail/CTR - Crash Team Racing (USA)">
@@ -3028,6 +3076,15 @@
 		<url>https://retroachievements.org/game/5531/hashes</url>
 	</machine>
 
+	<machine name="Hack/FFT - The Lion War of the Lions (v1.02) (Team TLW)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>FFT - The Lion War of the Lions (v1.02) (Team TLW)</description>
+		<disk name="FFT - The Lion War of the Lions (v1.02) (Team TLW).chd" sha1="32ae06363891b3b74f8367c7cccba8dda96353fa"/>
+		<ra_hash>3a920444f83d8c89f9b4b1174f239db4</ra_hash>
+		<url>https://retroachievements.org/game/27862/hashes</url>
+	</machine>
+
 	<machine name="Retail/Fighter Maker (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -3291,6 +3348,15 @@
 		<disk name="Fluid (Europe).chd" sha1="580608999b20356d045c1a97616a83b63728504f"/>
 		<ra_hash>7bdbe8d38c24afbbc1f6f501c3fddc28</ra_hash>
 		<url>https://retroachievements.org/game/16328/hashes</url>
+	</machine>
+
+	<machine name="Retail/Formula 1 (USA) (Rev 1)">
+		<category></category>
+		<source>Redump</source>
+		<description>Formula 1 (USA) (Rev 1)</description>
+		<disk name="Formula 1 (USA) (Rev 1).chd" sha1="ea45e75a6914ee752a5906ff465a010af4050bea"/>
+		<ra_hash>5f6a8f84896eef0d062a9f12fda5c9f9</ra_hash>
+		<url>https://retroachievements.org/game/21403/hashes</url>
 	</machine>
 
 	<machine name="Retail/Frogger (USA)">
@@ -4120,6 +4186,15 @@
 		<disk name="Incredible Crisis (USA).chd" sha1="7cfabe8b3589bc037eb7daf5e4bce27f15eb2d4c"/>
 		<ra_hash>28c80ac117f9f7d05f257cc9c85905e1</ra_hash>
 		<url>https://retroachievements.org/game/476/hashes</url>
+	</machine>
+
+	<machine name="Retail/Initial D (Japan)">
+		<category></category>
+		<source>Redump</source>
+		<description>Initial D (Japan)</description>
+		<disk name="Initial D (Japan).chd" sha1="bf0c957e20472a64d24b52351e611d1aea71d5b4"/>
+		<ra_hash>6fb346ae06ec9c6895b197a80bb463df</ra_hash>
+		<url>https://retroachievements.org/game/18236/hashes</url>
 	</machine>
 
 	<machine name="Retail/Intellivision Classic Games (USA)">
@@ -5702,6 +5777,15 @@
 		<url>https://retroachievements.org/game/17139/hashes</url>
 	</machine>
 
+	<machine name="Retail/Myst (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Myst (USA)</description>
+		<disk name="Myst (USA).chd" sha1="a0eebc059c775cb9c0632975663c1557bc2db325"/>
+		<ra_hash>c6f0f909c5e7a43adce4ab6b08ac0fcf</ra_hash>
+		<url>https://retroachievements.org/game/16200/hashes</url>
+	</machine>
+
 	<machine name="Retail/Najavu no Daibouken - My Favorite Namjatown (Japan)">
 		<category></category>
 		<source>Redump</source>
@@ -5870,6 +5954,15 @@
 		<disk name="Nightmare Creatures (USA).chd" sha1="8592a07f87df446601902a137d69075dde4cf206"/>
 		<ra_hash>cd2b610841c3b8b3b6238b224f9ab8a3</ra_hash>
 		<url>https://retroachievements.org/game/7896/hashes</url>
+	</machine>
+
+	<machine name="Retail/Nightmare Creatures II (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Nightmare Creatures II (USA)</description>
+		<disk name="Nightmare Creatures II (USA).chd" sha1="92c556f9322cfce7a16b649d757667dc0a9b573b"/>
+		<ra_hash>4effa28718bcbb97ed48781411ee395d</ra_hash>
+		<url>https://retroachievements.org/game/16992/hashes</url>
 	</machine>
 
 	<machine name="Retail/Ninja - Shadow of Darkness (USA)">
@@ -7117,6 +7210,17 @@
 		<url>https://retroachievements.org/game/17454/hashes</url>
 	</machine>
 
+	<machine name="Retail/Resident Evil 2 - DualShock Ver/Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)</description>
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999).m3u" size="166" crc="4878A65C" md5="ec2dfa42ca832081bfc21b38972084ef" sha1="37db6f3635427c6b0720ec30dc7dab8420db0299"/>
+		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 1).chd" sha1="946a0b5fbfe057a03781d2d51e33bc21a75b265a"/>
+		<ra_hash>aba0c2fa51e9a0a957113bd5e9b7b22e</ra_hash>
+		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 2).chd" sha1="fef36ac585532c284ab9362dee654bbc6a2b2938"/>
+		<ra_hash>5434f1b311977d5d714f615e0a5d9597</ra_hash>
+		<url>https://retroachievements.org/game/11245/hashes</url>
+	</machine>
 	<machine name="Retail/Resident Evil 2 - DualShock Ver/Resident Evil 2 - Dual Shock Ver. (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -8030,12 +8134,20 @@
 		<url>https://retroachievements.org/game/11362/hashes</url>
 	</machine>
 
-	<machine name="Retail/Spyro - Year of the Dragon (USA) (Rev 1)">
+	<machine name="Retail/Spyro - Year of the Dragon/Spyro - Year of the Dragon (USA) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
 		<description>Spyro - Year of the Dragon (USA) (Rev 1)</description>
 		<disk name="Spyro - Year of the Dragon (USA) (Rev 1).chd" sha1="ca1593703cb4c7a746f03b7f29ca9e788631de3a"/>
 		<ra_hash>76ec3fcdd569038870655d61054ae068</ra_hash>
+		<url>https://retroachievements.org/game/11267/hashes</url>
+	</machine>
+	<machine name="Retail/Spyro - Year of the Dragon/Spyro - Year of the Dragon (USA) (Rev 1) (Ru) (SteelDragon, Paradox)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Spyro - Year of the Dragon (USA) (Rev 1) (Ru) (SteelDragon, Paradox)</description>
+		<disk name="Spyro - Year of the Dragon (USA) (Rev 1) (Ru) (SteelDragon, Paradox).chd" sha1="b1c4412427d24bc5242640339a12e48bab5d7fce"/>
+		<ra_hash>34ef0793e77cc73e0e0f87719470be24</ra_hash>
 		<url>https://retroachievements.org/game/11267/hashes</url>
 	</machine>
 

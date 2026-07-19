@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/27-arcade/games</url>
-		<titlecount>525</titlecount>
-		<hashcount>776</hashcount>
+		<titlecount>528</titlecount>
+		<hashcount>777</hashcount>
 	</header>
 
 	<game name="captcomm">
@@ -9011,56 +9011,6 @@
 		<ra_hash>0bcf46bb45ce206dd7fb32fb8fc400a5</ra_hash>
 		<url>https://retroachievements.org/game/12076/hashes</url>
 	</game>
-	<game name="dariusgj" cloneof="dariusg">
-		<category>Retail</category>
-		<source>fbneo</source>
-		<description>Darius Gaiden - Silver Hawk (Ver 2.5J 1994/09/19)</description>
-		<year>1994</year>
-		<manufacturer>Taito Corporation</manufacturer>
-		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
-		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
-		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
-		<rom name="d87-09.bin" size="524288" crc="6170382d"/>
-		<rom name="d87-03.bin" size="2097152" crc="4be1666e"/>
-		<rom name="d87-04.bin" size="2097152" crc="2616002c"/>
-		<rom name="d87-05.bin" size="2097152" crc="4e5891a9"/>
-		<rom name="d87-06.bin" size="2097152" crc="3b97a07c"/>
-		<rom name="d87-17.bin" size="2097152" crc="e601d63e"/>
-		<rom name="d87-08.bin" size="2097152" crc="76d23602"/>
-		<rom name="d87-13.bin" size="262144" crc="15b1fff4"/>
-		<rom name="d87-14.bin" size="262144" crc="eecda29a"/>
-		<rom name="d87-01.bin" size="2097152" crc="3848a110"/>
-		<rom name="d87-02.bin" size="2097152" crc="9250abae"/>
-		<video type="raster" orientation="horizontal" width="320" height="232" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<ra_hash>c41a7383877548437af91a9d2f99c45f</ra_hash>
-		<url>https://retroachievements.org/game/12076/hashes</url>
-	</game>
-	<game name="dariusgu" cloneof="dariusg">
-		<category>Retail</category>
-		<source>fbneo</source>
-		<description>Darius Gaiden - Silver Hawk (Ver 2.5A 1994/09/19)</description>
-		<year>1994</year>
-		<manufacturer>Taito America Corporation</manufacturer>
-		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
-		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
-		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
-		<rom name="d87-15.bin" size="524288" crc="f8796997"/>
-		<rom name="d87-03.bin" size="2097152" crc="4be1666e"/>
-		<rom name="d87-04.bin" size="2097152" crc="2616002c"/>
-		<rom name="d87-05.bin" size="2097152" crc="4e5891a9"/>
-		<rom name="d87-06.bin" size="2097152" crc="3b97a07c"/>
-		<rom name="d87-17.bin" size="2097152" crc="e601d63e"/>
-		<rom name="d87-08.bin" size="2097152" crc="76d23602"/>
-		<rom name="d87-13.bin" size="262144" crc="15b1fff4"/>
-		<rom name="d87-14.bin" size="262144" crc="eecda29a"/>
-		<rom name="d87-01.bin" size="2097152" crc="3848a110"/>
-		<rom name="d87-02.bin" size="2097152" crc="9250abae"/>
-		<video type="raster" orientation="horizontal" width="320" height="232" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<ra_hash>1a80fc344526b04325db74c021ce34f4</ra_hash>
-		<url>https://retroachievements.org/game/12076/hashes</url>
-	</game>
 
 	<game name="darkseal">
 		<category>Retail</category>
@@ -13080,6 +13030,42 @@
 		<url>https://retroachievements.org/game/12304/hashes</url>
 	</game>
 
+	<game name="mmaze">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<comment>Error on first boot is normal</comment>
+		<description>Marchen Maze (Japan)</description>
+		<release name="mmaze" region="Japan"/>
+		<year>1988</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="mm_snd-0.bin" size="65536" crc="25d25e07"/>
+		<rom name="mm_snd-1.bin" size="65536" crc="2c5849c8"/>
+		<rom name="mm_prg-0.bin" size="131072" crc="e169a911"/>
+		<rom name="mm_prg-1.bin" size="131072" crc="6ba14e41"/>
+		<rom name="mm_prg-2.bin" size="131072" crc="91bde09f"/>
+		<rom name="mm1_p6.bin" size="65536" crc="eaf530d8"/>
+		<rom name="mm1_p7.bin" size="65536" crc="085e58cc"/>
+		<rom name="cus64-64a1.mcu" size="4096" crc="ffb5c0bd"/>
+		<rom name="mm_voi-0.bin" size="131072" crc="ee974cff"/>
+		<rom name="mm_voi-1.bin" size="131072" crc="d09b5830"/>
+		<rom name="mm_chr-8.bin" size="131072" crc="a3784dfe"/>
+		<rom name="mm_chr-0.bin" size="131072" crc="43ff2dfc"/>
+		<rom name="mm_chr-1.bin" size="131072" crc="b9b4b72d"/>
+		<rom name="mm_chr-2.bin" size="131072" crc="bee28425"/>
+		<rom name="mm_chr-3.bin" size="131072" crc="d9f41e5c"/>
+		<rom name="mm_chr-4.bin" size="131072" crc="3484f4ae"/>
+		<rom name="mm_chr-5.bin" size="131072" crc="c863deba"/>
+		<rom name="mm_obj-0.bin" size="131072" crc="d4b7e698"/>
+		<rom name="mm_obj-1.bin" size="131072" crc="1ce49e04"/>
+		<rom name="mm_obj-2.bin" size="131072" crc="3d3d5de3"/>
+		<rom name="mm_obj-3.bin" size="131072" crc="dac57358"/>
+		<rom name="mmaze.nv" size="2048" crc="73e62b56"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>4ff5d1d03e562385d46962dc4d501e4a</ra_hash>
+		<url>https://retroachievements.org/game/12306/hashes</url>
+	</game>
+
 	<game name="mrdo">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -14121,6 +14107,35 @@
 		<driver status="good"/>
 		<ra_hash>ea90a0efd09c640e72aa2b6f2e13ebfe</ra_hash>
 		<url>https://retroachievements.org/game/12359/hashes</url>
+	</game>
+
+	<game name="rastan">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Rastan (World Rev 1)</description>
+		<release name="rastan" region="World"/>
+		<year>1987</year>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<rom name="b04-38.19" size="65536" crc="1c91dbb1"/>
+		<rom name="b04-37.7" size="65536" crc="ecf20bdd"/>
+		<rom name="b04-40.20" size="65536" crc="0930d4b3"/>
+		<rom name="b04-39.8" size="65536" crc="d95ade5e"/>
+		<rom name="b04-42.21" size="65536" crc="1857a7cb"/>
+		<rom name="b04-43-1.9" size="65536" crc="ca4702ff"/>
+		<rom name="b04-19.49" size="65536" crc="ee81fdd8"/>
+		<rom name="b04-01.40" size="131072" crc="cd30de19"/>
+		<rom name="b04-03.39" size="131072" crc="ab67e064"/>
+		<rom name="b04-02.67" size="131072" crc="54040fec"/>
+		<rom name="b04-04.66" size="131072" crc="94737e93"/>
+		<rom name="b04-05.15" size="131072" crc="c22d94ac"/>
+		<rom name="b04-07.14" size="131072" crc="b5632a51"/>
+		<rom name="b04-06.28" size="131072" crc="002ccf39"/>
+		<rom name="b04-08.27" size="131072" crc="feafca05"/>
+		<rom name="b04-20.76" size="65536" crc="fd1a34cc"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>b28d81fd5c81ab464843fed52834691b</ra_hash>
+		<url>https://retroachievements.org/game/12360/hashes</url>
 	</game>
 
 	<game name="ridingf">
@@ -21720,6 +21735,26 @@
 		<driver status="good"/>
 		<ra_hash>b44fe48c340161f30fa4ae79b341dca7</ra_hash>
 		<url>https://retroachievements.org/game/14459/hashes</url>
+	</game>
+
+	<game name="logicpr2">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Logic Pro 2 (Japan)</description>
+		<release name="logicpr2" region="Japan"/>
+		<year>1997</year>
+		<manufacturer>Deniam</manufacturer>
+		<rom name="lp2-2" size="524288" crc="cc1880bf"/>
+		<rom name="lp2-1" size="524288" crc="46d5e954"/>
+		<rom name="log2-b01" size="524288" crc="fe789e07"/>
+		<rom name="log2-b02" size="524288" crc="1e0c51cd"/>
+		<rom name="log2-b03" size="524288" crc="916f2928"/>
+		<rom name="obj" size="4194304" crc="f221f305"/>
+		<rom name="log2-s01" size="1048576" crc="2875c435"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>938beac2192f869559b2f07048a3f84b</ra_hash>
+		<url>https://retroachievements.org/game/14460/hashes</url>
 	</game>
 
 	<game name="dsoccr94">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/25-atari-2600/games</url>
-		<titlecount>202</titlecount>
-		<hashcount>216</hashcount>
+		<titlecount>203</titlecount>
+		<hashcount>217</hashcount>
 	</header>
 
 	<game name="3-D Tic-Tac-Toe (Europe)" cloneof="3-D Tic-Tac-Toe (USA)">
@@ -442,6 +442,16 @@
 		<rom name="Centipede (Japan, USA) (En).a26" size="8192" crc="77396102" md5="91c2098e88a6b13f977af8c003e0bca5" sha1="0b5914bc1526a9beaf54d7fd11408175cd8fcc72"/>
 		<ra_hash>91c2098e88a6b13f977af8c003e0bca5</ra_hash>
 		<url>https://retroachievements.org/game/11799/hashes</url>
+	</game>
+
+	<game name="Championship Soccer _ Soccer (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Championship Soccer _ Soccer (USA)</description>
+		<release name="Championship Soccer _ Soccer (USA)" region="USA"/>
+		<rom name="Championship Soccer _ Soccer (USA).a26" size="4096" crc="3F59BB60" md5="ace319dc4f76548659876741a6690d57" sha1="832283530f5dee332f29cf8c4854dd554f2030a0"/>
+		<ra_hash>ace319dc4f76548659876741a6690d57</ra_hash>
+		<url>https://retroachievements.org/game/33731/hashes</url>
 	</game>
 
 	<game name="Checkers (USA)">

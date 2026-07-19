@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/5-game-boy-advance/games</url>
-		<titlecount>1203</titlecount>
-		<hashcount>1203</hashcount>
+		<titlecount>1214</titlecount>
+		<hashcount>1214</hashcount>
 	</header>
 
 	<game name="Retail/007 - NightFire (USA, Europe) (En,Fr,De)">
@@ -2312,6 +2312,15 @@
 		<url>https://retroachievements.org/game/8915/hashes</url>
 	</game>
 
+	<game name="Retail/Dora the Explorer - Super Star Adventures! (USA)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Dora the Explorer - Super Star Adventures! (USA)</description>
+		<rom name="Dora the Explorer - Super Star Adventures! (USA).gba" size="4194304" crc="2CEE050F" md5="aee29c76808d8debcfb3b7945270861b" sha1="0423a5d577cb0ae2674ff16fc83104e9240aa60e"/>
+		<ra_hash>aee29c76808d8debcfb3b7945270861b</ra_hash>
+		<url>https://retroachievements.org/game/12788/hashes</url>
+	</game>
+
 	<game name="Retail/Dora the Explorer - The Search for the Pirate Pig's Treasure (USA)">
 		<category>GBA</category>
 		<source>No-Intro</source>
@@ -2822,12 +2831,20 @@
 		<url>https://retroachievements.org/game/29689/hashes</url>
 	</game>
 
-	<game name="Hack/FE8 - Pokemblem (v1.20.03) (Vesly)">
+	<game name="Hack/Pokemblem/FE8 - Pokemblem (v1.20.03) (Vesly)">
 		<category>GBA</category>
 		<source>No-Intro, RAPatches</source>
 		<description>FE8 - Pokemblem (v1.20.03) (Vesly)</description>
 		<rom name="FE8 - Pokemblem (v1.20.03) (Vesly).gba" size="30339316" crc="05E6B7C5" md5="12d05fec1eec00f1697b9daf9915048f" sha1="4574929d12f7b132030c7746526cce1395d5bc4c"/>
 		<ra_hash>12d05fec1eec00f1697b9daf9915048f</ra_hash>
+		<url>https://retroachievements.org/game/17723/hashes</url>
+	</game>
+	<game name="Hack/Pokemblem/FE8 - Pokemblem (v1.22.01) (Vesly)">
+		<category>GBA</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FE8 - Pokemblem (v1.22.01) (Vesly)</description>
+		<rom name="FE8 - Pokemblem (v1.22.01) (Vesly).gba" size="30367372" crc="10BDF112" md5="4808c4cbf3f0c29bd71ddb641dec1329" sha1="f16f41ccd441ea73c0cd46d7315d8d6cc618b472"/>
+		<ra_hash>4808c4cbf3f0c29bd71ddb641dec1329</ra_hash>
 		<url>https://retroachievements.org/game/17723/hashes</url>
 	</game>
 
@@ -3724,6 +3741,14 @@
 		<description>Golden Sun - La Edad Perdida (Spain)</description>
 		<rom name="Golden Sun - La Edad Perdida (Spain).gba" size="16777216" crc="EE38BA94" md5="370cc3b832f905a2b5511c1665e4a8bc" sha1="a2e3e80036195343c2713410ac14f4e329e3f40d"/>
 		<ra_hash>370cc3b832f905a2b5511c1665e4a8bc</ra_hash>
+		<url>https://retroachievements.org/game/2592/hashes</url>
+	</game>
+	<game name="Retail/Golden Sun - The Lost Age/Golden Sun - The Lost Age (Color Correction) (v1.1) (Granville)">
+		<category>GBA</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Golden Sun - The Lost Age (Color Correction) (v1.1) (Granville)</description>
+		<rom name="Golden Sun - The Lost Age (Color Correction) (v1.1) (Granville).gba" size="16777212" crc="041183AB" md5="34626887281e3be3e5f75e3ccb792c55" sha1="e937d6d4581e2c640b1e71ece6f3bd3ef530cc05"/>
+		<ra_hash>34626887281e3be3e5f75e3ccb792c55</ra_hash>
 		<url>https://retroachievements.org/game/2592/hashes</url>
 	</game>
 	<game name="Retail/Golden Sun - The Lost Age/Golden Sun - The Lost Age (USA, Europe)">
@@ -4881,6 +4906,24 @@
 		<rom name="Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="63592451" md5="3f1cb5398649ff0c43673e73cad3010e" sha1="41ee9ed772264a2bb2edb8adfc7e9d3a58b00392"/>
 		<ra_hash>3f1cb5398649ff0c43673e73cad3010e</ra_hash>
 		<url>https://retroachievements.org/game/14087/hashes</url>
+	</game>
+
+	<game name="Retail/Lizzie McGuire - On the Go! (USA)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Lizzie McGuire - On the Go! (USA)</description>
+		<rom name="Lizzie McGuire - On the Go! (USA).gba" size="4194304" crc="70DED768" md5="d6b12981296a8e3c67796f94e2d7aff3" sha1="084add8893bae03836d33a1c7bdede5f12741663"/>
+		<ra_hash>d6b12981296a8e3c67796f94e2d7aff3</ra_hash>
+		<url>https://retroachievements.org/game/7068/hashes</url>
+	</game>
+
+	<game name="Retail/Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)</description>
+		<rom name="Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba" size="4194304" crc="F11009F9" md5="5f98ec175e2c67d3ba28504c1706dc07" sha1="7ace37aec21c058aa98e3de12140cb691c070e00"/>
+		<ra_hash>5f98ec175e2c67d3ba28504c1706dc07</ra_hash>
+		<url>https://retroachievements.org/game/7330/hashes</url>
 	</game>
 
 	<game name="Retail/Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)">
@@ -6215,6 +6258,15 @@
 		<rom name="Mother 3 (Japan) (En) (v1.3) (Chewy-Jeffman-Tomato).gba" size="33554432" crc="8A3BC5A8" md5="78852690de6ef51af56883c3823ea0e1" sha1="306fb8874533b0fd0796208faa8bed2db4ae77fb"/>
 		<ra_hash>78852690de6ef51af56883c3823ea0e1</ra_hash>
 		<url>https://retroachievements.org/game/677/hashes</url>
+	</game>
+
+	<game name="Retail/MotoGP (Europe) (En,Fr,De,Es,It)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>MotoGP (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="MotoGP (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="C6D17D0D" md5="fc221b4371061c27cbf6a8b08db82543" sha1="1ce76ab502735849c8e8c1db76422b1a62277342"/>
+		<ra_hash>fc221b4371061c27cbf6a8b08db82543</ra_hash>
+		<url>https://retroachievements.org/game/6270/hashes</url>
 	</game>
 
 	<game name="Retail/Mr. Driller 2/Mr. Driller 2 (Europe)">
@@ -9356,6 +9408,14 @@
 		<url>https://retroachievements.org/game/4969/hashes</url>
 	</game>
 
+	<game name="Retail/Super Mario Advance 3 - Yoshi's Island/Super Mario Advance 3 - Yoshi's Island (Europe) (Color Restoration) (v2.0) (ShadowOne333)">
+		<category>GBA</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Super Mario Advance 3 - Yoshi's Island (Europe) (Color Restoration) (v2.0) (ShadowOne333)</description>
+		<rom name="Super Mario Advance 3 - Yoshi's Island (Europe) (Color Restoration) (v2.0) (ShadowOne333).gba" size="8388608" crc="7323E988" md5="1ae72dd57f41903769cbeef614c9bb9b" sha1="43f11c1dd6a2a17e49de5bc79cd093d93b3f7cb3"/>
+		<ra_hash>1ae72dd57f41903769cbeef614c9bb9b</ra_hash>
+		<url>https://retroachievements.org/game/5234/hashes</url>
+	</game>
 	<game name="Retail/Super Mario Advance 3 - Yoshi's Island/Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)">
 		<category>GBA</category>
 		<source>No-Intro</source>
@@ -9370,6 +9430,14 @@
 		<description>Super Mario Advance 3 - Yoshi's Island (USA)</description>
 		<rom name="Super Mario Advance 3 - Yoshi's Island (USA).gba" size="4194304" crc="40A48276" md5="bb09508c782f37934c9519c5f8a7350c" sha1="7352d2bd064d9ebaec579e264228aa21c7345b80"/>
 		<ra_hash>bb09508c782f37934c9519c5f8a7350c</ra_hash>
+		<url>https://retroachievements.org/game/5234/hashes</url>
+	</game>
+	<game name="Retail/Super Mario Advance 3 - Yoshi's Island/Super Mario Advance 3 - Yoshi's Island (USA) (Color Restoration) (v2.0) (ShadowOne333)">
+		<category>GBA</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Super Mario Advance 3 - Yoshi's Island (USA) (Color Restoration) (v2.0) (ShadowOne333)</description>
+		<rom name="Super Mario Advance 3 - Yoshi's Island (USA) (Color Restoration) (v2.0) (ShadowOne333).gba" size="4194304" crc="954C2CFE" md5="6cacd13da2006f351fe14a421c9757ef" sha1="c1ff81829ecfc4bf1882cc6aa426debc5579b41b"/>
+		<ra_hash>6cacd13da2006f351fe14a421c9757ef</ra_hash>
 		<url>https://retroachievements.org/game/5234/hashes</url>
 	</game>
 
@@ -9534,6 +9602,23 @@
 		<rom name="Tactics Ogre - The Knight of Lodis (USA).gba" size="8388608" crc="6649D2CE" md5="5d4f385e4e1cfa4a057d0ac828993906" sha1="85a46320a31f16f5c6dda27fc094edd078dbe43d"/>
 		<ra_hash>5d4f385e4e1cfa4a057d0ac828993906</ra_hash>
 		<url>https://retroachievements.org/game/5029/hashes</url>
+	</game>
+
+	<game name="Retail/Tak 2 - The Staff of Dreams/Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="91DD701D" md5="c7174179fdb9d5dca2a150351adc3a58" sha1="c288c5fd548d2dde5e03b41e221bb9d6b2eff28a"/>
+		<ra_hash>c7174179fdb9d5dca2a150351adc3a58</ra_hash>
+		<url>https://retroachievements.org/game/7729/hashes</url>
+	</game>
+	<game name="Retail/Tak 2 - The Staff of Dreams/Tak 2 - The Staff of Dreams (USA)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Tak 2 - The Staff of Dreams (USA)</description>
+		<rom name="Tak 2 - The Staff of Dreams (USA).gba" size="8388608" crc="8F7EB026" md5="05b2267bdf77e3d36d0b96c22d3af844" sha1="f90219db6359332eb997a2717986a8c66eaded2b"/>
+		<ra_hash>05b2267bdf77e3d36d0b96c22d3af844</ra_hash>
+		<url>https://retroachievements.org/game/7729/hashes</url>
 	</game>
 
 	<game name="Retail/Tang Tang (Europe) (En,Fr,De,Es,It,Fi)">
@@ -9752,6 +9837,15 @@
 		<rom name="Tony Hawk's Pro Skater 3 (USA, Europe).gba" size="8388608" crc="F669A368" md5="36916861e921121015366b7d5ec45f3e" sha1="d1d6806ac99a29dd3195491a213bec9023a3adb4"/>
 		<ra_hash>36916861e921121015366b7d5ec45f3e</ra_hash>
 		<url>https://retroachievements.org/game/798/hashes</url>
+	</game>
+
+	<game name="Retail/Tony Hawk's Pro Skater 4 (USA, Europe)">
+		<category>GBA</category>
+		<source>No-Intro</source>
+		<description>Tony Hawk's Pro Skater 4 (USA, Europe)</description>
+		<rom name="Tony Hawk's Pro Skater 4 (USA, Europe).gba" size="8388608" crc="8CB0AA77" md5="e78e1f6c6fbe9a614e0406802fc6a7fd" sha1="f4ba0be44899eb8d52869120fbbc4f46e2a3c668"/>
+		<ra_hash>e78e1f6c6fbe9a614e0406802fc6a7fd</ra_hash>
+		<url>https://retroachievements.org/game/7727/hashes</url>
 	</game>
 
 	<game name="Retail/Tony Hawk's Underground (USA, Europe)">

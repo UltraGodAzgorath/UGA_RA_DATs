@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1934</titlecount>
-		<hashcount>1934</hashcount>
+		<titlecount>1943</titlecount>
+		<hashcount>1943</hashcount>
 	</header>
 
 	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -2227,14 +2227,6 @@
 		<ra_hash>3c792c4686a682f96f28241358e36839</ra_hash>
 		<url>https://retroachievements.org/game/17944/hashes</url>
 	</game>
-	<game name="Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen)" cloneof="Chrono Trigger + (v2.1) (ThegreatBen)">
-		<category>Hack</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen)</description>
-		<rom name="Chrono Trigger - Chrono Trigger+ (Final) (ThegreatBen).sfc" size="6291456" crc="C9F6F320" md5="612228e08787829df533e7163fb41e8c" sha1="cb328e4c1d21f0f9d0d7473679a4235e4bae3a4f"/>
-		<ra_hash>612228e08787829df533e7163fb41e8c</ra_hash>
-		<url>https://retroachievements.org/game/17944/hashes</url>
-	</game>
 
 	<game name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear)">
 		<category>Hack</category>
@@ -2697,6 +2689,16 @@
 		<rom name="Demon's Crest (USA).sfc" size="2097152" crc="E8236AD2" md5="e990ae600a8326eda25489bdddffca55" sha1="743d60ee1536b0c7c24dbb8ba39d14ed5937c0d5"/>
 		<ra_hash>e990ae600a8326eda25489bdddffca55</ra_hash>
 		<url>https://retroachievements.org/game/628/hashes</url>
+	</game>
+
+	<game name="Dennis the Menace (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Dennis the Menace (USA)</description>
+		<release name="Dennis the Menace (USA)" region="USA"/>
+		<rom name="Dennis the Menace (USA).sfc" size="1048576" crc="8EE7FAA5" md5="0ef71b727646941dfa63b8e4c259038f" sha1="e7403a677e26134f4d5c1d10908d5f138e9c2b44"/>
+		<ra_hash>0ef71b727646941dfa63b8e4c259038f</ra_hash>
+		<url>https://retroachievements.org/game/871/hashes</url>
 	</game>
 
 	<game name="Dharma Doujou (Japan)">
@@ -3516,6 +3518,14 @@
 		<description>EarthBound (USA) (Fr) (v1.1) (Mambo) (New Controls) (v1.0) (Herringway)</description>
 		<rom name="EarthBound (USA) (Fr) (v1.1) (Mambo) (New Controls) (v1.0) (Herringway).sfc" size="4194304" crc="F2BB3C37" md5="f6f54a4042a136529d7215ae01256658" sha1="d07d59983ab358a2d6fa524251bd121c88200ad7"/>
 		<ra_hash>f6f54a4042a136529d7215ae01256658</ra_hash>
+		<url>https://retroachievements.org/game/264/hashes</url>
+	</game>
+	<game name="EarthBound (USA) (Fr) (v1.1) (Mambo) (New Controls) (v1.01) (Herringway,Pakrett)" cloneof="EarthBound (USA) (New Controls) (v1.0) (Herringway)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>EarthBound (USA) (Fr) (v1.1) (Mambo) (New Controls) (v1.01) (Herringway,Pakrett)</description>
+		<rom name="EarthBound (USA) (Fr) (v1.1) (Mambo) (New Controls) (v1.01) (Herringway,Pakrett).sfc" size="4194304" crc="5C748AC2" md5="fbf6d5c9fc794bacafe2652fba43ae3e" sha1="263eaf1e4b7f3fe3bcf7ba39cf2be1748ac52a8b"/>
+		<ra_hash>fbf6d5c9fc794bacafe2652fba43ae3e</ra_hash>
 		<url>https://retroachievements.org/game/264/hashes</url>
 	</game>
 	<game name="EarthBound (USA) (It) (v1.47) (Vecna)" cloneof="EarthBound (USA) (New Controls) (v1.0) (Herringway)">
@@ -4471,24 +4481,6 @@
 		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.52) (Lightning Hawk).sfc" size="6291456" crc="1A170D40" md5="309c5e7eed7b8045f34166b0a2c99453" sha1="bd3c84f56479a1bef01006dda434185760df2b08"/>
 		<ra_hash>309c5e7eed7b8045f34166b0a2c99453</ra_hash>
 		<url>https://retroachievements.org/game/22452/hashes</url>
-	</game>
-
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)">
-		<category>Specialty Subset</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter).sfc" size="6291456" crc="7DB908F6" md5="d511e50e53af9c6bbeec03bfda1e5f29" sha1="af4eb97980b701462989c00d6cfa857d452848a7"/>
-		<ra_hash>d511e50e53af9c6bbeec03bfda1e5f29</ra_hash>
-		<url>https://retroachievements.org/game/31180/hashes</url>
-	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)" cloneof="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)">
-		<category>Specialty Subset</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter)</description>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.52) (Lightning Hawk) (Specialty Subset - Beast Hunter).sfc" size="6291456" crc="5A27AD20" md5="28d44deca9c5dce0d3fe3a38cbaafc3e" sha1="f51d4ff42f6dadc4259538ad08c797769ba65235"/>
-		<ra_hash>28d44deca9c5dce0d3fe3a38cbaafc3e</ra_hash>
-		<url>https://retroachievements.org/game/31180/hashes</url>
 	</game>
 
 	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk) (Specialty Subset - Insane Mode)">
@@ -7122,14 +7114,6 @@
 		<url>https://retroachievements.org/game/19889/hashes</url>
 	</game>
 
-	<game name="Legend of Zelda, The - ALttP - 18 Hours Past (v1.0) (Letterbomb)" cloneof="Legend of Zelda, The - ALttP - 18 Hours Past (v1.12) (Letterbomb)">
-		<category>Hack</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - ALttP - 18 Hours Past (v1.0) (Letterbomb)</description>
-		<rom name="Legend of Zelda, The - ALttP - 18 Hours Past (v1.0) (Letterbomb).sfc" size="2097152" crc="8CDFD8AA" md5="53ddf07ef065b78b63edfba4fdccd4db" sha1="2a2e77ea75008ef1151ec57470b437742b5f32f6"/>
-		<ra_hash>53ddf07ef065b78b63edfba4fdccd4db</ra_hash>
-		<url>https://retroachievements.org/game/24132/hashes</url>
-	</game>
 	<game name="Legend of Zelda, The - ALttP - 18 Hours Past (v1.12) (Letterbomb)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -8648,6 +8632,25 @@
 		<rom name="Metal Max Returns (Japan) (Zh) (v0.96) (wolfteam).sfc" size="4194304" crc="7EF4AEB4" md5="fe2e9dbcfb4f06dd6e63c448d5ea4970" sha1="cd0856340d94d291d64fe3370d6d4525f4c43c76"/>
 		<ra_hash>fe2e9dbcfb4f06dd6e63c448d5ea4970</ra_hash>
 		<url>https://retroachievements.org/game/3242/hashes</url>
+	</game>
+
+	<game name="Metal Slader Glory - Director's Cut (Japan) (NP)" cloneof="Metal Slader Glory - Director's Cut (Japan) (NP) (En) (v1.1) (FCandChill)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Metal Slader Glory - Director's Cut (Japan) (NP)</description>
+		<release name="Metal Slader Glory - Director's Cut (Japan) (NP)" region="Japan"/>
+		<rom name="Metal Slader Glory - Director's Cut (Japan) (NP).sfc" size="3145728" crc="2CAB2502" md5="1f353927e2990450e870bc3182de84ad" sha1="045e084c81bd84371e16ef770d29c1d11df98be2"/>
+		<ra_hash>1f353927e2990450e870bc3182de84ad</ra_hash>
+		<url>https://retroachievements.org/game/3243/hashes</url>
+	</game>
+	<game name="Metal Slader Glory - Director's Cut (Japan) (NP) (En) (v1.1) (FCandChill)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Metal Slader Glory - Director's Cut (Japan) (NP) (En) (v1.1) (FCandChill)</description>
+		<release name="Metal Slader Glory - Director's Cut (Japan) (NP) (En) (v1.1) (FCandChill)" region="English"/>
+		<rom name="Metal Slader Glory - Director's Cut (Japan) (NP) (En) (v1.1) (FCandChill).sfc" size="3145728" crc="00419052" md5="8b5ee08a3a3ec8cabee756c1055b18ec" sha1="0d3b7aa9a5914729b8b62f346645bd7ff0438ac7"/>
+		<ra_hash>8b5ee08a3a3ec8cabee756c1055b18ec</ra_hash>
+		<url>https://retroachievements.org/game/3243/hashes</url>
 	</game>
 
 	<game name="Metal Warriors (USA)">
@@ -12068,13 +12071,21 @@
 		<url>https://retroachievements.org/game/32797/hashes</url>
 	</game>
 
-	<game name="SMW - Easyland 3 (v1.0) (RicardoDeMelo)">
+	<game name="SMW - Easyland 3 (v1.0) (RicardoDeMelo)" cloneof="SMW - Easyland 3 (v1.1) (RicardoDeMelo)">
 		<category>Hack</category>
 		<source>No-Intro, smwcentral, RAPatches</source>
 		<description>SMW - Easyland 3 (v1.0) (RicardoDeMelo)</description>
-		<release name="SMW - Easyland 3 (v1.0) (RicardoDeMelo)" region="World"/>
 		<rom name="SMW - Easyland 3 (v1.0) (RicardoDeMelo).sfc" size="4194304" crc="6423FD7B" md5="7c6f10e15c6323fbb3bf2557580650f8" sha1="c9d254d44ade76781e4dd377ae9f4f6b01862732"/>
 		<ra_hash>7c6f10e15c6323fbb3bf2557580650f8</ra_hash>
+		<url>https://retroachievements.org/game/37280/hashes</url>
+	</game>
+	<game name="SMW - Easyland 3 (v1.1) (RicardoDeMelo)">
+		<category>Hack</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Easyland 3 (v1.1) (RicardoDeMelo)</description>
+		<release name="SMW - Easyland 3 (v1.1) (RicardoDeMelo)" region="World"/>
+		<rom name="SMW - Easyland 3 (v1.1) (RicardoDeMelo).sfc" size="4194304" crc="00F6CBE2" md5="d44da895752f6c1c0db738dec8e6d9d8" sha1="1de16f26d2adaa2f631b8921d5f7232915567b93"/>
+		<ra_hash>d44da895752f6c1c0db738dec8e6d9d8</ra_hash>
 		<url>https://retroachievements.org/game/37280/hashes</url>
 	</game>
 
@@ -12186,22 +12197,38 @@
 		<url>https://retroachievements.org/game/35594/hashes</url>
 	</game>
 
-	<game name="SMW - Friends and Rivalry (En) (v1.05) (bandicoot)">
+	<game name="SMW - Friends and Rivalry (En) (v1.05) (bandicoot)" cloneof="SMW - Friends and Rivalry (En) (v1.06) (bandicoot)">
 		<category>Hack</category>
 		<source>No-Intro, rhdn, smwcentral, RAPatches</source>
 		<description>SMW - Friends and Rivalry (En) (v1.05) (bandicoot)</description>
-		<release name="SMW - Friends and Rivalry (En) (v1.05) (bandicoot)" region="English"/>
 		<rom name="SMW - Friends and Rivalry (En) (v1.05) (bandicoot).sfc" size="4194304" crc="4335353F" md5="610269494391d385bba6acc1b6b13803" sha1="256a279804d105556559368e36d102f51d7555e8"/>
 		<ra_hash>610269494391d385bba6acc1b6b13803</ra_hash>
 		<url>https://retroachievements.org/game/32805/hashes</url>
 	</game>
-	<game name="SMW - Rivalidade entre Amigos (Pt) (v1.05) (bandicoot)" cloneof="SMW - Friends and Rivalry (En) (v1.05) (bandicoot)">
+	<game name="SMW - Friends and Rivalry (En) (v1.06) (bandicoot)">
+		<category>Hack</category>
+		<source>No-Intro, rhdn, smwcentral, RAPatches</source>
+		<description>SMW - Friends and Rivalry (En) (v1.06) (bandicoot)</description>
+		<release name="SMW - Friends and Rivalry (En) (v1.06) (bandicoot)" region="English"/>
+		<rom name="SMW - Friends and Rivalry (En) (v1.06) (bandicoot).sfc" size="4194304" crc="DB0FB963" md5="158ab603e156129d05772519ec33ea74" sha1="1de2762ca3fc668c884ccd0b1a6542425d917214"/>
+		<ra_hash>158ab603e156129d05772519ec33ea74</ra_hash>
+		<url>https://retroachievements.org/game/32805/hashes</url>
+	</game>
+	<game name="SMW - Rivalidade entre Amigos (Pt) (v1.05) (bandicoot)" cloneof="SMW - Friends and Rivalry (En) (v1.06) (bandicoot)">
 		<category>Hack</category>
 		<source>No-Intro, rhdn, smwcentral, RAPatches</source>
 		<description>SMW - Rivalidade entre Amigos (Pt) (v1.05) (bandicoot)</description>
 		<release name="SMW - Rivalidade entre Amigos (Pt) (v1.05) (bandicoot)" region="Portugal"/>
 		<rom name="SMW - Rivalidade entre Amigos (Pt) (v1.05) (bandicoot).sfc" size="4194304" crc="46F2BECB" md5="586dcc803a6961f2a5e8a7877b347246" sha1="3b4a0a5ab6f23a97c11dbbd337c9102d7695e751"/>
 		<ra_hash>586dcc803a6961f2a5e8a7877b347246</ra_hash>
+		<url>https://retroachievements.org/game/32805/hashes</url>
+	</game>
+	<game name="SMW - Rivalidade entre Amigos (Pt) (v1.06) (bandicoot)" cloneof="SMW - Friends and Rivalry (En) (v1.06) (bandicoot)">
+		<category>Hack</category>
+		<source>No-Intro, rhdn, smwcentral, RAPatches</source>
+		<description>SMW - Rivalidade entre Amigos (Pt) (v1.06) (bandicoot)</description>
+		<rom name="SMW - Rivalidade entre Amigos (Pt) (v1.06) (bandicoot).sfc" size="4194304" crc="D6DEF9CB" md5="bfdf84a63b701b4c00e8e876d9f3b268" sha1="04c548ece080ff7e56d4f22a520b50c07a2ba5bb"/>
+		<ra_hash>bfdf84a63b701b4c00e8e876d9f3b268</ra_hash>
 		<url>https://retroachievements.org/game/32805/hashes</url>
 	</game>
 
@@ -12816,6 +12843,16 @@
 		<url>https://retroachievements.org/game/2608/hashes</url>
 	</game>
 
+	<game name="SMW - Mario Game (v1.0) (Draconif)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Mario Game (v1.0) (Draconif)</description>
+		<release name="SMW - Mario Game (v1.0) (Draconif)" region="World"/>
+		<rom name="SMW - Mario Game (v1.0) (Draconif).sfc" size="4194304" crc="40ED1A79" md5="d4fe6f1b4eedf003c9b6fa7f1c6c4c95" sha1="57f7d2cde1a87adfafed3d59d692f01f5ec46358"/>
+		<ra_hash>d4fe6f1b4eedf003c9b6fa7f1c6c4c95</ra_hash>
+		<url>https://retroachievements.org/game/14368/hashes</url>
+	</game>
+
 	<game name="SMW - Mario Goes to Brazil (v1.2) (MarcosMoutta)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -13009,6 +13046,16 @@
 		<rom name="SMW - My QLDC Level (Faro, MM102).sfc" size="2097152" crc="B011F7AD" md5="6e4b118fc95ad63f5fbe13f21c4458de" sha1="105f0d8a491ca8b3101773dbe83044c8f77ae324"/>
 		<ra_hash>6e4b118fc95ad63f5fbe13f21c4458de</ra_hash>
 		<url>https://retroachievements.org/game/25294/hashes</url>
+	</game>
+
+	<game name="SMW - Nemesis (2022-04-01) (Dennsen86)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Nemesis (2022-04-01) (Dennsen86)</description>
+		<release name="SMW - Nemesis (2022-04-01) (Dennsen86)" region="World"/>
+		<rom name="SMW - Nemesis (2022-04-01) (Dennsen86).sfc" size="4194304" crc="77AE6174" md5="042ebbbb5e52835f35b23f68e480adea" sha1="3eb4950223c59862f7dad4506e65e3b17175d7e0"/>
+		<ra_hash>042ebbbb5e52835f35b23f68e480adea</ra_hash>
+		<url>https://retroachievements.org/game/38654/hashes</url>
 	</game>
 
 	<game name="SMW - New Nightmare Cafe (v1.0a) (Lush_50)">
@@ -14137,6 +14184,16 @@
 		<url>https://retroachievements.org/game/3501/hashes</url>
 	</game>
 
+	<game name="SMW - Super Mario Worldle (v1.0) (Medic)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Super Mario Worldle (v1.0) (Medic)</description>
+		<release name="SMW - Super Mario Worldle (v1.0) (Medic)" region="World"/>
+		<rom name="SMW - Super Mario Worldle (v1.0) (Medic).sfc" size="2097152" crc="89879B05" md5="d58536b669534bb2d07f5cef29da6900" sha1="a02bf1951427e477e499dc18511eb516e24a0032"/>
+		<ra_hash>d58536b669534bb2d07f5cef29da6900</ra_hash>
+		<url>https://retroachievements.org/game/39042/hashes</url>
+	</game>
+
 	<game name="SMW - Super Moo World (Jenboo)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -14874,16 +14931,6 @@
 		<url>https://retroachievements.org/game/321/hashes</url>
 	</game>
 
-	<game name="Spider-Man - Venom - Maximum Carnage (USA)">
-		<category>Retail</category>
-		<source>No-Intro</source>
-		<description>Spider-Man - Venom - Maximum Carnage (USA)</description>
-		<release name="Spider-Man - Venom - Maximum Carnage (USA)" region="USA"/>
-		<rom name="Spider-Man - Venom - Maximum Carnage (USA).sfc" size="2097152" crc="7EF2BB0C" md5="c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054" sha1="e85f33c59903826f76df1f43d60bacf5c024d673"/>
-		<ra_hash>c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054</ra_hash>
-		<url>https://retroachievements.org/game/1179/hashes</url>
-	</game>
-
 	<game name="Spider-Man - X-Men - Arcade's Revenge (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -15482,6 +15529,16 @@
 		<url>https://retroachievements.org/game/2817/hashes</url>
 	</game>
 
+	<game name="Super Castlevania IV - Other Castle (Normal) (v0.9) (bogaabogaa)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Super Castlevania IV - Other Castle (Normal) (v0.9) (bogaabogaa)</description>
+		<release name="Super Castlevania IV - Other Castle (Normal) (v0.9) (bogaabogaa)" region="World"/>
+		<rom name="Super Castlevania IV - Other Castle (Normal) (v0.9) (bogaabogaa).sfc" size="4194304" crc="5BF87584" md5="efef67c634bf0253400d4b06f763a31d" sha1="488de4833e688c2ae23679649a12d335c51f00ae"/>
+		<ra_hash>efef67c634bf0253400d4b06f763a31d</ra_hash>
+		<url>https://retroachievements.org/game/13714/hashes</url>
+	</game>
+
 	<game name="Super Chase H.Q. (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -15739,6 +15796,14 @@
 		<release name="Super Mario Vorld 2 - Moot Point (2020-10-05) (Anonymous)" region="World"/>
 		<rom name="Super Mario Vorld 2 - Moot Point (2020-10-05) (Anonymous).sfc" size="6291456" crc="64C5CD1A" md5="6bd2faecaec9ad9dcaa2634d113d96af" sha1="a28d834245ac3a739624713d8df2f25ae706245e"/>
 		<ra_hash>6bd2faecaec9ad9dcaa2634d113d96af</ra_hash>
+		<url>https://retroachievements.org/game/17132/hashes</url>
+	</game>
+	<game name="Super Mario Vorld 2 - Moot Point (2026-05-26) (Anonymous)" cloneof="Super Mario Vorld 2 - Moot Point (2020-10-05) (Anonymous)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Super Mario Vorld 2 - Moot Point (2026-05-26) (Anonymous)</description>
+		<rom name="Super Mario Vorld 2 - Moot Point (2026-05-26) (Anonymous).sfc" size="6291456" crc="BEC01C9F" md5="407cf30c3e93b9de131971ee8f179838" sha1="b72095f6534193fd39022179d0b13c45a81cda10"/>
+		<ra_hash>407cf30c3e93b9de131971ee8f179838</ra_hash>
 		<url>https://retroachievements.org/game/17132/hashes</url>
 	</game>
 
@@ -16059,6 +16124,24 @@
 		<rom name="Super Metroid - V I T A L I T Y (Digital_Mantra).sfc" size="3932160" crc="D16DAA47" md5="6092a3ea09347e1800e330ea27efbef2" sha1="4f206fbaea4fe4c5fd48671ac245c71212c8c33d"/>
 		<ra_hash>6092a3ea09347e1800e330ea27efbef2</ra_hash>
 		<url>https://retroachievements.org/game/18165/hashes</url>
+	</game>
+
+	<game name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches, metconst</source>
+		<description>Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)</description>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="France"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Germany"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Italy"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Spain"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Portugal"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Russia"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="Japan"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="China"/>
+		<release name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius)" region="English"/>
+		<rom name="Super Metroid - X-Fusion (v1.3) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Metaquarius).sfc" size="4194304" crc="CB4A6685" md5="9868727818a1717d034befdcd14f8cd7" sha1="c99c574f63ae2f553b0509b854304d5daca4a8bf"/>
+		<ra_hash>9868727818a1717d034befdcd14f8cd7</ra_hash>
+		<url>https://retroachievements.org/game/34433/hashes</url>
 	</game>
 
 	<game name="Super Morph (Europe)">
@@ -17747,6 +17830,15 @@
 		<release name="Whirlo (Europe)" region="Europe"/>
 		<rom name="Whirlo (Europe).sfc" size="1048576" crc="7379E3B3" md5="6a773dc80df7e0ce54540c29cd4fa3a0" sha1="9f3c77d02c7c476a460540cd5b72353a33e6d614"/>
 		<ra_hash>6a773dc80df7e0ce54540c29cd4fa3a0</ra_hash>
+		<url>https://retroachievements.org/game/2237/hashes</url>
+	</game>
+	<game name="Xandra no Daibouken - Valkyrie to no Deai (Japan)" cloneof="Whirlo (Europe)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Xandra no Daibouken - Valkyrie to no Deai (Japan)</description>
+		<release name="Xandra no Daibouken - Valkyrie to no Deai (Japan)" region="Japan"/>
+		<rom name="Xandra no Daibouken - Valkyrie to no Deai (Japan).sfc" size="1048576" crc="56EC4655" md5="c9635c92b61ed95153f4088bbbc67df6" sha1="b774ef60f88820a719a0af591eb4ff0feccc57c3"/>
+		<ra_hash>c9635c92b61ed95153f4088bbbc67df6</ra_hash>
 		<url>https://retroachievements.org/game/2237/hashes</url>
 	</game>
 

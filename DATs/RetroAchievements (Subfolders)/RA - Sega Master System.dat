@@ -5,12 +5,12 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/11-master-system/games</url>
-		<titlecount>204</titlecount>
-		<hashcount>204</hashcount>
+		<titlecount>205</titlecount>
+		<hashcount>205</hashcount>
 	</header>
 
 	<game name="Retail/Alex Kidd in Miracle World/(BIOS) Alex Kidd in Miracle World (USA, Europe, Brazil) (En)">
@@ -78,7 +78,7 @@
 		<url>https://retroachievements.org/game/9998/hashes</url>
 	</game>
 
-	<game name="Retail/Snail Maze - Sega Master System BIOS/(BIOS) Sega Master System (USA, Europe) (v1.3)">
+	<game name="Retail/Snail Maze/(BIOS) Sega Master System (USA, Europe) (v1.3)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>(BIOS) Sega Master System (USA, Europe) (v1.3)</description>
@@ -86,7 +86,7 @@
 		<ra_hash>840481177270d5642a14ca71ee72844c</ra_hash>
 		<url>https://retroachievements.org/game/11612/hashes</url>
 	</game>
-	<game name="Retail/Snail Maze - Sega Master System BIOS/Snail Maze - Music Demo (USA, Europe)">
+	<game name="Retail/Snail Maze/Snail Maze - Music Demo (USA, Europe)">
 		<category></category>
 		<source>Lost Level Archive</source>
 		<description>Snail Maze - Music Demo (USA, Europe)</description>
@@ -94,7 +94,7 @@
 		<ra_hash>ffcb0fedde6b7f8377ca99232c123597</ra_hash>
 		<url>https://retroachievements.org/game/11612/hashes</url>
 	</game>
-	<game name="Retail/Snail Maze - Sega Master System BIOS/Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
+	<game name="Retail/Snail Maze/Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
 		<category></category>
 		<source>Lost Level Archive</source>
 		<description>Snail Maze - SMS BIOS (v1.3) (USA, Europe)</description>
@@ -1152,6 +1152,15 @@
 		<rom name="Ninja, The (USA, Europe, Brazil) (En).sms" size="131072" crc="66A15BD9" md5="2c620ba64fcaac940b4b1566733037b3" sha1="76396a25902700e18adf6bc5c8668e2a8bdf03a9"/>
 		<ra_hash>2c620ba64fcaac940b4b1566733037b3</ra_hash>
 		<url>https://retroachievements.org/game/10773/hashes</url>
+	</game>
+
+	<game name="Retail/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<rom name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="6A5A1E39" md5="2a0717f014b2fd99decd92308175658f" sha1="21d7e4d99b1d35ad7c169cc16162a0873661fcd4"/>
+		<ra_hash>2a0717f014b2fd99decd92308175658f</ra_hash>
+		<url>https://retroachievements.org/game/30460/hashes</url>
 	</game>
 
 	<game name="Retail/OutRun (World)">

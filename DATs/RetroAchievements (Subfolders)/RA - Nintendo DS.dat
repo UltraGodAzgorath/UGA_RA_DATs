@@ -5,12 +5,12 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>801</titlecount>
-		<hashcount>801</hashcount>
+		<titlecount>815</titlecount>
+		<hashcount>815</hashcount>
 	</header>
 
 	<game name="Homebrew/10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -357,6 +357,15 @@
 		<url>https://retroachievements.org/game/20363/hashes</url>
 	</game>
 
+	<game name="Retail/Au Pays des PooYoos - Activites d'Eveil (France)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Au Pays des PooYoos - Activites d'Eveil (France)</description>
+		<rom name="Au Pays des PooYoos - Activites d'Eveil (France).nds" size="33554432" crc="5961F95A" md5="0ac3d244e7deb53e2be9fb48db963a30" sha1="ad1a3ddcb459b990a13b3ef398dca3d7739b5212"/>
+		<ra_hash>dfc9412f7eb60bb241eeaf95c41cbdaa</ra_hash>
+		<url>https://retroachievements.org/game/38520/hashes</url>
+	</game>
+
 	<game name="Retail/Avalon Code/Avalon Code (Europe) (En,Fr,De)">
 		<category></category>
 		<source>No-Intro</source>
@@ -675,6 +684,15 @@
 		<url>https://retroachievements.org/game/17888/hashes</url>
 	</game>
 
+	<game name="Retail/Bookworm (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Bookworm (USA)</description>
+		<rom name="Bookworm (USA).nds" size="8388608" crc="35F18A79" md5="9fc6a6b1ac2842c3a2ce7e45bfd711a7" sha1="6bf40fe60041ad469d4225aa74b11aa66a5db007"/>
+		<ra_hash>84127bc85bc7490b44285c96f158cfd7</ra_hash>
+		<url>https://retroachievements.org/game/27801/hashes</url>
+	</game>
+
 	<game name="Retail/Brain Boost - Gamma Wave (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -691,6 +709,23 @@
 		<rom name="Breaking Bad DS (World) (v1.06) (Aftermarket) (Unl).nds" size="5284864" crc="5C475A23" md5="e2424f0b9696e55058827d8e0426a24f" sha1="7dce261da5d23cf01ce64883f8df7265b8a7b229"/>
 		<ra_hash>02afc5bb2c14a2a418613b6a8a8ca31e</ra_hash>
 		<url>https://retroachievements.org/game/25786/hashes</url>
+	</game>
+
+	<game name="Retail/Bubble Bobble Double Shot/Bubble Bobble - Double Shot (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Bubble Bobble - Double Shot (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Bubble Bobble - Double Shot (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="89317D48" md5="70a108b658cd421e756c7a239d10f019" sha1="9669b487ce5f8d763dbf18592b0478b63eebb6f6"/>
+		<ra_hash>713c6ed68430e398551af1017cfa9923</ra_hash>
+		<url>https://retroachievements.org/game/14794/hashes</url>
+	</game>
+	<game name="Retail/Bubble Bobble Double Shot/Bubble Bobble - Double Shot (USA) (En,Fr,Es)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Bubble Bobble - Double Shot (USA) (En,Fr,Es)</description>
+		<rom name="Bubble Bobble - Double Shot (USA) (En,Fr,Es).nds" size="16777216" crc="9DFDA3CA" md5="a35c72d014fc96100208bccb76ac53f7" sha1="f5d709bd38a75c2afe542ad26fc702339e929f94"/>
+		<ra_hash>40447c98f02b31586d5822ab8843d95d</ra_hash>
+		<url>https://retroachievements.org/game/14794/hashes</url>
 	</game>
 
 	<game name="Retail/Bubble Guppies (Europe)">
@@ -1740,6 +1775,15 @@
 		<url>https://retroachievements.org/game/14736/hashes</url>
 	</game>
 
+	<game name="Retail/Duke Nukem - Critical Mass (USA) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Duke Nukem - Critical Mass (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Duke Nukem - Critical Mass (USA) (En,Fr,De,Es,It).nds" size="134217728" crc="C72C4535" md5="4ab91e859d8f726e57544a3d557321f0" sha1="6aaeb04e98c2ac317ec8af3fc5a22000a2975aee"/>
+		<ra_hash>14366277ae8765cc5bb13e50a7c1d88a</ra_hash>
+		<url>https://retroachievements.org/game/27309/hashes</url>
+	</game>
+
 	<game name="Retail/EA Playground/EA Playground (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1998,6 +2042,15 @@
 		<url>https://retroachievements.org/game/9496/hashes</url>
 	</game>
 
+	<game name="Retail/FloWooooT (Japan) (Nintendo Game Seminar 2010)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>FloWooooT (Japan) (Nintendo Game Seminar 2010)</description>
+		<rom name="FloWooooT (Japan) (Nintendo Game Seminar 2010).nds" size="2093256" crc="8EB83FD3" md5="fef4144f9de821e14bd805982de65545" sha1="9ab45d8218024d5a15d4dc9ebdf243f2af1a0b33"/>
+		<ra_hash>6795054a36bdba810103afd241e49985</ra_hash>
+		<url>https://retroachievements.org/game/17236/hashes</url>
+	</game>
+
 	<game name="Retail/Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<source>No-Intro</source>
@@ -2096,12 +2149,37 @@
 		<url>https://retroachievements.org/game/18640/hashes</url>
 	</game>
 
-	<game name="Retail/Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)">
+	<game name="Retail/Geometry Wars - Galaxies/Geometry Wars - Galaxies (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Geometry Wars - Galaxies (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Geometry Wars - Galaxies (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="EA3F0DD2" md5="79b07f69d2a4148bdd546e2479bd4fd2" sha1="564ddc62d0982efc1e0c0dee74247ad918a44834"/>
+		<ra_hash>3bea649bcc9ed830da0bfda5c1540672</ra_hash>
+		<url>https://retroachievements.org/game/20374/hashes</url>
+	</game>
+	<game name="Retail/Geometry Wars - Galaxies/Geometry Wars - Galaxies (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Geometry Wars - Galaxies (USA)</description>
+		<rom name="Geometry Wars - Galaxies (USA).nds" size="67108864" crc="B74C1946" md5="872821293f0e2f8b099c6688c254c9ff" sha1="3004196367f5deb9072bb81e70276047e2ce877b"/>
+		<ra_hash>5064de4bc34d34cc0715a1a4dde8311e</ra_hash>
+		<url>https://retroachievements.org/game/20374/hashes</url>
+	</game>
+
+	<game name="Retail/Ghost Trick - Phantom Detective/Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It).nds" size="134217728" crc="5CD93FE5" md5="e61d75f376b0733b5479ae869f744855" sha1="bcfe74e5592eef3255fd23758b772226960a1b0b"/>
 		<ra_hash>f58b3448add412176e45e7394cbea223</ra_hash>
+		<url>https://retroachievements.org/game/4911/hashes</url>
+	</game>
+	<game name="Retail/Ghost Trick - Phantom Detective/Ghost Trick - Phantom Detective (USA) (Ru) (v1.0.5) (Dant)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Ghost Trick - Phantom Detective (USA) (Ru) (v1.0.5) (Dant)</description>
+		<rom name="Ghost Trick - Phantom Detective (USA) (Ru) (v1.0.5) (Dant).nds" size="126888384" crc="74CF7336" md5="b31396061876cd5f9658eebb5969270e" sha1="7ae316eab3e896898952a59369f23e49d4d2d9cc"/>
+		<ra_hash>256f7485c232b382e9e1d3f06f573722</ra_hash>
 		<url>https://retroachievements.org/game/4911/hashes</url>
 	</game>
 
@@ -3649,6 +3727,15 @@
 		<rom name="Nanashi no Geemu (Japan).nds" size="67108864" crc="057D0B3F" md5="ee9bcf9a65f7a01bdabba79053280922" sha1="0715b1fd78b4064b77c75a92186db99e288b7760"/>
 		<ra_hash>9ea74998bf715925ea743193ec39fb81</ra_hash>
 		<url>https://retroachievements.org/game/3529/hashes</url>
+	</game>
+
+	<game name="Retail/Nancy Drew - The Mystery of the Clue Bender Society (Europe) (En,Fr,De)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Nancy Drew - The Mystery of the Clue Bender Society (Europe) (En,Fr,De)</description>
+		<rom name="Nancy Drew - The Mystery of the Clue Bender Society (Europe) (En,Fr,De).nds" size="67108864" crc="C4B00143" md5="b35ad2161241e36d513096dacdb18ec9" sha1="591e558e59c67709b89d62d6441b1c1562f34197"/>
+		<ra_hash>ca725b67459a0bce3835d0289a5e929b</ra_hash>
+		<url>https://retroachievements.org/game/26319/hashes</url>
 	</game>
 
 	<game name="Retail/Naruto - Path of the Ninja (USA)">
@@ -6116,6 +6203,15 @@
 		<url>https://retroachievements.org/game/18714/hashes</url>
 	</game>
 
+	<game name="Retail/Space Bust-A-Move (USA) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Space Bust-A-Move (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Space Bust-A-Move (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="20378C12" md5="50e71464bb7b35d98891e9f792d01d4e" sha1="5a3aa61b655561bbe804e0ad6b553a0b2a664fed"/>
+		<ra_hash>b7fddde267efe7d7daf06fbd94b7c263</ra_hash>
+		<url>https://retroachievements.org/game/12853/hashes</url>
+	</game>
+
 	<game name="Retail/Space Invaders Extreme 2 (Europe) (En,Ja,Fr,De,Es,It)">
 		<category></category>
 		<source>No-Intro</source>
@@ -6533,6 +6629,14 @@
 		<ra_hash>82b6ae3adb9cf16d9407bc5efd7076d5</ra_hash>
 		<url>https://retroachievements.org/game/16624/hashes</url>
 	</game>
+	<game name="Retail/Time Hollow/Time Hollow (USA) (En,Fr) (Undub)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Time Hollow (USA) (En,Fr) (Undub)</description>
+		<rom name="Time Hollow (USA) (En,Fr) (Undub).nds" size="131280820" crc="D6791102" md5="2bd9fd9bc499c2f56c86357a83bb7384" sha1="ea20dd25697ee18f1f9cac4724f3bdeb223e127a"/>
+		<ra_hash>e4430e4d7d61c3c639ef18199fcedaf7</ra_hash>
+		<url>https://retroachievements.org/game/16624/hashes</url>
+	</game>
 	<game name="Retail/Time Hollow/Time Hollow (USA) (Pl) (v1.00) (mteam)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
@@ -6636,6 +6740,15 @@
 		<url>https://retroachievements.org/game/17404/hashes</url>
 	</game>
 
+	<game name="Retail/Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="ED75B040" md5="106d6797ff008202674ec7ed817ddd4d" sha1="a60da5b8b7504505483732640b38a76f928b8c91"/>
+		<ra_hash>26087ed6a6c1b58b768264c3ab5a5bbb</ra_hash>
+		<url>https://retroachievements.org/game/17405/hashes</url>
+	</game>
+
 	<game name="Retail/Touch Detective (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -6643,6 +6756,15 @@
 		<rom name="Touch Detective (USA).nds" size="16777216" crc="C5D56B0F" md5="ed875be190b3c3a8a0117e02e098b610" sha1="e8dfac40f417cad187427a993d91d877bd0f404a"/>
 		<ra_hash>fbbc35646b8051f61277512f5107883f</ra_hash>
 		<url>https://retroachievements.org/game/22149/hashes</url>
+	</game>
+
+	<game name="Prototype/Toy Golf Extreme (Unknown) (Proto)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Toy Golf Extreme (Unknown) (Proto)</description>
+		<rom name="Toy Golf Extreme (Unknown) (Proto).nds" size="5846275" crc="A25907B1" md5="bd531c103b9f6ddcd98950e0b0c65be6" sha1="3195d8d9c4d329197f61d1e8ae791ffb93c3ee80"/>
+		<ra_hash>05e1dfaed160ca5d1a02da1ae41a6b84</ra_hash>
+		<url>https://retroachievements.org/game/39040/hashes</url>
 	</game>
 
 	<game name="Retail/TrackMania DS (Europe) (En,Fr,De,Es,It)">

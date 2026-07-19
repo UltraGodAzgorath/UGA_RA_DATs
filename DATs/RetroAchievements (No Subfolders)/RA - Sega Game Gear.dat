@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/15-game-gear/games</url>
-		<titlecount>144</titlecount>
-		<hashcount>144</hashcount>
+		<titlecount>148</titlecount>
+		<hashcount>148</hashcount>
 	</header>
 
 	<game name="Aerial Assault (World)">
@@ -464,6 +464,25 @@
 		<url>https://retroachievements.org/game/28834/hashes</url>
 	</game>
 
+	<game name="Hook (Europe)" cloneof="Hook (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Hook (Europe)</description>
+		<release name="Hook (Europe)" region="Europe"/>
+		<rom name="Hook (Europe).gg" size="262144" crc="A5AA5BA1" md5="ce8bf6e6baec621d9cc8302f2b0565b4" sha1="404fe95907d816b524acd34c9223c30afcd82fa4"/>
+		<ra_hash>ce8bf6e6baec621d9cc8302f2b0565b4</ra_hash>
+		<url>https://retroachievements.org/game/26230/hashes</url>
+	</game>
+	<game name="Hook (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Hook (USA)</description>
+		<release name="Hook (USA)" region="USA"/>
+		<rom name="Hook (USA).gg" size="262144" crc="F53CED2E" md5="5b0659fc95d81f10400bc449c2da251b" sha1="b9bd292fa4f3ef7dd86ebae9e1b5364ce6653c45"/>
+		<ra_hash>5b0659fc95d81f10400bc449c2da251b</ra_hash>
+		<url>https://retroachievements.org/game/26230/hashes</url>
+	</game>
+
 	<game name="Hopman Mini (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
 		<source>No-Intro</source>
@@ -791,6 +810,25 @@
 		<rom name="Moldorian - Hikari to Yami no Sister (Japan) (En) (v1.1) (LIPEMCO! Translations).gg" size="1048576" crc="7AB0081F" md5="bec8e889d2a7652763ef5d4723f21725" sha1="9ef2e00760ff2698fdf70822775ed351b62e40d8"/>
 		<ra_hash>bec8e889d2a7652763ef5d4723f21725</ra_hash>
 		<url>https://retroachievements.org/game/13656/hashes</url>
+	</game>
+
+	<game name="Monster World II - Dragon no Wana (Japan)" cloneof="Wonder Boy - The Dragon's Trap (Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Monster World II - Dragon no Wana (Japan)</description>
+		<release name="Monster World II - Dragon no Wana (Japan)" region="Japan"/>
+		<rom name="Monster World II - Dragon no Wana (Japan).gg" size="262144" crc="EA89E0E7" md5="8e6934c31498569302ff3119c2496043" sha1="5c4d25432512852f48f22280544bd7d034aab744"/>
+		<ra_hash>8e6934c31498569302ff3119c2496043</ra_hash>
+		<url>https://retroachievements.org/game/12565/hashes</url>
+	</game>
+	<game name="Wonder Boy - The Dragon's Trap (Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Wonder Boy - The Dragon's Trap (Europe)</description>
+		<release name="Wonder Boy - The Dragon's Trap (Europe)" region="Europe"/>
+		<rom name="Wonder Boy - The Dragon's Trap (Europe).gg" size="262144" crc="A74C97A7" md5="0e8146c23d7947b4677b9b2ca12850e0" sha1="d98344a2c644ce9a0184e8f836271c038aa16a23"/>
+		<ra_hash>0e8146c23d7947b4677b9b2ca12850e0</ra_hash>
+		<url>https://retroachievements.org/game/12565/hashes</url>
 	</game>
 
 	<game name="Mortal Kombat (USA, Europe)">

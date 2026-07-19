@@ -5,12 +5,12 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>262</titlecount>
-		<hashcount>284</hashcount>
+		<titlecount>263</titlecount>
+		<hashcount>285</hashcount>
 	</header>
 
 	<game name="Retail/1080 Avalanche (USA)">
@@ -1040,12 +1040,20 @@
 		<url>https://retroachievements.org/game/3535/hashes</url>
 	</game>
 
-	<game name="Retail/Metal Gear Solid - The Twin Snakes - Special Disc (Japan)">
+	<game name="Retail/Metal Gear Solid - The Twin Snakes - Special Disc/Metal Gear Solid - The Twin Snakes - Special Disc (Japan)">
 		<category></category>
 		<source>Redump</source>
 		<description>Metal Gear Solid - The Twin Snakes - Special Disc (Japan)</description>
 		<rom name="Metal Gear Solid - The Twin Snakes - Special Disc (Japan).rvz" size="835419112" crc="B40CCD8A" md5="8f78bdf66ebe0ce67a37a61557041b5a" sha1="2b4ed8c433428d4d3117bfd2aa546eeb2a126376"/>
 		<ra_hash>deb0e3199d6c3dc9354599b8023385bd</ra_hash>
+		<url>https://retroachievements.org/game/30122/hashes</url>
+	</game>
+	<game name="Retail/Metal Gear Solid - The Twin Snakes - Special Disc/Metal Gear Solid - The Twin Snakes - Special Disc (Japan) (En) (WilHiteWarrior)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Metal Gear Solid - The Twin Snakes - Special Disc (Japan) (En) (WilHiteWarrior)</description>
+		<rom name="Metal Gear Solid - The Twin Snakes - Special Disc (Japan) (En) (WilHiteWarrior).rvz" size="835419068" crc="4C715224" md5="00e90d4169237f2419cbf7f16c463166" sha1="10c9618a11a3b58519c9b779011d61d61ed2abe3"/>
+		<ra_hash>13cfde432ba34f715b842533cad83b0c</ra_hash>
 		<url>https://retroachievements.org/game/30122/hashes</url>
 	</game>
 
@@ -1355,15 +1363,6 @@
 		<rom name="Pikmin 2 (USA).rvz" size="910867284" crc="27B6A8A9" md5="c3472385920628150546a2ce544c131f" sha1="47b37f23dfedea03b18d1ba76b2ec90ad6080b82"/>
 		<ra_hash>3876a058fdf7ee82565f9a4439237b1f</ra_hash>
 		<url>https://retroachievements.org/game/14817/hashes</url>
-	</game>
-
-	<game name="Subset/Pikmin 2 (USA) (Subset - Bonus)">
-		<category></category>
-		<source>Redump, RAPatches</source>
-		<description>Pikmin 2 (USA) (Subset - Bonus)</description>
-		<rom name="Pikmin 2 (USA) (Subset - Bonus).rvz" size="910867284" crc="5ECF8910" md5="813d6ca15824fa5ef1df93d0c845b11e" sha1="65d8744786a6427644bb7b6317b2a128152c5aba"/>
-		<ra_hash>46bdb78bc7855e98f76f13f2eef58ad2</ra_hash>
-		<url>https://retroachievements.org/game/28656/hashes</url>
 	</game>
 
 	<game name="Hack/Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)">
@@ -1716,6 +1715,15 @@
 		<url>https://retroachievements.org/game/15543/hashes</url>
 	</game>
 
+	<game name="Hack/SMB2 - Super Monkey Ball 349 (v1.0) (scrap651)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>SMB2 - Super Monkey Ball 349 (v1.0) (scrap651)</description>
+		<rom name="SMB2 - Super Monkey Ball 349 (v1.0) (scrap651).rvz" size="666356992" crc="A87C7DBC" md5="d39f3fba320093f3e771542de335edb1" sha1="eb0ad5af2941a382a7c2a7a084da6a47669aad0f"/>
+		<ra_hash>a158b9d5cf847df8554031fdc276412a</ra_hash>
+		<url>https://retroachievements.org/game/38660/hashes</url>
+	</game>
+
 	<game name="Hack/SMS - Super Doot Sunshine (v1.4.0) (warspyking)">
 		<category></category>
 		<source>Redump, gamebanana, RAPatches</source>
@@ -1725,12 +1733,12 @@
 		<url>https://retroachievements.org/game/31898/hashes</url>
 	</game>
 
-	<game name="Hack/SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team)">
+	<game name="Hack/SMS - Super Mario Eclipse (v1.1.0) (Eclipse Team)">
 		<category></category>
 		<source>gamebanana, Lost Level Archive</source>
-		<description>SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team)</description>
-		<rom name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team).rvz" size="1194493572" crc="DAC0B67E" md5="87ce2f412ab216d9f665de01fe8c0b3b" sha1="7f2128df77dc2ba542d835d1fc08a172ac2df8d4"/>
-		<ra_hash>1938af2aee854415255e3220fc366dd1</ra_hash>
+		<description>SMS - Super Mario Eclipse (v1.1.0) (Eclipse Team)</description>
+		<rom name="SMS - Super Mario Eclipse (v1.1.0) (Eclipse Team).rvz" size="1232646204" crc="9FB52600" md5="ab4cf89469ed0f3882fb617ce443e448" sha1="06c8e4d8ca59cc0037d1339b567cab16893d48f5"/>
+		<ra_hash>1f67d2e571bb72563950e30de9330dec</ra_hash>
 		<url>https://retroachievements.org/game/28930/hashes</url>
 	</game>
 
@@ -1830,6 +1838,15 @@
 		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity).rvz" size="827947228" crc="7AED2DE3" md5="49e918cd1c6061a6965f26281e3f95cd" sha1="2ddade939ffec1a5b1db348c8c9f9f6166cc0b91"/>
 		<ra_hash>62ef4020aa956287ee45294612caf195</ra_hash>
 		<url>https://retroachievements.org/game/32108/hashes</url>
+	</game>
+
+	<game name="Hack/SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.6) (aaron5015)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.6) (aaron5015)</description>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.6) (aaron5015).rvz" size="1033217896" crc="78470027" md5="b19c4c7ff5e83133c40fca8c5d9ae470" sha1="d50e8ff282c4ceb44cd5f7859f1a684b9810543b"/>
+		<ra_hash>bb5f5499053021e4b33fa7caa7e8290b</ra_hash>
+		<url>https://retroachievements.org/game/31965/hashes</url>
 	</game>
 
 	<game name="Hack/SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ)">
@@ -2111,15 +2128,6 @@
 		<rom name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman).rvz" size="716113640" crc="D9D0921B" md5="e4531654e3c8e16ca7230868defbab17" sha1="fa01a57054dd002f7fc709d0e706db6dfdc707ba"/>
 		<ra_hash>1d10070b4d082c04f3daa7f4c35b6177</ra_hash>
 		<url>https://retroachievements.org/game/38561/hashes</url>
-	</game>
-
-	<game name="Hack/Super Monkey Ball 349">
-		<category></category>
-		<source>Unknown</source>
-		<description>Super Monkey Ball 349</description>
-		<rom name="Super Monkey Ball 349.iso" size="666356992" crc="A87C7DBC" md5="d39f3fba320093f3e771542de335edb1" sha1="eb0ad5af2941a382a7c2a7a084da6a47669aad0f"/>
-		<ra_hash>a158b9d5cf847df8554031fdc276412a</ra_hash>
-		<url>https://retroachievements.org/game/38660/hashes</url>
 	</game>
 
 	<game name="Retail/Super Smash Bros. Melee/Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)">

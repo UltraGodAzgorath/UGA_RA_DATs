@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/8-pc-engine-turbografx-16/games</url>
 		<titlecount>141</titlecount>
@@ -595,7 +595,7 @@
 
 	<game name="Retail/Fushigi no Yume no Alice/Fushigi no Yume no Alice (English Translation) v1.0">
 		<category>TurboGrafx-16</category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>Fushigi no Yume no Alice (English Translation) v1.0</description>
 		<rom name="Fushigi no Yume no Alice (English Translation) v1.0.pce" size="393216" crc="C21F25C4" md5="4ed3f4820b238d5c1cb49dcaf24f382a" sha1="9868a3049e6bbc75a537415a2db8bbda17dc1864"/>
 		<ra_hash>4ed3f4820b238d5c1cb49dcaf24f382a</ra_hash>

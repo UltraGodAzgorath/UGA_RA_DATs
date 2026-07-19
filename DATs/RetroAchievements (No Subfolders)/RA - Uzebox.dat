@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Uzebox</name>
 		<description>Uzebox</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/80-uzebox/games</url>
-		<titlecount>45</titlecount>
-		<hashcount>45</hashcount>
+		<titlecount>46</titlecount>
+		<hashcount>46</hashcount>
 	</header>
 
 	<game name="2048 (World) (Harty123)">
@@ -219,6 +219,16 @@
 		<rom name="Laser Puzzle (World) (Artcfox).uze" size="61416" crc="5A4F63F9" md5="03119f51f7eeb5cd603dfd2393bfd456" sha1="e7901c367858a81ffc66b4ed0719d6fd140fd4d4"/>
 		<ra_hash>03119f51f7eeb5cd603dfd2393bfd456</ra_hash>
 		<url>https://retroachievements.org/game/24752/hashes</url>
+	</game>
+
+	<game name="Laser Puzzle II (World) (v1.0) (Artcfox)">
+		<category>Retail</category>
+		<source>Lost Level Archive</source>
+		<description>Laser Puzzle II (World) (v1.0) (Artcfox)</description>
+		<release name="Laser Puzzle II (World) (v1.0) (Artcfox)" region="World"/>
+		<rom name="Laser Puzzle II (World) (v1.0) (Artcfox).uze" size="60966" crc="F439FB48" md5="bc5538a7f15fc556dc1c91df1fe42a16" sha1="bac2351b5ea008e5eca6d36bd0d9383408a65161"/>
+		<ra_hash>bc5538a7f15fc556dc1c91df1fe42a16</ra_hash>
+		<url>https://retroachievements.org/game/24753/hashes</url>
 	</game>
 
 	<game name="Megatris - Arcade Edition (World) (v1.03) (clymax)">

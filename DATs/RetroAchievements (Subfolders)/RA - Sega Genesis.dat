@@ -5,12 +5,12 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>936</titlecount>
-		<hashcount>936</hashcount>
+		<titlecount>937</titlecount>
+		<hashcount>937</hashcount>
 	</header>
 
 	<game name="Homebrew/16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -56,6 +56,15 @@
 		<rom name="Abbaye des Morts, L' (World) (Beta) (2017-09-07) (Aftermarket) (Unl).md" size="3932160" crc="8865EE24" md5="bc2e5590cc0e7b6e863b4275343839d4" sha1="c65b9c58a01973700ababccf1e4ae3064345c9d6"/>
 		<ra_hash>bc2e5590cc0e7b6e863b4275343839d4</ra_hash>
 		<url>https://retroachievements.org/game/14327/hashes</url>
+	</game>
+
+	<game name="Retail/Academia do Saber (Brazil) (Mega Drive 4)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Academia do Saber (Brazil) (Mega Drive 4)</description>
+		<rom name="Academia do Saber (Brazil) (Mega Drive 4).md" size="917504" crc="A5D5369E" md5="4aaff5e87fd74fcd9e116b911e4bc82d" sha1="f3b50a95ce64ec144981532ee7ed80e0b31344ff"/>
+		<ra_hash>4aaff5e87fd74fcd9e116b911e4bc82d</ra_hash>
+		<url>https://retroachievements.org/game/26848/hashes</url>
 	</game>
 
 	<game name="Unlicensed/Action 52 (USA) (Unl)">
@@ -358,20 +367,12 @@
 		<url>https://retroachievements.org/game/17392/hashes</url>
 	</game>
 
-	<game name="Unlicensed/Angry Birds/Angry Birds (Russia) (En) (Aftermarket) (Unl)">
+	<game name="Unlicensed/Angry Birds (Russia) (En) (Aftermarket) (Unl)">
 		<category></category>
-		<source>Unknown</source>
+		<source>No-Intro</source>
 		<description>Angry Birds (Russia) (En) (Aftermarket) (Unl)</description>
 		<rom name="Angry Birds (Russia) (En) (Aftermarket) (Unl).md" size="2621440" crc="A7F4ACA9" md5="26dd62c05ed4f3338a76b5e20109e04f" sha1="ebf0e1bbd37481c0c60bc3eca7f9a179ab730bc7"/>
 		<ra_hash>26dd62c05ed4f3338a76b5e20109e04f</ra_hash>
-		<url>https://retroachievements.org/game/12830/hashes</url>
-	</game>
-	<game name="Unlicensed/Angry Birds/Angry Birds (Unl)">
-		<category></category>
-		<source>Unknown</source>
-		<description>Angry Birds (Unl)</description>
-		<rom name="Angry Birds (Unl).bin" size="3145728" crc="9EC3A54A" md5="26c8b55381f3cbd43f54f4db7aeffe25" sha1="f2c7613f6055ac94efe555d08dec44fdd698f8a9"/>
-		<ra_hash>26c8b55381f3cbd43f54f4db7aeffe25</ra_hash>
 		<url>https://retroachievements.org/game/12830/hashes</url>
 	</game>
 
@@ -3496,6 +3497,15 @@
 		<url>https://retroachievements.org/game/12822/hashes</url>
 	</game>
 
+	<game name="Retail/Marble Madness (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Marble Madness (Japan)</description>
+		<rom name="Marble Madness (Japan).md" size="524288" crc="775BC464" md5="23d2c1d23612890ffd137f56e0d37f30" sha1="ca343f3e4f945b6f58b08e276dff505ea1ace179"/>
+		<ra_hash>23d2c1d23612890ffd137f56e0d37f30</ra_hash>
+		<url>https://retroachievements.org/game/30927/hashes</url>
+	</game>
+
 	<game name="Retail/Marble Madness (USA, Europe)">
 		<category></category>
 		<source>No-Intro</source>
@@ -3626,15 +3636,6 @@
 		<rom name="Mega Flappy Sis (World) (Aftermarket) (Unl).md" size="478706" crc="D2CA75B7" md5="433c1a50f7ffb0f6185d8e8bf0f8961b" sha1="9851f9c76140987b33a984acc7b9e0c96c8169be"/>
 		<ra_hash>433c1a50f7ffb0f6185d8e8bf0f8961b</ra_hash>
 		<url>https://retroachievements.org/game/17765/hashes</url>
-	</game>
-
-	<game name="Homebrew/Mega Man - The Sequel Wars - Episode Red (Subset - Bonus)">
-		<category></category>
-		<source>No-Intro, RAPatches</source>
-		<description>Mega Man - The Sequel Wars - Episode Red (Subset - Bonus)</description>
-		<rom name="Mega Man - The Sequel Wars - Episode Red (Subset - Bonus).md" size="4194304" crc="6899D989" md5="0cab4d4be47fb9e9029b82ec09f186da" sha1="c18f45d93bc5ebe1c6b06223fb923a917fcdb677"/>
-		<ra_hash>0cab4d4be47fb9e9029b82ec09f186da</ra_hash>
-		<url>https://retroachievements.org/game/24511/hashes</url>
 	</game>
 
 	<game name="Homebrew/Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Pirate)">
@@ -5289,6 +5290,15 @@
 		<url>https://retroachievements.org/game/29744/hashes</url>
 	</game>
 
+	<game name="Hack/S3&amp;K - Broken Knuckles (v2.0) (Razor)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>S3&amp;K - Broken Knuckles (v2.0) (Razor)</description>
+		<rom name="S3&amp;K - Broken Knuckles (v2.0) (Razor).md" size="3393322" crc="853D511D" md5="ab52ef6da185309678524b7e693cfe0f" sha1="3a536951d94b3e48652553805400cafd8683f247"/>
+		<ra_hash>ab52ef6da185309678524b7e693cfe0f</ra_hash>
+		<url>https://retroachievements.org/game/38628/hashes</url>
+	</game>
+
 	<game name="Hack/S3K - Sonic's Fun and Easy Adventure (v1.1) (Ralakimus,BinBowie,VAdaPEGA)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
@@ -6200,7 +6210,7 @@
 		<url>https://retroachievements.org/game/14607/hashes</url>
 	</game>
 
-	<game name="Retail/Sonic the Hedgehog Spinball/Sonic Spinball (Europe)">
+	<game name="Retail/Sonic Spinball/Sonic Spinball (Europe)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Sonic Spinball (Europe)</description>
@@ -6208,7 +6218,7 @@
 		<ra_hash>800c7c12bc1eae7ddb61186875b29733</ra_hash>
 		<url>https://retroachievements.org/game/15/hashes</url>
 	</game>
-	<game name="Retail/Sonic the Hedgehog Spinball/Sonic Spinball (Japan)">
+	<game name="Retail/Sonic Spinball/Sonic Spinball (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Sonic Spinball (Japan)</description>
@@ -6216,7 +6226,7 @@
 		<ra_hash>3a12dc6b4f41681e0dc0ae3b2f894b4f</ra_hash>
 		<url>https://retroachievements.org/game/15/hashes</url>
 	</game>
-	<game name="Retail/Sonic the Hedgehog Spinball/Sonic Spinball (USA)">
+	<game name="Retail/Sonic Spinball/Sonic Spinball (USA)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Sonic Spinball (USA)</description>

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Virtual Boy</name>
 		<description>Nintendo Virtual Boy</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/28-virtual-boy/games</url>
-		<titlecount>51</titlecount>
-		<hashcount>51</hashcount>
+		<titlecount>52</titlecount>
+		<hashcount>52</hashcount>
 	</header>
 
 	<game name="3-D Tetris (USA)">
@@ -499,6 +499,16 @@
 		<rom name="Virtual Lab (Japan) (En) (v1.0) (Thunderstruck).vb" size="1048576" crc="1B1E5CB7" md5="bd6bc0cdb310969583c442f9c8509fc0" sha1="cd1305e86e1b5a3c7b49deba61196bc88fe7dd8f"/>
 		<ra_hash>bd6bc0cdb310969583c442f9c8509fc0</ra_hash>
 		<url>https://retroachievements.org/game/17015/hashes</url>
+	</game>
+
+	<game name="Virtual Picross (World) (v1.1) (Aftermarket) (Simon Gellis)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>Virtual Picross (World) (v1.1) (Aftermarket) (Simon Gellis)</description>
+		<release name="Virtual Picross (World) (v1.1) (Aftermarket) (Simon Gellis)" region="World"/>
+		<rom name="Virtual Picross (World) (v1.1) (Aftermarket) (Simon Gellis).vb" size="131072" crc="722B5242" md5="bd7e84b0b175bf427e615e3710726d3f" sha1="58451d78946bbb2d1e21bac94ab93847714af843"/>
+		<ra_hash>bd7e84b0b175bf427e615e3710726d3f</ra_hash>
+		<url>https://retroachievements.org/game/41151/hashes</url>
 	</game>
 
 	<game name="VUE Snake (USA) (v1.1) (Aftermarket) (Unl) (KR155E)">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - ColecoVision</name>
 		<description>ColecoVision</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/44-colecovision/games</url>
-		<titlecount>46</titlecount>
-		<hashcount>48</hashcount>
+		<titlecount>47</titlecount>
+		<hashcount>49</hashcount>
 	</header>
 
 	<game name="Alcazar - The Forgotten Fortress (USA)">
@@ -359,6 +359,16 @@
 		<rom name="Popeye (USA).col" size="16384" crc="A095454D" md5="a7773e1265e0089bc8f148527256a20e" sha1="f54f110ba5864bb3418f84e1c2cdc5c856dda771"/>
 		<ra_hash>a7773e1265e0089bc8f148527256a20e</ra_hash>
 		<url>https://retroachievements.org/game/18259/hashes</url>
+	</game>
+
+	<game name="Quest for Quintana Roo (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Quest for Quintana Roo (USA)</description>
+		<release name="Quest for Quintana Roo (USA)" region="USA"/>
+		<rom name="Quest for Quintana Roo (USA).col" size="16384" crc="EEC81C42" md5="446256285c3b1dcf012d36b26f8fdb6b" sha1="1aef03f7d0bdaa701517a1ad6a75ab8820674f15"/>
+		<ra_hash>446256285c3b1dcf012d36b26f8fdb6b</ra_hash>
+		<url>https://retroachievements.org/game/38881/hashes</url>
 	</game>
 
 	<game name="Quest for the Golden Chalice (World) (Aftermarket) (Unl)">

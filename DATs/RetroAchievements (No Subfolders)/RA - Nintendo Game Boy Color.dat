@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/6-game-boy-color/games</url>
-		<titlecount>592</titlecount>
-		<hashcount>592</hashcount>
+		<titlecount>596</titlecount>
+		<hashcount>596</hashcount>
 	</header>
 
 	<game name="007 - The World Is Not Enough (USA, Europe)">
@@ -130,6 +130,31 @@
 		<rom name="Alice in Wonderland (Europe) (En,Fr,De,Es).gbc" size="2097152" crc="85545D81" md5="265de745b9b6c8e84e02acbf80d0428e" sha1="ea8647cce2d4b5f7993190c6e485669cc6046a29"/>
 		<ra_hash>265de745b9b6c8e84e02acbf80d0428e</ra_hash>
 		<url>https://retroachievements.org/game/4097/hashes</url>
+	</game>
+
+	<game name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<release name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<rom name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl).gbc" size="4194304" crc="7FF2042F" md5="30ec849758f703d7071e2ac28e048101" sha1="818259159b5e7d3775584b478d4fd36f6a25fcaa"/>
+		<ra_hash>30ec849758f703d7071e2ac28e048101</ra_hash>
+		<url>https://retroachievements.org/game/2582/hashes</url>
+	</game>
+	<game name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)</description>
+		<release name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)" region="USA"/>
+		<release name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)" region="France"/>
+		<release name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)" region="Spain"/>
+		<release name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)" region="English"/>
+		<rom name="Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).gbc" size="4194304" crc="C145C036" md5="d97055e4a2fd4624fc924c4834ace35e" sha1="a348aeac500d0d8fdaf90f5277631a026504ff44"/>
+		<ra_hash>d97055e4a2fd4624fc924c4834ace35e</ra_hash>
+		<url>https://retroachievements.org/game/2582/hashes</url>
 	</game>
 
 	<game name="Animorphs (Europe) (En,Fr,De,Es,It)" cloneof="Animorphs (USA)">
@@ -1113,12 +1138,12 @@
 		<url>https://retroachievements.org/game/5021/hashes</url>
 	</game>
 
-	<game name="Double Duck (v1.0)">
+	<game name="Double Duck (World) (Aftermarket) (v1.0) (Tardigrade)">
 		<category>Homebrew</category>
-		<source>Unknown</source>
-		<description>Double Duck (v1.0)</description>
-		<release name="Double Duck (v1.0)" region="World"/>
-		<rom name="Double Duck (v1.0).gbc" size="131072" crc="82A8D2C6" md5="8fe0808852e8d7d047a342952feff10d" sha1="80cfb39816bd9632b9847f53ed67ed1ccb407908"/>
+		<source>itchio, Lost Level Archive</source>
+		<description>Double Duck (World) (Aftermarket) (v1.0) (Tardigrade)</description>
+		<release name="Double Duck (World) (Aftermarket) (v1.0) (Tardigrade)" region="World"/>
+		<rom name="Double Duck (World) (Aftermarket) (v1.0) (Tardigrade).gbc" size="131072" crc="82A8D2C6" md5="8fe0808852e8d7d047a342952feff10d" sha1="80cfb39816bd9632b9847f53ed67ed1ccb407908"/>
 		<ra_hash>8fe0808852e8d7d047a342952feff10d</ra_hash>
 		<url>https://retroachievements.org/game/38492/hashes</url>
 	</game>
@@ -2000,6 +2025,31 @@
 		<url>https://retroachievements.org/game/26515/hashes</url>
 	</game>
 
+	<game name="Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<rom name="Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="48C99939" md5="82880772ebd67b839c497dfe4308a0a0" sha1="a5c2bb5244fe0fd6d2710c832f66f8f8b8c2bbab"/>
+		<ra_hash>82880772ebd67b839c497dfe4308a0a0</ra_hash>
+		<url>https://retroachievements.org/game/9993/hashes</url>
+	</game>
+	<game name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="USA"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<rom name="Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="851C8710" md5="afe51a74c6967711ddd263e3998b7afd" sha1="e4c1c58025a083c067f752490c1fbd816c93d072"/>
+		<ra_hash>afe51a74c6967711ddd263e3998b7afd</ra_hash>
+		<url>https://retroachievements.org/game/9993/hashes</url>
+	</game>
+
 	<game name="John Romero's Daikatana (Europe) (En,Fr,It)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -2444,13 +2494,13 @@
 		<url>https://retroachievements.org/game/4924/hashes</url>
 	</game>
 
-	<game name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)">
+	<game name="Little Dungeon Renovator (World) (v2.0) (GBCompo2023) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<source>itchio, Lost Level Archive</source>
-		<description>Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)</description>
-		<release name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="262144" crc="D20AB5BD" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e"/>
-		<ra_hash>c93bd5f1928944452cee933dce345f89</ra_hash>
+		<source>itchio</source>
+		<description>Little Dungeon Renovator (World) (v2.0) (GBCompo2023) (Aftermarket) (Unl)</description>
+		<release name="Little Dungeon Renovator (World) (v2.0) (GBCompo2023) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Little Dungeon Renovator (World) (v2.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="524288" crc="F444776C" md5="feaae5f0140035838a00173969d6c012" sha1="0da1ba1120c5cf86387129d543d88cff67136dc9"/>
+		<ra_hash>feaae5f0140035838a00173969d6c012</ra_hash>
 		<url>https://retroachievements.org/game/30882/hashes</url>
 	</game>
 

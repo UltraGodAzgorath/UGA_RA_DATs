@@ -5,12 +5,12 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>829</titlecount>
-		<hashcount>829</hashcount>
+		<titlecount>835</titlecount>
+		<hashcount>835</hashcount>
 	</header>
 
 	<game name="Hack/007 - Goldfinger (Hack) (Various)">
@@ -914,6 +914,15 @@
 		<rom name="Doom 64 (USA).z64" size="8388608" crc="5CC1ADE6" md5="b67748b64a2cc7efd2f3ad4504561e0e" sha1="799a588d73da3fcce8031026a8187da92b91c817"/>
 		<ra_hash>B67748B64A2CC7EFD2F3AD4504561E0E</ra_hash>
 		<url>https://retroachievements.org/game/10080/hashes</url>
+	</game>
+
+	<game name="Hack/Doom 64 - Complete Edition (v1.0) (sylandro)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Doom 64 - Complete Edition (v1.0) (sylandro)</description>
+		<rom name="Doom 64 - Complete Edition (v1.0) (sylandro).z64" size="15859892" crc="1153249E" md5="fe63f970bb7f1d6798878d5835e1026c" sha1="bc90c23c35dc426941e90f76f6c081732cd8a918"/>
+		<ra_hash>fe63f970bb7f1d6798878d5835e1026c</ra_hash>
+		<url>https://retroachievements.org/game/38038/hashes</url>
 	</game>
 
 	<game name="Retail/Doraemon - Nobita to 3tsu no Seireiseki (Japan)">
@@ -1950,6 +1959,55 @@
 		<url>https://retroachievements.org/game/10812/hashes</url>
 	</game>
 
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Ocarina of Time - Reality Estate (v1.3) (Chadlight, Corrhaid, Jinnosuke)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Ocarina of Time - Reality Estate (v1.3) (Chadlight, Corrhaid, Jinnosuke)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time - Reality Estate (v1.3) (Chadlight, Corrhaid, Jinnosuke).z64" size="24223744" crc="CC214350" md5="fc3135cff82ef17854c7c42133b71f00" sha1="348eb050c87989b3182be1508c6b8fb25c8971c4"/>
+		<ra_hash>fc3135cff82ef17854c7c42133b71f00</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack)</description>
+		<rom name="Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack).z64" size="57348096" crc="837829D1" md5="04deca5e128eeef38a8cf100d8cdbb79" sha1="78b0479cee802477b0ba42dd5986e8337849892f"/>
+		<ra_hash>04deca5e128eeef38a8cf100d8cdbb79</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania)</description>
+		<rom name="Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania).z64" size="56999936" crc="0F69BB25" md5="e01e7afe6e6edc60bdc755ad4dfb717e" sha1="acf8df1634853c743cc56c95ae82ea73ed7170bb"/>
+		<ra_hash>e01e7afe6e6edc60bdc755ad4dfb717e</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc)</description>
+		<rom name="Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc).z64" size="33554432" crc="06A5D352" md5="4e76858409fe32bca0e9fccc4f7bd4e1" sha1="fb6cb45e5c630bfa2db068d29f4264fe3d1b1684"/>
+		<ra_hash>4e76858409fe32bca0e9fccc4f7bd4e1</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight)</description>
+		<rom name="Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight).z64" size="24223744" crc="DDD22369" md5="e5c3c8477abb0901915f52a3f41eaf3d" sha1="aee31fcff0cf192920c44165b3923acf3b477c76"/>
+		<ra_hash>e5c3c8477abb0901915f52a3f41eaf3d</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure)</description>
+		<rom name="Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure).z64" size="27885568" crc="64B14E9D" md5="680480a85e2985ed609d6dde913a2506" sha1="76a7642963c809f1fca31018a708807aaffad224"/>
+		<ra_hash>680480a85e2985ed609d6dde913a2506</ra_hash>
+		<url>https://retroachievements.org/game/34498/hashes</url>
+	</game>
+
 	<game name="Hack/Legend of Zelda, The - Ocarina of Time - Sands of Time (v1.22) (debugLog00)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
@@ -2101,47 +2159,6 @@
 		<url>https://retroachievements.org/game/16558/hashes</url>
 	</game>
 
-	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack)</description>
-		<rom name="Legend of Zelda, The - Romhack Jam 1 - Barjack's Merda (Barjack).z64" size="57348096" crc="837829D1" md5="04deca5e128eeef38a8cf100d8cdbb79" sha1="78b0479cee802477b0ba42dd5986e8337849892f"/>
-		<ra_hash>04deca5e128eeef38a8cf100d8cdbb79</ra_hash>
-		<url>https://retroachievements.org/game/34498/hashes</url>
-	</game>
-	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania)</description>
-		<rom name="Legend of Zelda, The - Romhack Jam 1 - Halflight Shrine (PlushimaTitania).z64" size="56999936" crc="0F69BB25" md5="e01e7afe6e6edc60bdc755ad4dfb717e" sha1="acf8df1634853c743cc56c95ae82ea73ed7170bb"/>
-		<ra_hash>e01e7afe6e6edc60bdc755ad4dfb717e</ra_hash>
-		<url>https://retroachievements.org/game/34498/hashes</url>
-	</game>
-	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc)</description>
-		<rom name="Legend of Zelda, The - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc).z64" size="33554432" crc="06A5D352" md5="4e76858409fe32bca0e9fccc4f7bd4e1" sha1="fb6cb45e5c630bfa2db068d29f4264fe3d1b1684"/>
-		<ra_hash>4e76858409fe32bca0e9fccc4f7bd4e1</ra_hash>
-		<url>https://retroachievements.org/game/34498/hashes</url>
-	</game>
-	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight)</description>
-		<rom name="Legend of Zelda, The - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight).z64" size="24223744" crc="DDD22369" md5="e5c3c8477abb0901915f52a3f41eaf3d" sha1="aee31fcff0cf192920c44165b3923acf3b477c76"/>
-		<ra_hash>e5c3c8477abb0901915f52a3f41eaf3d</ra_hash>
-		<url>https://retroachievements.org/game/34498/hashes</url>
-	</game>
-	<game name="Hack/The Legend of Zelda - Hylian Modding Hack Competition - Romhack Jam 1/Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure)</description>
-		<rom name="Legend of Zelda, The - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure).z64" size="27885568" crc="64B14E9D" md5="680480a85e2985ed609d6dde913a2506" sha1="76a7642963c809f1fca31018a708807aaffad224"/>
-		<ra_hash>680480a85e2985ed609d6dde913a2506</ra_hash>
-		<url>https://retroachievements.org/game/34498/hashes</url>
-	</game>
-
 	<game name="Hack/Legend of Zelda, The - Sacred Armor - Project Izou (Demo) (Team Izou)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
@@ -2272,6 +2289,23 @@
 		<rom name="Magical Tetris Challenge (USA).z64" size="16777216" crc="22FE979C" md5="79fcc98002d1f4c79deaf55784222df8" sha1="ca3fbd17406031a88e04bb79959d851550b641d0"/>
 		<ra_hash>79FCC98002D1F4C79DEAF55784222DF8</ra_hash>
 		<url>https://retroachievements.org/game/10871/hashes</url>
+	</game>
+
+	<game name="Retail/Mario Artist - Paint Studio (64DD)/Mario Artist - Paint Studio (Japan)">
+		<category>Nintendo 64DD</category>
+		<source>No-Intro</source>
+		<description>Mario Artist - Paint Studio (Japan)</description>
+		<rom name="Mario Artist - Paint Studio (Japan).ndd" size="64931840" crc="B732C3AD" md5="8485643e5830cd67ed4c0a5fd49e2491" sha1="9997e6f118c72f265eb648f18faa48c3a416fb3b"/>
+		<ra_hash>8485643e5830cd67ed4c0a5fd49e2491</ra_hash>
+		<url>https://retroachievements.org/game/15381/hashes</url>
+	</game>
+	<game name="Retail/Mario Artist - Paint Studio (64DD)/Mario Artist - Paint Studio (Japan) (En) (v2.1) (LuigiBlood)">
+		<category>Nintendo 64DD</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Mario Artist - Paint Studio (Japan) (En) (v2.1) (LuigiBlood)</description>
+		<rom name="Mario Artist - Paint Studio (Japan) (En) (v2.1) (LuigiBlood).ndd" size="64931840" crc="EC7A7CB2" md5="b17771664daf95d7e61d8549a8ceacc6" sha1="880aa7eff47931d44a3d2121ae65ad72876f23e9"/>
+		<ra_hash>b17771664daf95d7e61d8549a8ceacc6</ra_hash>
+		<url>https://retroachievements.org/game/15381/hashes</url>
 	</game>
 
 	<game name="Retail/Mario Golf (USA)">
@@ -2952,13 +2986,13 @@
 		<url>https://retroachievements.org/game/10256/hashes</url>
 	</game>
 
-	<game name="Subset/Mischief Makers (Subset - S-Ranks)">
+	<game name="Retail/Milo's Astro Lanes (USA)">
 		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Mischief Makers (Subset - S-Ranks)</description>
-		<rom name="Mischief Makers (Subset - S-Ranks).z64" size="8388608" crc="7EEA3D39" md5="77a4c1d1ac07dff122e8802e7d210725" sha1="c70979ae9e3c116926c33cc7d97b16c4ce751e5e"/>
-		<ra_hash>77a4c1d1ac07dff122e8802e7d210725</ra_hash>
-		<url>https://retroachievements.org/game/33042/hashes</url>
+		<source>No-Intro</source>
+		<description>Milo's Astro Lanes (USA)</description>
+		<rom name="Milo's Astro Lanes (USA).z64" size="4194304" crc="172FCA97" md5="4f256146bac4a3dde5ad0d5f9c909251" sha1="7a0246e367ff84b46c0bec9a6b760d3b67b13041"/>
+		<ra_hash>4f256146bac4a3dde5ad0d5f9c909251</ra_hash>
+		<url>https://retroachievements.org/game/10485/hashes</url>
 	</game>
 
 	<game name="Retail/Mischief Makers (USA)">
@@ -4488,6 +4522,15 @@
 		<url>https://retroachievements.org/game/16760/hashes</url>
 	</game>
 
+	<game name="Hack/SM64 - Any Other Color (v1.1) (usernamesarespiders)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, rhdc, RAPatches</source>
+		<description>SM64 - Any Other Color (v1.1) (usernamesarespiders)</description>
+		<rom name="SM64 - Any Other Color (v1.1) (usernamesarespiders).z64" size="67108864" crc="6333ECD2" md5="1ab34e5f27c3fda7b190f10ed23dc684" sha1="ef0b0cd14cc6377681ab3a3bee98772ab5957d13"/>
+		<ra_hash>1ab34e5f27c3fda7b190f10ed23dc684</ra_hash>
+		<url>https://retroachievements.org/game/38905/hashes</url>
+	</game>
+
 	<game name="Hack/SM64 - Apocalypse 2021 (v1.6) (Lincrash, Loudermonkeyboy)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
@@ -5045,6 +5088,15 @@
 		<url>https://retroachievements.org/game/24007/hashes</url>
 	</game>
 
+	<game name="Hack/SM64 - Nightshift at the Beta Museum (v1.1) (rovertronic)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches, rhdc</source>
+		<description>SM64 - Nightshift at the Beta Museum (v1.1) (rovertronic)</description>
+		<rom name="SM64 - Nightshift at the Beta Museum (v1.1) (rovertronic).z64" size="16711696" crc="F692DCE2" md5="dee1b8da62561daed3049e59cd7d019a" sha1="cc31a1d7b74e06c0c4f0025ac230435c8a288e5d"/>
+		<ra_hash>dee1b8da62561daed3049e59cd7d019a</ra_hash>
+		<url>https://retroachievements.org/game/34453/hashes</url>
+	</game>
+
 	<game name="Hack/SM64 - Octagon (v1.0) (Caasje)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, rhdc, RAPatches</source>
@@ -5436,6 +5488,23 @@
 		<rom name="SM64 - Star Revenge 3.9 (v2.0) (BroDute).z64" size="67108864" crc="2D0F89C5" md5="c1dc9bf83649030d9123448a2001bd10" sha1="fb21d6a0ddb913de4006521076cb3ac691b86116"/>
 		<ra_hash>c1dc9bf83649030d9123448a2001bd10</ra_hash>
 		<url>https://retroachievements.org/game/17504/hashes</url>
+	</game>
+
+	<game name="Hack/Star Revenge 4 - The Kedama Takeover/SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute)">
+		<category>Nintendo 64</category>
+		<source>No-Intro</source>
+		<description>SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute)</description>
+		<rom name="SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute).z64" size="67108864" crc="67DB09C7" md5="e93e6c75a5e3f58dc59e94825a65f72e" sha1="d196f497c6a44254a358cea5181ab0bec8c70ecb"/>
+		<ra_hash>e93e6c75a5e3f58dc59e94825a65f72e</ra_hash>
+		<url>https://retroachievements.org/game/17503/hashes</url>
+	</game>
+	<game name="Hack/Star Revenge 4 - The Kedama Takeover/SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute)">
+		<category>Nintendo 64</category>
+		<source>No-Intro</source>
+		<description>SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute)</description>
+		<rom name="SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute).z64" size="67108864" crc="8601B33E" md5="25f2ad2da5d07b05c7bbdbea2b902056" sha1="4343a90c23379549cfe71822361b833ba0d2be6a"/>
+		<ra_hash>25f2ad2da5d07b05c7bbdbea2b902056</ra_hash>
+		<url>https://retroachievements.org/game/17503/hashes</url>
 	</game>
 
 	<game name="Hack/SM64 - Star Revenge 4.5 (v1.3) (BroDute)">
@@ -6421,15 +6490,6 @@
 		<url>https://retroachievements.org/game/14337/hashes</url>
 	</game>
 
-	<game name="Subset/Super Mario 64 (Challenge Subset - Speedrun Showcase)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Super Mario 64 (Challenge Subset - Speedrun Showcase)</description>
-		<rom name="Super Mario 64 (Challenge Subset - Speedrun Showcase).z64" size="8388608" crc="6A0DAB6E" md5="039c3361ae8556e3151cb49b2ed18114" sha1="ac939e67656a64714a6911fb5a6537734c7633a6"/>
-		<ra_hash>039c3361ae8556e3151cb49b2ed18114</ra_hash>
-		<url>https://retroachievements.org/game/25863/hashes</url>
-	</game>
-
 	<game name="Subset/Super Mario 64 (Specialty Subset - Lazy Lakitu)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
@@ -6502,15 +6562,6 @@
 		<rom name="Super Mario 64 (USA) (Super Waluigi 64) (1.1).z64" size="25165824" crc="BD2FF682" md5="2a99df604b735dbaaa8432a630748f2b" sha1="03f46245e314a5aef29960f76b61d4a69e620d0a"/>
 		<ra_hash>2A99DF604B735DBAAA8432A630748F2B</ra_hash>
 		<url>https://retroachievements.org/game/10003/hashes</url>
-	</game>
-
-	<game name="Subset/Super Mario 64 (USA) (Challenge Subset - A Button Challenge)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Super Mario 64 (USA) (Challenge Subset - A Button Challenge)</description>
-		<rom name="Super Mario 64 (USA) (Challenge Subset - A Button Challenge).z64" size="8388608" crc="4BE1379F" md5="50dab78045aa04b95adb97f4648d61b0" sha1="e8848c53498569132026c5862e368ae08f718513"/>
-		<ra_hash>50dab78045aa04b95adb97f4648d61b0</ra_hash>
-		<url>https://retroachievements.org/game/34390/hashes</url>
 	</game>
 
 	<game name="Hack/Super Melee Adventure 64/Super Mario 64 - (Hack - Melee Adventure 64 - Captain Falcon)">

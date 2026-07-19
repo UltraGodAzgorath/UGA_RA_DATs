@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation Portable</name>
 		<description>Sony PlayStation Portable</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/41-playstation-portable/games</url>
-		<titlecount>343</titlecount>
-		<hashcount>433</hashcount>
+		<titlecount>344</titlecount>
+		<hashcount>434</hashcount>
 	</header>
 
 	<machine name=".hack--Link (Japan) (En)">
@@ -1574,6 +1574,16 @@
 		<disk name="Geometry Dash (v1.0.1) (Yerson Games).chd" sha1="4acce257310f4b9c91ce8fc2c9f49d8f094f357a"/>
 		<ra_hash>4a04ee0c551b721145a8b72c6e16f67a</ra_hash>
 		<url>https://retroachievements.org/game/27302/hashes</url>
+	</machine>
+
+	<machine name="Ghost in the Shell - Stand Alone Complex (Europe)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Ghost in the Shell - Stand Alone Complex (Europe)</description>
+		<release name="Ghost in the Shell - Stand Alone Complex (Europe)" region="Europe"/>
+		<disk name="Ghost in the Shell - Stand Alone Complex (Europe).chd" sha1="dce903433772373d8a4dba8e7fee3e67733be3cc"/>
+		<ra_hash>a16a4ff2f3e7b84bf68acde36a0ca1f7</ra_hash>
+		<url>https://retroachievements.org/game/2812/hashes</url>
 	</machine>
 
 	<machine name="Gitaroo Man Lives! (Europe) (En,Fr,De)">
@@ -4111,6 +4121,15 @@
 		<ra_hash>e6032bad99947ccf3eca97daf42984ca</ra_hash>
 		<url>https://retroachievements.org/game/18072/hashes</url>
 	</machine>
+	<machine name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)" cloneof="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude)">
+		<category>Retail</category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)</description>
+		<release name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)" region="Russia"/>
+		<disk name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe).chd" sha1="daf7f8c71371b42843637da18f3bfeb3ddca8a56"/>
+		<ra_hash>b6401386d2dd258e54e83cd0512f00db</ra_hash>
+		<url>https://retroachievements.org/game/18072/hashes</url>
+	</machine>
 
 	<machine name="Super Stardust Portable (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (PSP) (PSN)">
 		<category>Retail</category>
@@ -4200,16 +4219,6 @@
 		<disk name="Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It).chd" sha1="ee11cdbea31fabbc20b8c71e265ff20754dc3443"/>
 		<ra_hash>685ee65a12d5a845235d6de6c359f88d</ra_hash>
 		<url>https://retroachievements.org/game/3203/hashes</url>
-	</machine>
-
-	<machine name="Tekken - Dark Resurrection (Subset - Divine Fist)">
-		<category>Subset</category>
-		<source>Redump, RAPatches</source>
-		<description>Tekken - Dark Resurrection (Subset - Divine Fist)</description>
-		<release name="Tekken - Dark Resurrection (Subset - Divine Fist)" region="World"/>
-		<disk name="Tekken - Dark Resurrection (Subset - Divine Fist).chd" sha1="b86327933cd37a222ccd963b050d2bee61150a06"/>
-		<ra_hash>2b5e241cc87c5773098d90ac85e21fbd</ra_hash>
-		<url>https://retroachievements.org/game/21543/hashes</url>
 	</machine>
 
 	<machine name="Tekken 6 (Europe) (En,Ja,Fr,De,Es,It,Ko,Ru)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Famicom Disk System</name>
 		<description>Nintendo Famicom Disk System</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/81-famicom-disk-system/games</url>
 		<titlecount>56</titlecount>
@@ -89,11 +89,11 @@
 		<url>https://retroachievements.org/game/5968/hashes</url>
 	</game>
 
-	<game name="Retail/All Night Nippon Super Mario Bros. (Japan) (Promo)">
+	<game name="Retail/All Night Nippon Super Mario Bros. (Japan) (En) (Promo)">
 		<category></category>
 		<source>No-Intro</source>
-		<description>All Night Nippon Super Mario Bros. (Japan) (Promo)</description>
-		<rom name="All Night Nippon Super Mario Bros. (Japan) (Promo).fds" size="65500" crc="43E7FE95" md5="c8719692d0b9d9649492ffb1c2d26aa3" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4"/>
+		<description>All Night Nippon Super Mario Bros. (Japan) (En) (Promo)</description>
+		<rom name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo).fds" size="65500" crc="43E7FE95" md5="c8719692d0b9d9649492ffb1c2d26aa3" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4"/>
 		<ra_hash>c8719692d0b9d9649492ffb1c2d26aa3</ra_hash>
 		<url>https://retroachievements.org/game/12852/hashes</url>
 	</game>
@@ -150,7 +150,7 @@
 
 	<game name="Retail/Dead Zone (Japan) (En) (v1.0) (Star Crusaders)">
 		<category></category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>Dead Zone (Japan) (En) (v1.0) (Star Crusaders)</description>
 		<rom name="Dead Zone (Japan) (En) (v1.0) (Star Crusaders).fds" size="131000" crc="1BF2409A" md5="e16cdd604ed133405c3c48dc4f6453d6" sha1="70a1278a22e084759c33dfd2b85268d1ed96f87d"/>
 		<ra_hash>e16cdd604ed133405c3c48dc4f6453d6</ra_hash>

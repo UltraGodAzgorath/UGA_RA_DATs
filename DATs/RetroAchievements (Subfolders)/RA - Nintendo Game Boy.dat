@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>728</titlecount>
-		<hashcount>728</hashcount>
+		<titlecount>736</titlecount>
+		<hashcount>736</hashcount>
 	</header>
 
 	<game name="Homebrew/204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -323,15 +323,6 @@
 		<rom name="Amida (Japan).gb" size="32768" crc="60128AA8" md5="9642b7c599b47135cbd4e45e039d608d" sha1="2b502583aa73cb72557589791dec7e28a2d29969"/>
 		<ra_hash>9642b7c599b47135cbd4e45e039d608d</ra_hash>
 		<url>https://retroachievements.org/game/7421/hashes</url>
-	</game>
-
-	<game name="Retail/Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced)">
-		<category></category>
-		<source>No-Intro</source>
-		<description>Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced)</description>
-		<rom name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced).gb" size="131072" crc="8259AC54" md5="25ec0916ff6f24a1878a9f30991d301d" sha1="a4849175191c44d878aff9ef1a86c3fe5e22e266"/>
-		<ra_hash>25ec0916ff6f24a1878a9f30991d301d</ra_hash>
-		<url>https://retroachievements.org/game/7821/hashes</url>
 	</game>
 
 	<game name="Retail/Arcade Classic No. 3 - Galaga &amp; Galaxian/Arcade Classic No. 3 - Galaga &amp; Galaxian (DX) (v1.1) (MojoDodo)">
@@ -1489,6 +1480,15 @@
 		<url>https://retroachievements.org/game/695/hashes</url>
 	</game>
 
+	<game name="Retail/Doraemon Kart (Japan) (SGB Enhanced)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Doraemon Kart (Japan) (SGB Enhanced)</description>
+		<rom name="Doraemon Kart (Japan) (SGB Enhanced).gb" size="262144" crc="DD4E588F" md5="20b436fc3c9621eb4ee82bc3ef3687fb" sha1="f19734b2cb19de0be2d9e80297f567806ce4cad5"/>
+		<ra_hash>20b436fc3c9621eb4ee82bc3ef3687fb</ra_hash>
+		<url>https://retroachievements.org/game/8319/hashes</url>
+	</game>
+
 	<game name="Retail/Double Dragon/Double Dragon (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1764,12 +1764,20 @@
 		<url>https://retroachievements.org/game/700/hashes</url>
 	</game>
 
-	<game name="Retail/Final Fantasy Adventure (USA)">
+	<game name="Retail/Final Fantasy Adventure/Final Fantasy Adventure (USA)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Final Fantasy Adventure (USA)</description>
 		<rom name="Final Fantasy Adventure (USA).gb" size="262144" crc="18C78B3A" md5="24cd3bdf490ef2e1aa6a8af380eccd78" sha1="8b93c55ee2660c60cf86dd70058f96ace98782c8"/>
 		<ra_hash>24cd3bdf490ef2e1aa6a8af380eccd78</ra_hash>
+		<url>https://retroachievements.org/game/2403/hashes</url>
+	</game>
+	<game name="Retail/Final Fantasy Adventure/Final Fantasy Adventure (USA) (Final Fantasy Adventure DX) (v1.01) (korxo)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Final Fantasy Adventure (USA) (Final Fantasy Adventure DX) (v1.01) (korxo)</description>
+		<rom name="Final Fantasy Adventure (USA) (Final Fantasy Adventure DX) (v1.01) (korxo).gb" size="1048576" crc="84E073F8" md5="17f81a2f027eb006aebea338b82ef918" sha1="1ef57a4e566ad2339ed0a66389f838752df9c071"/>
+		<ra_hash>17f81a2f027eb006aebea338b82ef918</ra_hash>
 		<url>https://retroachievements.org/game/2403/hashes</url>
 	</game>
 
@@ -3230,6 +3238,14 @@
 		<ra_hash>bfdf3a907cd192aeb3ecfbe4e5b69b33</ra_hash>
 		<url>https://retroachievements.org/game/5023/hashes</url>
 	</game>
+	<game name="Retail/Mega Man III/Mega Man III - Mega Man World 3 DX (v1.2b) (marc_max)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Mega Man III - Mega Man World 3 DX (v1.2b) (marc_max)</description>
+		<rom name="Mega Man III - Mega Man World 3 DX (v1.2b) (marc_max).gb" size="1048576" crc="A1BC2B29" md5="56a36bd3520bcf5eeb5d6f879be44c1f" sha1="973ad6ee2656c91a18a80f90bcefa662200c4edd"/>
+		<ra_hash>56a36bd3520bcf5eeb5d6f879be44c1f</ra_hash>
+		<url>https://retroachievements.org/game/5023/hashes</url>
+	</game>
 	<game name="Retail/Mega Man III/Rockman World 3 (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -3288,12 +3304,12 @@
 		<ra_hash>ceb17d831b410d91aa41bf2819cbed82</ra_hash>
 		<url>https://retroachievements.org/game/2255/hashes</url>
 	</game>
-	<game name="Retail/Mega Man V/Mega Man V (USA) - World 5 DX (v1.0) (marc_max)">
+	<game name="Retail/Mega Man V/Mega Man V (USA) - World 5 DX (v1.6.2) (marc_max)">
 		<category></category>
-		<source>No-Intro, RAPatches</source>
-		<description>Mega Man V (USA) - World 5 DX (v1.0) (marc_max)</description>
-		<rom name="Mega Man V (USA) - World 5 DX (v1.0) (marc_max).gb" size="1048576" crc="84306317" md5="b98ce4d1606c2fd533557b3cd16de789" sha1="ab232610b51d6b2251b1255e0d2e240433c9ea65"/>
-		<ra_hash>b98ce4d1606c2fd533557b3cd16de789</ra_hash>
+		<source>No-Intro</source>
+		<description>Mega Man V (USA) - World 5 DX (v1.6.2) (marc_max)</description>
+		<rom name="Mega Man V (USA) - World 5 DX (v1.6.2) (marc_max).gb" size="1048576" crc="D18B7A0C" md5="3337431936a2fab939142b4d32a01f82" sha1="8019af38b74a639727de44f529ffd8e4deb9aeac"/>
+		<ra_hash>3337431936a2fab939142b4d32a01f82</ra_hash>
 		<url>https://retroachievements.org/game/2255/hashes</url>
 	</game>
 	<game name="Retail/Mega Man V/Rockman World 5 (Japan) (SGB Enhanced)">
@@ -4412,6 +4428,14 @@
 		<ra_hash>3d78ba61d68f59bd23727fc2c402fa7b</ra_hash>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 	</game>
+	<game name="Hack/Pokémon PureRGB/Pokemon Blue - PureBlue (v2.7.4) (Vortyne)">
+		<category></category>
+		<source>No-Intro, RAPatches, github</source>
+		<description>Pokemon Blue - PureBlue (v2.7.4) (Vortyne)</description>
+		<rom name="Pokemon Blue - PureBlue (v2.7.4) (Vortyne).gb" size="1048576" crc="D604A5ED" md5="3883544ce3f7043201d0a2c905c8534b" sha1="1d711ecde6f1a9182ddadb5b04f57d4af72cd8f6"/>
+		<ra_hash>3883544ce3f7043201d0a2c905c8534b</ra_hash>
+		<url>https://retroachievements.org/game/32009/hashes</url>
+	</game>
 	<game name="Hack/Pokémon PureRGB/Pokemon Blue - PureGreen (v2.6.2) (Vortyne)">
 		<category></category>
 		<source>No-Intro, RAPatches, github</source>
@@ -4436,6 +4460,14 @@
 		<ra_hash>fb81050af0248b3f451944eb52fb9a14</ra_hash>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 	</game>
+	<game name="Hack/Pokémon PureRGB/Pokemon Blue - PureGreen (v2.7.4) (Vortyne)">
+		<category></category>
+		<source>No-Intro, RAPatches, github</source>
+		<description>Pokemon Blue - PureGreen (v2.7.4) (Vortyne)</description>
+		<rom name="Pokemon Blue - PureGreen (v2.7.4) (Vortyne).gb" size="1048576" crc="8CFCDBC9" md5="d9c5624053d9927b253361cf2abc6914" sha1="83d7092b5c8bbac9e642c83ffcc56c09db109d67"/>
+		<ra_hash>d9c5624053d9927b253361cf2abc6914</ra_hash>
+		<url>https://retroachievements.org/game/32009/hashes</url>
+	</game>
 	<game name="Hack/Pokémon PureRGB/Pokemon Red - PureRed (v2.6.2) (Vortyne)">
 		<category></category>
 		<source>No-Intro, RAPatches, github</source>
@@ -4458,6 +4490,14 @@
 		<description>Pokemon Red - PureRed (v2.6.4) (Vortiene)</description>
 		<rom name="Pokemon Red - PureRed (v2.6.4) (Vortiene).gb" size="1048576" crc="C9EAEF84" md5="3abfdb86bde17c9cc50d1b1b295de8e7" sha1="e758448695d16675baac59a33bf616e022899661"/>
 		<ra_hash>3abfdb86bde17c9cc50d1b1b295de8e7</ra_hash>
+		<url>https://retroachievements.org/game/32009/hashes</url>
+	</game>
+	<game name="Hack/Pokémon PureRGB/Pokemon Red - PureRed (v2.7.4) (Vortyne)">
+		<category></category>
+		<source>No-Intro, RAPatches, github</source>
+		<description>Pokemon Red - PureRed (v2.7.4) (Vortyne)</description>
+		<rom name="Pokemon Red - PureRed (v2.7.4) (Vortyne).gb" size="1048576" crc="3D3F8231" md5="77704ca2ac89c1630ea87cd2ffe4533e" sha1="ff7fba0242c879469fb3ec2170e07949bd060cd6"/>
+		<ra_hash>77704ca2ac89c1630ea87cd2ffe4533e</ra_hash>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 	</game>
 
@@ -4852,29 +4892,29 @@
 		<url>https://retroachievements.org/game/2563/hashes</url>
 	</game>
 
-	<game name="Subset/Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (tehtmi) (Specialty Subset - Monotype Party)">
+	<game name="Subset/Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (Lightning Hunter) (Specialty Subset - Monotype Party)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
-		<description>Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (tehtmi) (Specialty Subset - Monotype Party)</description>
-		<rom name="Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (tehtmi) (Specialty Subset - Monotype Party).gb" size="524288" crc="643F3E9D" md5="a823a2677138ddef0e13eea955a393ce" sha1="baa21c68e8d7397dac4b3ec25cd087191f700547"/>
+		<description>Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (Lightning Hunter) (Specialty Subset - Monotype Party)</description>
+		<rom name="Sa-Ga 2 - A Haniwas Conteingency (Monotype) (v1.02) (Lightning Hunter) (Specialty Subset - Monotype Party).gb" size="524288" crc="643F3E9D" md5="a823a2677138ddef0e13eea955a393ce" sha1="baa21c68e8d7397dac4b3ec25cd087191f700547"/>
 		<ra_hash>a823a2677138ddef0e13eea955a393ce</ra_hash>
 		<url>https://retroachievements.org/game/34304/hashes</url>
 	</game>
 
-	<game name="Hack/Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi)">
+	<game name="Hack/Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (Lightning Hunter)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
-		<description>Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi)</description>
-		<rom name="Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi).gb" size="524288" crc="D45DEA39" md5="305b47e934fd8b731f79403e16c13691" sha1="659921b620887eb4ad303a40aed362028c65e04e"/>
+		<description>Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (Lightning Hunter)</description>
+		<rom name="Sa-Ga 2 - A Haniwas Contingency (Average) (v1.02) (Lightning Hunter).gb" size="524288" crc="D45DEA39" md5="305b47e934fd8b731f79403e16c13691" sha1="659921b620887eb4ad303a40aed362028c65e04e"/>
 		<ra_hash>305b47e934fd8b731f79403e16c13691</ra_hash>
 		<url>https://retroachievements.org/game/34094/hashes</url>
 	</game>
 
-	<game name="Subset/Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (tehtmi) (Specialty Subset - Insane Mode)">
+	<game name="Subset/Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (Lightning Hunter) (Specialty Subset - Insane Mode)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
-		<description>Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (tehtmi) (Specialty Subset - Insane Mode)</description>
-		<rom name="Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (tehtmi) (Specialty Subset - Insane Mode).gb" size="524288" crc="C8274F94" md5="470ba1b4ac04fc2e52f874230c024911" sha1="4becd745e8a0cb1783cc54e26e1978ccd151d552"/>
+		<description>Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (Lightning Hunter) (Specialty Subset - Insane Mode)</description>
+		<rom name="Sa-Ga 2 - A Haniwas Contingency (Insane) (v1.02) (Lightning Hunter) (Specialty Subset - Insane Mode).gb" size="524288" crc="C8274F94" md5="470ba1b4ac04fc2e52f874230c024911" sha1="4becd745e8a0cb1783cc54e26e1978ccd151d552"/>
 		<ra_hash>470ba1b4ac04fc2e52f874230c024911</ra_hash>
 		<url>https://retroachievements.org/game/34095/hashes</url>
 	</game>
@@ -5338,6 +5378,15 @@
 		<rom name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation).gb" size="1048576" crc="FAB0B86E" md5="45e9109c358d91c9094d5ce36dd85fc0" sha1="992982e622e5ae8ac3003e99629d1516a4bae93d"/>
 		<ra_hash>45e9109c358d91c9094d5ce36dd85fc0</ra_hash>
 		<url>https://retroachievements.org/game/34028/hashes</url>
+	</game>
+
+	<game name="Retail/Star Wars (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Star Wars (USA)</description>
+		<rom name="Star Wars (USA).gb" size="131072" crc="B01DA1AE" md5="63098fde8f2dcb977c9a8f0389e0d033" sha1="82c4114312efdc86c578e8683941a950fc2bb4c3"/>
+		<ra_hash>63098fde8f2dcb977c9a8f0389e0d033</ra_hash>
+		<url>https://retroachievements.org/game/8327/hashes</url>
 	</game>
 
 	<game name="Retail/Stop That Roach! (USA)">
@@ -5811,6 +5860,15 @@
 		<url>https://retroachievements.org/game/2180/hashes</url>
 	</game>
 
+	<game name="Retail/Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es)</description>
+		<rom name="Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).gb" size="262144" crc="518C2D2F" md5="fe68b048f7f77454f73ddef30c16316f" sha1="8dcecc535909ef9d1b6dac658fa41ddcbb75c208"/>
+		<ra_hash>fe68b048f7f77454f73ddef30c16316f</ra_hash>
+		<url>https://retroachievements.org/game/13955/hashes</url>
+	</game>
+
 	<game name="Retail/Uchuu no Kishi Tekkaman Blade (Japan) (En) (v0.99) (Strag0)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
@@ -6049,7 +6107,7 @@
 		<url>https://retroachievements.org/game/5464/hashes</url>
 	</game>
 
-	<game name="Retail/Wizardry Gaiden 2 - Curse of the Ancient Emperor/Wizardry Gaiden II - Kodai Koutei no Noroi (Japan)">
+	<game name="Retail/Wizardry Gaiden II - Kodai Koutei no Noroi/Wizardry Gaiden II - Kodai Koutei no Noroi (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Wizardry Gaiden II - Kodai Koutei no Noroi (Japan)</description>
@@ -6057,7 +6115,7 @@
 		<ra_hash>177f5fc642f650e45bae33b10ba1fe48</ra_hash>
 		<url>https://retroachievements.org/game/5465/hashes</url>
 	</game>
-	<game name="Retail/Wizardry Gaiden 2 - Curse of the Ancient Emperor/Wizardry Gaiden II - Kodai Koutei no Noroi (Japan) (En) (v1.1) (Tangyi_Chang)">
+	<game name="Retail/Wizardry Gaiden II - Kodai Koutei no Noroi/Wizardry Gaiden II - Kodai Koutei no Noroi (Japan) (En) (v1.1) (Tangyi_Chang)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Wizardry Gaiden II - Kodai Koutei no Noroi (Japan) (En) (v1.1) (Tangyi_Chang)</description>
@@ -6090,6 +6148,15 @@
 		<rom name="Wizards &amp; Warriors X - The Fortress of Fear (USA, Europe).gb" size="65536" crc="104EB503" md5="f9445b104ebb70d8fb91c8c64452c0a4" sha1="22a514056e58263dc08602778bc3bf2c0ca6e681"/>
 		<ra_hash>f9445b104ebb70d8fb91c8c64452c0a4</ra_hash>
 		<url>https://retroachievements.org/game/6983/hashes</url>
+	</game>
+
+	<game name="Retail/World Bowling (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>World Bowling (USA)</description>
+		<rom name="World Bowling (USA).gb" size="32768" crc="896E76A2" md5="e8d2a7833fd082f8cc62277d02e84a30" sha1="f579890b04b33965c009dd3b7300623691ae206a"/>
+		<ra_hash>e8d2a7833fd082f8cc62277d02e84a30</ra_hash>
+		<url>https://retroachievements.org/game/6520/hashes</url>
 	</game>
 
 	<game name="Retail/World Heroes 2 Jet (USA, Europe) (SGB Enhanced)">

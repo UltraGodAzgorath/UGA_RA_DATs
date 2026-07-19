@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/76-pc-engine-cd-turbografx-cd/games</url>
-		<titlecount>80</titlecount>
-		<hashcount>86</hashcount>
+		<titlecount>81</titlecount>
+		<hashcount>87</hashcount>
 	</header>
 
 	<machine name="Advanced V.G. (Japan)">
@@ -334,6 +334,16 @@
 		<disk name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).chd" sha1="1df2de48ec745f63120682b2c39cfe09d9e4928d"/>
 		<ra_hash>ad48889cc1be550f470cb993148a8bfa</ra_hash>
 		<url>https://retroachievements.org/game/28760/hashes</url>
+	</machine>
+
+	<machine name="Garou Densetsu Special (Japan) (FABT)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Garou Densetsu Special (Japan) (FABT)</description>
+		<release name="Garou Densetsu Special (Japan) (FABT)" region="Japan"/>
+		<disk name="Garou Densetsu Special (Japan) (FABT).chd" sha1="8d7bbbcafc3d69498aa770727250dc1f5fff3f38"/>
+		<ra_hash>d18d369af61267c23af45fdf9bce357b</ra_hash>
+		<url>https://retroachievements.org/game/28761/hashes</url>
 	</machine>
 
 	<machine name="Gate of Thunder (Japan) (FACT, FADT)">

@@ -5,12 +5,12 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>Subfolders</category>
-		<version>20260621</version>
-		<date>21 June 2026</date>
+		<version>20260719</version>
+		<date>19 July 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/56-neo-geo-cd/games</url>
-		<titlecount>41</titlecount>
-		<hashcount>43</hashcount>
+		<titlecount>43</titlecount>
+		<hashcount>45</hashcount>
 	</header>
 
 	<machine name="Retail/ADK World (Japan)">
@@ -138,6 +138,15 @@
 		<url>https://retroachievements.org/game/23866/hashes</url>
 	</machine>
 
+	<machine name="Retail/Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)</description>
+		<disk name="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es).chd" sha1="4ab99e94587cce07596cfdd865a3cee87b585a7f"/>
+		<ra_hash>2bf5cf757e37b5b70c0bd5f5d45a99c3</ra_hash>
+		<url>https://retroachievements.org/game/23846/hashes</url>
+	</machine>
+
 	<machine name="Retail/Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)">
 		<category></category>
 		<source>Redump</source>
@@ -145,6 +154,15 @@
 		<disk name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd" sha1="50c76d31533a591454934cd80a28d144a0b321f6"/>
 		<ra_hash>fda4c1804f3ce9723db4ed2ad38ef269</ra_hash>
 		<url>https://retroachievements.org/game/23845/hashes</url>
+	</machine>
+
+	<machine name="Retail/King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1)">
+		<category></category>
+		<source>Redump</source>
+		<description>King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1)</description>
+		<disk name="King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1).chd" sha1="ed9fb78aeab2c8dd3aba7be916d2f68ca10f8860"/>
+		<ra_hash>368cf790c4e4ac725279881e6fca17c7</ra_hash>
+		<url>https://retroachievements.org/game/23870/hashes</url>
 	</machine>
 
 	<machine name="Retail/King of Fighters '97, The (Japan) (En,Ja)">
