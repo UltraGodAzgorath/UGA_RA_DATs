@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1967</titlecount>
-		<hashcount>1967</hashcount>
+		<titlecount>1972</titlecount>
+		<hashcount>1972</hashcount>
 	</header>
 
 	<game name="Retail/10-Yard Fight (USA, Europe)">
@@ -8721,6 +8721,15 @@
 		<url>https://retroachievements.org/game/1800/hashes</url>
 	</game>
 
+	<game name="Homebrew/Lights Out (Mika Haarahiltunen) (v1.0)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Lights Out (Mika Haarahiltunen) (v1.0)</description>
+		<rom name="Lights Out (Mika Haarahiltunen) (v1.0).nes" size="24592" crc="3D4AB74B" md5="f22ddb0ac786ef0ca59e5b87971f495e" sha1="4c8192a1adef7428109531cb60ed9a82c70df85f"/>
+		<ra_hash>00368948f69106dd06977da4e7903a24</ra_hash>
+		<url>https://retroachievements.org/game/41176/hashes</url>
+	</game>
+
 	<game name="Retail/Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl)">
 		<category></category>
 		<source>No-Intro</source>
@@ -8976,6 +8985,15 @@
 		<rom name="M.C. Kids (USA).nes" size="262160" crc="A417E646" md5="46c7809226188bb038459cc0057381b0" sha1="2766870370fef9f77d8e083870a019bf0eb511f5"/>
 		<ra_hash>dcb0189c89afd03faa55fcac485d4029</ra_hash>
 		<url>https://retroachievements.org/game/1810/hashes</url>
+	</game>
+
+	<game name="Retail/M.U.L.E. (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>M.U.L.E. (USA)</description>
+		<rom name="M.U.L.E. (USA).nes" size="131088" crc="40372757" md5="f57f6f7164eb718227fa2526c3637939" sha1="049708fd915e8647c77378cdf3a920904e15eba5"/>
+		<ra_hash>a29f3ded81c9745c2db0997838db788a</ra_hash>
+		<url>https://retroachievements.org/game/1811/hashes</url>
 	</game>
 
 	<game name="Retail/Mach Rider/Mach Rider (Europe)">
@@ -11498,6 +11516,31 @@
 		<rom name="Parallel World (Japan).nes" size="262160" crc="4B376CCA" md5="25e5bae892d5214df671ce3edbe2ab06" sha1="58e0b0f6eddc49f83cda556b2c364bb02fbe8f76"/>
 		<ra_hash>1e4decfbc1f93cfce2dabef81ffa234e</ra_hash>
 		<url>https://retroachievements.org/game/7513/hashes</url>
+	</game>
+
+	<game name="Retail/Paris-Dakar Rally Special/Paris-Dakar Rally Special (En) (v1.02) (MrRichard999)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Paris-Dakar Rally Special (En) (v1.02) (MrRichard999)</description>
+		<rom name="Paris-Dakar Rally Special (En) (v1.02) (MrRichard999).nes" size="163856" crc="46E50EC8" md5="1cd9fa758cd007df338572555736a192" sha1="c7d0630676ed5c4a0735e58d9eb60ab0264fdb64"/>
+		<ra_hash>4e455bfdc991a1e4c4a597eff6b0ded6</ra_hash>
+		<url>https://retroachievements.org/game/7737/hashes</url>
+	</game>
+	<game name="Retail/Paris-Dakar Rally Special/Paris-Dakar Rally Special (Es) (v1.0) (Mr.Nobody)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Paris-Dakar Rally Special (Es) (v1.0) (Mr.Nobody)</description>
+		<rom name="Paris-Dakar Rally Special (Es) (v1.0) (Mr.Nobody).nes" size="163856" crc="9EFF7BFA" md5="58c0903392126ad0ae83a27d6854131d" sha1="b5270eb94a1cd6f51215ec412140e213b3b1c8f6"/>
+		<ra_hash>fc3e650230c93c3540711738d2d2f951</ra_hash>
+		<url>https://retroachievements.org/game/7737/hashes</url>
+	</game>
+	<game name="Retail/Paris-Dakar Rally Special/Paris-Dakar Rally Special (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Paris-Dakar Rally Special (Japan)</description>
+		<rom name="Paris-Dakar Rally Special (Japan).nes" size="163856" crc="EF3A99AF" md5="82dc7e936d8c508a45273fb73a6afc17" sha1="32f73f4190029684b966f97a24f79a11f98adb0f"/>
+		<ra_hash>c62f35a9ad197979c76028fc44a324bb</ra_hash>
+		<url>https://retroachievements.org/game/7737/hashes</url>
 	</game>
 
 	<game name="Retail/Parodius/Parodius (Europe)">

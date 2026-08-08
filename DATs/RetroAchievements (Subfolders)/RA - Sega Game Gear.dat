@@ -5,13 +5,22 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/15-game-gear/games</url>
-		<titlecount>148</titlecount>
-		<hashcount>148</hashcount>
+		<titlecount>193</titlecount>
+		<hashcount>193</hashcount>
 	</header>
+
+	<game name="Retail/Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En)</description>
+		<rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En).gg" size="524288" crc="BB4F23FF" md5="a684cba5f11c4e4e3e6cb71a0d73c702" sha1="50e8726be1b26d066ea9e2e2b5cd7407c356187e"/>
+		<ra_hash>a684cba5f11c4e4e3e6cb71a0d73c702</ra_hash>
+		<url>https://retroachievements.org/game/15637/hashes</url>
+	</game>
 
 	<game name="Retail/Aerial Assault (World)">
 		<category></category>
@@ -57,6 +66,15 @@
 		<url>https://retroachievements.org/game/25387/hashes</url>
 	</game>
 
+	<game name="Retail/Asterix and the Secret Mission (Europe) (En,Fr,De)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Asterix and the Secret Mission (Europe) (En,Fr,De)</description>
+		<rom name="Asterix and the Secret Mission (Europe) (En,Fr,De).gg" size="524288" crc="C01A8051" md5="2fd39f40bb06026f414e0cc9ff549aca" sha1="8ab4ea406a0503b09c1bd89e3217c5735b36ebed"/>
+		<ra_hash>2fd39f40bb06026f414e0cc9ff549aca</ra_hash>
+		<url>https://retroachievements.org/game/24342/hashes</url>
+	</game>
+
 	<game name="Retail/Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)">
 		<category></category>
 		<source>No-Intro</source>
@@ -64,6 +82,15 @@
 		<rom name="Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En).gg" size="262144" crc="663BCF8A" md5="71e87c98e849c71dfd9a21a4a9ff56b4" sha1="9f5bf2973225b8ee337fcec460829724a0c63d9e"/>
 		<ra_hash>71e87c98e849c71dfd9a21a4a9ff56b4</ra_hash>
 		<url>https://retroachievements.org/game/12419/hashes</url>
+	</game>
+
+	<game name="Retail/Baku Baku (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Baku Baku (USA)</description>
+		<rom name="Baku Baku (USA).gg" size="262144" crc="8D8BFDC4" md5="3ff5a4888076e7a5905bc565563c3692" sha1="f4f31d08e17b9936dea621fef9b38e1cd067bef2"/>
+		<ra_hash>3ff5a4888076e7a5905bc565563c3692</ra_hash>
+		<url>https://retroachievements.org/game/12867/hashes</url>
 	</game>
 
 	<game name="Retail/Batman Returns (World)">
@@ -84,6 +111,24 @@
 		<url>https://retroachievements.org/game/28803/hashes</url>
 	</game>
 
+	<game name="Retail/Battletoads (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Battletoads (USA)</description>
+		<rom name="Battletoads (USA).gg" size="262144" crc="817CC0CA" md5="643536bfaf945e8fa8a22de8d4653d83" sha1="f566a19d1cfd5c20d5b91b396f29323be2209911"/>
+		<ra_hash>643536bfaf945e8fa8a22de8d4653d83</ra_hash>
+		<url>https://retroachievements.org/game/14118/hashes</url>
+	</game>
+
+	<game name="Retail/Beavis and Butt-Head (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Beavis and Butt-Head (USA, Europe)</description>
+		<rom name="Beavis and Butt-Head (USA, Europe).gg" size="524288" crc="A6BF865E" md5="116ea358051e46f4829bad566e14b28b" sha1="dd2ea76c05d933b91f1b03140f6a04bf02f746d1"/>
+		<ra_hash>116ea358051e46f4829bad566e14b28b</ra_hash>
+		<url>https://retroachievements.org/game/16477/hashes</url>
+	</game>
+
 	<game name="Retail/Berenstain Bears' Camping Adventure, The (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -91,6 +136,15 @@
 		<rom name="Berenstain Bears' Camping Adventure, The (USA).gg" size="262144" crc="A4BB9FFB" md5="0063255819682649ed682a50a0e8a440" sha1="a35bef59a59df2a6d3dc4b8d3fe2e4cc79464537"/>
 		<ra_hash>0063255819682649ed682a50a0e8a440</ra_hash>
 		<url>https://retroachievements.org/game/12516/hashes</url>
+	</game>
+
+	<game name="Retail/Berlin no Kabe (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Berlin no Kabe (Japan)</description>
+		<rom name="Berlin no Kabe (Japan).gg" size="262144" crc="325B1797" md5="b185db77aa6a448eb9b8c60f1cab8f27" sha1="1d58d3d8b957d33bab8b50ae60dc0c31eafc08af"/>
+		<ra_hash>b185db77aa6a448eb9b8c60f1cab8f27</ra_hash>
+		<url>https://retroachievements.org/game/17327/hashes</url>
 	</game>
 
 	<game name="Retail/Bishoujo Senshi Sailor Moon S/Bishoujo Senshi Sailor Moon S (Japan)">
@@ -128,6 +182,24 @@
 		<url>https://retroachievements.org/game/12659/hashes</url>
 	</game>
 
+	<game name="Retail/Captain America and the Avengers (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Captain America and the Avengers (USA)</description>
+		<rom name="Captain America and the Avengers (USA).gg" size="262144" crc="5675DFDD" md5="dfb20211ef127b605849abfd85300afc" sha1="4b859174d57cc4a5a575f8aa9547a83d08e6c117"/>
+		<ra_hash>dfb20211ef127b605849abfd85300afc</ra_hash>
+		<url>https://retroachievements.org/game/14286/hashes</url>
+	</game>
+
+	<game name="Retail/Car Licence (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Car Licence (Japan)</description>
+		<rom name="Car Licence (Japan).gg" size="524288" crc="F6A697F8" md5="93ee0c56d725daa0a79dce458ff54e5e" sha1="0cf691dba7080a1f8d4a181563948b188115ec89"/>
+		<ra_hash>93ee0c56d725daa0a79dce458ff54e5e</ra_hash>
+		<url>https://retroachievements.org/game/31786/hashes</url>
+	</game>
+
 	<game name="Retail/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)">
 		<category></category>
 		<source>No-Intro</source>
@@ -144,6 +216,15 @@
 		<rom name="Cave Dude (USA) (Proto).gg" size="262144" crc="CC521975" md5="933770b934e2f4eb2b6e3918f0955d40" sha1="f009d56f5a47068b991f44742c836ba2374f84a2"/>
 		<ra_hash>933770b934e2f4eb2b6e3918f0955d40</ra_hash>
 		<url>https://retroachievements.org/game/20603/hashes</url>
+	</game>
+
+	<game name="Retail/Chessmaster, The (USA, Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Chessmaster, The (USA, Europe, Brazil) (En)</description>
+		<rom name="Chessmaster, The (USA, Europe, Brazil) (En).gg" size="131072" crc="DA811BA6" md5="b24d5c5548acb3b35aaf02802b3bb7d5" sha1="daea9a76dedc080b9965cfa32e2ddb1eaaaab0b4"/>
+		<ra_hash>b24d5c5548acb3b35aaf02802b3bb7d5</ra_hash>
+		<url>https://retroachievements.org/game/32601/hashes</url>
 	</game>
 
 	<game name="Retail/Chuck Rock (World)">
@@ -181,6 +262,15 @@
 		<url>https://retroachievements.org/game/12915/hashes</url>
 	</game>
 
+	<game name="Retail/Cool Spot (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Cool Spot (USA)</description>
+		<rom name="Cool Spot (USA).gg" size="262144" crc="2C758FC8" md5="7f55c7e4696a9ad316e57c3f14a77f39" sha1="c5f39a81c33327dc86b41d6f416efe09b131e14d"/>
+		<ra_hash>7f55c7e4696a9ad316e57c3f14a77f39</ra_hash>
+		<url>https://retroachievements.org/game/12980/hashes</url>
+	</game>
+
 	<game name="Retail/Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan) (En) (v1.0) (Psyklax)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
@@ -208,6 +298,33 @@
 		<url>https://retroachievements.org/game/11711/hashes</url>
 	</game>
 
+	<game name="Retail/CutThroat Island (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>CutThroat Island (USA)</description>
+		<rom name="CutThroat Island (USA).gg" size="524288" crc="6A24E47E" md5="ab8c20389abe4ee0026d63b9294bfcc0" sha1="95d2012c4027228fda50ef434b53ae5633a7eb8c"/>
+		<ra_hash>ab8c20389abe4ee0026d63b9294bfcc0</ra_hash>
+		<url>https://retroachievements.org/game/31789/hashes</url>
+	</game>
+
+	<game name="Retail/Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)</description>
+		<rom name="Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).gg" size="524288" crc="AAE268FC" md5="1b079ded7729472b4f4039612c3112f2" sha1="2d058f3885bee45b04b74cbe16f3974d4eb2bfcf"/>
+		<ra_hash>1b079ded7729472b4f4039612c3112f2</ra_hash>
+		<url>https://retroachievements.org/game/17379/hashes</url>
+	</game>
+
+	<game name="Retail/Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En)</description>
+		<rom name="Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En).gg" size="524288" crc="5A136D7E" md5="cd792cf0d4e8ebb6f77a906ac0744b66" sha1="24485549001bc57b5cffee1449ad0af80e862773"/>
+		<ra_hash>cd792cf0d4e8ebb6f77a906ac0744b66</ra_hash>
+		<url>https://retroachievements.org/game/12628/hashes</url>
+	</game>
+
 	<game name="Retail/Defenders of Oasis (USA, Europe)">
 		<category></category>
 		<source>No-Intro</source>
@@ -215,6 +332,15 @@
 		<rom name="Defenders of Oasis (USA, Europe).gg" size="524288" crc="E2791CC1" md5="8430050c60db46b3887cf7d7cf2f206f" sha1="07c1167c3b6eea294a73272c256934406f48f9d5"/>
 		<ra_hash>8430050c60db46b3887cf7d7cf2f206f</ra_hash>
 		<url>https://retroachievements.org/game/11713/hashes</url>
+	</game>
+
+	<game name="Retail/Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En)</description>
+		<rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En).gg" size="262144" crc="C2E111AC" md5="5c6c0fd3d95f74b03d084dded29c6bcb" sha1="6b88fb212f0556ea57e01a3a1cd5123db5631e28"/>
+		<ra_hash>5c6c0fd3d95f74b03d084dded29c6bcb</ra_hash>
+		<url>https://retroachievements.org/game/26222/hashes</url>
 	</game>
 
 	<game name="Retail/Devilish (USA)">
@@ -233,6 +359,15 @@
 		<rom name="Donald no Magical World (Japan) (En,Ja).gg" size="524288" crc="87B8B612" md5="34e9b284e61fb9a2cad4878451579295" sha1="5f9afdd5720f88f7cc18715f8e50fc5635b15323"/>
 		<ra_hash>34e9b284e61fb9a2cad4878451579295</ra_hash>
 		<url>https://retroachievements.org/game/17557/hashes</url>
+	</game>
+
+	<game name="Homebrew/Donkey.GG (World) (Proto) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Donkey.GG (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Donkey.GG (World) (Proto) (Aftermarket) (Unl).gg" size="65536" crc="EC3DCC27" md5="566075a823a8f95574333c918f8cdf1b" sha1="315dd39f6d40d903e609ebbc0844b4adcc51ffc7"/>
+		<ra_hash>566075a823a8f95574333c918f8cdf1b</ra_hash>
+		<url>https://retroachievements.org/game/20490/hashes</url>
 	</game>
 
 	<game name="Retail/Double Dragon (USA, Europe)">
@@ -297,6 +432,24 @@
 		<url>https://retroachievements.org/game/14297/hashes</url>
 	</game>
 
+	<game name="Retail/Factory Panic (Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Factory Panic (Europe, Brazil) (En)</description>
+		<rom name="Factory Panic (Europe, Brazil) (En).gg" size="131072" crc="59E3BE92" md5="784f3ff02e544e3a9cf18b3b1da1f062" sha1="94beb8b6334bb9dc104ffdb0ad2bdd4964ed91a5"/>
+		<ra_hash>784f3ff02e544e3a9cf18b3b1da1f062</ra_hash>
+		<url>https://retroachievements.org/game/26227/hashes</url>
+	</game>
+
+	<game name="Retail/Fantasy Zone (USA, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Fantasy Zone (USA, Brazil) (En)</description>
+		<rom name="Fantasy Zone (USA, Brazil) (En).gg" size="131072" crc="FAD007DF" md5="9c314c791ad0a98cda6bd7d39c0a2774" sha1="57563b00eeffe678b2eebeafa790015f3c164262"/>
+		<ra_hash>9c314c791ad0a98cda6bd7d39c0a2774</ra_hash>
+		<url>https://retroachievements.org/game/12660/hashes</url>
+	</game>
+
 	<game name="Retail/Fatal Fury Special (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -304,6 +457,58 @@
 		<rom name="Fatal Fury Special (USA).gg" size="524288" crc="449787E2" md5="4292c099f98cc0c6d03025f0729f64df" sha1="7ce20ca34b7bc91ba7e73f830b40830ad6bafbc8"/>
 		<ra_hash>4292c099f98cc0c6d03025f0729f64df</ra_hash>
 		<url>https://retroachievements.org/game/17999/hashes</url>
+	</game>
+
+	<game name="Retail/FIFA International Soccer (USA, Europe) (En,Fr,De,Es)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>FIFA International Soccer (USA, Europe) (En,Fr,De,Es)</description>
+		<rom name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es).gg" size="524288" crc="E632A3A2" md5="9a70ade3cc8647ee1a926ae71bb7fe52" sha1="0725626fc9988b690fc1fc77b294d31b78cbfb5a"/>
+		<ra_hash>9a70ade3cc8647ee1a926ae71bb7fe52</ra_hash>
+		<url>https://retroachievements.org/game/26280/hashes</url>
+	</game>
+
+	<game name="Retail/Foreman for Real (Japan, USA) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Foreman for Real (Japan, USA) (En)</description>
+		<rom name="Foreman for Real (Japan, USA) (En).gg" size="524288" crc="D46D5685" md5="50d9e83b34b960d296f59cf08f8170c6" sha1="d7109dc1db52bb4828a01b433a4b2993ac2e59e1"/>
+		<ra_hash>50d9e83b34b960d296f59cf08f8170c6</ra_hash>
+		<url>https://retroachievements.org/game/32609/hashes</url>
+	</game>
+
+	<game name="Prototype/Frogger/Frogger (USA) (Proto)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Frogger (USA) (Proto)</description>
+		<rom name="Frogger (USA) (Proto).gg" size="262144" crc="DA724710" md5="024adbbcc983a33b890f309610168fb3" sha1="a96c95189902a08d7ebc825cf876b2693a5e0f8a"/>
+		<ra_hash>024adbbcc983a33b890f309610168fb3</ra_hash>
+		<url>https://retroachievements.org/game/38576/hashes</url>
+	</game>
+	<game name="Prototype/Frogger/Frogger (USA) (Proto) (1)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Frogger (USA) (Proto) (1)</description>
+		<rom name="Frogger (USA) (Proto) (1).gg" size="131072" crc="02BBF994" md5="0d78ea34987ae32f1ce844a3f647189f" sha1="b917ac6fbd3e5d18c07246f1309d81943ee1dd47"/>
+		<ra_hash>0d78ea34987ae32f1ce844a3f647189f</ra_hash>
+		<url>https://retroachievements.org/game/38576/hashes</url>
+	</game>
+
+	<game name="Retail/Galaga '91/Galaga '91 (Japan) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Galaga '91 (Japan) (En)</description>
+		<rom name="Galaga '91 (Japan) (En).gg" size="131072" crc="0593BA24" md5="c50bc608d2f6708e255e98c324e93a13" sha1="7cd59fc473b9b1a1fdd659fdec2ae6cb1d3f471a"/>
+		<ra_hash>c50bc608d2f6708e255e98c324e93a13</ra_hash>
+		<url>https://retroachievements.org/game/13088/hashes</url>
+	</game>
+	<game name="Retail/Galaga '91/Galaga 2 (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Galaga 2 (Europe)</description>
+		<rom name="Galaga 2 (Europe).gg" size="131072" crc="95ECECE2" md5="7f3a990141b86a8b66cc9e761f1c1ba0" sha1="33b552eb21ef4bf5cf10ab18afa9f2fbcd6635cd"/>
+		<ra_hash>7f3a990141b86a8b66cc9e761f1c1ba0</ra_hash>
+		<url>https://retroachievements.org/game/13088/hashes</url>
 	</game>
 
 	<game name="Retail/Garfield - Caught in the Act (USA, Europe)">
@@ -464,6 +669,15 @@
 		<url>https://retroachievements.org/game/18734/hashes</url>
 	</game>
 
+	<game name="Retail/Jungle Book, The (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Jungle Book, The (USA)</description>
+		<rom name="Jungle Book, The (USA).gg" size="262144" crc="30C09F31" md5="9212dda9031449afffa6903921286bea" sha1="f9da97db661f8ef7e7af87a83d23100c2fed4fb0"/>
+		<ra_hash>9212dda9031449afffa6903921286bea</ra_hash>
+		<url>https://retroachievements.org/game/26224/hashes</url>
+	</game>
+
 	<game name="Retail/Jurassic Park (USA, Europe, Brazil) (En)">
 		<category></category>
 		<source>No-Intro</source>
@@ -471,6 +685,15 @@
 		<rom name="Jurassic Park (USA, Europe, Brazil) (En).gg" size="524288" crc="BD6F2321" md5="a3158baab261c5ddbcd4328d01e33a94" sha1="0425dc09465a4b7be78ab7aa46107987ba61e82a"/>
 		<ra_hash>a3158baab261c5ddbcd4328d01e33a94</ra_hash>
 		<url>https://retroachievements.org/game/12846/hashes</url>
+	</game>
+
+	<game name="Retail/Kenyuu Densetsu Yaiba (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Kenyuu Densetsu Yaiba (Japan)</description>
+		<rom name="Kenyuu Densetsu Yaiba (Japan).gg" size="524288" crc="D9CE3F4C" md5="d8cb893b1cf1ae9555ad9b7eaad469e0" sha1="21b08c5c4b086e169d5f780cafc22c041e19807b"/>
+		<ra_hash>d8cb893b1cf1ae9555ad9b7eaad469e0</ra_hash>
+		<url>https://retroachievements.org/game/26225/hashes</url>
 	</game>
 
 	<game name="Retail/Kick &amp; Rush - World Cup Soccer/Kick &amp; Rush (Japan)">
@@ -718,6 +941,15 @@
 		<url>https://retroachievements.org/game/14060/hashes</url>
 	</game>
 
+	<game name="Retail/Mortal Kombat 3 (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Mortal Kombat 3 (Europe)</description>
+		<rom name="Mortal Kombat 3 (Europe).gg" size="524288" crc="C2BE62BB" md5="034cc8983558b3e42a4b9c2217d1bb68" sha1="034ecd615609efb4d96669dda7f32f546d5782f8"/>
+		<ra_hash>034cc8983558b3e42a4b9c2217d1bb68</ra_hash>
+		<url>https://retroachievements.org/game/20290/hashes</url>
+	</game>
+
 	<game name="Retail/Mortal Kombat II (World)">
 		<category></category>
 		<source>No-Intro</source>
@@ -788,6 +1020,15 @@
 		<url>https://retroachievements.org/game/12405/hashes</url>
 	</game>
 
+	<game name="Retail/Pac-Man (Japan) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Pac-Man (Japan) (En)</description>
+		<rom name="Pac-Man (Japan) (En).gg" size="131072" crc="A16C5E58" md5="e6985998d25d6c4fe36c2b8041244bb4" sha1="d78b6aac927692f1b67e6a4b7494e2c7e709ae17"/>
+		<ra_hash>e6985998d25d6c4fe36c2b8041244bb4</ra_hash>
+		<url>https://retroachievements.org/game/13044/hashes</url>
+	</game>
+
 	<game name="Retail/Panzer Dragoon Mini (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -848,6 +1089,24 @@
 		<url>https://retroachievements.org/game/12884/hashes</url>
 	</game>
 
+	<game name="Retail/Pinball Dreams (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Pinball Dreams (USA)</description>
+		<rom name="Pinball Dreams (USA).gg" size="131072" crc="635C483A" md5="d3e43d2779b93393d7d1d4485a1907aa" sha1="1734288c1ca2d83b28b5e266998fbbba76f665f6"/>
+		<ra_hash>d3e43d2779b93393d7d1d4485a1907aa</ra_hash>
+		<url>https://retroachievements.org/game/12914/hashes</url>
+	</game>
+
+	<game name="Retail/Poker Face Paul's Blackjack (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Poker Face Paul's Blackjack (USA)</description>
+		<rom name="Poker Face Paul's Blackjack (USA).gg" size="131072" crc="89D34067" md5="1148f0cbddb95b61a9e3366649ceccd0" sha1="010560dee1eafae3266eb9720e2f802c0deccf40"/>
+		<ra_hash>1148f0cbddb95b61a9e3366649ceccd0</ra_hash>
+		<url>https://retroachievements.org/game/20093/hashes</url>
+	</game>
+
 	<game name="Retail/Pop Breaker (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -901,6 +1160,15 @@
 		<url>https://retroachievements.org/game/14059/hashes</url>
 	</game>
 
+	<game name="Retail/Putt &amp; Putter (USA, Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Putt &amp; Putter (USA, Europe, Brazil) (En)</description>
+		<rom name="Putt &amp; Putter (USA, Europe, Brazil) (En).gg" size="131072" crc="ECC301DD" md5="61c0b40329f89007ab44cc5eb29addfd" sha1="7038a6e60106eba19e0aff56c14749c2dbb5de5f"/>
+		<ra_hash>61c0b40329f89007ab44cc5eb29addfd</ra_hash>
+		<url>https://retroachievements.org/game/30968/hashes</url>
+	</game>
+
 	<game name="Retail/Puyo Puyo (Japan) (En,Ja)">
 		<category></category>
 		<source>No-Intro</source>
@@ -919,6 +1187,15 @@
 		<url>https://retroachievements.org/game/26242/hashes</url>
 	</game>
 
+	<game name="Retail/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)</description>
+		<rom name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).gg" size="524288" crc="6C451EE1" md5="42854dd79bf57019a26ddd73e12b68ac" sha1="83bc52f669183f99accb078a454f786b5e320e40"/>
+		<ra_hash>42854dd79bf57019a26ddd73e12b68ac</ra_hash>
+		<url>https://retroachievements.org/game/12844/hashes</url>
+	</game>
+
 	<game name="Retail/Rastan Saga (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -926,6 +1203,15 @@
 		<rom name="Rastan Saga (Japan).gg" size="262144" crc="9C76FB3A" md5="fd82af26ebbed24f57c4eea8eddf3136" sha1="96bf8a67919218aac91fb74cde80a16f90df77d5"/>
 		<ra_hash>fd82af26ebbed24f57c4eea8eddf3136</ra_hash>
 		<url>https://retroachievements.org/game/17698/hashes</url>
+	</game>
+
+	<game name="Homebrew/Ring Dash GG (World) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro, itchio</source>
+		<description>Ring Dash GG (World) (Aftermarket) (Unl)</description>
+		<rom name="Ring Dash GG (World) (Aftermarket) (Unl).gg" size="131072" crc="471C09B7" md5="90008552628768282f5993f4f9638b6e" sha1="ce851f25e70093e7c2cc6d14f95918a8d1f31360"/>
+		<ra_hash>90008552628768282f5993f4f9638b6e</ra_hash>
+		<url>https://retroachievements.org/game/36733/hashes</url>
 	</game>
 
 	<game name="Retail/Ristar (World)">
@@ -954,6 +1240,15 @@
 		<url>https://retroachievements.org/game/12673/hashes</url>
 	</game>
 
+	<game name="Homebrew/Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe)</description>
+		<rom name="Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe).gg" size="262144" crc="19CB0C74" md5="117812c6c94a16081d0fd49aa8bd5b22" sha1="567fd4b0c559fd908479600d685d807a9901ee8f"/>
+		<ra_hash>117812c6c94a16081d0fd49aa8bd5b22</ra_hash>
+		<url>https://retroachievements.org/game/41166/hashes</url>
+	</game>
+
 	<game name="Retail/Samurai Shodown (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -961,6 +1256,24 @@
 		<rom name="Samurai Shodown (USA).gg" size="524288" crc="98171DEB" md5="4898db4b63c7024842e748fb81c95a55" sha1="d7330f5abcadb5c199299b24c22334be0072ec80"/>
 		<ra_hash>4898db4b63c7024842e748fb81c95a55</ra_hash>
 		<url>https://retroachievements.org/game/22407/hashes</url>
+	</game>
+
+	<game name="Retail/Sega Game Pack 4 in 1 (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Sega Game Pack 4 in 1 (Europe)</description>
+		<rom name="Sega Game Pack 4 in 1 (Europe).gg" size="262144" crc="0924D2EC" md5="32139ab4462c6bd3fa0861bb72276ddf" sha1="02fa5c6c6f81f5f4e1d78eced5a37617888404d3"/>
+		<ra_hash>32139ab4462c6bd3fa0861bb72276ddf</ra_hash>
+		<url>https://retroachievements.org/game/19439/hashes</url>
+	</game>
+
+	<game name="Retail/Shaq Fu (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Shaq Fu (USA)</description>
+		<rom name="Shaq Fu (USA).gg" size="524288" crc="6FCB8AB0" md5="ea608a53121d0c905dcfe6544248c275" sha1="bc9d0b0dc2b22b9530660f0a04b865492766c9d0"/>
+		<ra_hash>ea608a53121d0c905dcfe6544248c275</ra_hash>
+		<url>https://retroachievements.org/game/34270/hashes</url>
 	</game>
 
 	<game name="Retail/Shining Force - The Sword of Hajya/Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis 1989)">
@@ -1013,6 +1326,15 @@
 		<rom name="Shinobi II - The Silent Fury (World).gg" size="262144" crc="6201C694" md5="48d741774004eab9c19c1dd43758bf2b" sha1="cd57301d16202ea02d9f97bd8b17d71772782c94"/>
 		<ra_hash>48d741774004eab9c19c1dd43758bf2b</ra_hash>
 		<url>https://retroachievements.org/game/11712/hashes</url>
+	</game>
+
+	<game name="Retail/Slider (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Slider (USA, Europe)</description>
+		<rom name="Slider (USA, Europe).gg" size="131072" crc="4DC6F555" md5="634a3ef93d9e93b79f194559541adeb8" sha1="ab37b26ca62339720d1cefcb152a0aca545359aa"/>
+		<ra_hash>634a3ef93d9e93b79f194559541adeb8</ra_hash>
+		<url>https://retroachievements.org/game/12641/hashes</url>
 	</game>
 
 	<game name="Retail/Smurfs, The (Europe) (En,Fr,De,Es)">
@@ -1159,6 +1481,24 @@
 		<url>https://retroachievements.org/game/13237/hashes</url>
 	</game>
 
+	<game name="Retail/Super Columns (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Super Columns (USA, Europe)</description>
+		<rom name="Super Columns (USA, Europe).gg" size="131072" crc="8BA43AF3" md5="8f1de0caa864beed2a61f391795b0a10" sha1="ce59845e973b7fb7b3b2121b35a95fba5727df62"/>
+		<ra_hash>8f1de0caa864beed2a61f391795b0a10</ra_hash>
+		<url>https://retroachievements.org/game/14296/hashes</url>
+	</game>
+
+	<game name="Retail/Super Star Wars - Return of the Jedi (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Super Star Wars - Return of the Jedi (USA, Europe)</description>
+		<rom name="Super Star Wars - Return of the Jedi (USA, Europe).gg" size="524288" crc="4A38B6B6" md5="fc8d04e6975267cdc6bd49a0dea33c41" sha1="a37858100903ad1e0224c870fe12419c25df90e0"/>
+		<ra_hash>fc8d04e6975267cdc6bd49a0dea33c41</ra_hash>
+		<url>https://retroachievements.org/game/26247/hashes</url>
+	</game>
+
 	<game name="Homebrew/Swabby (World) (v1.11) (Aftermarket) (Unl)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1192,6 +1532,15 @@
 		<rom name="Tails Adventure (World) (En,Ja).gg" size="524288" crc="5BB6E5D6" md5="a8bdb1beed088ff83c725c5af6b85e1f" sha1="da3df145b8e9f2a2e680d2c92939084d4530ed90"/>
 		<ra_hash>a8bdb1beed088ff83c725c5af6b85e1f</ra_hash>
 		<url>https://retroachievements.org/game/11743/hashes</url>
+	</game>
+
+	<game name="Hack/Tails Adventures - Fire of Robollion (World) (v1.0) (Gabriel Sansigolo)">
+		<category></category>
+		<source>No-Intro, itchio, RAPatches</source>
+		<description>Tails Adventures - Fire of Robollion (World) (v1.0) (Gabriel Sansigolo)</description>
+		<rom name="Tails Adventures - Fire of Robollion (World) (v1.0) (Gabriel Sansigolo).gg" size="1048576" crc="FF3BFBB5" md5="7ea233a9fb7e75445e9d44c22e466e36" sha1="5ac61da5a1ba7e76ae3aaf5138577f2df908cac0"/>
+		<ra_hash>7ea233a9fb7e75445e9d44c22e466e36</ra_hash>
+		<url>https://retroachievements.org/game/24339/hashes</url>
 	</game>
 
 	<game name="Retail/Tails no Skypatrol (Japan)">
@@ -1239,6 +1588,33 @@
 		<url>https://retroachievements.org/game/12656/hashes</url>
 	</game>
 
+	<game name="Retail/Tesserae (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tesserae (USA)</description>
+		<rom name="Tesserae (USA).gg" size="131072" crc="BF696F94" md5="5d047046906c8380d060d001bc1d8aa1" sha1="173cd95b05c5e403d55b6b246aa6b61d15cdb785"/>
+		<ra_hash>5d047046906c8380d060d001bc1d8aa1</ra_hash>
+		<url>https://retroachievements.org/game/34222/hashes</url>
+	</game>
+
+	<game name="Homebrew/Tetris4GG (World) (v0.9) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tetris4GG (World) (v0.9) (Aftermarket) (Unl)</description>
+		<rom name="Tetris4GG (World) (v0.9) (Aftermarket) (Unl).gg" size="65536" crc="E0654D27" md5="c77e1427e7dd3694bdad73d166c60d6e" sha1="b0a0bf66b1106b39e027574b8215bc658695bb4b"/>
+		<ra_hash>c77e1427e7dd3694bdad73d166c60d6e</ra_hash>
+		<url>https://retroachievements.org/game/19712/hashes</url>
+	</game>
+
+	<game name="Retail/Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)</description>
+		<rom name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).gg" size="524288" crc="969CF389" md5="082dbe19bcfb1a9d16423bc79e940826" sha1="2fdf4a953b53578befd69e9477ac6148cfa1c67c"/>
+		<ra_hash>082dbe19bcfb1a9d16423bc79e940826</ra_hash>
+		<url>https://retroachievements.org/game/26253/hashes</url>
+	</game>
+
 	<game name="Retail/Tom and Jerry - The Movie (USA, Europe)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1266,6 +1642,15 @@
 		<url>https://retroachievements.org/game/14232/hashes</url>
 	</game>
 
+	<game name="Retail/Wizard Pinball (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Wizard Pinball (Europe)</description>
+		<rom name="Wizard Pinball (Europe).gg" size="262144" crc="9E03F96C" md5="b0a6edc1d506d034d3770a3707c3e201" sha1="22c4165f41066d9a525543d716162bd70a39e9fb"/>
+		<ra_hash>b0a6edc1d506d034d3770a3707c3e201</ra_hash>
+		<url>https://retroachievements.org/game/13175/hashes</url>
+	</game>
+
 	<game name="Retail/Wonder Boy (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1273,6 +1658,15 @@
 		<rom name="Wonder Boy (Japan).gg" size="131072" crc="9977FCB3" md5="917c3e4f4c50d6506e64e2f05b945d9c" sha1="7ff0f0757c7b2e84d99a4291656d74a20ec2651d"/>
 		<ra_hash>917c3e4f4c50d6506e64e2f05b945d9c</ra_hash>
 		<url>https://retroachievements.org/game/12564/hashes</url>
+	</game>
+
+	<game name="Retail/Woody Pop (USA, Europe, Brazil) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Woody Pop (USA, Europe, Brazil) (En)</description>
+		<rom name="Woody Pop (USA, Europe, Brazil) (En).gg" size="32768" crc="B74F3A4F" md5="a23e89266ddad3c856e7401d04a49c6c" sha1="4efbfa1d3234d8f1800a06ab72b2177fba6914cb"/>
+		<ra_hash>a23e89266ddad3c856e7401d04a49c6c</ra_hash>
+		<url>https://retroachievements.org/game/13282/hashes</url>
 	</game>
 
 	<game name="Retail/X-Men (USA)">
@@ -1300,6 +1694,15 @@
 		<rom name="X-Men - Mojo World (USA).gg" size="524288" crc="C2CBA9D7" md5="ca15f2ba2507ebd836c42d9d10231eb1" sha1="cff15c4a3e555c2868af93c55386b5ab3d3db4e3"/>
 		<ra_hash>ca15f2ba2507ebd836c42d9d10231eb1</ra_hash>
 		<url>https://retroachievements.org/game/26255/hashes</url>
+	</game>
+
+	<game name="Retail/Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En)</description>
+		<rom name="Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En).gg" size="524288" crc="88EBBF9E" md5="8c172cbafa7396077a651f2649d1cbcb" sha1="e75803c9241094f7cfe251b99cd370228cc0923c"/>
+		<ra_hash>8c172cbafa7396077a651f2649d1cbcb</ra_hash>
+		<url>https://retroachievements.org/game/14452/hashes</url>
 	</game>
 
 	<game name="Retail/Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai/Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)">

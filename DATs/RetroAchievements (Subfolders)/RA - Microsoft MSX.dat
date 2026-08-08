@@ -5,12 +5,12 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/29-microsoft-msx/games</url>
-		<titlecount>207</titlecount>
-		<hashcount>243</hashcount>
+		<titlecount>209</titlecount>
+		<hashcount>245</hashcount>
 	</header>
 
 	<game name="Homebrew/10 Lines Princess (World) (Aftermarket) (Unl)">
@@ -816,6 +816,23 @@
 		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan).rom" size="131072" crc="C4096E6B" md5="14c078a9ed5c14ac54a6eb5e94fa34d2" sha1="e89fc7437d8f9aed1640689a32ebbf047699b147"/>
 		<ra_hash>14c078a9ed5c14ac54a6eb5e94fa34d2</ra_hash>
 		<url>https://retroachievements.org/game/34906/hashes</url>
+	</game>
+
+	<game name="Retail/M36 - A Life Planet/M36 - A Life Planet (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>M36 - A Life Planet (Japan)</description>
+		<rom name="M36 - A Life Planet (Japan).rom" size="131072" crc="FA8F9BBC" md5="ee9fe57e172b4e734847b95cdb57e9d5" sha1="6bde4e6761286a2909858ecef04155e17072996e"/>
+		<ra_hash>ee9fe57e172b4e734847b95cdb57e9d5</ra_hash>
+		<url>https://retroachievements.org/game/4016/hashes</url>
+	</game>
+	<game name="Retail/M36 - A Life Planet/M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz)</description>
+		<rom name="M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz).rom" size="131072" crc="015DA0A4" md5="74d9cae80d15ae5d02ee32893d195ac0" sha1="47779c38c2d7e3e4fe1fc168229fe63352d763f3"/>
+		<ra_hash>74d9cae80d15ae5d02ee32893d195ac0</ra_hash>
+		<url>https://retroachievements.org/game/4016/hashes</url>
 	</game>
 
 	<game name="Homebrew/Magical Bocco 20541 (2024) (meichnpp)">

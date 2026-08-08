@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/5-game-boy-advance/games</url>
-		<titlecount>1214</titlecount>
-		<hashcount>1214</hashcount>
+		<titlecount>1216</titlecount>
+		<hashcount>1216</hashcount>
 	</header>
 
 	<game name="007 - NightFire (USA, Europe) (En,Fr,De)">
@@ -673,6 +673,21 @@
 		<url>https://retroachievements.org/game/7959/hashes</url>
 	</game>
 
+	<game name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="7CA7AA12" md5="11bfeb390128b3fa4af1e92399a9bd3f" sha1="3feb77f60ad71d4dbb83c7ea0712759e50ccc088"/>
+		<ra_hash>11bfeb390128b3fa4af1e92399a9bd3f</ra_hash>
+		<url>https://retroachievements.org/game/7817/hashes</url>
+	</game>
+
 	<game name="Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Batman - Vengeance (USA) (En,Fr,Es)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -1079,6 +1094,17 @@
 		<rom name="Boulder Dash EX (USA).gba" size="4194304" crc="B355365A" md5="8653d5731f4effd21e435b9a274023a4" sha1="8bc0dadbd18e3d88645aaba3aa0ced8088201c8f"/>
 		<ra_hash>8653d5731f4effd21e435b9a274023a4</ra_hash>
 		<url>https://retroachievements.org/game/9641/hashes</url>
+	</game>
+
+	<game name="Bratz - Rock Angelz (USA, Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Bratz - Rock Angelz (USA, Europe)</description>
+		<release name="Bratz - Rock Angelz (USA, Europe)" region="USA"/>
+		<release name="Bratz - Rock Angelz (USA, Europe)" region="Europe"/>
+		<rom name="Bratz - Rock Angelz (USA, Europe).gba" size="8388608" crc="AA245D0C" md5="874aa5c4c6217febec6405a22d7bc9ef" sha1="eb2b8ddbb5ca2449f80ddf2c7bec2bd0b4a75e47"/>
+		<ra_hash>874aa5c4c6217febec6405a22d7bc9ef</ra_hash>
+		<url>https://retroachievements.org/game/7560/hashes</url>
 	</game>
 
 	<game name="Breath of Fire (USA)">

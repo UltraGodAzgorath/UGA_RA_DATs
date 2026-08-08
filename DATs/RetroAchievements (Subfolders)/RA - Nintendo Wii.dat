@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>371</titlecount>
-		<hashcount>371</hashcount>
+		<titlecount>374</titlecount>
+		<hashcount>374</hashcount>
 	</header>
 
 	<game name="Retail/3D Pixel Racing (USA) (WiiWare)">
@@ -212,6 +212,14 @@
 		<description>Resident Evil - The Umbrella Chronicles (USA)</description>
 		<rom name="Resident Evil - The Umbrella Chronicles (USA).rvz" size="3359640752" crc="72C658CE" md5="da5e6c8ef6fc66abaeaced4c8be5fa6c" sha1="bc96c8d24c414bb9f79f12eb9157225b1abf2453"/>
 		<ra_hash>935314eae9d0f4648ab9e50e9f9b9aa4</ra_hash>
+		<url>https://retroachievements.org/game/97/hashes</url>
+	</game>
+	<game name="Retail/Resident Evil - The Umbrella Chronicles/Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)</description>
+		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista).iso" size="4169596928" crc="7B37EDC2" md5="c34ad18cacd98f6d96c362fd603f3823" sha1="25a4075c372d836184ec143b1a016ccf360751b9"/>
+		<ra_hash>fa514620cb981f158c4eed467bc90906</ra_hash>
 		<url>https://retroachievements.org/game/97/hashes</url>
 	</game>
 
@@ -977,6 +985,23 @@
 		<url>https://retroachievements.org/game/35968/hashes</url>
 	</game>
 
+	<game name="Retail/Zero - Tsukihami no Kamen/Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)</description>
+		<rom name="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR).rvz" size="2829765052" crc="A9820C46" md5="bd5684b5fda19f6fa591efa428386291" sha1="26f60aff2e4b0fc6bf6d37aaefc02a8a3ad27a08"/>
+		<ra_hash>f096ef1f3fc4ff5ebf74f5cfba300e77</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Zero - Tsukihami no Kamen (Japan)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan).rvz" size="3028899700" crc="ABBA81AE" md5="80f319c58e119e2bea882f183b5894ef" sha1="55c3c317b512195f7eb5f0075cf23d977ebd9639"/>
+		<ra_hash>e6b4f20d44ffdf9a1ccb49b03c1a98a9</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+
 	<game name="Retail/Final Fantasy Crystal Chronicles - My Life as a King/Final Fantasy Crystal Chronicles - My Life as a King (Europe) (WiiWare)">
 		<category>WiiWare</category>
 		<source>No-Intro</source>
@@ -1066,7 +1091,7 @@
 	</game>
 	<game name="Retail/Fragile Dreams - Farewell Ruins of the Moon/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)">
 		<category>Wii</category>
-		<source>Unknown</source>
+		<source>Lost Level Archive</source>
 		<description>Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
 		<rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams).rvz" size="3470430316" crc="A32F1BDA" md5="829d106b4f3e28be3c305215c8d64d4c" sha1="eb26a8bc513ccecc69a5ebd5baf36adb4561f158"/>
 		<ra_hash>ad74a5c8cad92d18a74a8bf2974511af</ra_hash>
@@ -2136,7 +2161,7 @@
 
 	<game name="Hack/Newer Holiday Special SMNP07 EURv1 (KMNP07)">
 		<category>Wii</category>
-		<source>No-Intro, RAPatches</source>
+		<source>Redump, RAPatches</source>
 		<description>Newer Holiday Special SMNP07 EURv1 (KMNP07)</description>
 		<rom name="Newer Holiday Special SMNP07 EURv1 [KMNP07].rvz" size="250147948" crc="AAF129A7" md5="dcc9abdf4a16297846fa86a4ee18a518" sha1="ae5a4e3dd0859ca0501680fabff3b0bb7f45e7c6"/>
 		<ra_hash>24bb803c45b793c7436e8a8a47d37993</ra_hash>
@@ -2154,7 +2179,7 @@
 
 	<game name="Hack/Newer Summer Sun SMNP06 EURv1 (KMNP06)">
 		<category>Wii</category>
-		<source>No-Intro, RAPatches</source>
+		<source>Redump, RAPatches</source>
 		<description>Newer Summer Sun SMNP06 EURv1 (KMNP06)</description>
 		<rom name="Newer Summer Sun SMNP06 EURv1 [KMNP06].rvz" size="279665044" crc="D3795C89" md5="da11d4bee01c4414987b52559420e943" sha1="c56256693f1f5674821d298c1071914bce8d6385"/>
 		<ra_hash>622f727fa6d8a71476d20799b88e1fc6</ra_hash>
@@ -2328,7 +2353,7 @@
 	</game>
 	<game name="Retail/Pokémon Fushigi no Dungeon - Susume! Hono no Bokendan/Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)">
 		<category>WiiWare</category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)</description>
 		<rom name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape).wad" size="28498752" crc="51C65605" md5="fd66ea523371f31a15a238f97d11d981" sha1="f4977fa69fd8335955c92b02b3b447def470128d"/>
 		<ra_hash>f8fddf8116ed892a3d5e1d77acc5e6b3</ra_hash>
@@ -2459,7 +2484,7 @@
 	</game>
 	<game name="Retail/Resident Evil - The Darkside Chronicles/Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)">
 		<category>Wii</category>
-		<source>Unknown</source>
+		<source>Redump, RAPatches</source>
 		<description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
 		<rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).rvz" size="3300116384" crc="EE0A2FEF" md5="2a885ab381f98549e1f20abb37bbe867" sha1="9019adba515069591f7f861a02a43a6bf31f0d9e"/>
 		<ra_hash>4f67f2810636756b7d78fb5c7b13dae7</ra_hash>
@@ -2476,7 +2501,7 @@
 	</game>
 	<game name="Retail/Resident Evil 4 - Wii Edition/Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)">
 		<category>Wii</category>
-		<source>Redump, Lost Level Archive</source>
+		<source>Redump, RAPatches</source>
 		<description>Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)</description>
 		<rom name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex).rvz" size="3518701372" crc="5C860AEF" md5="4e0e4638369bda4dd53c1f919d12ad8e" sha1="95c0ab9ef26227b686ec927cde2d3e2d98118ac9"/>
 		<ra_hash>3fb48d8d67a2316163bcd9ccfd13e365</ra_hash>

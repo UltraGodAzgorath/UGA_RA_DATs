@@ -5,12 +5,12 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>815</titlecount>
-		<hashcount>815</hashcount>
+		<titlecount>821</titlecount>
+		<hashcount>821</hashcount>
 	</header>
 
 	<game name="Homebrew/10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -2360,6 +2360,15 @@
 		<url>https://retroachievements.org/game/9492/hashes</url>
 	</game>
 
+	<game name="Retail/Hi! Hamtaro - Ham-Ham Challenge (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Hi! Hamtaro - Ham-Ham Challenge (USA)</description>
+		<rom name="Hi! Hamtaro - Ham-Ham Challenge (USA).nds" size="33554432" crc="2F39D4AF" md5="d8cabb9c897e82a58f19957109dc167a" sha1="7ee08fa051e9d343d6c071e0163c5222c9775105"/>
+		<ra_hash>5a52399518437008dad3a9c762db16c8</ra_hash>
+		<url>https://retroachievements.org/game/16250/hashes</url>
+	</game>
+
 	<game name="Retail/Hidden Mysteries - Vampire Secrets (Europe) (En,Fr,Nl)">
 		<category></category>
 		<source>No-Intro</source>
@@ -3121,6 +3130,15 @@
 		<url>https://retroachievements.org/game/7966/hashes</url>
 	</game>
 
+	<game name="Retail/Magical Starsign (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Magical Starsign (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Magical Starsign (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="A36A8EE3" md5="ddd4ed94a3e2843f0c683f44f05c4df3" sha1="72096257137b72e642a90aad7716b66717ead15f"/>
+		<ra_hash>dddad732d175382ebc810dad3118e08a</ra_hash>
+		<url>https://retroachievements.org/game/16217/hashes</url>
+	</game>
+
 	<game name="Retail/MapleStory DS (Japan) (En) (v0.6.3) (edo1989)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
@@ -3394,6 +3412,15 @@
 		<url>https://retroachievements.org/game/8306/hashes</url>
 	</game>
 
+	<game name="Retail/Megamind - The Blue Defender (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Megamind - The Blue Defender (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<rom name="Megamind - The Blue Defender (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).nds" size="67108864" crc="097D9AF2" md5="0742d052db0654f8cd37b618e3f3f80b" sha1="be589440cac33c9ceaa41689b8cdec38e18875ca"/>
+		<ra_hash>de9ab5b9015ad13416c8e7879eb1a1f7</ra_hash>
+		<url>https://retroachievements.org/game/22146/hashes</url>
+	</game>
+
 	<game name="Retail/Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan)">
 		<category></category>
 		<source>No-Intro</source>
@@ -3523,15 +3550,6 @@
 		<rom name="MKDS - Ermii Kart DS - Legacy Edition (Ermii Kart DS Team).nds" size="21515104" crc="6CA8D3A8" md5="3163851dc06ec3478a0856139c1f4782" sha1="11a6f0fe693911f14bd1b6e4a4f44dcd7c119931"/>
 		<ra_hash>3602123cb39806a732589a2b699bb445</ra_hash>
 		<url>https://retroachievements.org/game/16193/hashes</url>
-	</game>
-
-	<game name="Hack/MKDS - Pony Kart DS (v1.3) (Peachy_Pie)">
-		<category></category>
-		<source>No-Intro, RAPatches, gamebanana</source>
-		<description>MKDS - Pony Kart DS (v1.3) (Peachy_Pie)</description>
-		<rom name="MKDS - Pony Kart DS (v1.3) (Peachy_Pie).nds" size="22813776" crc="DAA089E8" md5="1cf541158b2b8ddf87d50fc92e6dfb3d" sha1="d809f127628dd0ae18447eb3f18c4b4f74325116"/>
-		<ra_hash>f2181720a99d27fe7fd8f85e259e0e56</ra_hash>
-		<url>https://retroachievements.org/game/33037/hashes</url>
 	</game>
 
 	<game name="Hack/MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko)">
@@ -6399,6 +6417,15 @@
 		<url>https://retroachievements.org/game/14909/hashes</url>
 	</game>
 
+	<game name="Retail/Sudoku Mania - Enhance Your Critical Thinking Skills! (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Sudoku Mania - Enhance Your Critical Thinking Skills! (USA)</description>
+		<rom name="Sudoku Mania - Enhance Your Critical Thinking Skills! (USA).nds" size="8388608" crc="EC9C9B33" md5="b9e45900e3451f692771215969889537" sha1="b78ba6d72c6839c13514bfb15ea2e8f14d49d8f8"/>
+		<ra_hash>6efd6d213e77bb885295c51b80a6d1ff</ra_hash>
+		<url>https://retroachievements.org/game/14908/hashes</url>
+	</game>
+
 	<game name="Retail/Suikoden - Tierkreis (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<source>No-Intro</source>
@@ -6576,6 +6603,15 @@
 		<rom name="Theresia.. (USA).nds" size="67108864" crc="535C621C" md5="f158aa2e808061a5334f87e98fafb633" sha1="55c846e3eacef50e89e54f226da782d9875f1622"/>
 		<ra_hash>b97a87dc19f7c758229482705d5a2e45</ra_hash>
 		<url>https://retroachievements.org/game/9779/hashes</url>
+	</game>
+
+	<game name="Retail/theta (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>theta (Japan)</description>
+		<rom name="theta (Japan).nds" size="33554432" crc="C3983868" md5="8800cb012ac35863256584d8e645d4a1" sha1="3c74cd3e04e3b6f491a3f6ed853ea8ea3fef51a9"/>
+		<ra_hash>1e950b774dec86b3d3e80e66b1a7e452</ra_hash>
+		<url>https://retroachievements.org/game/28125/hashes</url>
 	</game>
 
 	<game name="Retail/Thomas &amp; Friends - Hero of the Rails (Europe)">
@@ -6756,6 +6792,15 @@
 		<rom name="Touch Detective (USA).nds" size="16777216" crc="C5D56B0F" md5="ed875be190b3c3a8a0117e02e098b610" sha1="e8dfac40f417cad187427a993d91d877bd0f404a"/>
 		<ra_hash>fbbc35646b8051f61277512f5107883f</ra_hash>
 		<url>https://retroachievements.org/game/22149/hashes</url>
+	</game>
+
+	<game name="Retail/Touch Detective 2 1-2 (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Touch Detective 2 1-2 (USA)</description>
+		<rom name="Touch Detective 2 1-2 (USA).nds" size="33554432" crc="9D42E8C1" md5="b8115eb51ff5143700cb9effde791767" sha1="382effbbc83d164ced686ca12672fd664880cc4c"/>
+		<ra_hash>e261d0b0709c9b3709acf8c5839b4cb4</ra_hash>
+		<url>https://retroachievements.org/game/22150/hashes</url>
 	</game>
 
 	<game name="Prototype/Toy Golf Extreme (Unknown) (Proto)">
@@ -6950,6 +6995,15 @@
 		<rom name="Wappy Dog (USA) (En,Fr).nds" size="16777216" crc="5467B846" md5="16a6f9365ca3352d038c0b6ed9b5c935" sha1="b6edf5d3cf87f92232c5c72ab0ffb641f544c7c7"/>
 		<ra_hash>472a853a7ac478572cd18d40e65ac6ed</ra_hash>
 		<url>https://retroachievements.org/game/15057/hashes</url>
+	</game>
+
+	<game name="Retail/Wario - Master of Disguise (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Wario - Master of Disguise (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Wario - Master of Disguise (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="9A1891E8" md5="cc832aa15e82fdfe0ec0eb3831b76f1c" sha1="cbdc935e946add969e3d970d6aaf27a87ec02c86"/>
+		<ra_hash>18dfe6193d761ba84c9dd14390597753</ra_hash>
+		<url>https://retroachievements.org/game/1200/hashes</url>
 	</game>
 
 	<game name="Retail/WarioWare - Do It Yourself (Europe) (En,Fr,De,Es,It)">

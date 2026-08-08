@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>263</titlecount>
-		<hashcount>285</hashcount>
+		<titlecount>265</titlecount>
+		<hashcount>287</hashcount>
 	</header>
 
 	<game name="1080 Avalanche (USA)">
@@ -1410,6 +1410,16 @@
 		<url>https://retroachievements.org/game/30330/hashes</url>
 	</game>
 
+	<game name="NDDEMO (Unknown) (v1.0.8) (Tech Demo) (Compiled) (Hacked Header)">
+		<category>Demo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>NDDEMO (Unknown) (v1.0.8) (Tech Demo) (Compiled) (Hacked Header)</description>
+		<release name="NDDEMO (Unknown) (v1.0.8) (Tech Demo) (Compiled) (Hacked Header)" region="World"/>
+		<rom name="NDDEMO (Unknown) (v1.0.8) (Tech Demo) (Compiled) (Hacked Header).rvz" size="15608808" crc="9BE80EC9" md5="2b6021bc86cfea7c88b7e68ab8717818" sha1="3961c50a285850ddf7ff9d414d1c45e21c5f9c53"/>
+		<ra_hash>406cbeac696cb050e40e11269979d105</ra_hash>
+		<url>https://retroachievements.org/game/30483/hashes</url>
+	</game>
+
 	<game name="Neighbours from Hell (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2199,6 +2209,16 @@
 		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity).rvz" size="827947228" crc="7AED2DE3" md5="49e918cd1c6061a6965f26281e3f95cd" sha1="2ddade939ffec1a5b1db348c8c9f9f6166cc0b91"/>
 		<ra_hash>62ef4020aa956287ee45294612caf195</ra_hash>
 		<url>https://retroachievements.org/game/32108/hashes</url>
+	</game>
+
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v3.0) (TLL)">
+		<category>Hack</category>
+		<source>Lost Level Archive</source>
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v3.0) (TLL)</description>
+		<release name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v3.0) (TLL)" region="World"/>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v3.0) (TLL).rvz" size="667567352" crc="538D4294" md5="fd0edf8ec92c323ff2069280e5ab27ba" sha1="295a9adbd19ed26e3dec192beca84cfb02df7522"/>
+		<ra_hash>bbff7e32f4b4fce0ee271ab203db692c</ra_hash>
+		<url>https://retroachievements.org/game/31938/hashes</url>
 	</game>
 
 	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.6) (aaron5015)">

@@ -5,12 +5,12 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/56-neo-geo-cd/games</url>
-		<titlecount>43</titlecount>
-		<hashcount>45</hashcount>
+		<titlecount>44</titlecount>
+		<hashcount>46</hashcount>
 	</header>
 
 	<machine name="Retail/ADK World (Japan)">
@@ -306,6 +306,15 @@
 		<disk name="Rally Chase (Japan) (En,Ja).chd" sha1="63a451a03212d224d3d01901e8242a0e93960134"/>
 		<ra_hash>8dc5545bde96a4debfc6deae3f20aa86</ra_hash>
 		<url>https://retroachievements.org/game/23849/hashes</url>
+	</machine>
+
+	<machine name="Retail/RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)">
+		<category></category>
+		<source>Redump</source>
+		<description>RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)</description>
+		<disk name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd" sha1="f3e62e5ac95a616a5026fa95c689a480107ab2f0"/>
+		<ra_hash>21f997c009d70f9bd2db32160abe7e90</ra_hash>
+		<url>https://retroachievements.org/game/23898/hashes</url>
 	</machine>
 
 	<machine name="Homebrew/Shinobi/Shinobi (World) (v1.0) (Aftermarket) (Hoffman)">

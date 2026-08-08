@@ -5,12 +5,12 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
-		<titlecount>171</titlecount>
-		<hashcount>217</hashcount>
+		<titlecount>173</titlecount>
+		<hashcount>225</hashcount>
 	</header>
 
 	<machine name="Retail/18 Wheeler - American Pro Trucker/18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)">
@@ -407,6 +407,22 @@
 		<disk name="Cyber Troopers - Virtual-On - Oratorio Tangram (USA).chd" sha1="29b408a4eef42103d9f94dc61a0e49ec27e268d2"/>
 		<ra_hash>8b32cfa97a5030b16cef6ad8bbca3b00</ra_hash>
 		<url>https://retroachievements.org/game/8179/hashes</url>
+	</machine>
+
+	<machine name="Retail/D2 (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>D2 (USA)</description>
+		<rom name="D2 (USA).m3u" size="92" crc="86491598" md5="e7e5c66021099342968ea432f038199f" sha1="d69c367537c54bcda50da2e7d34d7cab59b9dfd2"/>
+		<disk name="D2 (USA) (Disc 1).chd" sha1="5986d3117752ec7cdc17a05aa2ee8066abdae231"/>
+		<ra_hash>91010f0cc57f3fa5600c9d0c4feee1a4</ra_hash>
+		<disk name="D2 (USA) (Disc 2).chd" sha1="f2efe70216e93cb35793dd9b8bcac28357b12d2b"/>
+		<ra_hash>06b1fdf66f2ad1eddaa7f9c2c67c4cc9</ra_hash>
+		<disk name="D2 (USA) (Disc 3).chd" sha1="2239a8fb81d9bbc137811c72c475a88715642fe2"/>
+		<ra_hash>37fa0e0793addfcadf743c6a2a172e38</ra_hash>
+		<disk name="D2 (USA) (Disc 4).chd" sha1="f92974fd8a9dc9b8c1e7ca680b92db1d112f3c69"/>
+		<ra_hash>f79a7f1c6f45934f9bb0ada289d8708e</ra_hash>
+		<url>https://retroachievements.org/game/3503/hashes</url>
 	</machine>
 
 	<machine name="Retail/Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)">
@@ -1413,6 +1429,18 @@
 		<disk name="Street Fighter III - Double Impact (USA).chd" sha1="cf526d0eb5b2edb5bb76d1c49577eeb6901443b7"/>
 		<ra_hash>1142370d1040f5f7d8b3267e12d30d4e</ra_hash>
 		<url>https://retroachievements.org/game/10850/hashes</url>
+	</machine>
+
+	<machine name="Retail/Stupid Invaders (Europe) (En,Fr,De,It)">
+		<category></category>
+		<source>Redump</source>
+		<description>Stupid Invaders (Europe) (En,Fr,De,It)</description>
+		<rom name="Stupid Invaders (Europe) (En,Fr,De,It).m3u" size="106" crc="D93DC8BD" md5="c95d6b56889fa0354b9d40c7f2ada5f5" sha1="386b5f89ea8220aa936e6b78e408edcc0d0e311d"/>
+		<disk name="Stupid Invaders (Europe) (En,Fr,De,It) (Disc 1).chd" sha1="2564bee407ba91fd16b60ac635724cf4135313c3"/>
+		<ra_hash>cef3e8a90d9bc6e88cd58408e0d4a36e</ra_hash>
+		<disk name="Stupid Invaders (Europe) (En,Fr,De,It) (Disc 2).chd" sha1="c1781c214a723f0387a60c1185816690132664ad"/>
+		<ra_hash>f44b6e2e99f6f6a9ae5c502ee8f26edc</ra_hash>
+		<url>https://retroachievements.org/game/3765/hashes</url>
 	</machine>
 
 	<machine name="Retail/Super Magnetic Neo (Europe) (En,Fr,De)">

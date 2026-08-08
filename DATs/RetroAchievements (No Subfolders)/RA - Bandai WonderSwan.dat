@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Bandai WonderSwan</name>
 		<description>Bandai WonderSwan</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/53-wonderswan/games</url>
-		<titlecount>55</titlecount>
-		<hashcount>72</hashcount>
+		<titlecount>56</titlecount>
+		<hashcount>73</hashcount>
 	</header>
 
 	<game name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)">
@@ -295,6 +295,16 @@
 		<rom name="From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).wsc" size="8388608" crc="F8A1DD2B" md5="7fa6a3034b8c03fca0b756fb5526ce62" sha1="01e765bf356cdcb413bfd27c6321f7449465766a"/>
 		<ra_hash>7fa6a3034b8c03fca0b756fb5526ce62</ra_hash>
 		<url>https://retroachievements.org/game/14769/hashes</url>
+	</game>
+
+	<game name="Ganso Jajamaru-kun (Japan)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Ganso Jajamaru-kun (Japan)</description>
+		<release name="Ganso Jajamaru-kun (Japan)" region="Japan"/>
+		<rom name="Ganso Jajamaru-kun (Japan).ws" size="524288" crc="A193458C" md5="6f09fc64352ba0051e724c4ae58402f4" sha1="cbf6455e89b20a000b6121e5c485be1a20d1f726"/>
+		<ra_hash>6f09fc64352ba0051e724c4ae58402f4</ra_hash>
+		<url>https://retroachievements.org/game/14600/hashes</url>
 	</game>
 
 	<game name="Golden Axe (Japan)">

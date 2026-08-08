@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>883</titlecount>
-		<hashcount>1337</hashcount>
+		<titlecount>891</titlecount>
+		<hashcount>1359</hashcount>
 	</header>
 
 	<machine name="...Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -444,6 +444,42 @@
 		<disk name="Animal Football (Europe) (En,Fr,De).chd" sha1="7d8979ce3989b254f63c6783919de2d27d5a861e"/>
 		<ra_hash>f882f8b6a3cd866dcfc73a5b8ad68c2f</ra_hash>
 		<url>https://retroachievements.org/game/14681/hashes</url>
+	</machine>
+
+	<machine name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)</description>
+		<release name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)" region="Japan"/>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) [T-En by NoOneee v1.0].chd" sha1="285e94ccb5fa9f264c533e7e9b1e57de989be2fb"/>
+		<ra_hash>7fe97adda08ea241d11278bf20118fd9</ra_hash>
+		<url>https://retroachievements.org/game/7196/hashes</url>
+	</machine>
+	<machine name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)</description>
+		<release name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)" region="English"/>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1).chd" sha1="7b1733a54f0b42fb056af008259d24c6ad53dcec"/>
+		<ra_hash>2826df39fe5e39dba1bdc03ed3b668de</ra_hash>
+		<url>https://retroachievements.org/game/7196/hashes</url>
+	</machine>
+	<machine name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1)" cloneof="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1)</description>
+		<release name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1)" region="Japan"/>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1).chd" sha1="0cb4404115685b53e9de53ca9c8d095cdd7af71f"/>
+		<ra_hash>1ce1ef247d89b1645ed843792c473f7d</ra_hash>
+		<url>https://retroachievements.org/game/7196/hashes</url>
+	</machine>
+	<machine name="Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2)" cloneof="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2)</description>
+		<disk name="Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2).chd" sha1="3e2b726974a5347db2636229914dc7cfe3017cf2"/>
+		<ra_hash>595ded2d155ea31cc1cf8d6cc83938f9</ra_hash>
+		<url>https://retroachievements.org/game/7196/hashes</url>
 	</machine>
 
 	<machine name="Animorphs - Shattered Reality (USA)">
@@ -1000,6 +1036,19 @@
 		<url>https://retroachievements.org/game/6502/hashes</url>
 	</machine>
 
+	<machine name="Book of Watermarks, The (Japan)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Book of Watermarks, The (Japan)</description>
+		<release name="Book of Watermarks, The (Japan)" region="Japan"/>
+		<rom name="Book of Watermarks, The (Japan).m3u" size="92" crc="B30A4AFB" md5="85d317aaeed3cb87c09bd7e324a87a70" sha1="3e3701b5a2d170978b3e44757270c06d786396ae"/>
+		<disk name="Book of Watermarks, The (Japan) (Disc 1).chd" sha1="6922dda7c431647ee5fcd896edd27b06943b5c12"/>
+		<ra_hash>91800dc0062a27080cf0fb8cd01febf7</ra_hash>
+		<disk name="Book of Watermarks, The (Japan) (Disc 2).chd" sha1="3a8b5ea1980db1eb040da9efbd33f25b26e6d75e"/>
+		<ra_hash>7900bf32c2d37c18c0668388a1b680b0</ra_hash>
+		<url>https://retroachievements.org/game/29377/hashes</url>
+	</machine>
+
 	<machine name="BoomBots (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -1356,6 +1405,16 @@
 		<disk name="Carmageddon (Europe) (En,Fr,Es,It).chd" sha1="361b56e3c74f20dca2274d6e40e115af1da5e639"/>
 		<ra_hash>7b56ab5edb0a35482b69d189c8e77a34</ra_hash>
 		<url>https://retroachievements.org/game/13895/hashes</url>
+	</machine>
+
+	<machine name="Casper (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Casper (USA)</description>
+		<release name="Casper (USA)" region="USA"/>
+		<disk name="Casper (USA).chd" sha1="939ecab44d63a17b99331fa1224fa3670b31a9cb"/>
+		<ra_hash>dfa4d77557ccb6e256eba516ffb921fa</ra_hash>
+		<url>https://retroachievements.org/game/15702/hashes</url>
 	</machine>
 
 	<machine name="Casper - Friends Around the World (USA)">
@@ -1860,6 +1919,16 @@
 		<url>https://retroachievements.org/game/21492/hashes</url>
 	</machine>
 
+	<machine name="Contra - Legacy of War (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Contra - Legacy of War (USA)</description>
+		<release name="Contra - Legacy of War (USA)" region="USA"/>
+		<disk name="Contra - Legacy of War (USA).chd" sha1="2d251c9aeb30adead8bf9bb2c0d4e094d9b6969e"/>
+		<ra_hash>4873f397b1af672ecd5ef1b4d9ca6d56</ra_hash>
+		<url>https://retroachievements.org/game/7443/hashes</url>
+	</machine>
+
 	<machine name="Cool Boarders (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2069,6 +2138,16 @@
 		<disk name="CTR - Crash Team Racing (USA).chd" sha1="d9d5c97d9bc453c4b6339a3635f8d53353ffa7b2"/>
 		<ra_hash>e5e13057a965c79ba7fc2334993baec2</ra_hash>
 		<url>https://retroachievements.org/game/10438/hashes</url>
+	</machine>
+
+	<machine name="CTR - Crash Team Racing - Lockbox Adventure (v1.0) (Boxicfunk, Lockheart)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>CTR - Crash Team Racing - Lockbox Adventure (v1.0) (Boxicfunk, Lockheart)</description>
+		<release name="CTR - Crash Team Racing - Lockbox Adventure (v1.0) (Boxicfunk, Lockheart)" region="World"/>
+		<disk name="CTR - Crash Team Racing - Lockbox Adventure (v1.0) (Boxicfunk, Lockheart).chd" sha1="abdf94e4b558fa8c2528f42c95e5d37ea41c859e"/>
+		<ra_hash>57d7d937ea0d11e86ea00f9419250a9c</ra_hash>
+		<url>https://retroachievements.org/game/41162/hashes</url>
 	</machine>
 
 	<machine name="CTR - Crash Team Racing - Retro-Fueled (TheRedhotbr)">
@@ -6052,6 +6131,24 @@
 		<url>https://retroachievements.org/game/16531/hashes</url>
 	</machine>
 
+	<machine name="Mega Man X6 (Tweaks) (v2.6) (acediez)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>Mega Man X6 (Tweaks) (v2.6) (acediez)</description>
+		<release name="Mega Man X6 (Tweaks) (v2.6) (acediez)" region="World"/>
+		<disk name="Mega Man X6 (Tweaks) (v2.6) (acediez).chd" sha1="e945b3e9ec2edb2c291c294df057196f5486bb74"/>
+		<ra_hash>3eb9c1ca4ef22915391335062e558707</ra_hash>
+		<url>https://retroachievements.org/game/17185/hashes</url>
+	</machine>
+	<machine name="Mega Man X6 (Tweaks+Localization) (v2.6) (acediez)" cloneof="Mega Man X6 (Tweaks) (v2.6) (acediez)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>Mega Man X6 (Tweaks+Localization) (v2.6) (acediez)</description>
+		<disk name="Mega Man X6 (Tweaks+Localization) (v2.6) (acediez).chd" sha1="bbc4c32a872c6421aec6fb774c8688e2b57c9e26"/>
+		<ra_hash>8728100bd39969b166add6b71e4a4f6c</ra_hash>
+		<url>https://retroachievements.org/game/17185/hashes</url>
+	</machine>
+
 	<machine name="Mega Man X6 (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -8032,6 +8129,16 @@
 		<disk name="RC de Go! (USA).chd" sha1="d30a3a92467d1b32f969a63fa55567bdcc19fd12"/>
 		<ra_hash>c74bb723c5e7586fdfcf4614123c1955</ra_hash>
 		<url>https://retroachievements.org/game/17199/hashes</url>
+	</machine>
+
+	<machine name="Ready 2 Rumble Boxing (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Ready 2 Rumble Boxing (USA)</description>
+		<release name="Ready 2 Rumble Boxing (USA)" region="USA"/>
+		<disk name="Ready 2 Rumble Boxing (USA).chd" sha1="734a281a72671513cb2462b00d93468299ee1461"/>
+		<ra_hash>f67ddb3f25ff4de288746e3399aff1ff</ra_hash>
+		<url>https://retroachievements.org/game/18757/hashes</url>
 	</machine>
 
 	<machine name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui)">
@@ -10290,6 +10397,43 @@
 		<disk name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).chd" sha1="d99a836739d3d153983f01380e04b59fa92f393b"/>
 		<ra_hash>75e94d00ff8719f3137f175f18e1f4ee</ra_hash>
 		<url>https://retroachievements.org/game/13969/hashes</url>
+	</machine>
+
+	<machine name="Thousand Arms (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Thousand Arms (USA)</description>
+		<release name="Thousand Arms (USA)" region="USA"/>
+		<rom name="Thousand Arms (USA).m3u" size="68" crc="2989417C" md5="3eadb0b981a4aea80ee65995adaa41f4" sha1="c357b00d4ac11ce1cb42a0e25241bd48e2a173e3"/>
+		<disk name="Thousand Arms (USA) (Disc 1).chd" sha1="f8c9f497fb9daddd5e81f76ff8b1c6a5f0efc0ac"/>
+		<ra_hash>d7c39f1266ee8fd97f563720fdee915d</ra_hash>
+		<disk name="Thousand Arms (USA) (Disc 2).chd" sha1="af4df7b18398aeed6eaa4caec228bc8986beca36"/>
+		<ra_hash>5894851410373c7b82e54cf33f50bb29</ra_hash>
+		<url>https://retroachievements.org/game/11372/hashes</url>
+	</machine>
+	<machine name="Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody)" cloneof="Thousand Arms (USA)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody)</description>
+		<release name="Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody)" region="Spain"/>
+		<rom name="Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody).m3u" size="118" crc="8074FC6A" md5="211de29173572b816b4ba4c6908992c1" sha1="128fc54ffc89873dff309c26628c179a925ee7bc"/>
+		<disk name="Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody) (Disc 1).chd" sha1="56b57750a818f84ce638e5d4e4e3822feaa03600"/>
+		<ra_hash>605edccfaf72b2fadf21771b21ac2a56</ra_hash>
+		<disk name="Thousand Arms (USA) (Es) (v1.0) (Mr. Nobody) (Disc 2).chd" sha1="fae0d6a05de3350eeeb7995b9d23ed4154bf5da7"/>
+		<ra_hash>05521e40c993a2cdc2fc8c426d09c842</ra_hash>
+		<url>https://retroachievements.org/game/11372/hashes</url>
+	</machine>
+	<machine name="Thousand Arms (USA) (Ru) (v1.0) (RGR Studio)" cloneof="Thousand Arms (USA)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Thousand Arms (USA) (Ru) (v1.0) (RGR Studio)</description>
+		<release name="Thousand Arms (USA) (Ru) (v1.0) (RGR Studio)" region="Russia"/>
+		<rom name="Thousand Arms (USA) (Ru) (v1.0) (RGR Studio).m3u" size="118" crc="D90E5BAB" md5="3b0a1c9d853d679bbeb2ba3945c63d65" sha1="04485de40084b483384d0f28fb262b8ad19b691f"/>
+		<disk name="Thousand Arms (USA) (Ru) (v1.0) (RGR Studio) (Disc 1).chd" sha1="3b52e3552c613f3e398752f666984525e8daae42"/>
+		<ra_hash>356f80e009fdee3c136e438a7d8cfc08</ra_hash>
+		<disk name="Thousand Arms (USA) (Ru) (v1.0) (RGR Studio) (Disc 2).chd" sha1="21fa9c487029394cd0296c888059d044bfa9f8fd"/>
+		<ra_hash>7fe6856c2050dabcc1f739a8cbe1943e</ra_hash>
+		<url>https://retroachievements.org/game/11372/hashes</url>
 	</machine>
 
 	<machine name="Threads of Fate (USA)">

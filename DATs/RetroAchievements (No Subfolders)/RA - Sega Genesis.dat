@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>937</titlecount>
-		<hashcount>937</hashcount>
+		<titlecount>939</titlecount>
+		<hashcount>939</hashcount>
 	</header>
 
 	<game name="16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -2431,6 +2431,17 @@
 		<rom name="Exile (USA).md" size="1048576" crc="1B569DC2" md5="5fe9ab5d615e3351302f47180de27f5e" sha1="28377e9a68c2dcdfdb4133c2eb0b634aec552958"/>
 		<ra_hash>5fe9ab5d615e3351302f47180de27f5e</ra_hash>
 		<url>https://retroachievements.org/game/4251/hashes</url>
+	</game>
+
+	<game name="Faery Tale Adventure, The (USA, Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Faery Tale Adventure, The (USA, Europe)</description>
+		<release name="Faery Tale Adventure, The (USA, Europe)" region="USA"/>
+		<release name="Faery Tale Adventure, The (USA, Europe)" region="Europe"/>
+		<rom name="Faery Tale Adventure, The (USA, Europe).md" size="524288" crc="963F4969" md5="135e1eb555ef5cf661b8c9ae953985c3" sha1="5d9a448d741743c7e75e5fe462e0da0ea3d18a13"/>
+		<ra_hash>135e1eb555ef5cf661b8c9ae953985c3</ra_hash>
+		<url>https://retroachievements.org/game/9771/hashes</url>
 	</game>
 
 	<game name="Fantasia (USA, Europe)">
@@ -9289,5 +9300,15 @@
 		<rom name="Zool - Ninja of the 'Nth' Dimension (USA).md" size="1048576" crc="CB2939F1" md5="2d28ddb5be02a3b3612ba73ca064edb5" sha1="ee016f127b81f1ca25657e8fa47fac0c4ed15c97"/>
 		<ra_hash>2d28ddb5be02a3b3612ba73ca064edb5</ra_hash>
 		<url>https://retroachievements.org/game/3482/hashes</url>
+	</game>
+
+	<game name="Zoom! (World)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Zoom! (World)</description>
+		<release name="Zoom! (World)" region="World"/>
+		<rom name="Zoom! (World).md" size="262144" crc="724D6965" md5="dcb24422572d9acf8dc158aa734ebb79" sha1="05efc300b3f68496200cb73a2a462a97f930a011"/>
+		<ra_hash>dcb24422572d9acf8dc158aa734ebb79</ra_hash>
+		<url>https://retroachievements.org/game/1355/hashes</url>
 	</game>
 </datafile>

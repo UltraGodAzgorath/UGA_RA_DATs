@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>371</titlecount>
-		<hashcount>371</hashcount>
+		<titlecount>374</titlecount>
+		<hashcount>374</hashcount>
 	</header>
 
 	<game name="3D Pixel Racing (USA) (WiiWare)">
@@ -243,6 +243,15 @@
 		<release name="Resident Evil - The Umbrella Chronicles (USA)" region="USA"/>
 		<rom name="Resident Evil - The Umbrella Chronicles (USA).rvz" size="3359640752" crc="72C658CE" md5="da5e6c8ef6fc66abaeaced4c8be5fa6c" sha1="bc96c8d24c414bb9f79f12eb9157225b1abf2453"/>
 		<ra_hash>935314eae9d0f4648ab9e50e9f9b9aa4</ra_hash>
+		<url>https://retroachievements.org/game/97/hashes</url>
+	</game>
+	<game name="Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)" cloneof="Resident Evil - The Umbrella Chronicles (USA)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)</description>
+		<release name="Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)" region="Portugal"/>
+		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista).iso" size="4169596928" crc="7B37EDC2" md5="c34ad18cacd98f6d96c362fd603f3823" sha1="25a4075c372d836184ec143b1a016ccf360751b9"/>
+		<ra_hash>fa514620cb981f158c4eed467bc90906</ra_hash>
 		<url>https://retroachievements.org/game/97/hashes</url>
 	</game>
 
@@ -1220,6 +1229,25 @@
 		<url>https://retroachievements.org/game/35968/hashes</url>
 	</game>
 
+	<game name="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)</description>
+		<release name="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)" region="Brazil"/>
+		<rom name="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR).rvz" size="2829765052" crc="A9820C46" md5="bd5684b5fda19f6fa591efa428386291" sha1="26f60aff2e4b0fc6bf6d37aaefc02a8a3ad27a08"/>
+		<ra_hash>f096ef1f3fc4ff5ebf74f5cfba300e77</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+	<game name="Zero - Tsukihami no Kamen (Japan)" cloneof="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Zero - Tsukihami no Kamen (Japan)</description>
+		<release name="Zero - Tsukihami no Kamen (Japan)" region="Japan"/>
+		<rom name="Zero - Tsukihami no Kamen (Japan).rvz" size="3028899700" crc="ABBA81AE" md5="80f319c58e119e2bea882f183b5894ef" sha1="55c3c317b512195f7eb5f0075cf23d977ebd9639"/>
+		<ra_hash>e6b4f20d44ffdf9a1ccb49b03c1a98a9</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+
 	<game name="Final Fantasy Crystal Chronicles - My Life as a King (Europe) (WiiWare)" cloneof="Final Fantasy Crystal Chronicles - My Life as a King (USA) (WiiWare)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -1321,7 +1349,7 @@
 	</game>
 	<game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)">
 		<category>Retail</category>
-		<source>Unknown</source>
+		<source>Lost Level Archive</source>
 		<description>Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
 		<release name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)" region="USA"/>
 		<release name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)" region="Brazil"/>
@@ -2800,7 +2828,7 @@
 
 	<game name="Newer Holiday Special SMNP07 EURv1 (KMNP07)">
 		<category>Hack</category>
-		<source>No-Intro, RAPatches</source>
+		<source>Redump, RAPatches</source>
 		<description>Newer Holiday Special SMNP07 EURv1 (KMNP07)</description>
 		<release name="Newer Holiday Special SMNP07 EURv1 (KMNP07)" region="World"/>
 		<rom name="Newer Holiday Special SMNP07 EURv1 [KMNP07].rvz" size="250147948" crc="AAF129A7" md5="dcc9abdf4a16297846fa86a4ee18a518" sha1="ae5a4e3dd0859ca0501680fabff3b0bb7f45e7c6"/>
@@ -2820,7 +2848,7 @@
 
 	<game name="Newer Summer Sun SMNP06 EURv1 (KMNP06)">
 		<category>Hack</category>
-		<source>No-Intro, RAPatches</source>
+		<source>Redump, RAPatches</source>
 		<description>Newer Summer Sun SMNP06 EURv1 (KMNP06)</description>
 		<release name="Newer Summer Sun SMNP06 EURv1 (KMNP06)" region="World"/>
 		<rom name="Newer Summer Sun SMNP06 EURv1 [KMNP06].rvz" size="279665044" crc="D3795C89" md5="da11d4bee01c4414987b52559420e943" sha1="c56256693f1f5674821d298c1071914bce8d6385"/>
@@ -3029,24 +3057,24 @@
 		<url>https://retroachievements.org/game/35257/hashes</url>
 	</game>
 
-	<game name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)">
+	<game name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)" cloneof="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)">
 		<category>Retail</category>
 		<source>No-Intro, rhdn, RAPatches</source>
 		<description>Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)</description>
-		<release name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)" region="English"/>
 		<rom name="Pokémon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape).wad" size="30311936" crc="24D7684E" md5="ca30dc6129124513e3c0231fb997008d" sha1="3e02cf853624d002e275ff7faf7691ab582e167e"/>
 		<ra_hash>58e96f7bd24f9d12cd3ca9d255ae1a7c</ra_hash>
 		<url>https://retroachievements.org/game/35259/hashes</url>
 	</game>
-	<game name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)" cloneof="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)">
+	<game name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)">
 		<category>Retail</category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)</description>
+		<release name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)" region="English"/>
 		<rom name="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape).wad" size="28498752" crc="51C65605" md5="fd66ea523371f31a15a238f97d11d981" sha1="f4977fa69fd8335955c92b02b3b447def470128d"/>
 		<ra_hash>f8fddf8116ed892a3d5e1d77acc5e6b3</ra_hash>
 		<url>https://retroachievements.org/game/35259/hashes</url>
 	</game>
-	<game name="Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan) (WiiWare)" cloneof="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v1.03) (Specialagentape)">
+	<game name="Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan) (WiiWare)" cloneof="Pokemon Fushigi no Dungeon - Susume! Hono no Bokendan (Japan) (En) (v2.01) (Specialagentape)">
 		<category>Retail</category>
 		<source>No-Intro</source>
 		<description>Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan) (WiiWare)</description>
@@ -3222,7 +3250,7 @@
 	</game>
 	<game name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)" cloneof="Resident Evil - The Darkside Chronicles (USA)">
 		<category>Retail</category>
-		<source>Unknown</source>
+		<source>Redump, RAPatches</source>
 		<description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
 		<release name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)" region="Russia"/>
 		<rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).rvz" size="3300116384" crc="EE0A2FEF" md5="2a885ab381f98549e1f20abb37bbe867" sha1="9019adba515069591f7f861a02a43a6bf31f0d9e"/>
@@ -3246,7 +3274,7 @@
 	</game>
 	<game name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)" cloneof="Resident Evil 4 - Wii Edition (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<source>Redump, Lost Level Archive</source>
+		<source>Redump, RAPatches</source>
 		<description>Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)</description>
 		<release name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)" region="Portugal"/>
 		<rom name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex).rvz" size="3518701372" crc="5C860AEF" md5="4e0e4638369bda4dd53c1f919d12ad8e" sha1="95c0ab9ef26227b686ec927cde2d3e2d98118ac9"/>

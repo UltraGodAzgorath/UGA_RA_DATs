@@ -5,12 +5,12 @@
 		<name>RA - Bandai WonderSwan</name>
 		<description>Bandai WonderSwan</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/53-wonderswan/games</url>
-		<titlecount>55</titlecount>
-		<hashcount>72</hashcount>
+		<titlecount>56</titlecount>
+		<hashcount>73</hashcount>
 	</header>
 
 	<game name="Homebrew/Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)">
@@ -266,6 +266,15 @@
 		<url>https://retroachievements.org/game/14769/hashes</url>
 	</game>
 
+	<game name="Retail/Ganso Jajamaru-kun (Japan)">
+		<category>WonderSwan</category>
+		<source>No-Intro</source>
+		<description>Ganso Jajamaru-kun (Japan)</description>
+		<rom name="Ganso Jajamaru-kun (Japan).ws" size="524288" crc="A193458C" md5="6f09fc64352ba0051e724c4ae58402f4" sha1="cbf6455e89b20a000b6121e5c485be1a20d1f726"/>
+		<ra_hash>6f09fc64352ba0051e724c4ae58402f4</ra_hash>
+		<url>https://retroachievements.org/game/14600/hashes</url>
+	</game>
+
 	<game name="Retail/Golden Axe (Japan)">
 		<category>WonderSwan Color</category>
 		<source>No-Intro</source>
@@ -502,7 +511,7 @@
 		<url>https://retroachievements.org/game/18432/hashes</url>
 	</game>
 
-	<game name="Retail/Rockman.EXE WS - Mega Man Battle Network Wonderswan/Rockman EXE WS (Japan)">
+	<game name="Retail/Rockman.EXE WS/Rockman EXE WS (Japan)">
 		<category>WonderSwan Color</category>
 		<source>No-Intro</source>
 		<description>Rockman EXE WS (Japan)</description>
@@ -510,7 +519,7 @@
 		<ra_hash>a66390da2c2defcf092eb107edaf4fa0</ra_hash>
 		<url>https://retroachievements.org/game/14596/hashes</url>
 	</game>
-	<game name="Retail/Rockman.EXE WS - Mega Man Battle Network Wonderswan/Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)">
+	<game name="Retail/Rockman.EXE WS/Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)">
 		<category>WonderSwan Color</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)</description>

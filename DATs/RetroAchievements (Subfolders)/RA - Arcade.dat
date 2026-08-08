@@ -5,12 +5,12 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/27-arcade/games</url>
-		<titlecount>528</titlecount>
-		<hashcount>777</hashcount>
+		<titlecount>529</titlecount>
+		<hashcount>778</hashcount>
 	</header>
 
 	<game name="Retail/Captain Commando/captcomm">
@@ -23853,6 +23853,29 @@
 		<driver status="good"/>
 		<ra_hash>e5bd62b42448d2a0b542700b4b156eb3</ra_hash>
 		<url>https://retroachievements.org/game/15762/hashes</url>
+	</game>
+
+	<game name="Retail/dremshpr">
+		<category>FBNeo</category>
+		<source>fbneo</source>
+		<description>Dream Shopper</description>
+		<year>1982</year>
+		<manufacturer>Sanritsu</manufacturer>
+		<rom name="red_1.50" size="4096" crc="830c6361"/>
+		<rom name="red_2.51" size="4096" crc="d22551cc"/>
+		<rom name="red_3.52" size="4096" crc="0713a34a"/>
+		<rom name="red_4.53" size="4096" crc="f38bcaaa"/>
+		<rom name="red_5.39" size="4096" crc="6a382267"/>
+		<rom name="red_6.40" size="4096" crc="4cf8b121"/>
+		<rom name="red_7.41" size="4096" crc="bd4fc4ba"/>
+		<rom name="red-20.18" size="4096" crc="2d6698dc"/>
+		<rom name="red-21.19" size="4096" crc="38c9ce9b"/>
+		<rom name="6331-1.6" size="32" crc="ce1d9503"/>
+		<rom name="6301-1.37" size="256" crc="39d6fb5c"/>
+		<video type="raster" orientation="vertical" width="224" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<ra_hash>3fd403865bffb2a0735f8baa01260715</ra_hash>
+		<url>https://retroachievements.org/game/15774/hashes</url>
 	</game>
 
 	<game name="Retail/galpans3">

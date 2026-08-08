@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>736</titlecount>
-		<hashcount>736</hashcount>
+		<titlecount>739</titlecount>
+		<hashcount>739</hashcount>
 	</header>
 
 	<game name="Homebrew/204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -323,6 +323,15 @@
 		<rom name="Amida (Japan).gb" size="32768" crc="60128AA8" md5="9642b7c599b47135cbd4e45e039d608d" sha1="2b502583aa73cb72557589791dec7e28a2d29969"/>
 		<ra_hash>9642b7c599b47135cbd4e45e039d608d</ra_hash>
 		<url>https://retroachievements.org/game/7421/hashes</url>
+	</game>
+
+	<game name="Retail/Animal Breeder (Japan) (SGB Enhanced) (En) (douteigama)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Animal Breeder (Japan) (SGB Enhanced) (En) (douteigama)</description>
+		<rom name="Animal Breeder (Japan) (SGB Enhanced) (En) (douteigama).gb" size="524288" crc="CE3432E0" md5="ecddc5d1fc1322b647ca9df260fca225" sha1="2c5641e3a4301510d9caac4006c28ce62f7a0b37"/>
+		<ra_hash>ecddc5d1fc1322b647ca9df260fca225</ra_hash>
+		<url>https://retroachievements.org/game/7808/hashes</url>
 	</game>
 
 	<game name="Retail/Arcade Classic No. 3 - Galaga &amp; Galaxian/Arcade Classic No. 3 - Galaga &amp; Galaxian (DX) (v1.1) (MojoDodo)">
@@ -1930,6 +1939,15 @@
 		<url>https://retroachievements.org/game/4588/hashes</url>
 	</game>
 
+	<game name="Homebrew/Friend Of The Void">
+		<category></category>
+		<source>Unknown</source>
+		<description>Friend Of The Void</description>
+		<rom name="Friend Of The Void.gb" size="524288" crc="10697CE3" md5="a35f069f57eac92b4289b6cb45376963" sha1="1192e03f448503d4594a81644ee8fc9b7e80e085"/>
+		<ra_hash>a35f069f57eac92b4289b6cb45376963</ra_hash>
+		<url>https://retroachievements.org/game/41178/hashes</url>
+	</game>
+
 	<game name="Homebrew/Frog Detective Minus 1 (World) (Aftermarket) (Unl)">
 		<category></category>
 		<source>itchio, Lost Level Archive</source>
@@ -2326,6 +2344,15 @@
 		<rom name="Hero Shuugou!! Pinball Party (Japan).gb" size="65536" crc="740552ED" md5="cd6ca2a01e2310193c46afcbfa382ab5" sha1="c4f0428455c6a4772c2db7bab0132dca169e22c7"/>
 		<ra_hash>cd6ca2a01e2310193c46afcbfa382ab5</ra_hash>
 		<url>https://retroachievements.org/game/7007/hashes</url>
+	</game>
+
+	<game name="Homebrew/Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)</description>
+		<rom name="Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio).gb" size="262144" crc="B97960B5" md5="9a7359abaaddedb18902fbaaf3e25db7" sha1="22569b9be919d9c4a37b4c1bfe137878998265b6"/>
+		<ra_hash>9a7359abaaddedb18902fbaaf3e25db7</ra_hash>
+		<url>https://retroachievements.org/game/23801/hashes</url>
 	</game>
 
 	<game name="Retail/High Stakes Gambling (USA)">

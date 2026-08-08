@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>835</titlecount>
-		<hashcount>835</hashcount>
+		<titlecount>836</titlecount>
+		<hashcount>836</hashcount>
 	</header>
 
 	<game name="007 - Goldfinger (Hack) (Various)">
@@ -7923,6 +7923,16 @@
 		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).z64" size="8388608" crc="50CD1F71" md5="6e81d3056e409208e4af2d39a2ff0f03" sha1="6e40312cf88a9182e93b396b9d82457b1aba7cd6"/>
 		<ra_hash>6e81d3056e409208e4af2d39a2ff0f03</ra_hash>
 		<url>https://retroachievements.org/game/10531/hashes</url>
+	</game>
+
+	<game name="Wheel of Fortune (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Wheel of Fortune (USA)</description>
+		<release name="Wheel of Fortune (USA)" region="USA"/>
+		<rom name="Wheel of Fortune (USA).z64" size="4194304" crc="8D3EFA8D" md5="2abe36754e866b9b6c4bdcffc1d11abf" sha1="b51b28660699bf029f862f51c319a5962fe9de9b"/>
+		<ra_hash>2ABE36754E866B9B6C4BDCFFC1D11ABF</ra_hash>
+		<url>https://retroachievements.org/game/11736/hashes</url>
 	</game>
 
 	<game name="WinBack - Covert Operations (USA)">

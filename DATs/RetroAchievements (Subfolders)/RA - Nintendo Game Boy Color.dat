@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/6-game-boy-color/games</url>
-		<titlecount>596</titlecount>
-		<hashcount>596</hashcount>
+		<titlecount>601</titlecount>
+		<hashcount>601</hashcount>
 	</header>
 
 	<game name="Retail/007 - The World Is Not Enough (USA, Europe)">
@@ -240,6 +240,23 @@
 		<rom name="Ballistic (USA) (GB Compatible).gbc" size="524288" crc="A9050F72" md5="3b783f3fded9c61f2f9bb1d956bfd6cd" sha1="28dfdc00ec7e353f4aae4c65d671300c0b97ab90"/>
 		<ra_hash>3b783f3fded9c61f2f9bb1d956bfd6cd</ra_hash>
 		<url>https://retroachievements.org/game/13091/hashes</url>
+	</game>
+
+	<game name="Retail/Balloon Fight GB/Balloon Fight GB (Japan) (En) (v1.0) (dACE)">
+		<category></category>
+		<source>No-Intro, rhdn, RAPatches</source>
+		<description>Balloon Fight GB (Japan) (En) (v1.0) (dACE)</description>
+		<rom name="Balloon Fight GB (Japan) (En) (v1.0) (dACE).gbc" size="262144" crc="0F3FB0F1" md5="2a0abe753877bf312725a9122f1e6489" sha1="e22d939f2a9afdb26259e68de4c64aca734933e0"/>
+		<ra_hash>2a0abe753877bf312725a9122f1e6489</ra_hash>
+		<url>https://retroachievements.org/game/6523/hashes</url>
+	</game>
+	<game name="Retail/Balloon Fight GB/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)</description>
+		<rom name="Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP).gbc" size="262144" crc="D2AF64CE" md5="f94f61e6beaec6222e0d35229e2e271e" sha1="dbaa1bf9061de0f052704d6a33892341a38f2152"/>
+		<ra_hash>f94f61e6beaec6222e0d35229e2e271e</ra_hash>
+		<url>https://retroachievements.org/game/6523/hashes</url>
 	</game>
 
 	<game name="Retail/Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)">
@@ -1068,6 +1085,15 @@
 		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="B7CDF437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c"/>
 		<ra_hash>160d4da4a787f957fbd5079db6ee86b2</ra_hash>
 		<url>https://retroachievements.org/game/33577/hashes</url>
+	</game>
+
+	<game name="Homebrew/Fear_and_Hunger_GBC">
+		<category></category>
+		<source>Unknown</source>
+		<description>Fear_and_Hunger_GBC</description>
+		<rom name="Fear_and_Hunger_GBC.gbc" size="524288" crc="656B42FE" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e"/>
+		<ra_hash>bbad259d61cfd1fee30578b6214d7891</ra_hash>
+		<url>https://retroachievements.org/game/41177/hashes</url>
 	</game>
 
 	<game name="Homebrew/Feed IT Souls (World) (v1.4) (Aftermarket) (Unl)">
@@ -3959,6 +3985,15 @@
 		<url>https://retroachievements.org/game/4131/hashes</url>
 	</game>
 
+	<game name="Retail/Sgt. Rock - On the Frontline (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Sgt. Rock - On the Frontline (USA)</description>
+		<rom name="Sgt. Rock - On the Frontline (USA).gbc" size="1048576" crc="521A2F77" md5="a2623acf15ec36ab072ee5b92b88b613" sha1="53d7fa6fdac65519f8a78f4a42e79e56162589ad"/>
+		<ra_hash>a2623acf15ec36ab072ee5b92b88b613</ra_hash>
+		<url>https://retroachievements.org/game/3638/hashes</url>
+	</game>
+
 	<game name="Retail/Shadowgate Classic/Shadowgate Classic (Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)">
 		<category></category>
 		<source>No-Intro</source>
@@ -4645,6 +4680,15 @@
 		<rom name="Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).gbc" size="1048576" crc="6EDA6A3A" md5="28d6c613fdf608fe241fb3ce183aaae5" sha1="fb7856af0205cc749174cda9eb51ae137984558c"/>
 		<ra_hash>28d6c613fdf608fe241fb3ce183aaae5</ra_hash>
 		<url>https://retroachievements.org/game/13829/hashes</url>
+	</game>
+
+	<game name="Homebrew/TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)</description>
+		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV).gbc" size="524288" crc="146FA781" md5="1a3ddd2e8430ee7f754196f6b5202432" sha1="7d6c0b2fa6a211d1a9e3e41edeb3b9c921c4ceb3"/>
+		<ra_hash>1a3ddd2e8430ee7f754196f6b5202432</ra_hash>
+		<url>https://retroachievements.org/game/33642/hashes</url>
 	</game>
 
 	<game name="Retail/Ultimate Fighting Championship (USA)">

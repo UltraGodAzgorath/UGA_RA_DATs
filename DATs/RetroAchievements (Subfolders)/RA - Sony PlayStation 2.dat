@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>919</titlecount>
-		<hashcount>1193</hashcount>
+		<titlecount>929</titlecount>
+		<hashcount>1210</hashcount>
 	</header>
 
 	<machine name="Retail/007 - Agent Under Fire/007 - Agent Under Fire (USA)">
@@ -2526,6 +2526,31 @@
 		<url>https://retroachievements.org/game/19288/hashes</url>
 	</machine>
 
+	<machine name="Retail/Madagascar - Escape 2 Africa/DreamWorks Madagascar - Escape 2 Africa (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<source>Redump</source>
+		<description>DreamWorks Madagascar - Escape 2 Africa (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<disk name="DreamWorks Madagascar - Escape 2 Africa (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="9562db531cd8c85f6644d37a7ff62a72ee34362c"/>
+		<ra_hash>95e5a55292437d38e348679e9f4438a7</ra_hash>
+		<url>https://retroachievements.org/game/19289/hashes</url>
+	</machine>
+	<machine name="Retail/Madagascar - Escape 2 Africa/DreamWorks Madagascar - Escape 2 Africa (Russia)">
+		<category></category>
+		<source>Redump</source>
+		<description>DreamWorks Madagascar - Escape 2 Africa (Russia)</description>
+		<disk name="DreamWorks Madagascar - Escape 2 Africa (Russia).chd" sha1="891e2d0c5ebbcb3192088bf1a8165dc384d1ebdf"/>
+		<ra_hash>5278ae6827030bdbe30e4e8ef062e66c</ra_hash>
+		<url>https://retroachievements.org/game/19289/hashes</url>
+	</machine>
+	<machine name="Retail/Madagascar - Escape 2 Africa/DreamWorks Madagascar - Escape 2 Africa (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>DreamWorks Madagascar - Escape 2 Africa (USA)</description>
+		<disk name="DreamWorks Madagascar - Escape 2 Africa (USA).chd" sha1="5b04a647c8e39b3acd8e50c62bc11aef8bbf0500"/>
+		<ra_hash>27ac79bb5d16f55511a7b41183bdbf7f</ra_hash>
+		<url>https://retroachievements.org/game/19289/hashes</url>
+	</machine>
+
 	<machine name="Retail/DreamWorks Over the Hedge (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -2713,6 +2738,15 @@
 		<disk name="Dynasty Warriors 6 (USA).chd" sha1="22204f3c96a93f599c309ce68fe574d588cacfa3"/>
 		<ra_hash>0f47fb08279267bcb5787e07bd475518</ra_hash>
 		<url>https://retroachievements.org/game/20788/hashes</url>
+	</machine>
+
+	<machine name="Retail/E.O.E - Eve of Extinction (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>E.O.E - Eve of Extinction (USA)</description>
+		<disk name="E.O.E - Eve of Extinction (USA).chd" sha1="28ed0efeacf91dfe78d3f737d4749155d11d42bb"/>
+		<ra_hash>d4674a3cdd1ef605a53a96da002759d0</ra_hash>
+		<url>https://retroachievements.org/game/20951/hashes</url>
 	</machine>
 
 	<machine name="Retail/Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It)">
@@ -2914,6 +2948,15 @@
 		<disk name="EyeToy - Play 2 (USA).chd" sha1="3442301aa40ba7196ad6a813353e5ee34ce236c0"/>
 		<ra_hash>bba10841751c24e74962f0bdc3f7535b</ra_hash>
 		<url>https://retroachievements.org/game/33110/hashes</url>
+	</machine>
+
+	<machine name="Retail/EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El)">
+		<category></category>
+		<source>Redump</source>
+		<description>EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El)</description>
+		<disk name="EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El).chd" sha1="4322c757298998e693aaf94dd9dbabe38861700d"/>
+		<ra_hash>78dc9e5ff36566f6a215a3b6fc1d08d0</ra_hash>
+		<url>https://retroachievements.org/game/33111/hashes</url>
 	</machine>
 
 	<machine name="Retail/Fairly OddParents, The - Breakin' da Rules (USA)">
@@ -3302,6 +3345,15 @@
 		<disk name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It).chd" sha1="1ce2e09303b201a3798a8978e89461d8e4edfba4"/>
 		<ra_hash>1ad230ba0c30827bf47a9a34edffbe8d</ra_hash>
 		<url>https://retroachievements.org/game/19029/hashes</url>
+	</machine>
+
+	<machine name="Retail/Ford Racing 3 (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Ford Racing 3 (USA)</description>
+		<disk name="Ford Racing 3 (USA).chd" sha1="dd6948c0fd19bd52fb68334a9698de49f1eaffea"/>
+		<ra_hash>3d1c789ad54e785294a10a56ffe002af</ra_hash>
+		<url>https://retroachievements.org/game/20570/hashes</url>
 	</machine>
 
 	<machine name="Subset/Formula One 06 (Subset - Multiplayer)">
@@ -5855,6 +5907,39 @@
 		<url>https://retroachievements.org/game/20520/hashes</url>
 	</machine>
 
+	<machine name="Retail/Michigan - Report from Hell/Michigan - Report from Hell (Europe) (En,Fr,Es,It)">
+		<category></category>
+		<source>Redump</source>
+		<description>Michigan - Report from Hell (Europe) (En,Fr,Es,It)</description>
+		<disk name="Michigan - Report from Hell (Europe) (En,Fr,Es,It).chd" sha1="37af1453872bf4ed0008637c6dc6172596ee1b62"/>
+		<ra_hash>7c3e3404f410eb09a8aa158159adecdd</ra_hash>
+		<url>https://retroachievements.org/game/2682/hashes</url>
+	</machine>
+	<machine name="Retail/Michigan - Report from Hell/Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration + Widescreen) (v1.0) (Souzooka)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration + Widescreen) (v1.0) (Souzooka)</description>
+		<disk name="Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration + Widescreen) (v1.0) (Souzooka).chd" sha1="9ab3b3001c1bce6ea7d9fff5e47230acdbc36f11"/>
+		<ra_hash>f124aaafed5c87d74bfbb6c5df5196f5</ra_hash>
+		<url>https://retroachievements.org/game/2682/hashes</url>
+	</machine>
+	<machine name="Retail/Michigan - Report from Hell/Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration) (v1.0) (Souzooka)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration) (v1.0) (Souzooka)</description>
+		<disk name="Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Fog Effect Restoration) (v1.0) (Souzooka).chd" sha1="ddf3017aa5d879fc49aa2163092cf2c633c89338"/>
+		<ra_hash>38d26e47b509cee855bec3d9824ffd93</ra_hash>
+		<url>https://retroachievements.org/game/2682/hashes</url>
+	</machine>
+	<machine name="Retail/Michigan - Report from Hell/Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Widescreen) (v1.0) (Souzooka)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Widescreen) (v1.0) (Souzooka)</description>
+		<disk name="Michigan - Report from Hell (Europe) (En,Fr,Es,It) (Widescreen) (v1.0) (Souzooka).chd" sha1="d874d33848292a188181a1ab95459942d311247d"/>
+		<ra_hash>989b8ac87e014181be7673dfecd33891</ra_hash>
+		<url>https://retroachievements.org/game/2682/hashes</url>
+	</machine>
+
 	<machine name="Retail/Midnight Club - Street Racing (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -7076,6 +7161,15 @@
 		<url>https://retroachievements.org/game/3100/hashes</url>
 	</machine>
 
+	<machine name="Retail/Pucelle, La - Tactics (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Pucelle, La - Tactics (USA)</description>
+		<disk name="Pucelle, La - Tactics (USA).chd" sha1="2377abf6756a802101ead3915dfd2e9d50526a20"/>
+		<ra_hash>e882570a116b04908eee5c5e760056aa</ra_hash>
+		<url>https://retroachievements.org/game/19360/hashes</url>
+	</machine>
+
 	<machine name="Retail/The Punisher/Punisher, The (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -7528,6 +7622,15 @@
 		<disk name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It).chd" sha1="6c5982536241e99d86f66bac7874c43d9c984601"/>
 		<ra_hash>71d11ede54d53de26043294382fbca06</ra_hash>
 		<url>https://retroachievements.org/game/38417/hashes</url>
+	</machine>
+
+	<machine name="Retail/Ruff Trigger - The Vanocore Conspiracy (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Ruff Trigger - The Vanocore Conspiracy (USA)</description>
+		<disk name="Ruff Trigger - The Vanocore Conspiracy (USA).chd" sha1="051b5f39a7017e54bf9701066a34754fbfe2d0e9"/>
+		<ra_hash>5bfdfd5879cd882106c1d7d90aebb4a3</ra_hash>
+		<url>https://retroachievements.org/game/27524/hashes</url>
 	</machine>
 
 	<machine name="Retail/Rule of Rose/Rule of Rose (Europe) (En,Fr,De,Es,It)">
@@ -8949,6 +9052,15 @@
 		<url>https://retroachievements.org/game/2609/hashes</url>
 	</machine>
 
+	<machine name="Retail/Suikoden IV (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Suikoden IV (USA)</description>
+		<disk name="Suikoden IV (USA).chd" sha1="b8d745de9ad1a6ce2753f5f0611d1d4dd83f75d6"/>
+		<ra_hash>1c041974d1eb6489229a5d252f20239e</ra_hash>
+		<url>https://retroachievements.org/game/2617/hashes</url>
+	</machine>
+
 	<machine name="Retail/Suikoden Tactics (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -9146,6 +9258,23 @@
 		<disk name="Taz - Wanted (USA) (En,Fr,De,Es,It).chd" sha1="826b7c4783d3521d59fb73091eb7f746d9c116e3"/>
 		<ra_hash>78b7874c15652ead1c80160c722ebc78</ra_hash>
 		<url>https://retroachievements.org/game/19917/hashes</url>
+	</machine>
+
+	<machine name="Retail/TearRing Saga - Berwick Saga/TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan)">
+		<category></category>
+		<source>Redump</source>
+		<description>TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan)</description>
+		<disk name="TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan).chd" sha1="e0eb235e18fd7b16bf28d3b22f2e74ea571154f2"/>
+		<ra_hash>22bdd475640dc07845eeb138ad1fdeaa</ra_hash>
+		<url>https://retroachievements.org/game/21146/hashes</url>
+	</machine>
+	<machine name="Retail/TearRing Saga - Berwick Saga/TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3)</description>
+		<disk name="TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3).chd" sha1="e89535ea30d6e66f3e2064a1aadef356d455c70d"/>
+		<ra_hash>4153af881adb78fa69ac3bb5c18275b9</ra_hash>
+		<url>https://retroachievements.org/game/21146/hashes</url>
 	</machine>
 
 	<machine name="Retail/Teen Titans (USA)">
@@ -9986,6 +10115,23 @@
 		<disk name="World Championship Poker (USA).chd" sha1="8344080e9116569137f8ed38543cc6ee07fffbba"/>
 		<ra_hash>3a978fb5d55d3499172099cff836a490</ra_hash>
 		<url>https://retroachievements.org/game/21748/hashes</url>
+	</machine>
+
+	<machine name="Retail/Worms 3D/Worms 3D (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>Redump</source>
+		<description>Worms 3D (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Worms 3D (Europe) (En,Fr,De,Es,It).chd" sha1="5d1cb8a854f00daa6985fc8d542435b42128b0fe"/>
+		<ra_hash>3daac996b35c48c3897bf63118cee521</ra_hash>
+		<url>https://retroachievements.org/game/21184/hashes</url>
+	</machine>
+	<machine name="Retail/Worms 3D/Worms 3D (USA) (En,Fr)">
+		<category></category>
+		<source>Redump</source>
+		<description>Worms 3D (USA) (En,Fr)</description>
+		<disk name="Worms 3D (USA) (En,Fr).chd" sha1="9893bbf8c743d03097f5a9e131bdd746cb71315e"/>
+		<ra_hash>60d8e03f442d0c4cec23eb73194c12ae</ra_hash>
+		<url>https://retroachievements.org/game/21184/hashes</url>
 	</machine>
 
 	<machine name="Retail/WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)">

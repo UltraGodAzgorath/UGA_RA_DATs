@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1943</titlecount>
-		<hashcount>1943</hashcount>
+		<titlecount>1945</titlecount>
+		<hashcount>1945</hashcount>
 	</header>
 
 	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -12723,6 +12723,16 @@
 		<url>https://retroachievements.org/game/18102/hashes</url>
 	</game>
 
+	<game name="SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk)">
+		<category>Hack</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk)</description>
+		<release name="SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk)" region="World"/>
+		<rom name="SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk).sfc" size="2097152" crc="CC8116B6" md5="fdd7bf17dac6d6b06b55abfa715f7c0a" sha1="5d4d1be696f587a899a188969a3fd504513c683a"/>
+		<ra_hash>fdd7bf17dac6d6b06b55abfa715f7c0a</ra_hash>
+		<url>https://retroachievements.org/game/41222/hashes</url>
+	</game>
+
 	<game name="SMW - Legends of Mario (v1.2)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -13882,6 +13892,16 @@
 		<rom name="SMW - Super Machok World (Kurukururin).sfc" size="4194304" crc="3B69F69C" md5="c0dda0e2f9e731d6fb14b543c2c912ae" sha1="f54d90679871fd957305509cd90b8d5c9a01ea1b"/>
 		<ra_hash>c0dda0e2f9e731d6fb14b543c2c912ae</ra_hash>
 		<url>https://retroachievements.org/game/14485/hashes</url>
+	</game>
+
+	<game name="SMW - Super Magro World for Super Nintendo (v1.0) (Green Jerry)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Super Magro World for Super Nintendo (v1.0) (Green Jerry)</description>
+		<release name="SMW - Super Magro World for Super Nintendo (v1.0) (Green Jerry)" region="World"/>
+		<rom name="SMW - Super Magro World for Super Nintendo (v1.0) (Green Jerry).sfc" size="2097152" crc="50929EDD" md5="8efc822f0f4498cf78d5eb6ac7d9f6d4" sha1="a46e98de38673f9beecf23c9a6f8756fdf63f5ce"/>
+		<ra_hash>8efc822f0f4498cf78d5eb6ac7d9f6d4</ra_hash>
+		<url>https://retroachievements.org/game/41224/hashes</url>
 	</game>
 
 	<game name="SMW - Super Mario - Christmas Season (Master S)">

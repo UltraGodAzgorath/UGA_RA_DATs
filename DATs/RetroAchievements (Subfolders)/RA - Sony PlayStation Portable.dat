@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation Portable</name>
 		<description>Sony PlayStation Portable</description>
 		<category>Subfolders</category>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/41-playstation-portable/games</url>
-		<titlecount>344</titlecount>
-		<hashcount>434</hashcount>
+		<titlecount>345</titlecount>
+		<hashcount>436</hashcount>
 	</header>
 
 	<machine name="Retail/hack--Link (Japan) (En)">
@@ -1667,7 +1667,7 @@
 		<url>https://retroachievements.org/game/15627/hashes</url>
 	</machine>
 
-	<machine name="Retail/Hot Shots Golf - Open Tee/Hot Shots Golf - Open Tee (Asia)">
+	<machine name="Retail/Everybody's Golf/Hot Shots Golf - Open Tee (Asia)">
 		<category>PSP</category>
 		<source>Redump, No-Intro</source>
 		<description>Hot Shots Golf - Open Tee (Asia)</description>
@@ -1675,7 +1675,7 @@
 		<ra_hash>75dae6957b4906668bbca1a2196929ac</ra_hash>
 		<url>https://retroachievements.org/game/3969/hashes</url>
 	</machine>
-	<machine name="Retail/Hot Shots Golf - Open Tee/Hot Shots Golf - Open Tee (USA) (v2.00)">
+	<machine name="Retail/Everybody's Golf/Hot Shots Golf - Open Tee (USA) (v2.00)">
 		<category>PSP</category>
 		<source>Redump, No-Intro</source>
 		<description>Hot Shots Golf - Open Tee (USA) (v2.00)</description>
@@ -2544,6 +2544,23 @@
 		<disk name="Need for Speed - Carbon - Own the City (USA).chd" sha1="ee509f7d96ad92b4ddd54ec95b7ee8ee0b45f526"/>
 		<ra_hash>b0117fc7fe2558654905ecc53e363bd9</ra_hash>
 		<url>https://retroachievements.org/game/18149/hashes</url>
+	</machine>
+
+	<machine name="Retail/Never7 - The End of Infinity/Never 7 - The End of Infinity (Japan) (En) (v0.3)">
+		<category>PSP</category>
+		<source>Redump, RAPatches</source>
+		<description>Never 7 - The End of Infinity (Japan) (En) (v0.3)</description>
+		<disk name="Never 7 - The End of Infinity (Japan) (En) (v0.3).chd" sha1="a36f49198d1b0eadff782215fb9ffcd89b8edfb6"/>
+		<ra_hash>d670f15dfc42bcd05b73c782e5935e11</ra_hash>
+		<url>https://retroachievements.org/game/18129/hashes</url>
+	</machine>
+	<machine name="Retail/Never7 - The End of Infinity/Never7 - The End of Infinity (Japan) (v1.01)">
+		<category>PSP</category>
+		<source>No-Intro</source>
+		<description>Never7 - The End of Infinity (Japan) (v1.01)</description>
+		<disk name="Never7 - The End of Infinity (Japan) (v1.01).chd" sha1="77527e29e1389323ccdc069a84a3e49afd6ddec8"/>
+		<ra_hash>d8552947d673372ad559aa6b6e84802d</ra_hash>
+		<url>https://retroachievements.org/game/18129/hashes</url>
 	</machine>
 
 	<machine name="Retail/Nickelodeon SpongeBob's Truth or Square (USA)">

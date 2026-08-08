@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
-		<version>20260719</version>
-		<date>19 July 2026</date>
+		<version>20260809</version>
+		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/78-nintendo-dsi/games</url>
-		<titlecount>76</titlecount>
-		<hashcount>76</hashcount>
+		<titlecount>77</titlecount>
+		<hashcount>77</hashcount>
 	</header>
 
 	<game name="1001 Blockbusters (Europe)">
@@ -266,6 +266,17 @@
 		<rom name="Dark Void Zero (Europe, Australia).nds" size="9525248" crc="D3EFCCC3" md5="c2b23281d1089509514b7b012f272e08" sha1="e1539ae3b724307e5e747fcd23ac1d338b09b3fd"/>
 		<ra_hash>d080287ca99643c37f9b956f0797e6c4</ra_hash>
 		<url>https://retroachievements.org/game/22311/hashes</url>
+	</game>
+
+	<game name="Date Or Ditch (Europe, Australia)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Date Or Ditch (Europe, Australia)</description>
+		<release name="Date Or Ditch (Europe, Australia)" region="Europe"/>
+		<release name="Date Or Ditch (Europe, Australia)" region="Australia"/>
+		<rom name="Date Or Ditch (Europe, Australia).nds" size="8945664" crc="05DF3346" md5="c2c66530d4aaf75b5919eb6f39ede46f" sha1="f2730d527d96f9042ccacb75c5dc1e0cee21b441"/>
+		<ra_hash>afb08aa0bab13e132574db54af0f37d9</ra_hash>
+		<url>https://retroachievements.org/game/27674/hashes</url>
 	</game>
 
 	<game name="Decathlon 2012 (Europe)">
