@@ -1087,11 +1087,11 @@
 		<url>https://retroachievements.org/game/33577/hashes</url>
 	</game>
 
-	<game name="Homebrew/Fear_and_Hunger_GBC">
+	<game name="Homebrew/Fear and Hunger (World) (Aftermarket) (darkclaw616)">
 		<category></category>
 		<source>Unknown</source>
-		<description>Fear_and_Hunger_GBC</description>
-		<rom name="Fear_and_Hunger_GBC.gbc" size="524288" crc="656B42FE" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e"/>
+		<description>Fear and Hunger (World) (Aftermarket) (darkclaw616)</description>
+		<rom name="Fear and Hunger (World) (Aftermarket) (darkclaw616).gbc" size="524288" crc="656B42FE" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e"/>
 		<ra_hash>bbad259d61cfd1fee30578b6214d7891</ra_hash>
 		<url>https://retroachievements.org/game/41177/hashes</url>
 	</game>
