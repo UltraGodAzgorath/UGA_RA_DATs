@@ -9,8 +9,8 @@
 		<date>9 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>374</titlecount>
-		<hashcount>374</hashcount>
+		<titlecount>375</titlecount>
+		<hashcount>375</hashcount>
 	</header>
 
 	<game name="Retail/3D Pixel Racing (USA) (WiiWare)">
@@ -999,6 +999,14 @@
 		<description>Zero - Tsukihami no Kamen (Japan)</description>
 		<rom name="Zero - Tsukihami no Kamen (Japan).rvz" size="3028899700" crc="ABBA81AE" md5="80f319c58e119e2bea882f183b5894ef" sha1="55c3c317b512195f7eb5f0075cf23d977ebd9639"/>
 		<ra_hash>e6b4f20d44ffdf9a1ccb49b03c1a98a9</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus).rvz" size="3008890912" crc="09ED2734" md5="2f2ce8c00a78d218e618c5870d633b06" sha1="77a74a7f353d1fa32062b4570f94b0a5bda605f8"/>
+		<ra_hash>987c083562a31951544457f2400a5b56</ra_hash>
 		<url>https://retroachievements.org/game/34874/hashes</url>
 	</game>
 
