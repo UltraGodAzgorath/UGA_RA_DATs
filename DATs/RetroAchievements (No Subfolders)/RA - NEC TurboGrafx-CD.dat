@@ -857,7 +857,7 @@
 		<url>https://retroachievements.org/game/8838/hashes</url>
 	</machine>
 
-	<machine name="Ys IV - The Dawn of Ys (Japan) (Rev 3)" cloneof="Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve)">
+	<machine name="Ys IV - The Dawn of Ys (Japan) (Rev 3)" cloneof="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Ys IV - The Dawn of Ys (Japan) (Rev 3)</description>
@@ -866,12 +866,12 @@
 		<ra_hash>b77ae59195812ed30d1d5dd29cee1510</ra_hash>
 		<url>https://retroachievements.org/game/8839/hashes</url>
 	</machine>
-	<machine name="Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve)">
+	<machine name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
 		<category>Retail</category>
 		<source>Lost Level Archive</source>
-		<description>Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve)</description>
-		<release name="Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve)" region="English"/>
-		<disk name="Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve).chd" sha1="bb8b74829aba35ade56377e8dc87749c6f265806"/>
+		<description>Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)</description>
+		<release name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)" region="English"/>
+		<disk name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).chd" sha1="bb8b74829aba35ade56377e8dc87749c6f265806"/>
 		<ra_hash>f17f1c4108d55ca132515fa0bab27088</ra_hash>
 		<url>https://retroachievements.org/game/8839/hashes</url>
 	</machine>

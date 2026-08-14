@@ -539,12 +539,12 @@
 		<url>https://retroachievements.org/game/2388/hashes</url>
 	</machine>
 
-	<machine name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (PSN)">
+	<machine name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (minis) (PSN)">
 		<category>Retail</category>
 		<source>No-Intro</source>
-		<description>Carnivores - Dinosaur Hunter (Europe) (v3.00) (PSN)</description>
-		<release name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (PSN)" region="Europe"/>
-		<disk name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (PSN).chd" sha1="c76df05ee30e4f4501b8ac89d1b2f7c02748d003"/>
+		<description>Carnivores - Dinosaur Hunter (Europe) (v3.00) (minis) (PSN)</description>
+		<release name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (minis) (PSN)" region="Europe"/>
+		<disk name="Carnivores - Dinosaur Hunter (Europe) (v3.00) (minis) (PSN).chd" sha1="c76df05ee30e4f4501b8ac89d1b2f7c02748d003"/>
 		<ra_hash>596e30d9efc6b589f19c4e518da188dc</ra_hash>
 		<url>https://retroachievements.org/game/17977/hashes</url>
 	</machine>

@@ -9,8 +9,8 @@
 		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>891</titlecount>
-		<hashcount>1366</hashcount>
+		<titlecount>892</titlecount>
+		<hashcount>1367</hashcount>
 	</header>
 
 	<machine name="Retail/Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -3226,10 +3226,10 @@
 		<url>https://retroachievements.org/game/17526/hashes</url>
 	</machine>
 
-	<machine name="Retail/Final Fantasy IX (USA, Canada) (Rev 1)">
+	<machine name="Retail/Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
-		<description>Final Fantasy IX (USA, Canada) (Rev 1)</description>
+		<description>Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)</description>
 		<rom name="Final Fantasy IX (USA, Canada) (Rev 1).m3u" size="212" crc="B44CD90F" md5="6b3f541609de0cad13eb70f53266c678" sha1="55e2d91f2d3d58b878abe23b025bcef512d6c5ff"/>
 		<disk name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1).chd" sha1="aa95b490a84e95c18d8ac127ea6ab98ebe3d8d7f"/>
 		<ra_hash>1fe564ab22981a9f4a90da91e75d2156</ra_hash>
@@ -8321,6 +8321,15 @@
 		<disk name="Spyro the Dragon (USA) (Ru) (v1.1.2) (SteelDragon).chd" sha1="4036ce7aabbffabe0bd8509388f68b8f433407ff"/>
 		<ra_hash>314564a0f6643d951b5c09a0c474c824</ra_hash>
 		<url>https://retroachievements.org/game/11279/hashes</url>
+	</machine>
+
+	<machine name="Hack/Spyro the Dragon - Grim Garden (v1.0) (Cyreides, Ello Officer)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Spyro the Dragon - Grim Garden (v1.0) (Cyreides, Ello Officer)</description>
+		<disk name="Spyro the Dragon - Grim Garden (v1.0) (Cyreides, Ello Officer).chd" sha1="f20f6ef6bb27c49cf58274d44868843007461370"/>
+		<ra_hash>85fcc14dc7b3d96fd24a3b1e605a94de</ra_hash>
+		<url>https://retroachievements.org/game/41201/hashes</url>
 	</machine>
 
 	<machine name="Retail/Star Gladiator - Episode I - Final Crusade (USA)">

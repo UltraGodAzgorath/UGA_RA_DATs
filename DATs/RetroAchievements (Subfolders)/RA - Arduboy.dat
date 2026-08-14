@@ -9,8 +9,8 @@
 		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/71-arduboy/games</url>
-		<titlecount>103</titlecount>
-		<hashcount>107</hashcount>
+		<titlecount>104</titlecount>
+		<hashcount>108</hashcount>
 	</header>
 
 	<game name="Retail/1944 (World) (Erwin's Collection)">
@@ -127,6 +127,15 @@
 		<rom name="ArduGolf - 18-Hole Mini Golf (World).hex" size="78641" crc="DF656DF2" md5="20d253cbd712426755d5469d2ccd5d3c" sha1="2cde5824cad09c5ecd243956241e837c8ab0ac8f"/>
 		<ra_hash>d1b63c148314a8b34f8344aa65e47422</ra_hash>
 		<url>https://retroachievements.org/game/19855/hashes</url>
+	</game>
+
+	<game name="Retail/ArduLifts">
+		<category></category>
+		<source>Unknown</source>
+		<description>ArduLifts</description>
+		<rom name="ArduLifts.arduboy" size="43852" crc="7EE7F467" md5="3f9b7d05dd924f0204192a135a0e3ea2" sha1="0b63cbbf687c19eb259a0beaad9525ad9181efad"/>
+		<ra_hash>9a3745807add0bbf60c4754e7f369995</ra_hash>
+		<url>https://retroachievements.org/game/41280/hashes</url>
 	</game>
 
 	<game name="Retail/Arduminer (World) (v1.1)">
