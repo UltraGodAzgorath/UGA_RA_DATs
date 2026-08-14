@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/6-game-boy-color/games</url>
-		<titlecount>601</titlecount>
-		<hashcount>601</hashcount>
+		<titlecount>602</titlecount>
+		<hashcount>602</hashcount>
 	</header>
 
 	<game name="007 - The World Is Not Enough (USA, Europe)">
@@ -1345,12 +1345,12 @@
 		<url>https://retroachievements.org/game/33577/hashes</url>
 	</game>
 
-	<game name="Fear and Hunger (World) (Aftermarket) (darkclaw616)">
+	<game name="Fear_and_Hunger_GBC">
 		<category>Homebrew</category>
 		<source>Unknown</source>
-		<description>Fear and Hunger (World) (Aftermarket) (darkclaw616)</description>
-		<release name="Fear and Hunger (World) (Aftermarket) (darkclaw616)" region="World"/>
-		<rom name="Fear and Hunger (World) (Aftermarket) (darkclaw616).gbc" size="524288" crc="656B42FE" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e"/>
+		<description>Fear_and_Hunger_GBC</description>
+		<release name="Fear_and_Hunger_GBC" region="World"/>
+		<rom name="Fear_and_Hunger_GBC.gbc" size="524288" crc="656B42FE" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e"/>
 		<ra_hash>bbad259d61cfd1fee30578b6214d7891</ra_hash>
 		<url>https://retroachievements.org/game/41177/hashes</url>
 	</game>
@@ -2701,6 +2701,16 @@
 		<rom name="Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP).gbc" size="262144" crc="094FFD1E" md5="41c2515a1dda83aadfd0a134bc62656b" sha1="5a476f79db61aa8c6f32bbabd82fade5cde811d2"/>
 		<ra_hash>41c2515a1dda83aadfd0a134bc62656b</ra_hash>
 		<url>https://retroachievements.org/game/15925/hashes</url>
+	</game>
+
+	<game name="Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (hatsvin)">
+		<category>Homebrew</category>
+		<source>Unknown</source>
+		<description>Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (hatsvin)</description>
+		<release name="Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (hatsvin)" region="World"/>
+		<rom name="Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (hatsvin).gbc" size="1048576" crc="7DB0A6EF" md5="75678f36af1d1678ee0c3e92ed9032e6" sha1="846593b915dc7961805b5f5cdabdba95d57bc047"/>
+		<ra_hash>75678f36af1d1678ee0c3e92ed9032e6</ra_hash>
+		<url>https://retroachievements.org/game/41264/hashes</url>
 	</game>
 
 	<game name="Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)">

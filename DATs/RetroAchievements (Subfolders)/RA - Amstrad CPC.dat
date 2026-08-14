@@ -5,12 +5,12 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/37-amstrad-cpc/games</url>
-		<titlecount>121</titlecount>
-		<hashcount>131</hashcount>
+		<titlecount>123</titlecount>
+		<hashcount>133</hashcount>
 	</header>
 
 	<game name="Retail/3D Grand Prix (1985) (Amsoft)">
@@ -294,6 +294,23 @@
 		<rom name="Doctor Who and the Mines of Terror (1986) (Micro Power).dsk" size="93113" crc="58F33108" md5="53072d49672e0da90432f0983dbc6210" sha1="fa54943b6b920b0c5a9bb3bbf65370120f5aa251"/>
 		<ra_hash>53072d49672e0da90432f0983dbc6210</ra_hash>
 		<url>https://retroachievements.org/game/21457/hashes</url>
+	</game>
+
+	<game name="Retail/Donald's Alphabet Chase/Donald's Alphabet Chase (1988) (Disney) (M5) (Side A) (codes)">
+		<category></category>
+		<source>CleanCPC</source>
+		<description>Donald's Alphabet Chase (1988) (Disney) (M5) (Side A) (codes)</description>
+		<rom name="Donald's Alphabet Chase (1988) (Disney) (M5) (Side A) (codes).dsk" size="195635" crc="98021E34" md5="3772ffad6f49b034336f6d5f4ae51f21" sha1="583bdd2282300b189c71f8f74fbd857eaafca1db"/>
+		<ra_hash>3772ffad6f49b034336f6d5f4ae51f21</ra_hash>
+		<url>https://retroachievements.org/game/22916/hashes</url>
+	</game>
+	<game name="Retail/Donald's Alphabet Chase/Donald's Alphabet Chase (1988) (Disney) (M5) (Side B) (codes)">
+		<category></category>
+		<source>CleanCPC</source>
+		<description>Donald's Alphabet Chase (1988) (Disney) (M5) (Side B) (codes)</description>
+		<rom name="Donald's Alphabet Chase (1988) (Disney) (M5) (Side B) (codes).dsk" size="195635" crc="6E1A4DA1" md5="3c9e13514f239c566df542fb3212dd49" sha1="de30afe613718b07f1e5aa384b07a3e7745b3f90"/>
+		<ra_hash>3c9e13514f239c566df542fb3212dd49</ra_hash>
+		<url>https://retroachievements.org/game/22916/hashes</url>
 	</game>
 
 	<game name="Retail/Donkey Kong/Donkey Kong (1986) (Ocean) (CNGSoft)">

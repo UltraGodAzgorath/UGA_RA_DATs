@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>821</titlecount>
-		<hashcount>821</hashcount>
+		<titlecount>824</titlecount>
+		<hashcount>824</hashcount>
 	</header>
 
 	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -4502,6 +4502,24 @@
 		<url>https://retroachievements.org/game/17729/hashes</url>
 	</game>
 
+	<game name="Mega Man Star Force 3 - Red Joker (USA)" cloneof="Mega Man Star Force 3 - Red Joker (USA) (Undub)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Mega Man Star Force 3 - Red Joker (USA)</description>
+		<rom name="Mega Man Star Force 3 - Red Joker (USA).nds" size="33554432" crc="8714A7F5" md5="eb69df153c53312773052844334a02a1" sha1="f7f55361305c7bacba775537c20abbdf26041e67"/>
+		<ra_hash>6d73bc45e1c3d62e9d643c7e0192c993</ra_hash>
+		<url>https://retroachievements.org/game/17896/hashes</url>
+	</game>
+	<game name="Mega Man Star Force 3 - Red Joker (USA) (Undub)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Mega Man Star Force 3 - Red Joker (USA) (Undub)</description>
+		<release name="Mega Man Star Force 3 - Red Joker (USA) (Undub)" region="USA"/>
+		<rom name="Mega Man Star Force 3 - Red Joker (USA) (Undub).nds" size="26889772" crc="D0501585" md5="3d862a46770dbb0bbba9712a80ae1a2b" sha1="5142f8b0de4ce3f64051efcdd36a80018b2383f6"/>
+		<ra_hash>669820984be49bde9a6826c8677b80a6</ra_hash>
+		<url>https://retroachievements.org/game/17896/hashes</url>
+	</game>
+
 	<game name="Mega Man Star Force DX (v1.2.3) (Prof.9)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -5624,6 +5642,22 @@
 		<rom name="Peter Pan's Playground (Europe).nds" size="33554432" crc="40DD6AC5" md5="909214d3c7ef68711a42e70ee5017f01" sha1="ff936a2c29e1a8f7343c907ca9332b1ec3270f54"/>
 		<ra_hash>ff8f8297d9e03095285fcbc6fad65eb6</ra_hash>
 		<url>https://retroachievements.org/game/14907/hashes</url>
+	</game>
+
+	<game name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="USA"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<rom name="Petz - Bunnyz (USA) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="54A72E36" md5="acd7ad0db1b1df81821ace02936a8903" sha1="9b79be30f38d5bdcb650b7800f8c8cd589bf0712"/>
+		<ra_hash>3ac94c552301d58925fb4ec855822405</ra_hash>
+		<url>https://retroachievements.org/game/27975/hashes</url>
 	</game>
 
 	<game name="Petz - Dolphinz Encounter (USA) (En,Fr,Es) (NDSi Enhanced)">

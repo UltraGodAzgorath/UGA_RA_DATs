@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1945</titlecount>
-		<hashcount>1945</hashcount>
+		<titlecount>1953</titlecount>
+		<hashcount>1953</hashcount>
 	</header>
 
 	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -3673,6 +3673,16 @@
 		<url>https://retroachievements.org/game/35867/hashes</url>
 	</game>
 
+	<game name="EarthBound - EarthBound Beginnings (v1.2) (Gabbi)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>EarthBound - EarthBound Beginnings (v1.2) (Gabbi)</description>
+		<release name="EarthBound - EarthBound Beginnings (v1.2) (Gabbi)" region="World"/>
+		<rom name="EarthBound - EarthBound Beginnings (v1.2) (Gabbi).sfc" size="4194304" crc="51BC901B" md5="417f536fe5b6ffada50924dfbc3e2500" sha1="2008fae1c3b1b43ec0e7a86be5233abde4d6b91b"/>
+		<ra_hash>417f536fe5b6ffada50924dfbc3e2500</ra_hash>
+		<url>https://retroachievements.org/game/38725/hashes</url>
+	</game>
+
 	<game name="EarthBound - Holiday Hex (v1.0.1) (Mr. Tenda)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -3939,6 +3949,26 @@
 		<rom name="FF6 - A Complete Hack (v2.01) (MC50).sfc" size="3145728" crc="6DB5425A" md5="01030395369d2364f69b6b5fa30d35fa" sha1="1720fa53f7a4f8ae506cf6b6af77564276ecb7bd"/>
 		<ra_hash>01030395369d2364f69b6b5fa30d35fa</ra_hash>
 		<url>https://retroachievements.org/game/33096/hashes</url>
+	</game>
+
+	<game name="FFIV - Daughter of Darkness and Light (v1.00) (FlamePurge)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FFIV - Daughter of Darkness and Light (v1.00) (FlamePurge)</description>
+		<release name="FFIV - Daughter of Darkness and Light (v1.00) (FlamePurge)" region="World"/>
+		<rom name="FFIV - Daughter of Darkness and Light (v1.00) (FlamePurge).sfc" size="1048576" crc="6F021A91" md5="196ec66cfea2600204bc4dc037b9378f" sha1="b95db61a29fdfa09a33334d31c4436f29c71e69f"/>
+		<ra_hash>196ec66cfea2600204bc4dc037b9378f</ra_hash>
+		<url>https://retroachievements.org/game/32738/hashes</url>
+	</game>
+
+	<game name="FFIV - The Darkness Within (v1.08) (Rynzer)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FFIV - The Darkness Within (v1.08) (Rynzer)</description>
+		<release name="FFIV - The Darkness Within (v1.08) (Rynzer)" region="World"/>
+		<rom name="FFIV - The Darkness Within (v1.08) (Rynzer).sfc" size="2097152" crc="8D54F8B9" md5="99d3778632b512d714835083b98577d1" sha1="6cdda6f3a2480e46a1eaae67dd180c24c2a0b043"/>
+		<ra_hash>99d3778632b512d714835083b98577d1</ra_hash>
+		<url>https://retroachievements.org/game/32731/hashes</url>
 	</game>
 
 	<game name="FFVI - Antinomia - Final Fantasy VI (v2.0) (Fast Moon)">
@@ -4463,6 +4493,25 @@
 		<rom name="Final Fantasy V Spoof (v1.01) (Tzepish).sfc" size="2621440" crc="9A2EE9A8" md5="e002240962051854afbf2e89bcb25128" sha1="43bce4efd3857bf36310c3d91bae71e36b5eafbd"/>
 		<ra_hash>e002240962051854afbf2e89bcb25128</ra_hash>
 		<url>https://retroachievements.org/game/1386/hashes</url>
+	</game>
+
+	<game name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k)" cloneof="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k) (En) (Serity)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Final Fantasy V - FF5r (v1.4) (s8fp98fd5k)</description>
+		<release name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k)" region="World"/>
+		<rom name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k).sfc" size="3145728" crc="01B3ABBC" md5="acaa057f3371de134908e693e1fc0525" sha1="8f5db1a9e4a54f59a3191e59eedaf64dc88d742b"/>
+		<ra_hash>acaa057f3371de134908e693e1fc0525</ra_hash>
+		<url>https://retroachievements.org/game/23702/hashes</url>
+	</game>
+	<game name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k) (En) (Serity)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Final Fantasy V - FF5r (v1.4) (s8fp98fd5k) (En) (Serity)</description>
+		<release name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k) (En) (Serity)" region="English"/>
+		<rom name="Final Fantasy V - FF5r (v1.4) (s8fp98fd5k) (En) (Serity).sfc" size="3145728" crc="D4B23E7E" md5="d0e6cfa8a28dae6125acc8a73fd9865e" sha1="0f623651f5e00c398e710994cfa214f30553028f"/>
+		<ra_hash>d0e6cfa8a28dae6125acc8a73fd9865e</ra_hash>
+		<url>https://retroachievements.org/game/23702/hashes</url>
 	</game>
 
 	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.52) (Lightning Hawk)">
@@ -12129,6 +12178,16 @@
 		<url>https://retroachievements.org/game/28163/hashes</url>
 	</game>
 
+	<game name="SMW - Escape from La Plume (v1.0) (bonjoursaurce,uriel2k3)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Escape from La Plume (v1.0) (bonjoursaurce,uriel2k3)</description>
+		<release name="SMW - Escape from La Plume (v1.0) (bonjoursaurce,uriel2k3)" region="World"/>
+		<rom name="SMW - Escape from La Plume (v1.0) (bonjoursaurce,uriel2k3).sfc" size="4194304" crc="66CD91F8" md5="c7de3002e14ce4029ce658537348ff9a" sha1="ba8729d1d1517a34c8d00ecfa0b4d86f2dcb13c9"/>
+		<ra_hash>c7de3002e14ce4029ce658537348ff9a</ra_hash>
+		<url>https://retroachievements.org/game/41194/hashes</url>
+	</game>
+
 	<game name="SMW - Fail World (v1.1) (Fyre150, Goon Nation)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -13056,6 +13115,16 @@
 		<rom name="SMW - My QLDC Level (Faro, MM102).sfc" size="2097152" crc="B011F7AD" md5="6e4b118fc95ad63f5fbe13f21c4458de" sha1="105f0d8a491ca8b3101773dbe83044c8f77ae324"/>
 		<ra_hash>6e4b118fc95ad63f5fbe13f21c4458de</ra_hash>
 		<url>https://retroachievements.org/game/25294/hashes</url>
+	</game>
+
+	<game name="SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen)</description>
+		<release name="SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen)" region="World"/>
+		<rom name="SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen).sfc" size="4194304" crc="A8BDDEBB" md5="f3860df86b559a1236650ca196a27a97" sha1="7e9b3d2155a0a7fd6d827baacd99dd240c32a085"/>
+		<ra_hash>f3860df86b559a1236650ca196a27a97</ra_hash>
+		<url>https://retroachievements.org/game/41207/hashes</url>
 	</game>
 
 	<game name="SMW - Nemesis (2022-04-01) (Dennsen86)">
@@ -14949,6 +15018,16 @@
 		<rom name="Spider-Man (USA).sfc" size="2097152" crc="C99E174E" md5="73199b27fe52caa56b12e42122df1fc8" sha1="cbaf541f9a1b62e7151f0407a1a4c6266a5610f5"/>
 		<ra_hash>73199b27fe52caa56b12e42122df1fc8</ra_hash>
 		<url>https://retroachievements.org/game/321/hashes</url>
+	</game>
+
+	<game name="Spider-Man - Venom - Maximum Carnage (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Spider-Man - Venom - Maximum Carnage (USA)</description>
+		<release name="Spider-Man - Venom - Maximum Carnage (USA)" region="USA"/>
+		<rom name="Spider-Man - Venom - Maximum Carnage (USA).sfc" size="2097152" crc="7EF2BB0C" md5="c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054" sha1="e85f33c59903826f76df1f43d60bacf5c024d673"/>
+		<ra_hash>c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054</ra_hash>
+		<url>https://retroachievements.org/game/1179/hashes</url>
 	</game>
 
 	<game name="Spider-Man - X-Men - Arcade's Revenge (USA)">

@@ -5,12 +5,12 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>836</titlecount>
-		<hashcount>836</hashcount>
+		<titlecount>837</titlecount>
+		<hashcount>837</hashcount>
 	</header>
 
 	<game name="Hack/007 - Goldfinger (Hack) (Various)">
@@ -2051,15 +2051,6 @@
 		<rom name="Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.0.1) (Subset - Bonus).z64" size="33554432" crc="008EA583" md5="bc5263bddf8a4d9e214fb60aab607560" sha1="29a170cb0dd389d93752563ffd18d06c8735e229"/>
 		<ra_hash>bc5263bddf8a4d9e214fb60aab607560</ra_hash>
 		<url>https://retroachievements.org/game/29869/hashes</url>
-	</game>
-
-	<game name="Hack/Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.11) (RichieUltimate)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.11) (RichieUltimate)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.11) (RichieUltimate).z64" size="33554432" crc="E0E792E8" md5="097149c31ad58d2075e77e10e4d31f4a" sha1="c3a0b65c129101cf7440673a1c518b50cafe7c2a"/>
-		<ra_hash>097149c31ad58d2075e77e10e4d31f4a</ra_hash>
-		<url>https://retroachievements.org/game/29843/hashes</url>
 	</game>
 
 	<game name="Hack/Legend of Zelda, The - Ocarina of Time - Whomp's Fortress (v1.0) (Mark Kurko)">
@@ -5293,6 +5284,15 @@
 		<url>https://retroachievements.org/game/20030/hashes</url>
 	</game>
 
+	<game name="Hack/SM64 - Shining Stars 4 - Another Dimensional Incident (v1.3) (sm64pie)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches, rhdc</source>
+		<description>SM64 - Shining Stars 4 - Another Dimensional Incident (v1.3) (sm64pie)</description>
+		<rom name="SM64 - Shining Stars 4 - Another Dimensional Incident (v1.3) (sm64pie).z64" size="67108864" crc="EE2476D7" md5="264311945387cefac5dc35958a9ff379" sha1="850e0e7756551c5fd8e730793953a10f8894c06a"/>
+		<ra_hash>264311945387cefac5dc35958a9ff379</ra_hash>
+		<url>https://retroachievements.org/game/33258/hashes</url>
+	</game>
+
 	<game name="Hack/SM64 - Shotgun Mario 64 (v1.0.5) (Dorrieal)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches, rhdc</source>
@@ -7054,6 +7054,15 @@
 		<rom name="Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).z64" size="8388608" crc="394948C4" md5="2048a640c12d1cf2052ba1629937d2ff" sha1="508dfc2d4caa42b6f6de5263d0aed5e44ac7966a"/>
 		<ra_hash>2048a640c12d1cf2052ba1629937d2ff</ra_hash>
 		<url>https://retroachievements.org/game/10617/hashes</url>
+	</game>
+
+	<game name="Retail/Wayne Gretzky's 3D Hockey (USA) (Rev 1)">
+		<category>Nintendo 64</category>
+		<source>No-Intro</source>
+		<description>Wayne Gretzky's 3D Hockey (USA) (Rev 1)</description>
+		<rom name="Wayne Gretzky's 3D Hockey (USA) (Rev 1).z64" size="8388608" crc="C2678971" md5="04e650b7742a69dae98f125d1b492d78" sha1="91f33097c5da2c3480e0a9f04f7463cea16b176b"/>
+		<ra_hash>04e650b7742a69dae98f125d1b492d78</ra_hash>
+		<url>https://retroachievements.org/game/17774/hashes</url>
 	</game>
 
 	<game name="Retail/WCW vs. nWo - World Tour (USA)">

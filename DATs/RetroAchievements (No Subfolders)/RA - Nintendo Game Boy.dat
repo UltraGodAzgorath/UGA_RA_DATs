@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>739</titlecount>
-		<hashcount>739</hashcount>
+		<titlecount>741</titlecount>
+		<hashcount>741</hashcount>
 	</header>
 
 	<game name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -2944,6 +2944,25 @@
 		<rom name="Kaijuu Ou Gojira (Japan).gb" size="262144" crc="C529A96A" md5="deb601b4fadefb13f5e6251c945d10f4" sha1="56271383f34a7709668a982df95ebd083831e30f"/>
 		<ra_hash>deb601b4fadefb13f5e6251c945d10f4</ra_hash>
 		<url>https://retroachievements.org/game/25619/hashes</url>
+	</game>
+
+	<game name="Kakomunja (Japan)" cloneof="Serpent (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Kakomunja (Japan)</description>
+		<release name="Kakomunja (Japan)" region="Japan"/>
+		<rom name="Kakomunja (Japan).gb" size="32768" crc="BEF1FE2B" md5="73377222a76829e02c9a32b569862bde" sha1="560d174d34b32a35e302297d1667cf67c3d4e8b8"/>
+		<ra_hash>73377222a76829e02c9a32b569862bde</ra_hash>
+		<url>https://retroachievements.org/game/2562/hashes</url>
+	</game>
+	<game name="Serpent (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Serpent (USA)</description>
+		<release name="Serpent (USA)" region="USA"/>
+		<rom name="Serpent (USA).gb" size="32768" crc="74D466D7" md5="ed999967209a4cbcaa844b8a84e09ea9" sha1="3122b3c12c2580c3a81d70c5648f767bf3590aaf"/>
+		<ra_hash>ed999967209a4cbcaa844b8a84e09ea9</ra_hash>
+		<url>https://retroachievements.org/game/2562/hashes</url>
 	</game>
 
 	<game name="Kid Dracula (USA, Europe)">

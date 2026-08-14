@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>375</titlecount>
-		<hashcount>375</hashcount>
+		<titlecount>377</titlecount>
+		<hashcount>377</hashcount>
 	</header>
 
 	<game name="Retail/3D Pixel Racing (USA) (WiiWare)">
@@ -214,6 +214,14 @@
 		<ra_hash>935314eae9d0f4648ab9e50e9f9b9aa4</ra_hash>
 		<url>https://retroachievements.org/game/97/hashes</url>
 	</game>
+	<game name="Retail/Resident Evil - The Umbrella Chronicles/Resident Evil - The Umbrella Chronicles (USA) (60 FPS) (solitarius)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Resident Evil - The Umbrella Chronicles (USA) (60 FPS) (solitarius)</description>
+		<rom name="Resident Evil - The Umbrella Chronicles (USA) (60 FPS) (solitarius).iso" size="4169596928" crc="E203EC08" md5="88f580bc3d89a960b1867094b0a8baf5" sha1="5f5103c61276f60d6c3d8626dfde734170a0c402"/>
+		<ra_hash>da7d6b063351287b80d9dbfc4e0937d4</ra_hash>
+		<url>https://retroachievements.org/game/97/hashes</url>
+	</game>
 	<game name="Retail/Resident Evil - The Umbrella Chronicles/Resident Evil - The Umbrella Chronicles (USA) (Pt) (Lobo Nintendista)">
 		<category>Wii</category>
 		<source>Redump, RAPatches</source>
@@ -250,12 +258,20 @@
 		<url>https://retroachievements.org/game/35367/hashes</url>
 	</game>
 
-	<game name="Retail/Bleach - Versus Crusade (Japan)">
+	<game name="Retail/Bleach - Versus Crusade/Bleach - Versus Crusade (Japan)">
 		<category>Wii</category>
 		<source>Redump</source>
 		<description>Bleach - Versus Crusade (Japan)</description>
 		<rom name="Bleach - Versus Crusade (Japan).rvz" size="909326928" crc="652945F7" md5="3f5c8a9c7925bcfd0e57b027fabf3e65" sha1="c65c9e7b032188f919cace7613ef8781974bdc78"/>
 		<ra_hash>1c3bedec3c3808f892f926168eddca07</ra_hash>
+		<url>https://retroachievements.org/game/34611/hashes</url>
+	</game>
+	<game name="Retail/Bleach - Versus Crusade/Bleach - Versus Crusade (Japan) (En) (v1.0) (Sixfortyfive)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Bleach - Versus Crusade (Japan) (En) (v1.0) (Sixfortyfive)</description>
+		<rom name="Bleach - Versus Crusade (Japan) (En) (v1.0) (Sixfortyfive).rvz" size="901569348" crc="2E0A6F03" md5="ffd16efebedac5175be3c9ec48cffaa6" sha1="b17288d4926bbd8bea8e67154933599a2bce8df2"/>
+		<ra_hash>49338567cb1356459fabf70b3589163d</ra_hash>
 		<url>https://retroachievements.org/game/34611/hashes</url>
 	</game>
 
@@ -2490,6 +2506,14 @@
 		<ra_hash>a550a2c42f020f31b91301218702aeab</ra_hash>
 		<url>https://retroachievements.org/game/34766/hashes</url>
 	</game>
+	<game name="Retail/Resident Evil - The Darkside Chronicles/Resident Evil - The Darkside Chronicles (USA) (60 FPS) (Miagui)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Resident Evil - The Darkside Chronicles (USA) (60 FPS) (Miagui)</description>
+		<rom name="Resident Evil - The Darkside Chronicles (USA) (60 FPS) (Miagui).iso" size="3999727616" crc="A7A3C5F6" md5="211e9206239373c07ae21c0f445474c4" sha1="9800773aa116c9e028f2c62a3948319e8b4c9c00"/>
+		<ra_hash>fb351291e30be91c54d8bb0d26edbe89</ra_hash>
+		<url>https://retroachievements.org/game/34766/hashes</url>
+	</game>
 	<game name="Retail/Resident Evil - The Darkside Chronicles/Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)">
 		<category>Wii</category>
 		<source>Redump, RAPatches</source>
@@ -2641,28 +2665,12 @@
 		<url>https://retroachievements.org/game/85/hashes</url>
 	</game>
 
-	<game name="Retail/Skylanders - Spyro's Adventure/Skylanders - Spyro's Adventure (Brazil) (En,Es)">
-		<category>Wii</category>
-		<source>Redump</source>
-		<description>Skylanders - Spyro's Adventure (Brazil) (En,Es)</description>
-		<rom name="Skylanders - Spyro's Adventure (Brazil) (En,Es).rvz" size="4123759048" crc="9624903D" md5="d8c586486775462e0f4cc73611811b28" sha1="40d847a1acc1e950e2c3125fc83e919695e46ce7"/>
-		<ra_hash>02b85939df279ddfedd75c0ee6e3434b</ra_hash>
-		<url>https://retroachievements.org/game/34714/hashes</url>
-	</game>
 	<game name="Retail/Skylanders - Spyro's Adventure/Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)">
 		<category>Wii</category>
 		<source>Redump</source>
 		<description>Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)</description>
 		<rom name="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3).rvz" size="4146634192" crc="AD32D2E3" md5="df195c79dbfffd390f352063945d563f" sha1="6659c27384e5b247716dfb53b49963efe6aa692c"/>
 		<ra_hash>f1794d9a8cb80c91ebbf058a0a1af6fc</ra_hash>
-		<url>https://retroachievements.org/game/34714/hashes</url>
-	</game>
-	<game name="Retail/Skylanders - Spyro's Adventure/Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3)">
-		<category>Wii</category>
-		<source>Redump</source>
-		<description>Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3)</description>
-		<rom name="Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3).rvz" size="3963832520" crc="D0267CDF" md5="87380804e085b37f2d1fe045d1330fb1" sha1="2412d7889f3ed0651d0e4c52e2501cbb5cc327ad"/>
-		<ra_hash>22f79d983871d1e52a164dc721184a9c</ra_hash>
 		<url>https://retroachievements.org/game/34714/hashes</url>
 	</game>
 	<game name="Retail/Skylanders - Spyro's Adventure/Skylanders - Spyro's Adventure (USA) (En,Fr) (Rev 1)">
@@ -3254,6 +3262,15 @@
 		<rom name="Yakuman Wii - Ide Yosuke no Kenkou Mahjong (Japan) (WiiWare).wad" size="14561536" crc="BF20B05D" md5="f91c03de9d4333f8f227ad2593eb4559" sha1="cef7aa624a5e593fbf277f586e7705a393716831"/>
 		<ra_hash>55401620385834c5ae81f7101432548a</ra_hash>
 		<url>https://retroachievements.org/game/35718/hashes</url>
+	</game>
+
+	<game name="Retail/Yu-Gi-Oh! 5D's - Wheelie Breakers (Europe) (En,Fr,De,Es,It)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Yu-Gi-Oh! 5D's - Wheelie Breakers (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Yu-Gi-Oh! 5D's - Wheelie Breakers (Europe) (En,Fr,De,Es,It).rvz" size="790616904" crc="E3B6092B" md5="7443ea2d743a1afeb6b4f12a0a6ed7c3" sha1="253f5dd49af9727f93e8de88ad902e20f69849d4"/>
+		<ra_hash>10367fa32cb4b46a05d6010d87ff4a92</ra_hash>
+		<url>https://retroachievements.org/game/34625/hashes</url>
 	</game>
 
 	<game name="Retail/Zack &amp; Wiki - Quest for Barbaros' Treasure/Zack &amp; Wiki - Quest for Barbaros' Treasure (Europe) (En,Fr,De,Es,It) (Rev 1)">

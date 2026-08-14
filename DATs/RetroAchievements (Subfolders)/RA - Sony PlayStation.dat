@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
 		<titlecount>891</titlecount>
-		<hashcount>1359</hashcount>
+		<hashcount>1366</hashcount>
 	</header>
 
 	<machine name="Retail/Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -396,35 +396,25 @@
 		<url>https://retroachievements.org/game/14681/hashes</url>
 	</machine>
 
-	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)">
+	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee)">
 		<category></category>
 		<source>Redump, RAPatches</source>
-		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) (T-En by NoOneee v1.0)</description>
-		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) [T-En by NoOneee v1.0].chd" sha1="285e94ccb5fa9f264c533e7e9b1e57de989be2fb"/>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee)</description>
+		<rom name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee).m3u" size="174" crc="54C0B6EE" md5="5d29b01a9147fb5f11fea5e71ea785a2" sha1="dd0dd8ec4ce6fe813287264144132bff6076ef6f"/>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1).chd" sha1="7b1733a54f0b42fb056af008259d24c6ad53dcec"/>
+		<ra_hash>2826df39fe5e39dba1bdc03ed3b668de</ra_hash>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 2).chd" sha1="285e94ccb5fa9f264c533e7e9b1e57de989be2fb"/>
 		<ra_hash>7fe97adda08ea241d11278bf20118fd9</ra_hash>
 		<url>https://retroachievements.org/game/7196/hashes</url>
 	</machine>
-	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)">
-		<category></category>
-		<source>Redump, RAPatches</source>
-		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1)</description>
-		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (En) (v1.0) (NoOneee) (Disc 1).chd" sha1="7b1733a54f0b42fb056af008259d24c6ad53dcec"/>
-		<ra_hash>2826df39fe5e39dba1bdc03ed3b668de</ra_hash>
-		<url>https://retroachievements.org/game/7196/hashes</url>
-	</machine>
-	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1)">
+	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Card Captor Sakura (Japan)">
 		<category></category>
 		<source>Redump</source>
-		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1)</description>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan)</description>
+		<rom name="Animetic Story Game 1 - Card Captor Sakura (Japan).m3u" size="130" crc="DB6C4C44" md5="8e3607f0ac6f8131b1692a0fae43214f" sha1="153ed6450c2f73eea23cc84abbcdba7760eda9b0"/>
 		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1).chd" sha1="0cb4404115685b53e9de53ca9c8d095cdd7af71f"/>
 		<ra_hash>1ce1ef247d89b1645ed843792c473f7d</ra_hash>
-		<url>https://retroachievements.org/game/7196/hashes</url>
-	</machine>
-	<machine name="Retail/Animetic Story Game 1 - Cardcaptor Sakura/Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2)">
-		<category></category>
-		<source>Redump</source>
-		<description>Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2)</description>
-		<disk name="Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2).chd" sha1="3e2b726974a5347db2636229914dc7cfe3017cf2"/>
+		<disk name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2).chd" sha1="3e2b726974a5347db2636229914dc7cfe3017cf2"/>
 		<ra_hash>595ded2d155ea31cc1cf8d6cc83938f9</ra_hash>
 		<url>https://retroachievements.org/game/7196/hashes</url>
 	</machine>
@@ -1027,7 +1017,15 @@
 		<url>https://retroachievements.org/game/11302/hashes</url>
 	</machine>
 
-	<machine name="Retail/Brightis (Japan)">
+	<machine name="Retail/Brightis/Brightis (Japan) (En) (v1.0.1) (Wado)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Brightis (Japan) (En) (v1.0.1) (Wado)</description>
+		<disk name="Brightis (Japan) (En) (v1.0.1) (Wado).chd" sha1="cb0b7c8ec647ab1c296ee1043c35a690f2a91e24"/>
+		<ra_hash>68e82445137e8a9d189c680a5587da3c</ra_hash>
+		<url>https://retroachievements.org/game/18202/hashes</url>
+	</machine>
+	<machine name="Retail/Brightis/Brightis (Japan)">
 		<category></category>
 		<source>Redump</source>
 		<description>Brightis (Japan)</description>
@@ -3228,18 +3226,18 @@
 		<url>https://retroachievements.org/game/17526/hashes</url>
 	</machine>
 
-	<machine name="Retail/Final Fantasy IX (USA)">
+	<machine name="Retail/Final Fantasy IX (USA, Canada) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
-		<description>Final Fantasy IX (USA)</description>
-		<rom name="Final Fantasy IX (USA).m3u" size="148" crc="65CBB3FE" md5="ac9de96d99cf68adea769893b3189f25" sha1="6ed3c786b871fffc9db4e6e09545ffb35e6180a8"/>
-		<disk name="Final Fantasy IX (USA) (Disc 1).chd" sha1="dc60999ace85138c734b4fa3ee923cb02bf2f3a0"/>
+		<description>Final Fantasy IX (USA, Canada) (Rev 1)</description>
+		<rom name="Final Fantasy IX (USA, Canada) (Rev 1).m3u" size="212" crc="B44CD90F" md5="6b3f541609de0cad13eb70f53266c678" sha1="55e2d91f2d3d58b878abe23b025bcef512d6c5ff"/>
+		<disk name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1).chd" sha1="aa95b490a84e95c18d8ac127ea6ab98ebe3d8d7f"/>
 		<ra_hash>1fe564ab22981a9f4a90da91e75d2156</ra_hash>
-		<disk name="Final Fantasy IX (USA) (Disc 2).chd" sha1="415c060e4e3475b4acdbb2f33f3b3475a3b66123"/>
+		<disk name="Final Fantasy IX (USA, Canada) (Disc 2) (Rev 1).chd" sha1="3c7c71f6e0d37b31e26a2955d9f1f3ae3d61e95c"/>
 		<ra_hash>4ce1b8fde3b3c89d43e5ffa3aa126703</ra_hash>
-		<disk name="Final Fantasy IX (USA) (Disc 3).chd" sha1="25bac38b717ddd3b52de6ee6fcc980787f66aa9b"/>
+		<disk name="Final Fantasy IX (USA, Canada) (Disc 3) (Rev 1).chd" sha1="66dd04783469215b1074552a222239da2ae21665"/>
 		<ra_hash>fb8dfe0d788eaacd3047c446f98ae1e8</ra_hash>
-		<disk name="Final Fantasy IX (USA) (Disc 4).chd" sha1="05be1fee3fb7b53c6aaadbdf3b7c30a276fe2a05"/>
+		<disk name="Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1).chd" sha1="ef8760c71d408d7492f8269f28ef9f5dbce02cef"/>
 		<ra_hash>5f600c1ce3adf2f3d9962af655734a57</ra_hash>
 		<url>https://retroachievements.org/game/11247/hashes</url>
 	</machine>
@@ -5057,10 +5055,10 @@
 		<url>https://retroachievements.org/game/9018/hashes</url>
 	</machine>
 
-	<machine name="Retail/Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1) (Magical Drop III)">
+	<machine name="Retail/Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Magical Drop III)">
 		<category></category>
 		<source>Redump</source>
-		<description>Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1) (Magical Drop III)</description>
+		<description>Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Magical Drop III)</description>
 		<disk name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1) (Magical Drop III).chd" sha1="13aa2717f03c9f635f9227dcdd96308e00fb8c8e"/>
 		<ra_hash>519b1420d26175106d0459cdb40bdb7a</ra_hash>
 		<url>https://retroachievements.org/game/31342/hashes</url>
@@ -5343,11 +5341,11 @@
 		<url>https://retroachievements.org/game/17185/hashes</url>
 	</machine>
 
-	<machine name="Retail/Mega Man X6 (USA)">
+	<machine name="Retail/Mega Man X6 (USA) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
-		<description>Mega Man X6 (USA)</description>
-		<disk name="Mega Man X6 (USA).chd" sha1="576a04c12f3e635e3b48ebafcf7d1e1295ce07dc"/>
+		<description>Mega Man X6 (USA) (Rev 1)</description>
+		<disk name="Mega Man X6 (USA) (Rev 1).chd" sha1="278c3ce12bafea06148777ebfc168d73ec62ddc1"/>
 		<ra_hash>ea7528bc734bf39a4c89b8d8cf16e330</ra_hash>
 		<url>https://retroachievements.org/game/11382/hashes</url>
 	</machine>
@@ -7334,10 +7332,10 @@
 		<category></category>
 		<source>Redump, RAPatches</source>
 		<description>Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01)</description>
-		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01).m3u" size="182" crc="05262599" md5="b0362d008e4d42964d9e404dd4b4033a" sha1="54d1829d740f1a773361f4d8a4c2fcccef8ae3c6"/>
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01).m3u" size="180" crc="DCD1D9F7" md5="6662051bc435b2c7e7a40a74301917c0" sha1="d2eee1e28c11b8f7668368945c1ebfa9b107dc2d"/>
 		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Tio Victor) (Disc 1).chd" sha1="6c637353fd3b3e6ceaa6d4d283a79fa780610bdc"/>
 		<ra_hash>fc1719931d3d1f5dea926399177513e9</ra_hash>
-		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2).chd" sha1="76b4914cbb554ad2199e31261b5316d1c2d64627"/>
+		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Tio Victor) (Disc 2).chd" sha1="76b4914cbb554ad2199e31261b5316d1c2d64627"/>
 		<ra_hash>199911462f78e24522a91c3efd10379f</ra_hash>
 		<url>https://retroachievements.org/game/11245/hashes</url>
 	</machine>
@@ -7462,8 +7460,8 @@
 		<category></category>
 		<source>Redump, RAPatches</source>
 		<description>RMJ - The Mystery Hospital (Japan) (En) (v1.0) (SnowyAria)</description>
-		<rom name="RMJ - The Mystery Hospital (Japan) (En) (v1.0) (SnowyAria).m3u" size="179" crc="FE1A2DE6" md5="69ab14d023f279af227a2276935d1efd" sha1="843f6b8a389e63ba37b3638681f896a1c2394f33"/>
-		<disk name="RMJ - The Mystery Hospital (Japan) (Disc 1) (What's Going On) (En) (v1.0) (SnowyAria).chd" sha1="73fe611a808336661fb22f0950a4d3b0bcdced89"/>
+		<rom name="RMJ - The Mystery Hospital (Japan) (En) (v1.0) (SnowyAria).m3u" size="161" crc="28FFD577" md5="a776f8571d3b563582feb3a7d74d679b" sha1="ded93c1a4b141e4d31e37c5b3c20d844ec3f2f7a"/>
+		<disk name="RMJ - The Mystery Hospital (Japan) (En) (v1.0) (SnowyAria) (Disc 1).chd" sha1="73fe611a808336661fb22f0950a4d3b0bcdced89"/>
 		<ra_hash>ca180596fedf9f983c1cd01b2791d055</ra_hash>
 		<disk name="RMJ - The Mystery Hospital (Japan) (Disc 2) (Fears Behind) (En) (v1.0) (SnowyAria).chd" sha1="a700471956f5f4449560cc4d994e6ba369e0342d"/>
 		<ra_hash>8f23ce8731602f6d21704f53ae6070fd</ra_hash>
@@ -8746,11 +8744,11 @@
 		<url>https://retroachievements.org/game/14618/hashes</url>
 	</machine>
 
-	<machine name="Demo/Syphon Filter/Syphon Filter (USA)">
+	<machine name="Demo/Syphon Filter/Syphon Filter (USA) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
-		<description>Syphon Filter (USA)</description>
-		<disk name="Syphon Filter (USA).chd" sha1="925e2c02e23e27d8324e4cafc6460eae6ae96df0"/>
+		<description>Syphon Filter (USA) (Rev 1)</description>
+		<disk name="Syphon Filter (USA) (Rev 1).chd" sha1="478d7bd232993d58ea1221df2df927d5f940e3f8"/>
 		<ra_hash>ce2451640470892d27cb2fb6abf8d302</ra_hash>
 		<url>https://retroachievements.org/game/10675/hashes</url>
 	</machine>
@@ -8843,6 +8841,19 @@
 		<ra_hash>75b6b6a7e439f3813880f89125ed203e</ra_hash>
 		<disk name="Tales of Destiny II (USA) (Disc 3).chd" sha1="c6f444e7ad6881ed48ef0f32ddf6c0c663ffad8f"/>
 		<ra_hash>1a1049dc1b24ff6224d2ab8aaf67b0a9</ra_hash>
+		<url>https://retroachievements.org/game/11274/hashes</url>
+	</machine>
+	<machine name="Retail/Tales of Destiny II - Tales of Eternia/Tales of Eternia (USA) (Pt) (v1.1) (SASantana)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Tales of Eternia (USA) (Pt) (v1.1) (SASantana)</description>
+		<rom name="Tales of Eternia (USA) (Pt) (v1.1) (SASantana).m3u" size="183" crc="BA140F0A" md5="9df68546dd8a13dbb19b5688557802ae" sha1="acb9205999ea0d3d6fe6480c971f425fdd1af8b9"/>
+		<disk name="Tales of Eternia (USA) (Pt) (v1.1) (SASantana) (Disc 1).chd" sha1="4f076635acc001e1ae30f563aa86f6360befc727"/>
+		<ra_hash>7536d92b883db86ee5b37d72c562dbc9</ra_hash>
+		<disk name="Tales of Eternia (USA) (Pt) (v1.1) (SASantana) (Disc 2).chd" sha1="b3906a60cb4782a9ec0f1f576af607f25da04d38"/>
+		<ra_hash>648f9eb5a4d52a3ed6dffc04960bc795</ra_hash>
+		<disk name="Tales of Eternia (USA) (Pt) (v1.1) (SASantana) (Disc 3).chd" sha1="5570ec4fc33f23d8fd174c9ff1b7fbdc6bd66fab"/>
+		<ra_hash>8295621a3509908b81fde5ceed0040b2</ra_hash>
 		<url>https://retroachievements.org/game/11274/hashes</url>
 	</machine>
 
@@ -9007,11 +9018,11 @@
 		<url>https://retroachievements.org/game/11259/hashes</url>
 	</machine>
 
-	<machine name="Retail/Tenchu - Stealth Assassins/Tenchu - Stealth Assassins (USA)">
+	<machine name="Retail/Tenchu - Stealth Assassins/Tenchu - Stealth Assassins (USA) (Rev 1)">
 		<category></category>
 		<source>Redump</source>
-		<description>Tenchu - Stealth Assassins (USA)</description>
-		<disk name="Tenchu - Stealth Assassins (USA).chd" sha1="70a605c82a0272e96b9dbcbd4e56cf9b5edc682b"/>
+		<description>Tenchu - Stealth Assassins (USA) (Rev 1)</description>
+		<disk name="Tenchu - Stealth Assassins (USA) (Rev 1).chd" sha1="86439e87a3b71e1bac2f6dc5b1b4b90126333bde"/>
 		<ra_hash>f3adc8f6fa7d8231cf52831ba94eb43c</ra_hash>
 		<url>https://retroachievements.org/game/11300/hashes</url>
 	</machine>

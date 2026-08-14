@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>929</titlecount>
-		<hashcount>1210</hashcount>
+		<titlecount>931</titlecount>
+		<hashcount>1212</hashcount>
 	</header>
 
 	<machine name="Retail/007 - Agent Under Fire/007 - Agent Under Fire (USA)">
@@ -1090,11 +1090,11 @@
 		<url>https://retroachievements.org/game/21672/hashes</url>
 	</machine>
 
-	<machine name="Retail/Champions - Return to Arms (USA)">
+	<machine name="Retail/Champions - Return to Arms (USA) (v2.00)">
 		<category></category>
 		<source>Redump</source>
-		<description>Champions - Return to Arms (USA)</description>
-		<disk name="Champions - Return to Arms (USA).chd" sha1="29bc04906e766dfc3245a8dbdacf062daec84322"/>
+		<description>Champions - Return to Arms (USA) (v2.00)</description>
+		<disk name="Champions - Return to Arms (USA) (v2.00).chd" sha1="77d1f292db9063b87d3938fe2b1900b81a16894e"/>
 		<ra_hash>d5b77f98b4dc0b58687070e1f721ca42</ra_hash>
 		<url>https://retroachievements.org/game/21700/hashes</url>
 	</machine>
@@ -1491,11 +1491,11 @@
 		<url>https://retroachievements.org/game/1304/hashes</url>
 	</machine>
 
-	<machine name="Retail/Dark Cloud 2 (USA)">
+	<machine name="Retail/Dark Cloud 2 (USA) (v2.00)">
 		<category></category>
 		<source>Redump</source>
-		<description>Dark Cloud 2 (USA)</description>
-		<disk name="Dark Cloud 2 (USA).chd" sha1="ce5b7a07a14ac20d41f7d96e3f46da94b5433e2a"/>
+		<description>Dark Cloud 2 (USA) (v2.00)</description>
+		<disk name="Dark Cloud 2 (USA) (v2.00).chd" sha1="ce5b7a07a14ac20d41f7d96e3f46da94b5433e2a"/>
 		<ra_hash>dee71e9f5411f4839bf4dc5879a3e528</ra_hash>
 		<url>https://retroachievements.org/game/1308/hashes</url>
 	</machine>
@@ -3419,6 +3419,15 @@
 		<url>https://retroachievements.org/game/21363/hashes</url>
 	</machine>
 
+	<machine name="Retail/Fullmetal Alchemist 2 - Curse of the Crimson Elixir (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Fullmetal Alchemist 2 - Curse of the Crimson Elixir (USA)</description>
+		<disk name="Fullmetal Alchemist 2 - Curse of the Crimson Elixir (USA).chd" sha1="9d15b2071e153db7ec784aaf6f47a699a23b83a7"/>
+		<ra_hash>47c55b482f1d70d85ad6c95189bf5c33</ra_hash>
+		<url>https://retroachievements.org/game/20969/hashes</url>
+	</machine>
+
 	<machine name="Retail/Fullmetal Alchemist and the Broken Angel (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -3783,11 +3792,11 @@
 		<ra_hash>211e0fb211bd6caeeb99065c62eca521</ra_hash>
 		<url>https://retroachievements.org/game/20580/hashes</url>
 	</machine>
-	<machine name="Retail/Gran Turismo 4/Gran Turismo 4 (USA) (v1.01) (v2.00)">
+	<machine name="Retail/Gran Turismo 4/Gran Turismo 4 (USA) (v2.00)">
 		<category></category>
 		<source>Redump</source>
-		<description>Gran Turismo 4 (USA) (v1.01) (v2.00)</description>
-		<disk name="Gran Turismo 4 (USA) (v1.01) (v2.00).chd" sha1="7719d419b97fe15db3af82f62e758c79f9233cf2"/>
+		<description>Gran Turismo 4 (USA) (v2.00)</description>
+		<disk name="Gran Turismo 4 (USA) (v2.00).chd" sha1="34e11360365c90bc3b7e97ecdae1f7715630dc5e"/>
 		<ra_hash>b7e2e47572f4163a216ea85eed3c6c63</ra_hash>
 		<url>https://retroachievements.org/game/20580/hashes</url>
 	</machine>
@@ -3884,11 +3893,11 @@
 		<url>https://retroachievements.org/game/22090/hashes</url>
 	</machine>
 
-	<machine name="Retail/Grand Theft Auto - Vice City (USA) (v3.00)">
+	<machine name="Retail/Grand Theft Auto - Vice City (USA) (v4.00)">
 		<category></category>
 		<source>Redump</source>
-		<description>Grand Theft Auto - Vice City (USA) (v3.00)</description>
-		<disk name="Grand Theft Auto - Vice City (USA) (v3.00).chd" sha1="cdd981a3c80d992dda7e3f69ffb73bdd13970588"/>
+		<description>Grand Theft Auto - Vice City (USA) (v4.00)</description>
+		<disk name="Grand Theft Auto - Vice City (USA) (v4.00).chd" sha1="0725b9c35f317e27df06891f691c5e89c7af650b"/>
 		<ra_hash>d1957288756ba9b96d3bc501f66981a4</ra_hash>
 		<url>https://retroachievements.org/game/2739/hashes</url>
 	</machine>
@@ -7787,6 +7796,15 @@
 		<disk name="Scarface - The World Is Yours (USA) (60FPS) (v1.0) (Souzooka).chd" sha1="0572c49d40e845a5d3f2ffee6d38ecd8d8511ffa"/>
 		<ra_hash>a39a825bed46bec76c9ff330fc0b1903</ra_hash>
 		<url>https://retroachievements.org/game/20684/hashes</url>
+	</machine>
+
+	<machine name="Retail/Scooby-Doo! and the Spooky Swamp (USA) (En,Fr,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>Scooby-Doo! and the Spooky Swamp (USA) (En,Fr,Es)</description>
+		<disk name="Scooby-Doo! and the Spooky Swamp (USA) (En,Fr,Es).chd" sha1="c4c6faaa2fc37397ae507ad2d283099c901729c4"/>
+		<ra_hash>6708cb9012c6fb89cf56df643e786272</ra_hash>
+		<url>https://retroachievements.org/game/21069/hashes</url>
 	</machine>
 
 	<machine name="Retail/Scooby-Doo! First Frights (USA) (En,Fr,Es)">

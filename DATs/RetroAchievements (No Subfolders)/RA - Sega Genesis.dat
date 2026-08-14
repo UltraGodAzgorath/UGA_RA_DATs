@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>939</titlecount>
-		<hashcount>939</hashcount>
+		<titlecount>940</titlecount>
+		<hashcount>940</hashcount>
 	</header>
 
 	<game name="16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -8025,6 +8025,16 @@
 		<rom name="Super Smash T.V. (USA, Europe).md" size="524288" crc="F22412B6" md5="6858c543dd27b9f1d5aa260a25ab1b83" sha1="0459f7c61f152fa0afa98d96ef9fbe4964641f34"/>
 		<ra_hash>6858c543dd27b9f1d5aa260a25ab1b83</ra_hash>
 		<url>https://retroachievements.org/game/536/hashes</url>
+	</game>
+
+	<game name="Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl)</description>
+		<release name="Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl).md" size="2097152" crc="55DB6351" md5="bef766d43a93c2348592479ce9b5b591" sha1="a9ebd1c7317a403c09eae2a883ebc92c3fab0978"/>
+		<ra_hash>bef766d43a93c2348592479ce9b5b591</ra_hash>
+		<url>https://retroachievements.org/game/32906/hashes</url>
 	</game>
 
 	<game name="Super Street Fighter II (Europe)" cloneof="Super Street Fighter II (USA)">

@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation Portable</name>
 		<description>Sony PlayStation Portable</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/41-playstation-portable/games</url>
-		<titlecount>345</titlecount>
-		<hashcount>436</hashcount>
+		<titlecount>348</titlecount>
+		<hashcount>449</hashcount>
 	</header>
 
 	<machine name="Retail/hack--Link (Japan) (En)">
@@ -379,6 +379,15 @@
 		<url>https://retroachievements.org/game/14500/hashes</url>
 	</machine>
 
+	<machine name="Retail/Breath of Fire III (Europe)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Breath of Fire III (Europe)</description>
+		<disk name="Breath of Fire III (Europe).chd" sha1="c294878cfd67f9e217533c8c2a8f063c18df2850"/>
+		<ra_hash>3bada47b4163a03381e89a04fc898af2</ra_hash>
+		<url>https://retroachievements.org/game/3044/hashes</url>
+	</machine>
+
 	<machine name="Retail/Brick Breaker (USA) (minis) (PSN)">
 		<category>Minis</category>
 		<source>No-Intro</source>
@@ -711,6 +720,55 @@
 		<disk name="Def Jam - Fight for NY - The Takeover (USA).chd" sha1="6ec016090ddc9584f91131169c542ffdb4fcfa94"/>
 		<ra_hash>8426c057963fa1d12e9cfc9eed8ce5c3</ra_hash>
 		<url>https://retroachievements.org/game/18712/hashes</url>
+	</machine>
+
+	<machine name="Retail/The Lord of the Rings - Tactics/Der Herr der Ringe - Taktiken (DE)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Der Herr der Ringe - Taktiken (DE)</description>
+		<disk name="Der Herr der Ringe - Taktiken (DE).chd" sha1="fae667b0ab32614358f9b9fd22d7d7f42f95ea31"/>
+		<ra_hash>9567dc3ca7c4f80b60805cc4393c2da9</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Retail/The Lord of the Rings - Tactics/El Señor de los Anillos - Tácticas (ES)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>El Señor de los Anillos - Tácticas (ES)</description>
+		<disk name="El Señor de los Anillos - Tácticas (ES).chd" sha1="45cfbd24474e9b6b4cc6da3831d7d7200ef926e5"/>
+		<ra_hash>094c3a6fd07da2ff58c821f473dbf1e4</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Retail/The Lord of the Rings - Tactics/Il Signore degli Anelli - Tactics (IT)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Il Signore degli Anelli - Tactics (IT)</description>
+		<disk name="Il Signore degli Anelli - Tactics (IT).chd" sha1="7a54dc1cce534f38a4d4ba0e2ddad877100fce28"/>
+		<ra_hash>71ba8be20193b377557b874f0c24bcb6</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Retail/The Lord of the Rings - Tactics/Le Seigneur des Anneaux - Tactics (FR)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Le Seigneur des Anneaux - Tactics (FR)</description>
+		<disk name="Le Seigneur des Anneaux - Tactics (FR).chd" sha1="a55489bdae991d2658b10a34a315153d268fb751"/>
+		<ra_hash>df46a01713d8b8ebc0678d8ac72f9054</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Retail/The Lord of the Rings - Tactics/Lord of the Rings, The - Tactics (Europe)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Lord of the Rings, The - Tactics (Europe)</description>
+		<disk name="Lord of the Rings, The - Tactics (Europe).chd" sha1="492a8dfd60df89ccbc38ddd4e2c013750452b8e5"/>
+		<ra_hash>7e3422a2569868efacfbd86d0287abb0</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Retail/The Lord of the Rings - Tactics/Lord of the Rings, The - Tactics (USA)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Lord of the Rings, The - Tactics (USA)</description>
+		<disk name="Lord of the Rings, The - Tactics (USA).chd" sha1="339699e815f6fe075d5d3c21bcb60b1cfb25eac9"/>
+		<ra_hash>97eafc37a9efb8377830b4540fa21f65</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
 	</machine>
 
 	<machine name="Retail/Digimon Adventure/Digimon Adventure (Japan) (En) (v1.2) (Kazari)">
@@ -1061,6 +1119,55 @@
 		<disk name="Evangelion Shin Gekijou-ban - 3nd Impact (Asia).chd" sha1="e9b66fbcd48cdf7ff3a72cc969c75c7d5b7c234a"/>
 		<ra_hash>a0b7d035ab80867ddd7855f863437cf0</ra_hash>
 		<url>https://retroachievements.org/game/2922/hashes</url>
+	</machine>
+
+	<machine name="Retail/Everybody's Tennis/Everybody's Tennis (Europe) (En,Fr,De,Es,It)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Everybody's Tennis (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Everybody's Tennis (Europe) (En,Fr,De,Es,It).chd" sha1="b248fc6d9c12658c36b529629915b18a48e592bd"/>
+		<ra_hash>16a489789789f0d89de385f95ca6f0e2</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
+	</machine>
+	<machine name="Retail/Everybody's Tennis/Everybody's Tennis (Europe) (PSP) (PSN)">
+		<category>PSP</category>
+		<source>No-Intro</source>
+		<description>Everybody's Tennis (Europe) (PSP) (PSN)</description>
+		<disk name="Everybody's Tennis (Europe) (PSP) (PSN).chd" sha1="04f7df798db9468f575ef78918db39d9d92810f9"/>
+		<ra_hash>a66202c61153c2636f823971dc9e194c</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
+	</machine>
+	<machine name="Retail/Everybody's Tennis/Hot Shots Tennis - Get a Grip (USA) (En,Fr,Es)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Hot Shots Tennis - Get a Grip (USA) (En,Fr,Es)</description>
+		<disk name="Hot Shots Tennis - Get a Grip (USA) (En,Fr,Es).chd" sha1="bf480729f3eafe4922e2ff326f8b2501c97cdd7f"/>
+		<ra_hash>8056024b0744c9160cdd5a7356932661</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
+	</machine>
+	<machine name="Retail/Everybody's Tennis/Hot Shots Tennis - Get a Grip (USA) (PSP) (PSN)">
+		<category>PSP</category>
+		<source>No-Intro</source>
+		<description>Hot Shots Tennis - Get a Grip (USA) (PSP) (PSN)</description>
+		<disk name="Hot Shots Tennis - Get a Grip (USA) (PSP) (PSN).chd" sha1="92fd0447dbc3c708c4db0820ea6be1556410b7a0"/>
+		<ra_hash>2b45e36460c1c0367679367bfbe22e9f</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
+	</machine>
+	<machine name="Retail/Everybody's Tennis/Minna no Tennis Portable (Japan) (PSP) (PSN)">
+		<category>PSP</category>
+		<source>No-Intro</source>
+		<description>Minna no Tennis Portable (Japan) (PSP) (PSN)</description>
+		<disk name="Minna no Tennis Portable (Japan) (PSP) (PSN).chd" sha1="bea0ab029a2892a6c1300991002b517893d2339b"/>
+		<ra_hash>ae60d1aba1f7dedeceb8fd074b54ba0a</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
+	</machine>
+	<machine name="Retail/Everybody's Tennis/Minna no Tennis Portable (Japan, Asia)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Minna no Tennis Portable (Japan, Asia)</description>
+		<disk name="Minna no Tennis Portable (Japan, Asia).chd" sha1="7f30cd918821fbd7e689663434ebd10e4ccf8bc6"/>
+		<ra_hash>0afb15bf15e0ef74759010e2543ab4ab</ra_hash>
+		<url>https://retroachievements.org/game/18265/hashes</url>
 	</machine>
 
 	<machine name="Retail/Everyday Shooter (USA) (PSP) (PSN)">
@@ -2479,7 +2586,7 @@
 		<url>https://retroachievements.org/game/22484/hashes</url>
 	</machine>
 
-	<machine name="Retail/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (dackst) (1.08)">
+	<machine name="Retail/The Legend of Nayuta - Boundless Trails/Nayuta no Kiseki (Japan) (En) (dackst) (1.08)">
 		<category>PSP</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Nayuta no Kiseki (Japan) (En) (dackst) (1.08)</description>
@@ -2487,7 +2594,7 @@
 		<ra_hash>91f439c3b24b6d6ef98c037c6cd74119</ra_hash>
 		<url>https://retroachievements.org/game/3999/hashes</url>
 	</machine>
-	<machine name="Retail/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (Flame) (4.15)">
+	<machine name="Retail/The Legend of Nayuta - Boundless Trails/Nayuta no Kiseki (Japan) (En) (Flame) (4.15)">
 		<category>PSP</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Nayuta no Kiseki (Japan) (En) (Flame) (4.15)</description>

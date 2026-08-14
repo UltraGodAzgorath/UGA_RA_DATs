@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260809</version>
-		<date>9 August 2026</date>
+		<version>20260814</version>
+		<date>14 August 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1972</titlecount>
-		<hashcount>1972</hashcount>
+		<titlecount>1973</titlecount>
+		<hashcount>1973</hashcount>
 	</header>
 
 	<game name="Retail/10-Yard Fight (USA, Europe)">
@@ -2902,6 +2902,15 @@
 		<rom name="Crayon Shin-chan - Ora to Poi Poi (Japan).nes" size="262160" crc="F3259AB4" md5="d1b7abd50f9e010cf9cb1b1019629045" sha1="a194b3ac9ca499cb4c56ebbb351772a6b310689e"/>
 		<ra_hash>309ee82fe7a2b90ff0d984a99cbb5a17</ra_hash>
 		<url>https://retroachievements.org/game/5830/hashes</url>
+	</game>
+
+	<game name="Homebrew/CrazyBus (World) (Aftermarket) (Unl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>CrazyBus (World) (Aftermarket) (Unl)</description>
+		<rom name="CrazyBus (World) (Aftermarket) (Unl).nes" size="98320" crc="132787E7" md5="4a064119f2acb82271403656f35a0209" sha1="8c55b223e580b93a168cc07593af5934e5ce5add"/>
+		<ra_hash>be9158beacfbab99af0758618b459681</ra_hash>
+		<url>https://retroachievements.org/game/34141/hashes</url>
 	</game>
 
 	<game name="Retail/Crisis Force/Crisis Force (Japan)">
