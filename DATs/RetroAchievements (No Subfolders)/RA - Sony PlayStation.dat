@@ -1205,7 +1205,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)</description>
-		<release name="Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)" region="France"/>
 		<release name="Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)" region="English"/>
@@ -1218,7 +1217,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Bugs Bunny - Lost in Time (USA) (En,Fr,Es)</description>
-		<release name="Bugs Bunny - Lost in Time (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Bugs Bunny - Lost in Time (USA) (En,Fr,Es)" region="France"/>
 		<release name="Bugs Bunny - Lost in Time (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Bugs Bunny - Lost in Time (USA) (En,Fr,Es)" region="English"/>
@@ -1797,7 +1795,6 @@
 		<category>Retail</category>
 		<source>Redump, RAPatches</source>
 		<description>Colin McRae Rally 2.0 (USA) (En,De,It) (v1.1) (Lili, Riedler)</description>
-		<release name="Colin McRae Rally 2.0 (USA) (En,De,It) (v1.1) (Lili, Riedler)" region="USA"/>
 		<release name="Colin McRae Rally 2.0 (USA) (En,De,It) (v1.1) (Lili, Riedler)" region="Germany"/>
 		<release name="Colin McRae Rally 2.0 (USA) (En,De,It) (v1.1) (Lili, Riedler)" region="Italy"/>
 		<release name="Colin McRae Rally 2.0 (USA) (En,De,It) (v1.1) (Lili, Riedler)" region="English"/>
@@ -2546,7 +2543,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Diablo (USA) (En,Fr,De,Sv)</description>
-		<release name="Diablo (USA) (En,Fr,De,Sv)" region="USA"/>
 		<release name="Diablo (USA) (En,Fr,De,Sv)" region="France"/>
 		<release name="Diablo (USA) (En,Fr,De,Sv)" region="Germany"/>
 		<release name="Diablo (USA) (En,Fr,De,Sv)" region="Sweden"/>
@@ -3546,7 +3542,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Fade to Black (USA) (En,Fr,De,Es,It)</description>
-		<release name="Fade to Black (USA) (En,Fr,De,Es,It)" region="USA"/>
 		<release name="Fade to Black (USA) (En,Fr,De,Es,It)" region="France"/>
 		<release name="Fade to Black (USA) (En,Fr,De,Es,It)" region="Germany"/>
 		<release name="Fade to Black (USA) (En,Fr,De,Es,It)" region="Italy"/>
@@ -4412,7 +4407,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Grinch, The (USA) (En,Fr,Es)</description>
-		<release name="Grinch, The (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Grinch, The (USA) (En,Fr,Es)" region="France"/>
 		<release name="Grinch, The (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Grinch, The (USA) (En,Fr,Es)" region="English"/>
@@ -4561,7 +4555,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)</description>
-		<release name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)" region="France"/>
 		<release name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)" region="English"/>
@@ -4574,7 +4567,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)</description>
-		<release name="Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)" region="France"/>
 		<release name="Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)" region="English"/>
@@ -4779,7 +4771,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Hugo - The Evil Mirror (USA) (En,Es)</description>
-		<release name="Hugo - The Evil Mirror (USA) (En,Es)" region="USA"/>
 		<release name="Hugo - The Evil Mirror (USA) (En,Es)" region="Spain"/>
 		<release name="Hugo - The Evil Mirror (USA) (En,Es)" region="English"/>
 		<disk name="Hugo - The Evil Mirror (USA) (En,Es).chd" sha1="76da5590bef0ed5f81794d1f21e57fd884621b59"/>
@@ -5648,7 +5639,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Loaded (USA) (En,Fr)</description>
-		<release name="Loaded (USA) (En,Fr)" region="USA"/>
 		<release name="Loaded (USA) (En,Fr)" region="France"/>
 		<release name="Loaded (USA) (En,Fr)" region="English"/>
 		<disk name="Loaded (USA) (En,Fr).chd" sha1="727bafe2c941a53ce7c52380aade32369017c664"/>
@@ -5660,7 +5650,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)</description>
-		<release name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)" region="USA"/>
 		<release name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)" region="France"/>
 		<release name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)" region="Spain"/>
 		<release name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)" region="Portugal"/>
@@ -5674,7 +5663,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Looney Tunes Racing (USA) (En,Fr,Es)</description>
-		<release name="Looney Tunes Racing (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Looney Tunes Racing (USA) (En,Fr,Es)" region="France"/>
 		<release name="Looney Tunes Racing (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Looney Tunes Racing (USA) (En,Fr,Es)" region="English"/>
@@ -5895,7 +5883,6 @@
 		<category>Retail</category>
 		<source>Redump, RAPatches</source>
 		<description>MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)</description>
-		<release name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)" region="USA"/>
 		<release name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)" region="France"/>
 		<release name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)" region="Germany"/>
 		<release name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)" region="Italy"/>
@@ -5909,6 +5896,7 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>MDK (USA)</description>
+		<release name="MDK (USA)" region="USA"/>
 		<disk name="MDK (USA).chd" sha1="32cb080a83c5c6415598a2e2c49461429c0e84db"/>
 		<ra_hash>055bb9a8c5ffb185f9086a4827324a4c</ra_hash>
 		<url>https://retroachievements.org/game/11604/hashes</url>
@@ -7225,7 +7213,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>PaRappa the Rapper (USA) (En,Fr,De,Es,It)</description>
-		<release name="PaRappa the Rapper (USA) (En,Fr,De,Es,It)" region="USA"/>
 		<release name="PaRappa the Rapper (USA) (En,Fr,De,Es,It)" region="France"/>
 		<release name="PaRappa the Rapper (USA) (En,Fr,De,Es,It)" region="Germany"/>
 		<release name="PaRappa the Rapper (USA) (En,Fr,De,Es,It)" region="Italy"/>
@@ -7606,7 +7593,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Porsche Challenge (USA) (En,Fr,Es)</description>
-		<release name="Porsche Challenge (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Porsche Challenge (USA) (En,Fr,Es)" region="France"/>
 		<release name="Porsche Challenge (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Porsche Challenge (USA) (En,Fr,Es)" region="English"/>
@@ -7979,7 +7965,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Racing (USA) (En,Fr,Es)</description>
-		<release name="Racing (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Racing (USA) (En,Fr,Es)" region="France"/>
 		<release name="Racing (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Racing (USA) (En,Fr,Es)" region="English"/>
@@ -8052,7 +8037,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Rayman 2 - The Great Escape (USA) (En,Fr,Es)</description>
-		<release name="Rayman 2 - The Great Escape (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Rayman 2 - The Great Escape (USA) (En,Fr,Es)" region="France"/>
 		<release name="Rayman 2 - The Great Escape (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Rayman 2 - The Great Escape (USA) (En,Fr,Es)" region="English"/>
@@ -8352,7 +8336,6 @@
 		<category>Retail</category>
 		<source>Redump, Lost Level Archive</source>
 		<description>Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)</description>
-		<release name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)" region="USA"/>
 		<release name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)" region="Brazil"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999).m3u" size="166" crc="4878A65C" md5="ec2dfa42ca832081bfc21b38972084ef" sha1="37db6f3635427c6b0720ec30dc7dab8420db0299"/>
 		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 1).chd" sha1="946a0b5fbfe057a03781d2d51e33bc21a75b265a"/>
@@ -8365,6 +8348,7 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Resident Evil 2 - Dual Shock Ver. (USA)</description>
+		<release name="Resident Evil 2 - Dual Shock Ver. (USA)" region="USA"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA).m3u" size="108" crc="E1837B92" md5="18953066557f74316fc1e131493421be" sha1="084e7c1c524b83999131a6cbf61c13d04116b42e"/>
 		<disk name="Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).chd" sha1="38c5a6c7c5cc25c4838f4b5e80f9fb0eb884ae55"/>
 		<ra_hash>33df147cc40901c4f96e4e9328cc9218</ra_hash>
@@ -9256,7 +9240,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Smurfs, The (USA) (En,Fr,Es)</description>
-		<release name="Smurfs, The (USA) (En,Fr,Es)" region="USA"/>
 		<release name="Smurfs, The (USA) (En,Fr,Es)" region="France"/>
 		<release name="Smurfs, The (USA) (En,Fr,Es)" region="Spain"/>
 		<release name="Smurfs, The (USA) (En,Fr,Es)" region="English"/>
@@ -11055,7 +11038,6 @@
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>WarCraft II - The Dark Saga (USA) (En,Fr,De,Es,It)</description>
-		<release name="WarCraft II - The Dark Saga (USA) (En,Fr,De,Es,It)" region="USA"/>
 		<release name="WarCraft II - The Dark Saga (USA) (En,Fr,De,Es,It)" region="France"/>
 		<release name="WarCraft II - The Dark Saga (USA) (En,Fr,De,Es,It)" region="Germany"/>
 		<release name="WarCraft II - The Dark Saga (USA) (En,Fr,De,Es,It)" region="Italy"/>
