@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1973</titlecount>
-		<hashcount>1973</hashcount>
+		<titlecount>1979</titlecount>
+		<hashcount>1979</hashcount>
 	</header>
 
 	<game name="Retail/10-Yard Fight (USA, Europe)">
@@ -1213,6 +1213,31 @@
 		<rom name="Batman Returns (USA).nes" size="393232" crc="E61B292F" md5="d798e65d84dee16cf8b3f96aef555314" sha1="76c681a8f09b44337229e3aa66848e4bfa913865"/>
 		<ra_hash>077aef22bae04dbf287ebbc03806da3c</ra_hash>
 		<url>https://retroachievements.org/game/1569/hashes</url>
+	</game>
+
+	<game name="Retail/Batsu and Terii - Makyou no Tetsujin Race/Batsu &amp; Terry - Makyou no Tetsujin Race (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Batsu &amp; Terry - Makyou no Tetsujin Race (Japan)</description>
+		<rom name="Batsu &amp; Terry - Makyou no Tetsujin Race (Japan).nes" size="131088" crc="5D472584" md5="2ed5959c6c54f479d2ff91731cd89bce" sha1="febce83a1561df1ce8e697a5955a826b9b8ff881"/>
+		<ra_hash>fbc46d607ee554c8388d2903138ce7ee</ra_hash>
+		<url>https://retroachievements.org/game/5003/hashes</url>
+	</game>
+	<game name="Retail/Batsu and Terii - Makyou no Tetsujin Race/Batsu &amp; Terry - Makyou no Tetsujin Race (Japan) (En) (v1.0) (Zynk Oxhyde)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Batsu &amp; Terry - Makyou no Tetsujin Race (Japan) (En) (v1.0) (Zynk Oxhyde)</description>
+		<rom name="Batsu &amp; Terry - Makyou no Tetsujin Race (Japan) (En) (v1.0) (Zynk Oxhyde).nes" size="131088" crc="F95E1716" md5="7df2b6531f2158c92909584318fd836b" sha1="afb62b943f56e86e56f971a2375998e49bd75231"/>
+		<ra_hash>80c2087288cfff241ec38f21051abb6a</ra_hash>
+		<url>https://retroachievements.org/game/5003/hashes</url>
+	</game>
+	<game name="Retail/Batsu and Terii - Makyou no Tetsujin Race/Batsu &amp; Terry - Makyou no Tetsujin Race (Russia) (Pirate)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Batsu &amp; Terry - Makyou no Tetsujin Race (Russia) (Pirate)</description>
+		<rom name="Batsu &amp; Terry - Makyou no Tetsujin Race (Russia) (Pirate).nes" size="131088" crc="3998B044" md5="40eedaf384fd52769ec62cdf2ccde9d6" sha1="e1964b494a3a7c31fe695fbed8c464d9477a442a"/>
+		<ra_hash>7a7f5ed7d0c5ecbea77452b7f37d6900</ra_hash>
+		<url>https://retroachievements.org/game/5003/hashes</url>
 	</game>
 
 	<game name="Homebrew/Battle Kid - Fortress of Peril (USA) (V1.100) (Aftermarket) (Unl)">
@@ -2537,6 +2562,15 @@
 		<rom name="Chou Fuyuu Yousai - Exed Exes (Japan).nes" size="40976" crc="A39FDD59" md5="ce5cec9af45a4ddedc51d70d369cf325" sha1="f2b7e53ed0a29691e3d3294f69a00d0308877494"/>
 		<ra_hash>27d2c795c0d4588d7a12f35854ed0b44</ra_hash>
 		<url>https://retroachievements.org/game/4820/hashes</url>
+	</game>
+
+	<game name="Retail/Choujikuu Yousai - Macross (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Choujikuu Yousai - Macross (Japan)</description>
+		<rom name="Choujikuu Yousai - Macross (Japan).nes" size="24592" crc="EF90CB84" md5="d9b540419aac4127aa591978350827b4" sha1="f56820e3dd7d97eabdb226249227205765886b0b"/>
+		<ra_hash>9ce00fefc0ab7c746dabe44e039eba31</ra_hash>
+		<url>https://retroachievements.org/game/4815/hashes</url>
 	</game>
 
 	<game name="Retail/Choujin Sentai Jetman/Choujin Sentai - Jetman (Japan)">
@@ -4100,7 +4134,7 @@
 		<url>https://retroachievements.org/game/1667/hashes</url>
 	</game>
 
-	<game name="Retail/Dragon Quest IV/Dragon Quest IV - Michibikareshi Monotachi (Japan)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Quest IV - Michibikareshi Monotachi (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Dragon Quest IV - Michibikareshi Monotachi (Japan)</description>
@@ -4108,7 +4142,7 @@
 		<ra_hash>80d5683ac95537401f2f003a76379b8e</ra_hash>
 		<url>https://retroachievements.org/game/4612/hashes</url>
 	</game>
-	<game name="Retail/Dragon Quest IV/Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)</description>
@@ -4116,7 +4150,7 @@
 		<ra_hash>192f2997b7f5123ebc81b7b8c469c1ea</ra_hash>
 		<url>https://retroachievements.org/game/4612/hashes</url>
 	</game>
-	<game name="Retail/Dragon Quest IV/Dragon Warrior IV (USA)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Warrior IV (USA)">
 		<category></category>
 		<source>No-Intro, main</source>
 		<description>Dragon Warrior IV (USA)</description>
@@ -5492,7 +5526,7 @@
 		<url>https://retroachievements.org/game/1699/hashes</url>
 	</game>
 
-	<game name="Retail/Galaga/Galaga (Europe)">
+	<game name="Retail/Galaga - Demons of Death/Galaga (Europe)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Galaga (Europe)</description>
@@ -5500,7 +5534,7 @@
 		<ra_hash>7810f70fc3c17226a5365ef64283df0d</ra_hash>
 		<url>https://retroachievements.org/game/1701/hashes</url>
 	</game>
-	<game name="Retail/Galaga/Galaga (Japan)">
+	<game name="Retail/Galaga - Demons of Death/Galaga (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Galaga (Japan)</description>
@@ -5508,7 +5542,7 @@
 		<ra_hash>c90d652840d02c8eca799b3799bad6f7</ra_hash>
 		<url>https://retroachievements.org/game/1701/hashes</url>
 	</game>
-	<game name="Retail/Galaga/Galaga - Demons of Death (USA)">
+	<game name="Retail/Galaga - Demons of Death/Galaga - Demons of Death (USA)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Galaga - Demons of Death (USA)</description>
@@ -7132,6 +7166,15 @@
 		<rom name="Isolated Warrior (USA) (Ru) (MJOLNIR Vlad).nes" size="262160" crc="68509AB1" md5="273f658585eeaaf33553387f8760b289" sha1="82e078a40dd4c270a68281fdf8bffe6f56df15e1"/>
 		<ra_hash>82bf8170c1763ba82c54d9c013dd98fb</ra_hash>
 		<url>https://retroachievements.org/game/1756/hashes</url>
+	</game>
+
+	<game name="Retail/Itadaki Street - Watashi no Omise ni Yottette (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Itadaki Street - Watashi no Omise ni Yottette (Japan)</description>
+		<rom name="Itadaki Street - Watashi no Omise ni Yottette (Japan).nes" size="262160" crc="4995D674" md5="87da8028fe2ad9d23a05d0ffb8c3a6fd" sha1="26df0d8221c1ca1dc387f49c84feb957d71ee071"/>
+		<ra_hash>edfdbe578d7728a4c8c03a7a15a6c21b</ra_hash>
+		<url>https://retroachievements.org/game/8157/hashes</url>
 	</game>
 
 	<game name="Retail/Ivan 'Ironman' Stewart's Super Off Road (USA)">
@@ -9693,6 +9736,15 @@
 		<rom name="Mega Man 5 - Indonesian Artifact (v1.0) (Anandastoon).nes" size="524304" crc="64DD1BB5" md5="14752cd1f58fa16d9a3ef317be7456e7" sha1="15c23e4e20f8c816cb855f275ffb9a5964cb1b6d"/>
 		<ra_hash>d7303e42a196e60f17fecf6b24d343ac</ra_hash>
 		<url>https://retroachievements.org/game/16783/hashes</url>
+	</game>
+
+	<game name="Hack/Mega Man 5 - Second Strike - Protoman Edition (v1.1) (MetHy)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Mega Man 5 - Second Strike - Protoman Edition (v1.1) (MetHy)</description>
+		<rom name="Mega Man 5 - Second Strike - Protoman Edition (v1.1) (MetHy).nes" size="524304" crc="E9266571" md5="61765230ec3af68199d0395fec3a0643" sha1="af31f9e051fbaf0563ff1c6f9b9755b592b1d150"/>
+		<ra_hash>c87595a3392c1e17183eb1b7443ef6bd</ra_hash>
+		<url>https://retroachievements.org/game/12810/hashes</url>
 	</game>
 
 	<game name="Retail/Mega Man 6/Mega Man 6 (USA)">

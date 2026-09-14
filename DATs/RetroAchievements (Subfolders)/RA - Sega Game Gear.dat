@@ -5,12 +5,12 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/15-game-gear/games</url>
-		<titlecount>193</titlecount>
-		<hashcount>193</hashcount>
+		<titlecount>195</titlecount>
+		<hashcount>195</hashcount>
 	</header>
 
 	<game name="Retail/Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En)">
@@ -55,6 +55,15 @@
 		<rom name="Alien 3 (USA, Europe).gg" size="262144" crc="11A68C08" md5="653310b476cab68eeb8d3520c26b9755" sha1="f3b976fefc331f37c3e4d883791eba68890279a5"/>
 		<ra_hash>653310b476cab68eeb8d3520c26b9755</ra_hash>
 		<url>https://retroachievements.org/game/24340/hashes</url>
+	</game>
+
+	<game name="Retail/Alien Syndrome (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Alien Syndrome (Europe)</description>
+		<rom name="Alien Syndrome (Europe).gg" size="131072" crc="BB5E10E0" md5="6c29fc1bae1051774e9a83098f55bd4e" sha1="112c7fba070eb7b6bdd41675d49caf934c17dc17"/>
+		<ra_hash>6c29fc1bae1051774e9a83098f55bd4e</ra_hash>
+		<url>https://retroachievements.org/game/14298/hashes</url>
 	</game>
 
 	<game name="Retail/Arena (USA, Europe)">
@@ -395,6 +404,15 @@
 		<rom name="Dragon Crystal (USA, Europe).gg" size="131072" crc="0EF2ED93" md5="8431baccd169025f79c9cbc44e31622d" sha1="6d53f32001d419a5b5e9c16cb62e07e548d2f44a"/>
 		<ra_hash>8431baccd169025f79c9cbc44e31622d</ra_hash>
 		<url>https://retroachievements.org/game/12768/hashes</url>
+	</game>
+
+	<game name="Retail/Dunk Kids (Japan) (En)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Dunk Kids (Japan) (En)</description>
+		<rom name="Dunk Kids (Japan) (En).gg" size="524288" crc="77ED48F5" md5="1d1c50cdbfe605a37d5dcf1250a951df" sha1="7525923ba2531d5079d66b2b1156cb5e7d44c66a"/>
+		<ra_hash>1d1c50cdbfe605a37d5dcf1250a951df</ra_hash>
+		<url>https://retroachievements.org/game/31793/hashes</url>
 	</game>
 
 	<game name="Retail/Earthworm Jim (USA)">

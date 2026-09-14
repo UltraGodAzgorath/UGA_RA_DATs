@@ -5,12 +5,12 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/8-pc-engine-turbografx-16/games</url>
-		<titlecount>141</titlecount>
-		<hashcount>178</hashcount>
+		<titlecount>142</titlecount>
+		<hashcount>179</hashcount>
 	</header>
 
 	<game name="Retail/1941 - Counter Attack (Japan)">
@@ -345,6 +345,15 @@
 		<rom name="Doraemon - Meikyuu Daisakusen (Japan).pce" size="262144" crc="DC760A07" md5="77cf3e53c5e4fbef73087893cdeec84f" sha1="81769dc4e2e669f6ae98872d22c52ac290530a28"/>
 		<ra_hash>77cf3e53c5e4fbef73087893cdeec84f</ra_hash>
 		<url>https://retroachievements.org/game/2286/hashes</url>
+	</game>
+
+	<game name="Retail/Cyber Dodge (Japan) (En)">
+		<category>TurboGrafx-16</category>
+		<source>No-Intro</source>
+		<description>Cyber Dodge (Japan) (En)</description>
+		<rom name="Cyber Dodge (Japan) (En).pce" size="524288" crc="B5326B16" md5="cbc880d19c5a996d58d8a8d9c468d31b" sha1="fd6e6ed4f8124a6db42dcddd34d08beacbb6dd52"/>
+		<ra_hash>cbc880d19c5a996d58d8a8d9c468d31b</ra_hash>
+		<url>https://retroachievements.org/game/22751/hashes</url>
 	</game>
 
 	<game name="Retail/Cyber-Core (USA)">

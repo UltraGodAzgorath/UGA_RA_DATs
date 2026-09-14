@@ -5,12 +5,12 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>824</titlecount>
-		<hashcount>824</hashcount>
+		<titlecount>837</titlecount>
+		<hashcount>837</hashcount>
 	</header>
 
 	<game name="Homebrew/10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -241,6 +241,23 @@
 		<rom name="Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="C1FD7D52" md5="90ce3d001fb553b3aeff513c5c151990" sha1="2dd78d9cfc2d76a6d1614d292864d2c6c737c186"/>
 		<ra_hash>464ede6ad6715cf6c1c9ee4464437af8</ra_hash>
 		<url>https://retroachievements.org/game/32064/hashes</url>
+	</game>
+
+	<game name="Homebrew/American Psycho/AmericanPhyschoNoNitroFS">
+		<category></category>
+		<source>Unknown</source>
+		<description>AmericanPhyschoNoNitroFS</description>
+		<rom name="AmericanPhyschoNoNitroFS.nds" size="9717600" crc="9557E39F" md5="7d7ff03676076f2205f44a7fd4e3eb03" sha1="98a1626091ddeee3601d499078f549bfa8bdddad"/>
+		<ra_hash>9e5cb3237df7358c29c1fd94fdf4ad09</ra_hash>
+		<url>https://retroachievements.org/game/42563/hashes</url>
+	</game>
+	<game name="Homebrew/American Psycho/AmericanPhyschoYesNitroFS">
+		<category></category>
+		<source>Unknown</source>
+		<description>AmericanPhyschoYesNitroFS</description>
+		<rom name="AmericanPhyschoYesNitroFS.nds" size="9793376" crc="F00CD1FF" md5="778c15626d1f87eaee4e6735cb8c80f4" sha1="26160e0e76ce43f47f3a05a91f62f0b7c59e5e53"/>
+		<ra_hash>49a49be916aec6e228e1de3129dd5b08</ra_hash>
+		<url>https://retroachievements.org/game/42563/hashes</url>
 	</game>
 
 	<game name="Homebrew/Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl)">
@@ -623,6 +640,15 @@
 		<url>https://retroachievements.org/game/18642/hashes</url>
 	</game>
 
+	<game name="Prototype/Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13)</description>
+		<rom name="Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13).nds" size="67108864" crc="E555E41C" md5="59948b73f305f741453d8987374f933a" sha1="91507b078f4dde9b2ea242d6c52f05010b22cf26"/>
+		<ra_hash>7009b33da23d95fb31bd205b161c991a</ra_hash>
+		<url>https://retroachievements.org/game/38506/hashes</url>
+	</game>
+
 	<game name="Retail/Bob the Builder - Festival of Fun/Bob the Builder - Festival of Fun (Europe) (En,Es)">
 		<category></category>
 		<source>No-Intro</source>
@@ -780,6 +806,15 @@
 		<rom name="Cake Mania (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="EE4A5DE7" md5="a77a2234ae222cbba99b414cf9e48be8" sha1="8acfd5c964fdd76c55fd0b18fca611c6f683393e"/>
 		<ra_hash>332aaf4fc581f60a77e1cfca91b5e350</ra_hash>
 		<url>https://retroachievements.org/game/5648/hashes</url>
+	</game>
+
+	<game name="Retail/Cake Mania 2 - Jill's Next Adventure! (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Cake Mania 2 - Jill's Next Adventure! (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Cake Mania 2 - Jill's Next Adventure! (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="E1342918" md5="c0ddca47c335803fbd1de17da548d072" sha1="23578357ebd1ed24012c7b850c1cb31079af8d66"/>
+		<ra_hash>1245b4749efc0d0863b3a7614e69a71e</ra_hash>
+		<url>https://retroachievements.org/game/25696/hashes</url>
 	</game>
 
 	<game name="Retail/Carnival Games (USA) (En,Fr)">
@@ -1296,6 +1331,23 @@
 		<rom name="CSI - Crime Scene Investigation - Dark Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="97DE4F06" md5="e99794a38e9ffdf166edee82baa1c951" sha1="d888c088c3169463c296f4b219fc0534dd904514"/>
 		<ra_hash>3a0b49b5d21a1ad4e599f8a8e2173059</ra_hash>
 		<url>https://retroachievements.org/game/19918/hashes</url>
+	</game>
+
+	<game name="Retail/Culdcept DS/Culdcept DS (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Culdcept DS (Japan)</description>
+		<rom name="Culdcept DS (Japan).nds" size="67108864" crc="CF759637" md5="0e23e1a070998d3f3b16d6bfd16cf63e" sha1="0ea2b3c4ff913139a7786c2e8f561a49958c8e57"/>
+		<ra_hash>d57f6763cf1c597979c73109ac2d580a</ra_hash>
+		<url>https://retroachievements.org/game/3042/hashes</url>
+	</game>
+	<game name="Retail/Culdcept DS/Culdcept DS (Japan) (En) (v1.0) (theli)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Culdcept DS (Japan) (En) (v1.0) (theli)</description>
+		<rom name="Culdcept DS (Japan) (En) (v1.0) (theli).nds" size="66865724" crc="2B23C97F" md5="b25f48238c7378c5d7d24358be223c91" sha1="2a948595b44e535a2eb12c5750e43c528708cd3c"/>
+		<ra_hash>e9c8dbcd4307f2e925fa5b3b6ef68743</ra_hash>
+		<url>https://retroachievements.org/game/3042/hashes</url>
 	</game>
 
 	<game name="Retail/Custom Robo Arena (Europe) (En,Fr,De,Es,It)">
@@ -2578,6 +2630,15 @@
 		<url>https://retroachievements.org/game/18823/hashes</url>
 	</game>
 
+	<game name="Retail/Jigapix - Love is (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Jigapix - Love is (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
+		<rom name="Jigapix - Love is (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="33554432" crc="1CADE50A" md5="5ccf77bc7e34e4604675905e8bd0681f" sha1="81fb8b7cf128867cf8e8957b150e3f20a68ca0ea"/>
+		<ra_hash>212ce2de4bef270dd0a7591ee5b74ff2</ra_hash>
+		<url>https://retroachievements.org/game/15349/hashes</url>
+	</game>
+
 	<game name="Retail/Johnny Test (USA) (En,Fr,Es)">
 		<category></category>
 		<source>No-Intro</source>
@@ -2960,6 +3021,23 @@
 		<rom name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da).nds" size="134217728" crc="F2F887ED" md5="01791efd85c61f679cdc9865cfe0a843" sha1="b3c079d4f25a0e203c9a8dd071a71c780b02f0d5"/>
 		<ra_hash>c430eb04603f067e8b2c1110530a589b</ra_hash>
 		<url>https://retroachievements.org/game/15355/hashes</url>
+	</game>
+
+	<game name="Subset/Professor Layton and the Diabolical Box [Subset - London Holiday]/Level5 Premium - Gold (Japan) (Demo)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Level5 Premium - Gold (Japan) (Demo)</description>
+		<rom name="Level5 Premium - Gold (Japan) (Demo).nds" size="67108864" crc="791549E0" md5="8cb544870ecf1f10b690fff2c2972e16" sha1="175bf32805325a97a6d30583c71a4304abd4b40b"/>
+		<ra_hash>b2c859d9d4cfe2f1649f62f2f40c46cd</ra_hash>
+		<url>https://retroachievements.org/game/17587/hashes</url>
+	</game>
+	<game name="Subset/Professor Layton and the Diabolical Box [Subset - London Holiday]/Level5 Premium - Silver (Japan) (Demo)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Level5 Premium - Silver (Japan) (Demo)</description>
+		<rom name="Level5 Premium - Silver (Japan) (Demo).nds" size="33554432" crc="5627B85F" md5="8e813ee130bd702c955481548b8bd287" sha1="2eff32a57e51e3e99e0a72518f511a8352154832"/>
+		<ra_hash>1dc7d130e52bc6eb7819a689325ef4a7</ra_hash>
+		<url>https://retroachievements.org/game/17587/hashes</url>
 	</game>
 
 	<game name="Retail/Little Red Riding Hood's Zombie BBQ (USA)">
@@ -3569,6 +3647,15 @@
 		<url>https://retroachievements.org/game/16193/hashes</url>
 	</game>
 
+	<game name="Hack/MKDS - Pony Kart DS (v1.3) (Peachy_Pie)">
+		<category></category>
+		<source>No-Intro, RAPatches, gamebanana</source>
+		<description>MKDS - Pony Kart DS (v1.3) (Peachy_Pie)</description>
+		<rom name="MKDS - Pony Kart DS (v1.3) (Peachy_Pie).nds" size="22813776" crc="DAA089E8" md5="1cf541158b2b8ddf87d50fc92e6dfb3d" sha1="d809f127628dd0ae18447eb3f18c4b4f74325116"/>
+		<ra_hash>f2181720a99d27fe7fd8f85e259e0e56</ra_hash>
+		<url>https://retroachievements.org/game/33037/hashes</url>
+	</game>
+
 	<game name="Hack/MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko)">
 		<category></category>
 		<source>No-Intro, RAPatches, gamebanana</source>
@@ -3912,7 +3999,7 @@
 		<url>https://retroachievements.org/game/14829/hashes</url>
 	</game>
 
-	<game name="Retail/Ni no Kuni - The Jet-Black Mage/Ni no Kuni - Shikkoku no Madoushi (Japan)">
+	<game name="Retail/Ni no Kuni - Shikkoku no Madoushi/Ni no Kuni - Shikkoku no Madoushi (Japan)">
 		<category></category>
 		<source>No-Intro</source>
 		<description>Ni no Kuni - Shikkoku no Madoushi (Japan)</description>
@@ -3920,7 +4007,7 @@
 		<ra_hash>26f46a05ce56a2b5ecd2febec4ee9976</ra_hash>
 		<url>https://retroachievements.org/game/3871/hashes</url>
 	</game>
-	<game name="Retail/Ni no Kuni - The Jet-Black Mage/Ni no Kuni - Shikkoku no Madoushi (Japan) (En) (v1.0) (anjiera)">
+	<game name="Retail/Ni no Kuni - Shikkoku no Madoushi/Ni no Kuni - Shikkoku no Madoushi (Japan) (En) (v1.0) (anjiera)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Ni no Kuni - Shikkoku no Madoushi (Japan) (En) (v1.0) (anjiera)</description>
@@ -3928,7 +4015,7 @@
 		<ra_hash>6c989727488e33b6ef4c9f5e7a24fda1</ra_hash>
 		<url>https://retroachievements.org/game/3871/hashes</url>
 	</game>
-	<game name="Retail/Ni no Kuni - The Jet-Black Mage/Ni no Kuni - Shikkoku no Madoushi (Japan) (Es) (v2.0) (Jefelin)">
+	<game name="Retail/Ni no Kuni - Shikkoku no Madoushi/Ni no Kuni - Shikkoku no Madoushi (Japan) (Es) (v2.0) (Jefelin)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Ni no Kuni - Shikkoku no Madoushi (Japan) (Es) (v2.0) (Jefelin)</description>
@@ -3936,7 +4023,7 @@
 		<ra_hash>9ee668c963762c942c5c94fe2ac73ed6</ra_hash>
 		<url>https://retroachievements.org/game/3871/hashes</url>
 	</game>
-	<game name="Retail/Ni no Kuni - The Jet-Black Mage/Ni no Kuni - Shikkoku no Madoushi (Japan) (Ru) (v5.1)">
+	<game name="Retail/Ni no Kuni - Shikkoku no Madoushi/Ni no Kuni - Shikkoku no Madoushi (Japan) (Ru) (v5.1)">
 		<category></category>
 		<source>No-Intro, RAPatches</source>
 		<description>Ni no Kuni - Shikkoku no Madoushi (Japan) (Ru) (v5.1)</description>
@@ -4335,6 +4422,31 @@
 		<rom name="Picross DS (USA) (En,Fr,Es).nds" size="33554432" crc="35004805" md5="a980adb92b4bbda7784cdf960ada8826" sha1="236f1349271c0890a9f4f36f1e58fb57eac05a59"/>
 		<ra_hash>d043d8dfd723a4bf07dfc203c337ba7a</ra_hash>
 		<url>https://retroachievements.org/game/14937/hashes</url>
+	</game>
+
+	<game name="Retail/PictoImage/Picto Image DS (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Picto Image DS (Japan)</description>
+		<rom name="Picto Image DS (Japan).nds" size="16777216" crc="039BF7E3" md5="7264bebeab160551fcd1595bb31ba6f5" sha1="b7223b329a1bf06d4ecde5eb9e2de4448448ba12"/>
+		<ra_hash>5f0218db41fd883e933d90886309f9e2</ra_hash>
+		<url>https://retroachievements.org/game/40790/hashes</url>
+	</game>
+	<game name="Retail/PictoImage/PictoImage (USA) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>PictoImage (USA) (En,Fr,De,Es,It)</description>
+		<rom name="PictoImage (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="CDB85FA3" md5="3f12ae3e2c2b4cd23779dcd5eb1dbc61" sha1="45513a6ce742870f7b47b49518f49bdeebe979ad"/>
+		<ra_hash>02e85e58eb50f285c10a968962e1e549</ra_hash>
+		<url>https://retroachievements.org/game/40790/hashes</url>
+	</game>
+	<game name="Retail/PictoImage/PictoImage - Sketch and Guess on Your DS! (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>PictoImage - Sketch and Guess on Your DS! (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="PictoImage - Sketch and Guess on Your DS! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="F23F58A4" md5="54889a9932f935b73279318db6236430" sha1="63c8dafc9706ec2ba3466984552e0d8a918e2bba"/>
+		<ra_hash>d40480f7a8ab8c0c658575564725daee</ra_hash>
+		<url>https://retroachievements.org/game/40790/hashes</url>
 	</game>
 
 	<game name="Retail/Plants vs. Zombies (USA)">

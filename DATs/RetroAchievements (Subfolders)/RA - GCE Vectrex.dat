@@ -5,13 +5,30 @@
 		<name>RA - GCE Vectrex</name>
 		<description>GCE Vectrex</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/46-vectrex/games</url>
-		<titlecount>34</titlecount>
-		<hashcount>36</hashcount>
+		<titlecount>35</titlecount>
+		<hashcount>38</hashcount>
 	</header>
+
+	<game name="Retail/3D Narrow Escape/3D Narrow Escape (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>3D Narrow Escape (USA)</description>
+		<rom name="3D Narrow Escape (USA).vec" size="8192" crc="050BD949" md5="f79c596a0205c5e7c427cdbbb1e16918" sha1="9e5d23cb7ef111394e1804e105b6dd277c062df6"/>
+		<ra_hash>f79c596a0205c5e7c427cdbbb1e16918</ra_hash>
+		<url>https://retroachievements.org/game/8980/hashes</url>
+	</game>
+	<game name="Retail/3D Narrow Escape/Narrow Escape (2-D Version by Fred Taft) (1983) (h1)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Narrow Escape (2-D Version by Fred Taft) (1983) (h1)</description>
+		<rom name="Narrow Escape (2-D Version by Fred Taft) (1983) (h1).bin" size="7573" crc="1EDA284C" md5="5c5d5eeb71f51a6fdd4fa6c36e4b2801" sha1="34515c515f11afa2f57d4b03d5c213828158b3d5"/>
+		<ra_hash>5c5d5eeb71f51a6fdd4fa6c36e4b2801</ra_hash>
+		<url>https://retroachievements.org/game/8980/hashes</url>
+	</game>
 
 	<game name="Retail/Armor Attack (World)">
 		<category></category>

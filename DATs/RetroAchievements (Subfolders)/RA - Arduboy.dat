@@ -5,12 +5,12 @@
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/71-arduboy/games</url>
-		<titlecount>104</titlecount>
-		<hashcount>108</hashcount>
+		<titlecount>105</titlecount>
+		<hashcount>109</hashcount>
 	</header>
 
 	<game name="Retail/1944 (World) (Erwin's Collection)">
@@ -136,6 +136,15 @@
 		<rom name="ArduLifts.arduboy" size="43852" crc="7EE7F467" md5="3f9b7d05dd924f0204192a135a0e3ea2" sha1="0b63cbbf687c19eb259a0beaad9525ad9181efad"/>
 		<ra_hash>9a3745807add0bbf60c4754e7f369995</ra_hash>
 		<url>https://retroachievements.org/game/41280/hashes</url>
+	</game>
+
+	<game name="Retail/ArduLO (World) (Erwin's Collection)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>ArduLO (World) (Erwin's Collection)</description>
+		<rom name="ArduLO (World) (Erwin's Collection).hex" size="38320" crc="6DAE2ED7" md5="baaadf324cfcdfd1c9e60fdba4a6ccce" sha1="b211e10d4d512ac2f55d9daeca3f72b030e9553b"/>
+		<ra_hash>baaadf324cfcdfd1c9e60fdba4a6ccce</ra_hash>
+		<url>https://retroachievements.org/game/29904/hashes</url>
 	</game>
 
 	<game name="Retail/Arduminer (World) (v1.1)">

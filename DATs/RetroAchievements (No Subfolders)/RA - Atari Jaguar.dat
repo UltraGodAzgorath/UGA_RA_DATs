@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Atari Jaguar</name>
 		<description>Atari Jaguar</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/17-atari-jaguar/games</url>
-		<titlecount>22</titlecount>
-		<hashcount>22</hashcount>
+		<titlecount>23</titlecount>
+		<hashcount>23</hashcount>
 	</header>
 
 	<game name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket)">
@@ -220,6 +220,16 @@
 		<rom name="Ultra Vortek (World).j64" size="4194304" crc="0F6A1C2C" md5="5f2115d0bdcae4f3aa8e832f23f4ebdd" sha1="311e41ebba1b78f514bf16789ddb7e7e8dfb47ff"/>
 		<ra_hash>5f2115d0bdcae4f3aa8e832f23f4ebdd</ra_hash>
 		<url>https://retroachievements.org/game/16916/hashes</url>
+	</game>
+
+	<game name="Val d'Isere Skiing and Snowboarding (World)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Val d'Isere Skiing and Snowboarding (World)</description>
+		<release name="Val d'Isere Skiing and Snowboarding (World)" region="World"/>
+		<rom name="Val d'Isere Skiing and Snowboarding (World).j64" size="2097152" crc="C9608717" md5="1f1145e1042b8cc062c417798392d251" sha1="02253d93eef375c8334f1f77a2d8b72fff7a94c6"/>
+		<ra_hash>1f1145e1042b8cc062c417798392d251</ra_hash>
+		<url>https://retroachievements.org/game/16917/hashes</url>
 	</game>
 
 	<game name="Zero 5 (World) (Aftermarket) (Unl)">

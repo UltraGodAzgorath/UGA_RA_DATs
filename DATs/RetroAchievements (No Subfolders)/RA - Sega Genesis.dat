@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>940</titlecount>
-		<hashcount>940</hashcount>
+		<titlecount>943</titlecount>
+		<hashcount>943</hashcount>
 	</header>
 
 	<game name="16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -256,6 +256,18 @@
 		<rom name="Alex Kidd in the Enchanted Castle (USA).md" size="262144" crc="47DBA0AC" md5="6dee3627fa7a28267efd07c51a467ad6" sha1="bbb204c1eb5ca1b6d180c32722955b2c39d2c17b"/>
 		<ra_hash>6dee3627fa7a28267efd07c51a467ad6</ra_hash>
 		<url>https://retroachievements.org/game/20/hashes</url>
+	</game>
+
+	<game name="Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)</description>
+		<release name="Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)" region="World"/>
+		<release name="Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)" region="English"/>
+		<release name="Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)" region="Japan"/>
+		<rom name="Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl).md" size="4194304" crc="49025566" md5="5de0bc863d19ce1b916164ecc3c16ebf" sha1="1204d40713560ac57a87c098b2952a1f4a93d4fa"/>
+		<ra_hash>5de0bc863d19ce1b916164ecc3c16ebf</ra_hash>
+		<url>https://retroachievements.org/game/30030/hashes</url>
 	</game>
 
 	<game name="Alien 3 (USA, Europe)" cloneof="Alien 3 (USA, Europe) (Rev A)">
@@ -1249,6 +1261,16 @@
 		<rom name="Chakan (USA, Europe).md" size="1048576" crc="046A48DE" md5="8844a97b65994de94cf398cf4a3217c3" sha1="7eae088f0b15e4bcd9a6a38849df5a20446be548"/>
 		<ra_hash>8844a97b65994de94cf398cf4a3217c3</ra_hash>
 		<url>https://retroachievements.org/game/23/hashes</url>
+	</game>
+
+	<game name="Championship Bowling (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Championship Bowling (USA)</description>
+		<release name="Championship Bowling (USA)" region="USA"/>
+		<rom name="Championship Bowling (USA).md" size="524288" crc="1BF92520" md5="5923b70dc6740d046ee97cd9e140adf0" sha1="ffb469106bc7f475cd89d717035a54cab149c818"/>
+		<ra_hash>5923b70dc6740d046ee97cd9e140adf0</ra_hash>
+		<url>https://retroachievements.org/game/4265/hashes</url>
 	</game>
 
 	<game name="Chase H.Q. II (USA)">
@@ -3636,6 +3658,16 @@
 		<rom name="Krusty's Super Fun House (USA, Europe) (Rev A).md" size="524288" crc="56976261" md5="8bd4d2f51f08380a1ba9ac6cd2070585" sha1="6aa026e394dba0e5584c4cf99ad1c166d91f3923"/>
 		<ra_hash>8bd4d2f51f08380a1ba9ac6cd2070585</ra_hash>
 		<url>https://retroachievements.org/game/256/hashes</url>
+	</game>
+
+	<game name="Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl)</description>
+		<release name="Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl).md" size="5767168" crc="49EB730D" md5="c93d9ed26e4c92de8502fd2ffe8fb203" sha1="80ae8e2677216c37d211f63e19e8dd559d2fe6df"/>
+		<ra_hash>c93d9ed26e4c92de8502fd2ffe8fb203</ra_hash>
+		<url>https://retroachievements.org/game/41154/hashes</url>
 	</game>
 
 	<game name="Lakers versus Celtics and the NBA Playoffs (USA, Europe)">

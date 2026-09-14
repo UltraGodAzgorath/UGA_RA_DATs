@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>377</titlecount>
-		<hashcount>377</hashcount>
+		<titlecount>389</titlecount>
+		<hashcount>389</hashcount>
 	</header>
 
 	<game name="Retail/3D Pixel Racing (USA) (WiiWare)">
@@ -758,6 +758,15 @@
 		<url>https://retroachievements.org/game/35423/hashes</url>
 	</game>
 
+	<game name="Retail/DJ Hero (USA) (En,Fr)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>DJ Hero (USA) (En,Fr)</description>
+		<rom name="DJ Hero (USA) (En,Fr).rvz" size="1947343796" crc="1538E933" md5="d07a85031e8de2253453204f6fae577c" sha1="f7c5d2f5f985c7986c16611cdcc578724204765a"/>
+		<ra_hash>51a5b62354504385425aaecbd1b74e5b</ra_hash>
+		<url>https://retroachievements.org/game/34823/hashes</url>
+	</game>
+
 	<game name="Retail/Doc Louis's Punch-Out!! (USA) (Club Nintendo) (WiiWare)">
 		<category>WiiWare</category>
 		<source>No-Intro</source>
@@ -1001,31 +1010,6 @@
 		<url>https://retroachievements.org/game/35968/hashes</url>
 	</game>
 
-	<game name="Retail/Zero - Tsukihami no Kamen/Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)">
-		<category>Wii</category>
-		<source>Redump, RAPatches</source>
-		<description>Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)</description>
-		<rom name="Fatal Frame 4 - The Mask of the Lunar Eclipse (BR).rvz" size="2829765052" crc="A9820C46" md5="bd5684b5fda19f6fa591efa428386291" sha1="26f60aff2e4b0fc6bf6d37aaefc02a8a3ad27a08"/>
-		<ra_hash>f096ef1f3fc4ff5ebf74f5cfba300e77</ra_hash>
-		<url>https://retroachievements.org/game/34874/hashes</url>
-	</game>
-	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan)">
-		<category>Wii</category>
-		<source>Redump</source>
-		<description>Zero - Tsukihami no Kamen (Japan)</description>
-		<rom name="Zero - Tsukihami no Kamen (Japan).rvz" size="3028899700" crc="ABBA81AE" md5="80f319c58e119e2bea882f183b5894ef" sha1="55c3c317b512195f7eb5f0075cf23d977ebd9639"/>
-		<ra_hash>e6b4f20d44ffdf9a1ccb49b03c1a98a9</ra_hash>
-		<url>https://retroachievements.org/game/34874/hashes</url>
-	</game>
-	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)">
-		<category>Wii</category>
-		<source>Redump, RAPatches</source>
-		<description>Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)</description>
-		<rom name="Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus).rvz" size="3008890912" crc="09ED2734" md5="2f2ce8c00a78d218e618c5870d633b06" sha1="77a74a7f353d1fa32062b4570f94b0a5bda605f8"/>
-		<ra_hash>987c083562a31951544457f2400a5b56</ra_hash>
-		<url>https://retroachievements.org/game/34874/hashes</url>
-	</game>
-
 	<game name="Retail/Final Fantasy Crystal Chronicles - My Life as a King/Final Fantasy Crystal Chronicles - My Life as a King (Europe) (WiiWare)">
 		<category>WiiWare</category>
 		<source>No-Intro</source>
@@ -1193,6 +1177,15 @@
 		<url>https://retroachievements.org/game/35164/hashes</url>
 	</game>
 
+	<game name="Retail/Grey's Anatomy - The Video Game (USA) (En,Fr,Es)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Grey's Anatomy - The Video Game (USA) (En,Fr,Es)</description>
+		<rom name="Grey's Anatomy - The Video Game (USA) (En,Fr,Es).rvz" size="3477468672" crc="8CBD8063" md5="0ff5331d2c9b97cedec9520230f212a9" sha1="2b227d3f3313c18b9b654d84ca7c31a04e99e556"/>
+		<ra_hash>a21949925f04128a372f7ccde4932d09</ra_hash>
+		<url>https://retroachievements.org/game/35163/hashes</url>
+	</game>
+
 	<game name="Retail/Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare)">
 		<category>WiiWare</category>
 		<source>No-Intro</source>
@@ -1209,6 +1202,15 @@
 		<rom name="GTI Club Supermini Festa! (USA) (En,Fr).rvz" size="1269609680" crc="E75B6B12" md5="e263e70cdd29e73378ad6b98184ac24c" sha1="b2b8cc073ca13271bb2bd0035b047f300274be96"/>
 		<ra_hash>46cdeb3685b7d0a9d5b39bdac2d5530e</ra_hash>
 		<url>https://retroachievements.org/game/35908/hashes</url>
+	</game>
+
+	<game name="Retail/Guilty Gear XX Accent Core Plus (USA)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Guilty Gear XX Accent Core Plus (USA)</description>
+		<rom name="Guilty Gear XX Accent Core Plus (USA).rvz" size="1410945796" crc="B25C1B3D" md5="4e996c039338b70b3b274f0a4ebb1690" sha1="162da65d13f1f3553cf165dec432024e8c71eac4"/>
+		<ra_hash>157cd89192755268213d20fdf9a4bafc</ra_hash>
+		<url>https://retroachievements.org/game/35172/hashes</url>
 	</game>
 
 	<game name="Retail/Guitar Hero - Warriors of Rock (USA) (En,Fr)">
@@ -1452,6 +1454,15 @@
 		<rom name="Shadow's Tale, A (Europe) (En,Fr,De,Es,It).rvz" size="1223153384" crc="CC4DD134" md5="3e990097a137d7c1d819b0e28039641c" sha1="278db59a34ab1d4ef72279bc520a49148aaca250"/>
 		<ra_hash>a3400153acf3386b4cc906b7cd11f940</ra_hash>
 		<url>https://retroachievements.org/game/4118/hashes</url>
+	</game>
+
+	<game name="Retail/Kirby's Dream Collection - Special Edition (USA)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Kirby's Dream Collection - Special Edition (USA)</description>
+		<rom name="Kirby's Dream Collection - Special Edition (USA).rvz" size="1919231676" crc="092D3F07" md5="8980ba6d7e0e9373d77a9e70c30614ea" sha1="aa78f373322b5b7fa085b1b5e524eefe2307c028"/>
+		<ra_hash>a3c200d4434e1a4a4c4e1decd0c94307</ra_hash>
+		<url>https://retroachievements.org/game/34581/hashes</url>
 	</game>
 
 	<game name="Retail/Kirby's Epic Yarn/Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It)">
@@ -2264,6 +2275,15 @@
 		<url>https://retroachievements.org/game/37236/hashes</url>
 	</game>
 
+	<game name="Hack/NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
+		<category>Wii</category>
+		<source>Redump, Lost Level Archive</source>
+		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>
+		<rom name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team).rvz" size="695755040" crc="69DDA926" md5="65fdac5fd08318cd4de2e663748529bd" sha1="7554a6df0663249ee7726bab89d0e3487a491e77"/>
+		<ra_hash>d1986e4378c6de7e8ea6510859dd6d5c</ra_hash>
+		<url>https://retroachievements.org/game/34904/hashes</url>
+	</game>
+
 	<game name="Retail/Octomania (USA)">
 		<category>Wii</category>
 		<source>Redump</source>
@@ -2314,6 +2334,55 @@
 		<rom name="Pangya! Golf with Style (Europe) (En,Fr,De,Es,It).rvz" size="3303031912" crc="34DB7555" md5="5a3ecb6229b2a6768aa9926e73f6cea3" sha1="218afeba9b11e44b87e3237395d7514cb9b9e60c"/>
 		<ra_hash>d7e8ad744422d35e163085a2116c8328</ra_hash>
 		<url>https://retroachievements.org/game/34693/hashes</url>
+	</game>
+
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney - Trials and Tribulations (Italy) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney - Trials and Tribulations (Italy) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney - Trials and Tribulations (Italy) (WiiWare).wad" size="40441408" crc="2D592AF1" md5="d16e3babd1ee117561093b063a10c0a0" sha1="aa4e7686b2b01b04a0cb43149d5d7f928260ea25"/>
+		<ra_hash>b66d875aa499357db78631c6c018e07e</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
+	</game>
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney - Trials and Tribulations (Spain) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney - Trials and Tribulations (Spain) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney - Trials and Tribulations (Spain) (WiiWare).wad" size="40441920" crc="7C798912" md5="ec8175064cc667b9076dee874e837c21" sha1="c7e855c2c77d9f306148ab80cc7c252b3d6b63c4"/>
+		<ra_hash>f2ed5ea2a604ed0e228ce1379b82be41</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
+	</game>
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney Trials and Tribulations (Europe) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney Trials and Tribulations (Europe) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney Trials and Tribulations (Europe) (WiiWare).wad" size="38335296" crc="370D7349" md5="43c9fbc3846751991d88306ab6469f65" sha1="221ab5c5b655d812016dd7f9c2ecad856f0375b0"/>
+		<ra_hash>c3b844abce3c5a2c9d7b5aa5901a81d9</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
+	</game>
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney Trials and Tribulations (France) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney Trials and Tribulations (France) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney Trials and Tribulations (France) (WiiWare).wad" size="40704320" crc="7B6630D8" md5="528da20fd1616ae17283d634f0f12f5d" sha1="1529fb78258cb99039e2117fe95c92ceedd055ab"/>
+		<ra_hash>92a38d9fe3e3e0fc5ba3d74d98fc7211</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
+	</game>
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney Trials and Tribulations (Germany) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney Trials and Tribulations (Germany) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney Trials and Tribulations (Germany) (WiiWare).wad" size="40707840" crc="2F363A91" md5="eec265e76b7f62bbde2ba1dd9bf97afd" sha1="a7d7df335ea68f53dbeb91b87d334a41311680e1"/>
+		<ra_hash>208470c0d4cc31f4b39505fa17f7b50b</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
+	</game>
+	<game name="Retail/Phoenix Wright - Ace Attorney - Trials and Tribulations/Phoenix Wright - Ace Attorney Trials and Tribulations (USA) (WiiWare)">
+		<category>WiiWare</category>
+		<source>No-Intro</source>
+		<description>Phoenix Wright - Ace Attorney Trials and Tribulations (USA) (WiiWare)</description>
+		<rom name="Phoenix Wright - Ace Attorney Trials and Tribulations (USA) (WiiWare).wad" size="37883904" crc="D2B5277B" md5="7ab152528b42194ebe9d11ca10572b20" sha1="d561714fcde38a1061b7458ccfdfe7ebbe8cda17"/>
+		<ra_hash>80964eb1095a681a309c13f93d5d2844</ra_hash>
+		<url>https://retroachievements.org/game/36067/hashes</url>
 	</game>
 
 	<game name="Retail/New Play Control! Pikmin/Pikmin (Europe) (En,Fr,De,Es,It)">
@@ -2828,6 +2897,15 @@
 		<url>https://retroachievements.org/game/35669/hashes</url>
 	</game>
 
+	<game name="Retail/Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It).rvz" size="3053648032" crc="FCFD63E1" md5="db170f49a3b607a201ce7fb39a0ed722" sha1="478a831a479c61d0c31c9f4d21a5cf59288616e3"/>
+		<ra_hash>2b1237f7f156ac6380b9acc5dbd09943</ra_hash>
+		<url>https://retroachievements.org/game/34715/hashes</url>
+	</game>
+
 	<game name="Retail/Spy Fox in Dry Cereal/Spy Fox in Dry Cereal (Europe) (En,Fr,De,Nl)">
 		<category>Wii</category>
 		<source>Redump</source>
@@ -3288,5 +3366,30 @@
 		<rom name="Zack &amp; Wiki - Quest for Barbaros' Treasure (USA).rvz" size="1135656048" crc="C847E682" md5="3cc091ad6e9f93ac8f2875c0262015c6" sha1="b2d9aa377b3a7ccd3f073ee01684ad23f6b1a9ad"/>
 		<ra_hash>197ad0f7799245511cee8eb950040dab</ra_hash>
 		<url>https://retroachievements.org/game/34647/hashes</url>
+	</game>
+
+	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan)">
+		<category>Wii</category>
+		<source>Redump</source>
+		<description>Zero - Tsukihami no Kamen (Japan)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan).rvz" size="3028899700" crc="ABBA81AE" md5="80f319c58e119e2bea882f183b5894ef" sha1="55c3c317b512195f7eb5f0075cf23d977ebd9639"/>
+		<ra_hash>e6b4f20d44ffdf9a1ccb49b03c1a98a9</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan) (En) (v1.0) (Tempus).rvz" size="3008890912" crc="09ED2734" md5="2f2ce8c00a78d218e618c5870d633b06" sha1="77a74a7f353d1fa32062b4570f94b0a5bda605f8"/>
+		<ra_hash>987c083562a31951544457f2400a5b56</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
+	</game>
+	<game name="Retail/Zero - Tsukihami no Kamen/Zero - Tsukihami no Kamen (Japan) (Pt) (v1.0) (Project Zero Brasil)">
+		<category>Wii</category>
+		<source>Redump, RAPatches</source>
+		<description>Zero - Tsukihami no Kamen (Japan) (Pt) (v1.0) (Project Zero Brasil)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan) (Pt) (v1.0) (Project Zero Brasil).rvz" size="2829416128" crc="74B12A14" md5="f8498b29094782faa43fb89863b58a98" sha1="94226db6596930f3ad1204b80cd6c1779e319841"/>
+		<ra_hash>f096ef1f3fc4ff5ebf74f5cfba300e77</ra_hash>
+		<url>https://retroachievements.org/game/34874/hashes</url>
 	</game>
 </datafile>

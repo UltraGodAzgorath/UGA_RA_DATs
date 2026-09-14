@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1953</titlecount>
-		<hashcount>1953</hashcount>
+		<titlecount>1968</titlecount>
+		<hashcount>1968</hashcount>
 	</header>
 
 	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -840,6 +840,25 @@
 		<rom name="Bahamut Lagoon (Japan) (En) (v1.3) (Copier-DeJap).sfc" size="3145728" crc="58B496A5" md5="496f3f33490a966bb88a4285688988bf" sha1="af462a9ad781e3021c9a786a2b0c557a0f3559ca"/>
 		<ra_hash>496f3f33490a966bb88a4285688988bf</ra_hash>
 		<url>https://retroachievements.org/game/2257/hashes</url>
+	</game>
+
+	<game name="Ball Bullet Gun (Japan)" cloneof="Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Ball Bullet Gun (Japan)</description>
+		<release name="Ball Bullet Gun (Japan)" region="Japan"/>
+		<rom name="Ball Bullet Gun (Japan).sfc" size="1572864" crc="C1E2BB56" md5="b22871e35d219853d268f2297e6937e7" sha1="03d23158c196e84368374e153b97c3ef2d1a8166"/>
+		<ra_hash>b22871e35d219853d268f2297e6937e7</ra_hash>
+		<url>https://retroachievements.org/game/2665/hashes</url>
+	</game>
+	<game name="Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis)</description>
+		<release name="Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis)" region="English"/>
+		<rom name="Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis).sfc" size="1572864" crc="B0AD3A59" md5="0000684516676e1b97c614d10af5a5dc" sha1="008f7e816a79c72f41aefd4d892af385d261c728"/>
+		<ra_hash>0000684516676e1b97c614d10af5a5dc</ra_hash>
+		<url>https://retroachievements.org/game/2665/hashes</url>
 	</game>
 
 	<game name="Barbie Super Model (USA)">
@@ -2271,6 +2290,16 @@
 		<rom name="Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax).sfc" size="6291456" crc="E70308D5" md5="a5c07fa9a571991290124672bb818565" sha1="24576c5d9195a85f4b5d6fafd975b5ad67b66cf5"/>
 		<ra_hash>a5c07fa9a571991290124672bb818565</ra_hash>
 		<url>https://retroachievements.org/game/1384/hashes</url>
+	</game>
+
+	<game name="Chrono Trigger - Schala Edition (v2.2) (Fauntleroy)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Chrono Trigger - Schala Edition (v2.2) (Fauntleroy)</description>
+		<release name="Chrono Trigger - Schala Edition (v2.2) (Fauntleroy)" region="World"/>
+		<rom name="Chrono Trigger - Schala Edition (v2.2) (Fauntleroy).sfc" size="6291456" crc="C22C173F" md5="d1b27d8a78536a1d3bcbf076c7befe9d" sha1="8c2fecdc40d088f2860b694160a130d344cbaaef"/>
+		<ra_hash>d1b27d8a78536a1d3bcbf076c7befe9d</ra_hash>
+		<url>https://retroachievements.org/game/17945/hashes</url>
 	</game>
 
 	<game name="Chuck Rock (Europe)" cloneof="Chuck Rock (USA)">
@@ -3961,6 +3990,24 @@
 		<url>https://retroachievements.org/game/32738/hashes</url>
 	</game>
 
+	<game name="FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato)</description>
+		<release name="FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato)" region="World"/>
+		<rom name="FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato).sfc" size="2097152" crc="6B915B24" md5="690ac0fcf373f7261f164814c064b577" sha1="2b392d11598042d5c7e356280cf2ed2d3ab55b1d"/>
+		<ra_hash>690ac0fcf373f7261f164814c064b577</ra_hash>
+		<url>https://retroachievements.org/game/32725/hashes</url>
+	</game>
+	<game name="FFIV - Final Fantasy C2 (v1.00) (Version B) (Tomato)" cloneof="FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FFIV - Final Fantasy C2 (v1.00) (Version B) (Tomato)</description>
+		<rom name="FFIV - Final Fantasy C2 (v1.00) (Version B) (Tomato).sfc" size="4194304" crc="DAD4073E" md5="5efc4af74338cc002d4dbcfb877acde4" sha1="288de18ce710db20daa024d961c118129bd5a79e"/>
+		<ra_hash>5efc4af74338cc002d4dbcfb877acde4</ra_hash>
+		<url>https://retroachievements.org/game/32725/hashes</url>
+	</game>
+
 	<game name="FFIV - The Darkness Within (v1.08) (Rynzer)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -4266,6 +4313,16 @@
 		<rom name="Final Fantasy IV - Namingway Edition (v1.99a) (Rodimus Primal).sfc" size="1048576" crc="996A2DF3" md5="caae66dec5b2d9767ea25a464a694edb" sha1="778842c53700cf0ac7f2a549069d2c5256a74b02"/>
 		<ra_hash>caae66dec5b2d9767ea25a464a694edb</ra_hash>
 		<url>https://retroachievements.org/game/3528/hashes</url>
+	</game>
+
+	<game name="Final Fantasy IV - T-Edition (v1.4) (Tsushiy) (En) (v0.9) (Lazarus_DS,Kain Stryder)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Final Fantasy IV - T-Edition (v1.4) (Tsushiy) (En) (v0.9) (Lazarus_DS,Kain Stryder)</description>
+		<release name="Final Fantasy IV - T-Edition (v1.4) (Tsushiy) (En) (v0.9) (Lazarus_DS,Kain Stryder)" region="English"/>
+		<rom name="Final Fantasy IV - T-Edition (v1.4) (Tsushiy) (En) (v0.9) (Lazarus_DS,Kain Stryder).sfc" size="4194304" crc="153A9698" md5="54ba840acbdc42f83529fa31aa86900b" sha1="09a278a222af9b92b34c84e60edfd59f82350692"/>
+		<ra_hash>54ba840acbdc42f83529fa31aa86900b</ra_hash>
+		<url>https://retroachievements.org/game/34088/hashes</url>
 	</game>
 
 	<game name="Final Fantasy IV - Ultima (8-bit fan,chillyfeez) (v2022 - Rev 13)">
@@ -5109,6 +5166,33 @@
 		<rom name="Front Mission - Gun Hazard (Japan) (En) (Aeon Genesis) (1.01).sfc" size="3145728" crc="5847D80F" md5="fd473bc0035cadd46b8eebdfa619275f" sha1="3a87e79b8423dcbeaa295164b363201e42cca0aa"/>
 		<ra_hash>fd473bc0035cadd46b8eebdfa619275f</ra_hash>
 		<url>https://retroachievements.org/game/1408/hashes</url>
+	</game>
+
+	<game name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)" cloneof="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)</description>
+		<release name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)" region="Japan"/>
+		<rom name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan).sfc" size="4194304" crc="AF5703EE" md5="8c8fc738eae4eb714b43889767daf094" sha1="e043f3096f0bd883644287344f18050ee43d69e9"/>
+		<ra_hash>8c8fc738eae4eb714b43889767daf094</ra_hash>
+		<url>https://retroachievements.org/game/2899/hashes</url>
+	</game>
+	<game name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)</description>
+		<release name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)" region="English"/>
+		<rom name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis).sfc" size="4194304" crc="F9789079" md5="9b1e8f4be0cecb88741f51ebeb1e05c9" sha1="c342288e97498741ef7438ab9ee4846234a2e3a8"/>
+		<ra_hash>9b1e8f4be0cecb88741f51ebeb1e05c9</ra_hash>
+		<url>https://retroachievements.org/game/2899/hashes</url>
+	</game>
+	<game name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP)" cloneof="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP)</description>
+		<rom name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP).sfc" size="4194304" crc="824AA6B5" md5="6cdd5607e78d7f240ea7aa85565c97c2" sha1="19e206b3aded81f47afc1608aa4e452f425244f1"/>
+		<ra_hash>6cdd5607e78d7f240ea7aa85565c97c2</ra_hash>
+		<url>https://retroachievements.org/game/2899/hashes</url>
 	</game>
 
 	<game name="G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan) (En) (DynamicDesigns) (1.0)">
@@ -6377,6 +6461,16 @@
 		<rom name="JoJo no Kimyou na Bouken (Japan) (Es) (v1.0) (Max1323).sfc" size="1572864" crc="4654D065" md5="3563f0d2c33412ac488f25691f9ac9f4" sha1="cd6a6df89eb9da07b1c5d56eb363339eaf18fc79"/>
 		<ra_hash>3563f0d2c33412ac488f25691f9ac9f4</ra_hash>
 		<url>https://retroachievements.org/game/3101/hashes</url>
+	</game>
+
+	<game name="Journey to Kaizo v1.0">
+		<category>Hack</category>
+		<source>Unknown</source>
+		<description>Journey to Kaizo v1.0</description>
+		<release name="Journey to Kaizo v1.0" region="World"/>
+		<rom name="Journey to Kaizo v1.0.sfc" size="4194304" crc="710F346E" md5="4cf780a99ef8bfb7c1b2f90d54873557" sha1="899647eaabf627a987c311c9fa40d55b02338379"/>
+		<ra_hash>4cf780a99ef8bfb7c1b2f90d54873557</ra_hash>
+		<url>https://retroachievements.org/game/41272/hashes</url>
 	</game>
 
 	<game name="Judge Dredd (Europe)" cloneof="Judge Dredd (USA)">
@@ -10493,6 +10587,16 @@
 		<url>https://retroachievements.org/game/20234/hashes</url>
 	</game>
 
+	<game name="Rockman X3 - Anti-Tasverick (v1.0) (jack w willy)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Rockman X3 - Anti-Tasverick (v1.0) (jack w willy)</description>
+		<release name="Rockman X3 - Anti-Tasverick (v1.0) (jack w willy)" region="World"/>
+		<rom name="Rockman X3 - Anti-Tasverick (v1.0) (jack w willy).sfc" size="2097152" crc="B0A52D15" md5="4e6d60c65e18eed6c7e5440f1e8f7b7b" sha1="e585f15ad8a730c604fd8504f3493ef4b4414073"/>
+		<ra_hash>4e6d60c65e18eed6c7e5440f1e8f7b7b</ra_hash>
+		<url>https://retroachievements.org/game/41275/hashes</url>
+	</game>
+
 	<game name="Rocko's Modern Life - Spunky's Dangerous Day (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -11679,6 +11783,16 @@
 		<url>https://retroachievements.org/game/17987/hashes</url>
 	</game>
 
+	<game name="SMW - Attempt at a Normal Hack (v1.11) (ft029)">
+		<category>Hack</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Attempt at a Normal Hack (v1.11) (ft029)</description>
+		<release name="SMW - Attempt at a Normal Hack (v1.11) (ft029)" region="World"/>
+		<rom name="SMW - Attempt at a Normal Hack (v1.11) (ft029).sfc" size="3145728" crc="590AF558" md5="36dd05f3b71ead91dde3fb68e62d844b" sha1="12a5ffb86d44a46c6a2ef3481572e7f15a6b6e32"/>
+		<ra_hash>36dd05f3b71ead91dde3fb68e62d844b</ra_hash>
+		<url>https://retroachievements.org/game/38028/hashes</url>
+	</game>
+
 	<game name="SMW - Baby Kaizo World (Nowieso)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -12782,6 +12896,16 @@
 		<url>https://retroachievements.org/game/18102/hashes</url>
 	</game>
 
+	<game name="SMW - Law &amp; Order - Mushroom Kingdom Unit - Pilot Episode - Tragic Fox Tails (v1.0.2) (Major Case Squad)">
+		<category>Hack</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Law &amp; Order - Mushroom Kingdom Unit - Pilot Episode - Tragic Fox Tails (v1.0.2) (Major Case Squad)</description>
+		<release name="SMW - Law &amp; Order - Mushroom Kingdom Unit - Pilot Episode - Tragic Fox Tails (v1.0.2) (Major Case Squad)" region="World"/>
+		<rom name="SMW - Law &amp; Order - Mushroom Kingdom Unit - Pilot Episode - Tragic Fox Tails (v1.0.2) (Major Case Squad).sfc" size="4194304" crc="2119621F" md5="affa75a9cd1f5677a42f0de1f44f184e" sha1="8e896f628c47611a27f8fe788de712e26c0fb873"/>
+		<ra_hash>affa75a9cd1f5677a42f0de1f44f184e</ra_hash>
+		<url>https://retroachievements.org/game/33521/hashes</url>
+	</game>
+
 	<game name="SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk)">
 		<category>Hack</category>
 		<source>No-Intro, smwcentral, RAPatches</source>
@@ -13115,6 +13239,16 @@
 		<rom name="SMW - My QLDC Level (Faro, MM102).sfc" size="2097152" crc="B011F7AD" md5="6e4b118fc95ad63f5fbe13f21c4458de" sha1="105f0d8a491ca8b3101773dbe83044c8f77ae324"/>
 		<ra_hash>6e4b118fc95ad63f5fbe13f21c4458de</ra_hash>
 		<url>https://retroachievements.org/game/25294/hashes</url>
+	</game>
+
+	<game name="SMW - Nachos and Fried Oreos (v1.2) (GbreezeSunset, MiracleWater)">
+		<category>Hack</category>
+		<source>No-Intro, smwcentral, RAPatches</source>
+		<description>SMW - Nachos and Fried Oreos (v1.2) (GbreezeSunset, MiracleWater)</description>
+		<release name="SMW - Nachos and Fried Oreos (v1.2) (GbreezeSunset, MiracleWater)" region="World"/>
+		<rom name="SMW - Nachos and Fried Oreos (v1.2) (GbreezeSunset, MiracleWater).sfc" size="2097152" crc="FCA16F91" md5="a3e792a29aa6db2076a1f530ce5a84df" sha1="1949756499a0b957e5c464d2b1259ddba2bb516c"/>
+		<ra_hash>a3e792a29aa6db2076a1f530ce5a84df</ra_hash>
+		<url>https://retroachievements.org/game/38027/hashes</url>
 	</game>
 
 	<game name="SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen)">
@@ -17673,6 +17807,16 @@
 		<rom name="Ultima - Kyouryuu Teikoku (Japan) (En) (v1.02) (Nytegard).sfc" size="1572864" crc="55151B89" md5="f2442601fc27aa8661b070286484d711" sha1="4b0ac99c1043245eddf0a1ced0745bf2f03039b1"/>
 		<ra_hash>f2442601fc27aa8661b070286484d711</ra_hash>
 		<url>https://retroachievements.org/game/7928/hashes</url>
+	</game>
+
+	<game name="Ultima - Runes of Virtue II (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Ultima - Runes of Virtue II (USA)</description>
+		<release name="Ultima - Runes of Virtue II (USA)" region="USA"/>
+		<rom name="Ultima - Runes of Virtue II (USA).sfc" size="1048576" crc="CC4EEBF4" md5="27968dfca9cbca44b2d233083ec765ea" sha1="4927ba3fe34b891a93dbd9cf4290186062b22138"/>
+		<ra_hash>27968dfca9cbca44b2d233083ec765ea</ra_hash>
+		<url>https://retroachievements.org/game/1288/hashes</url>
 	</game>
 
 	<game name="Ultima - The Black Gate (USA)">

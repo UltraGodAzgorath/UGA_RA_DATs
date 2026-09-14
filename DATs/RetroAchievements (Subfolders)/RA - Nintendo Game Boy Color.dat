@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/6-game-boy-color/games</url>
-		<titlecount>602</titlecount>
-		<hashcount>602</hashcount>
+		<titlecount>609</titlecount>
+		<hashcount>609</hashcount>
 	</header>
 
 	<game name="Retail/007 - The World Is Not Enough (USA, Europe)">
@@ -162,6 +162,15 @@
 		<url>https://retroachievements.org/game/4950/hashes</url>
 	</game>
 
+	<game name="Homebrew/Ao Oni - V4">
+		<category></category>
+		<source>Unknown</source>
+		<description>Ao Oni - V4</description>
+		<rom name="Ao Oni - V4.gb" size="131072" crc="BFD186EA" md5="bffe620cc51fd5ba14ccc54a03f282fc" sha1="0e16f6586a12ef4e5aefd6717ed313af5f9ec60f"/>
+		<ra_hash>bffe620cc51fd5ba14ccc54a03f282fc</ra_hash>
+		<url>https://retroachievements.org/game/42740/hashes</url>
+	</game>
+
 	<game name="Retail/Arthur's Absolutely Fun Day! (USA)">
 		<category></category>
 		<source>No-Intro</source>
@@ -205,6 +214,15 @@
 		<rom name="Atlantis - The Lost Empire (Europe) (En,Es,It).gbc" size="2097152" crc="28F7D5E3" md5="e24141ed6fc94b149bbf43b4bd9658e8" sha1="ef4ab0dd852ffd1418c803c05ddcb245b3a4348d"/>
 		<ra_hash>e24141ed6fc94b149bbf43b4bd9658e8</ra_hash>
 		<url>https://retroachievements.org/game/17359/hashes</url>
+	</game>
+
+	<game name="Retail/Austin Powers - Oh, Behave! (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Austin Powers - Oh, Behave! (USA)</description>
+		<rom name="Austin Powers - Oh, Behave! (USA).gbc" size="4194304" crc="BB89190E" md5="2aba33e89caca45c9091b25a276dd4c6" sha1="aa6cb6ab4fe083cbe0274c40bd30e0013a2f7645"/>
+		<ra_hash>2aba33e89caca45c9091b25a276dd4c6</ra_hash>
+		<url>https://retroachievements.org/game/3655/hashes</url>
 	</game>
 
 	<game name="Retail/Azure Dreams/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)">
@@ -2469,6 +2487,15 @@
 		<url>https://retroachievements.org/game/38109/hashes</url>
 	</game>
 
+	<game name="Retail/Maus, Die (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Maus, Die (Europe) (En,Fr,De,Es)</description>
+		<rom name="Maus, Die (Europe) (En,Fr,De,Es).gbc" size="1048576" crc="E7BD4A49" md5="f9be99d213760ba2e9525abea1de3cb6" sha1="23b612ab97b9d5e0454f9ae91b7bdbd50df91131"/>
+		<ra_hash>f9be99d213760ba2e9525abea1de3cb6</ra_hash>
+		<url>https://retroachievements.org/game/7469/hashes</url>
+	</game>
+
 	<game name="Homebrew/Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl)">
 		<category></category>
 		<source>No-Intro</source>
@@ -2875,6 +2902,23 @@
 		<rom name="Mr. Nutz (USA) (En,Fr,Es).gbc" size="1048576" crc="59F67529" md5="9ba7b607ec310589c5ccfb1a8149df59" sha1="43bb8621e3d05e81a7faa63cd76b0757f3954ba1"/>
 		<ra_hash>9ba7b607ec310589c5ccfb1a8149df59</ra_hash>
 		<url>https://retroachievements.org/game/3650/hashes</url>
+	</game>
+
+	<game name="Retail/Ms. Pac-Man - Special Color Edition/Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).gbc" size="524288" crc="103E212D" md5="4d090ceaa53d571db00d7160ca4be69d" sha1="a468f7ad011c1b42ea3144e65607694493e7e4a7"/>
+		<ra_hash>4d090ceaa53d571db00d7160ca4be69d</ra_hash>
+		<url>https://retroachievements.org/game/7272/hashes</url>
+	</game>
+	<game name="Retail/Ms. Pac-Man - Special Color Edition/Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="F2335DA9" md5="a57d5976214d5f8d52dae5faf4354abb" sha1="d0f831165dc9a24e46fed26f90507dadeb5f1e0e"/>
+		<ra_hash>a57d5976214d5f8d52dae5faf4354abb</ra_hash>
+		<url>https://retroachievements.org/game/7272/hashes</url>
 	</game>
 
 	<game name="Retail/MTV Sports - Skateboarding Featuring Andy MacDonald (USA, Europe)">
@@ -4296,6 +4340,15 @@
 		<url>https://retroachievements.org/game/24098/hashes</url>
 	</game>
 
+	<game name="Homebrew/Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth)</description>
+		<rom name="Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth).gbc" size="262144" crc="3CC250D5" md5="ab6b18164411840ebeb952c09c5c900e" sha1="743099174b30357b11b63ccb5aced8dfabb142e7"/>
+		<ra_hash>ab6b18164411840ebeb952c09c5c900e</ra_hash>
+		<url>https://retroachievements.org/game/41827/hashes</url>
+	</game>
+
 	<game name="Retail/Super Breakout/Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)">
 		<category></category>
 		<source>No-Intro</source>
@@ -5221,6 +5274,15 @@
 		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja).gbc" size="4194304" crc="4A657067" md5="17a43887863c2e485ca72940f4738f79" sha1="e1addd4abc8c770288e94f57a2c1657b4d9642ba"/>
 		<ra_hash>17a43887863c2e485ca72940f4738f79</ra_hash>
 		<url>https://retroachievements.org/game/14123/hashes</url>
+	</game>
+
+	<game name="Homebrew/Yume Tenshi v.7.4.3">
+		<category></category>
+		<source>Unknown</source>
+		<description>Yume Tenshi v.7.4.3</description>
+		<rom name="Yume Tenshi v.7.4.3.gbc" size="4194304" crc="521109D4" md5="ec2544c37e506602eeacceaa2f7c843c" sha1="18e24d86c99b04224cdc0fa3c2ff8225eb72cbe4"/>
+		<ra_hash>ec2544c37e506602eeacceaa2f7c843c</ra_hash>
+		<url>https://retroachievements.org/game/42846/hashes</url>
 	</game>
 
 	<game name="Unlicensed/Zook Hero Z (Luke Yingxiong Z) (Taiwan) (Unl) (Fix)">

@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>741</titlecount>
-		<hashcount>741</hashcount>
+		<titlecount>745</titlecount>
+		<hashcount>745</hashcount>
 	</header>
 
 	<game name="Homebrew/204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -1913,6 +1913,15 @@
 		<url>https://retroachievements.org/game/6640/hashes</url>
 	</game>
 
+	<game name="Homebrew/Flooder (World) (v1.0) (Aftermarket) (obalfour)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Flooder (World) (v1.0) (Aftermarket) (obalfour)</description>
+		<rom name="Flooder (World) (v1.0) (Aftermarket) (obalfour).gbc" size="32768" crc="00090C8D" md5="b58acfd448cb0eb4732da50e3a5a8f5f" sha1="6529cc9e82960fdb90ae30f49a74cfbf32e76c15"/>
+		<ra_hash>b58acfd448cb0eb4732da50e3a5a8f5f</ra_hash>
+		<url>https://retroachievements.org/game/41239/hashes</url>
+	</game>
+
 	<game name="Retail/Fortified Zone/Fortified Zone (USA, Europe)">
 		<category></category>
 		<source>No-Intro</source>
@@ -1964,6 +1973,15 @@
 		<rom name="Frogger (USA).gb" size="131072" crc="4D933C08" md5="1ed313c4fd78b81a8ca3613e6234da7e" sha1="1dbb26dd94c9710b029f2f88473aed0267db491c"/>
 		<ra_hash>1ed313c4fd78b81a8ca3613e6234da7e</ra_hash>
 		<url>https://retroachievements.org/game/4962/hashes</url>
+	</game>
+
+	<game name="Homebrew/Fydo's Magic Tiles (World) (2022-09-16) (Aftermarket) (Unl)">
+		<category></category>
+		<source>itchio, No-Intro</source>
+		<description>Fydo's Magic Tiles (World) (2022-09-16) (Aftermarket) (Unl)</description>
+		<rom name="Fydo's Magic Tiles (World) (2022-09-16) (Aftermarket) (Unl).gb" size="32768" crc="C24F7D58" md5="119d2364ec0507fbb228d216beac4957" sha1="e0693ccafc1c32d84a5dd55be87349b53d58f665"/>
+		<ra_hash>119d2364ec0507fbb228d216beac4957</ra_hash>
+		<url>https://retroachievements.org/game/37076/hashes</url>
 	</game>
 
 	<game name="Homebrew/G.B Corp. (World) (Beta) (GB Compatible) (Aftermarket) (Unl)">
@@ -5737,6 +5755,15 @@
 		<url>https://retroachievements.org/game/508/hashes</url>
 	</game>
 
+	<game name="Hack/Tetris - Threetriss (v1.0) (thirtythree)">
+		<category></category>
+		<source>No-Intro, RAPatches</source>
+		<description>Tetris - Threetriss (v1.0) (thirtythree)</description>
+		<rom name="Tetris - Threetriss (v1.0) (thirtythree).gb" size="32768" crc="75D7E428" md5="99013103818a32bf0241bbca83c2774a" sha1="d949aa8e3a66b1752a597bf58731faf3d0a8b7b2"/>
+		<ra_hash>99013103818a32bf0241bbca83c2774a</ra_hash>
+		<url>https://retroachievements.org/game/20298/hashes</url>
+	</game>
+
 	<game name="Retail/Tetris Attack/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)">
 		<category></category>
 		<source>No-Intro</source>
@@ -5982,6 +6009,15 @@
 		<rom name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo).gb" size="262144" crc="FE34E95A" md5="52b40dc9c628a79da9cd459554e56961" sha1="084f7bbaee390302c509fea86d99a25dc8d7ff04"/>
 		<ra_hash>52b40dc9c628a79da9cd459554e56961</ra_hash>
 		<url>https://retroachievements.org/game/24705/hashes</url>
+	</game>
+
+	<game name="Homebrew/Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)">
+		<category></category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)</description>
+		<rom name="Unfair Flips (World) (v1.0) (Aftermarket) (grandahld).gb" size="131072" crc="3AD4A048" md5="1212019d533b9238f1af8d348b1c1e05" sha1="1b2b682709c75a23daff45a18659b6402553004d"/>
+		<ra_hash>1212019d533b9238f1af8d348b1c1e05</ra_hash>
+		<url>https://retroachievements.org/game/41261/hashes</url>
 	</game>
 
 	<game name="Homebrew/UNPAN (World) (Aftermarket) (GB Studio)">

@@ -5,12 +5,12 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/23-odyssey-2/games</url>
-		<titlecount>31</titlecount>
-		<hashcount>37</hashcount>
+		<titlecount>32</titlecount>
+		<hashcount>38</hashcount>
 	</header>
 
 	<game name="Retail/Alien Invaders - Plus (USA, Europe)">
@@ -284,6 +284,15 @@
 		<rom name="Showdown in 2100 A.D. (USA).bin" size="2048" crc="9487C920" md5="add9a7cfac93608db1845e49f3594964" sha1="7163c3e0d0e926287df670bfa5d5d5c42b5b3cf6"/>
 		<ra_hash>add9a7cfac93608db1845e49f3594964</ra_hash>
 		<url>https://retroachievements.org/game/16965/hashes</url>
+	</game>
+
+	<game name="Retail/Sid the Spellbinder (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Sid the Spellbinder (USA)</description>
+		<rom name="Sid the Spellbinder (USA).bin" size="4096" crc="1B9F2F16" md5="23ba6403e7206063d65dec507a30664a" sha1="dfed128d213d4192313f85fe2b8716579c2fc995"/>
+		<ra_hash>23ba6403e7206063d65dec507a30664a</ra_hash>
+		<url>https://retroachievements.org/game/16966/hashes</url>
 	</game>
 
 	<game name="Retail/Smithereens (USA)">

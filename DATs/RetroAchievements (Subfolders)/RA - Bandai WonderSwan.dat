@@ -5,12 +5,12 @@
 		<name>RA - Bandai WonderSwan</name>
 		<description>Bandai WonderSwan</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/53-wonderswan/games</url>
-		<titlecount>56</titlecount>
-		<hashcount>73</hashcount>
+		<titlecount>57</titlecount>
+		<hashcount>74</hashcount>
 	</header>
 
 	<game name="Homebrew/Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)">
@@ -360,6 +360,15 @@
 		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) (En) (v1.1) (Raccoon Sam).ws" size="1048576" crc="411B86DC" md5="ad934d799209e78462ff261dc61655d1" sha1="e0bbc67b67bd61c462115e311da764ff3ca1f7a0"/>
 		<ra_hash>ad934d799209e78462ff261dc61655d1</ra_hash>
 		<url>https://retroachievements.org/game/14601/hashes</url>
+	</game>
+
+	<game name="Retail/Kurupara! (Japan) (Rev 1)">
+		<category>WonderSwan Color</category>
+		<source>No-Intro</source>
+		<description>Kurupara! (Japan) (Rev 1)</description>
+		<rom name="Kurupara! (Japan) (Rev 1).wsc" size="2097152" crc="274719F5" md5="9450a7cf7d4adea3aa9a97529bcd5b4b" sha1="9942d1b7d1c00126b9891e560e6a3e264f8fdc2e"/>
+		<ra_hash>9450a7cf7d4adea3aa9a97529bcd5b4b</ra_hash>
+		<url>https://retroachievements.org/game/26313/hashes</url>
 	</game>
 
 	<game name="Retail/Lode Runner for WonderSwan (Japan)">

@@ -5,12 +5,12 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260914</version>
+		<date>14 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>837</titlecount>
-		<hashcount>837</hashcount>
+		<titlecount>841</titlecount>
+		<hashcount>841</hashcount>
 	</header>
 
 	<game name="Hack/007 - Goldfinger (Hack) (Various)">
@@ -73,6 +73,15 @@
 		<rom name="40 Winks (USA) (Aftermarket) (Unl).z64" size="33554432" crc="31C19633" md5="b88c172ed14f4acb43c4a352d71cc640" sha1="420f0ed3b67f802b5f3ab4bd17167c266f8f36ce"/>
 		<ra_hash>b88c172ed14f4acb43c4a352d71cc640</ra_hash>
 		<url>https://retroachievements.org/game/11455/hashes</url>
+	</game>
+
+	<game name="Retail/64 Oozumou (Japan)">
+		<category>Nintendo 64</category>
+		<source>No-Intro</source>
+		<description>64 Oozumou (Japan)</description>
+		<rom name="64 Oozumou (Japan).z64" size="16777216" crc="742E31FB" md5="2cf9edb51ada9de2ae7ad9fd5acc5580" sha1="e77fe9f2c32870eb7acbcf6a13d26dd022bafe5d"/>
+		<ra_hash>2cf9edb51ada9de2ae7ad9fd5acc5580</ra_hash>
+		<url>https://retroachievements.org/game/24512/hashes</url>
 	</game>
 
 	<game name="Hack/SimpleFlips' 5th Hacking Competition - Christmas 2018/A Simple Christmas Eve">
@@ -1128,28 +1137,12 @@
 		<ra_hash>5270d98f9e67dc7ef354ece109c2a18f</ra_hash>
 		<url>https://retroachievements.org/game/10282/hashes</url>
 	</game>
-	<game name="Retail/Getter Love!! Cho Renai Party Game/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)</description>
-		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual).z64" size="12582912" crc="26CE64F2" md5="0ac7a16f8afcc03031835c89d095d7b9" sha1="7c443e824d7589d2bd8bd88231ac3acf178def6f"/>
-		<ra_hash>0ac7a16f8afcc03031835c89d095d7b9</ra_hash>
-		<url>https://retroachievements.org/game/10282/hashes</url>
-	</game>
 	<game name="Retail/Getter Love!! Cho Renai Party Game/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)</description>
 		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual).z64" size="12582912" crc="128D2938" md5="e2fe94804e7127eb6b78e25e8a775060" sha1="c3771d8b120b1767a6410f3ebf3c87ef40b701b7"/>
 		<ra_hash>e2fe94804e7127eb6b78e25e8a775060</ra_hash>
-		<url>https://retroachievements.org/game/10282/hashes</url>
-	</game>
-	<game name="Retail/Getter Love!! Cho Renai Party Game/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)</description>
-		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual).z64" size="12582912" crc="F37A40F6" md5="4677619c31c5dfda8448308c558f480d" sha1="736112b94fc4bd68c2685e7669398b4774ab3484"/>
-		<ra_hash>4677619c31c5dfda8448308c558f480d</ra_hash>
 		<url>https://retroachievements.org/game/10282/hashes</url>
 	</game>
 
@@ -1859,19 +1852,19 @@
 		<ra_hash>86A9550AD8CDDACA13813765045A00EE</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
-	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0)">
+	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0) (Unknown)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0).z64" size="33554432" crc="3E00D978" md5="77bf20d3eca19ebcfc5fed35f5cf65dc" sha1="eedb6b09b1a4f28b0ff85bf8d18ea5b6f9fc8bd5"/>
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0) (Unknown)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0) (Unknown).z64" size="33554432" crc="3E00D978" md5="77bf20d3eca19ebcfc5fed35f5cf65dc" sha1="eedb6b09b1a4f28b0ff85bf8d18ea5b6f9fc8bd5"/>
 		<ra_hash>77BF20D3ECA19EBCFC5FED35F5CF65DC</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
-	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta)">
+	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta) (Unknown)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta).z64" size="33554432" crc="32D72425" md5="7fd3ba9b095c244367e84a6e4493349b" sha1="59ca9a0170ee94ee273d3a558a17c67b9f883603"/>
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta) (Unknown)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta) (Unknown).z64" size="33554432" crc="32D72425" md5="7fd3ba9b095c244367e84a6e4493349b" sha1="59ca9a0170ee94ee273d3a558a17c67b9f883603"/>
 		<ra_hash>7FD3BA9B095C244367E84A6E4493349B</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
@@ -1883,19 +1876,19 @@
 		<ra_hash>2ECB8739EB694133B88BDD2CF4617F24</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
-	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14)">
+	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14) (Unknown)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14).z64" size="33554432" crc="995532C5" md5="0d6331c2fa062f20272cc1a7f80f7271" sha1="5953168bba3772baccfd38bd368e6531e80dca99"/>
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14) (Unknown)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14) (Unknown).z64" size="33554432" crc="995532C5" md5="0d6331c2fa062f20272cc1a7f80f7271" sha1="5953168bba3772baccfd38bd368e6531e80dca99"/>
 		<ra_hash>0D6331C2FA062F20272CC1A7F80F7271</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
-	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42)">
+	<game name="Retail/The Legend of Zelda - Ocarina of Time/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42) (Unknown)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42).z64" size="33554432" crc="7A7BA9B5" md5="f85fc5ce4451c1e9f3ee00b814489a51" sha1="90081edf6d03e6b7f6c71749f0dd08b2ed4603de"/>
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42) (Unknown)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42) (Unknown).z64" size="33554432" crc="7A7BA9B5" md5="f85fc5ce4451c1e9f3ee00b814489a51" sha1="90081edf6d03e6b7f6c71749f0dd08b2ed4603de"/>
 		<ra_hash>F85FC5CE4451C1E9F3EE00B814489A51</ra_hash>
 		<url>https://retroachievements.org/game/10113/hashes</url>
 	</game>
@@ -2051,6 +2044,15 @@
 		<rom name="Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.0.1) (Subset - Bonus).z64" size="33554432" crc="008EA583" md5="bc5263bddf8a4d9e214fb60aab607560" sha1="29a170cb0dd389d93752563ffd18d06c8735e229"/>
 		<ra_hash>bc5263bddf8a4d9e214fb60aab607560</ra_hash>
 		<url>https://retroachievements.org/game/29869/hashes</url>
+	</game>
+
+	<game name="Hack/Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.23) (RichieUltimate)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.23) (RichieUltimate)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.23) (RichieUltimate).z64" size="33554432" crc="627C0746" md5="fcc30542649d1c53d2175b6ede369e16" sha1="fbf45bc39403272f697f0dbc5634e4b88994d1f0"/>
+		<ra_hash>fcc30542649d1c53d2175b6ede369e16</ra_hash>
+		<url>https://retroachievements.org/game/29843/hashes</url>
 	</game>
 
 	<game name="Hack/Legend of Zelda, The - Ocarina of Time - Whomp's Fortress (v1.0) (Mark Kurko)">
@@ -3420,12 +3422,28 @@
 		<url>https://retroachievements.org/game/10216/hashes</url>
 	</game>
 
-	<game name="Hack/Quest 64 - Hard Mode (v0.9.8.2) (Landmine36)">
+	<game name="Hack/Quest 64 - Hard Mode/Quest 64 - Hard Mode (v0.9.8.2) (Landmine36)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Quest 64 - Hard Mode (v0.9.8.2) (Landmine36)</description>
 		<rom name="Quest 64 - Hard Mode (v0.9.8.2) (Landmine36).z64" size="16892044" crc="4D3324A8" md5="7d6426f22bedbba9f3b956d489d072ba" sha1="bc703c1271cf297fe2fc06c7adf3c6fefe97ba45"/>
 		<ra_hash>7d6426f22bedbba9f3b956d489d072ba</ra_hash>
+		<url>https://retroachievements.org/game/18278/hashes</url>
+	</game>
+	<game name="Hack/Quest 64 - Hard Mode/Quest 64 - Hard Mode (v0.9.8.3) (Landmine36)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Quest 64 - Hard Mode (v0.9.8.3) (Landmine36)</description>
+		<rom name="Quest 64 - Hard Mode (v0.9.8.3) (Landmine36).z64" size="16895772" crc="1B86E1C3" md5="afb9119978a8040dc968c29a3baaa040" sha1="1fef93b4da919c376b1ee1b7977eeaa88d9f45c8"/>
+		<ra_hash>afb9119978a8040dc968c29a3baaa040</ra_hash>
+		<url>https://retroachievements.org/game/18278/hashes</url>
+	</game>
+	<game name="Hack/Quest 64 - Hard Mode/Quest 64 - Hard Mode (v0.9.8.3a) (Landmine36)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Quest 64 - Hard Mode (v0.9.8.3a) (Landmine36)</description>
+		<rom name="Quest 64 - Hard Mode (v0.9.8.3a) (Landmine36).z64" size="16895828" crc="897E1E4E" md5="a0eb48ffaf4567ce1907e07a13a753be" sha1="4bb085c4a4392c2940e55da932ab6cf73bd62bbc"/>
+		<ra_hash>a0eb48ffaf4567ce1907e07a13a753be</ra_hash>
 		<url>https://retroachievements.org/game/18278/hashes</url>
 	</game>
 
@@ -3665,11 +3683,11 @@
 		<ra_hash>ebba03f20096fc2bc178fc3a1f4ec2b6</ra_hash>
 		<url>https://retroachievements.org/game/21718/hashes</url>
 	</game>
-	<game name="Retail/SimCity 64 (64DD)/SimCity 64 (Japan) (En) (v0.6.38)">
+	<game name="Retail/SimCity 64 (64DD)/SimCity 64 (Japan) (En) (v0.6.38) (ozidual)">
 		<category>Nintendo 64DD</category>
 		<source>No-Intro, RAPatches</source>
-		<description>SimCity 64 (Japan) (En) (v0.6.38)</description>
-		<rom name="SimCity 64 (Japan) (En) (v0.6.38).ndd" size="64931840" crc="E3AC7770" md5="4372f74477fe54cd363fe4f14984625a" sha1="33b4f0f3dddd447b27d2920c618028fab217e845"/>
+		<description>SimCity 64 (Japan) (En) (v0.6.38) (ozidual)</description>
+		<rom name="SimCity 64 (Japan) (En) (v0.6.38) (ozidual).ndd" size="64931840" crc="E3AC7770" md5="4372f74477fe54cd363fe4f14984625a" sha1="33b4f0f3dddd447b27d2920c618028fab217e845"/>
 		<ra_hash>4372f74477fe54cd363fe4f14984625a</ra_hash>
 		<url>https://retroachievements.org/game/21718/hashes</url>
 	</game>
@@ -5070,6 +5088,15 @@
 		<url>https://retroachievements.org/game/17468/hashes</url>
 	</game>
 
+	<game name="Hack/SM64 - Master Quest -3 Mario Swims to China (Cavin856)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, rhdc, RAPatches</source>
+		<description>SM64 - Master Quest -3 Mario Swims to China (Cavin856)</description>
+		<rom name="SM64 - Master Quest -3 Mario Swims to China (Cavin856).z64" size="67108864" crc="2AE0A431" md5="094c1673671e44ec9532601f2d101865" sha1="7e5785f42732350f4ff17990487e3f90c559e207"/>
+		<ra_hash>094c1673671e44ec9532601f2d101865</ra_hash>
+		<url>https://retroachievements.org/game/41393/hashes</url>
+	</game>
+
 	<game name="Hack/SM64 - Master Quest 2 Two - Best Buy Edition (v1.1) (Cavin856)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
@@ -5492,7 +5519,7 @@
 
 	<game name="Hack/Star Revenge 4 - The Kedama Takeover/SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute)">
 		<category>Nintendo 64</category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute)</description>
 		<rom name="SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2 Optimized) (BroDute).z64" size="67108864" crc="67DB09C7" md5="e93e6c75a5e3f58dc59e94825a65f72e" sha1="d196f497c6a44254a358cea5181ab0bec8c70ecb"/>
 		<ra_hash>e93e6c75a5e3f58dc59e94825a65f72e</ra_hash>
@@ -5500,7 +5527,7 @@
 	</game>
 	<game name="Hack/Star Revenge 4 - The Kedama Takeover/SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute)">
 		<category>Nintendo 64</category>
-		<source>No-Intro</source>
+		<source>No-Intro, RAPatches</source>
 		<description>SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute)</description>
 		<rom name="SM64 - Star Revenge 4 - The Kedama Takeover (v1.1.2) (BroDute).z64" size="67108864" crc="8601B33E" md5="25f2ad2da5d07b05c7bbdbea2b902056" sha1="4343a90c23379549cfe71822361b833ba0d2be6a"/>
 		<ra_hash>25f2ad2da5d07b05c7bbdbea2b902056</ra_hash>
@@ -5927,20 +5954,28 @@
 		<ra_hash>da2689fb890854138c9390dd8f487cc0</ra_hash>
 		<url>https://retroachievements.org/game/10206/hashes</url>
 	</game>
-	<game name="Hack/Super Mario Star Road/SM64 - Super Mario Star Road (Skelux) (1.01)">
-		<category>Nintendo 64</category>
-		<source>No-Intro, RAPatches</source>
-		<description>SM64 - Super Mario Star Road (Skelux) (1.01)</description>
-		<rom name="SM64 - Super Mario Star Road (Skelux) (1.01).z64" size="50331648" crc="5EC9D004" md5="dc25c74081244916a31472092d78a64d" sha1="09c0f5b64b34c8822af38385576d028ca8c6ccc0"/>
-		<ra_hash>dc25c74081244916a31472092d78a64d</ra_hash>
-		<url>https://retroachievements.org/game/10206/hashes</url>
-	</game>
 	<game name="Hack/Super Mario Star Road/SM64 - Super Mario Star Road (Unknown Rev)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
 		<description>SM64 - Super Mario Star Road (Unknown Rev)</description>
 		<rom name="SM64 - Super Mario Star Road (Unknown Rev).z64" size="47185920" crc="6B76ABE3" md5="4f79367d5db29a00590377dba46e3b58" sha1="c5380328a654513646d758363c88c58ce96b73d1"/>
 		<ra_hash>4f79367d5db29a00590377dba46e3b58</ra_hash>
+		<url>https://retroachievements.org/game/10206/hashes</url>
+	</game>
+	<game name="Hack/Super Mario Star Road/SM64 - Super Mario Star Road (v1.01) (Skelux)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, rhdc, RAPatches</source>
+		<description>SM64 - Super Mario Star Road (v1.01) (Skelux)</description>
+		<rom name="SM64 - Super Mario Star Road (v1.01) (Skelux).z64" size="50331648" crc="5EC9D004" md5="dc25c74081244916a31472092d78a64d" sha1="09c0f5b64b34c8822af38385576d028ca8c6ccc0"/>
+		<ra_hash>dc25c74081244916a31472092d78a64d</ra_hash>
+		<url>https://retroachievements.org/game/10206/hashes</url>
+	</game>
+	<game name="Hack/Super Mario Star Road/SM64 - Super Mario Star Road (v1.02) (Skelux)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, rhdc, RAPatches</source>
+		<description>SM64 - Super Mario Star Road (v1.02) (Skelux)</description>
+		<rom name="SM64 - Super Mario Star Road (v1.02) (Skelux).z64" size="12689288" crc="4EF38665" md5="b8d9edc42a0c58547469514b3b8e8234" sha1="c5839548bb5437937730e59823e33f476304aed1"/>
+		<ra_hash>b8d9edc42a0c58547469514b3b8e8234</ra_hash>
 		<url>https://retroachievements.org/game/10206/hashes</url>
 	</game>
 
@@ -6539,11 +6574,11 @@
 		<ra_hash>A76140CFBF98148EC5BCAE1F5DE26B8C</ra_hash>
 		<url>https://retroachievements.org/game/10003/hashes</url>
 	</game>
-	<game name="Retail/Super Mario 64/Super Mario 64 (USA) (Pt)">
+	<game name="Retail/Super Mario 64/Super Mario 64 (USA) (Pt) (v1.0) (Unknown)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Super Mario 64 (USA) (Pt)</description>
-		<rom name="Super Mario 64 (USA) (Pt).z64" size="25165824" crc="DBB1F6DC" md5="987c3939b2644bbb760d4047223023bb" sha1="e4f99c4fa8a7198c7a94c331ef7c2a8a63f7f9d7"/>
+		<description>Super Mario 64 (USA) (Pt) (v1.0) (Unknown)</description>
+		<rom name="Super Mario 64 (USA) (Pt) (v1.0) (Unknown).z64" size="25165824" crc="DBB1F6DC" md5="987c3939b2644bbb760d4047223023bb" sha1="e4f99c4fa8a7198c7a94c331ef7c2a8a63f7f9d7"/>
 		<ra_hash>987C3939B2644BBB760D4047223023BB</ra_hash>
 		<url>https://retroachievements.org/game/10003/hashes</url>
 	</game>
@@ -6967,12 +7002,12 @@
 		<ra_hash>a0657bc99e169153fd46aeccfde748f3</ra_hash>
 		<url>https://retroachievements.org/game/10119/hashes</url>
 	</game>
-	<game name="Retail/Sin and Punishment/Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)">
+	<game name="Retail/Sin and Punishment/Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.0) (Zoinkity)">
 		<category>Nintendo 64</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)</description>
-		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios).z64" size="33554432" crc="5A6B6713" md5="ca19a4b2bae3b4950ff967ee9e0857ae" sha1="5945ff3935d9d9531bbb5cfcabed7c198e2b2f41"/>
-		<ra_hash>ca19a4b2bae3b4950ff967ee9e0857ae</ra_hash>
+		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.0) (Zoinkity)</description>
+		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.0) (Zoinkity).z64" size="33554432" crc="6A19AE94" md5="6e51b140a9b0c30d6f55ca7942a969fc" sha1="e3906c919236dac6eba020b4b8c1df91fd725c5d"/>
+		<ra_hash>6e51b140a9b0c30d6f55ca7942a969fc</ra_hash>
 		<url>https://retroachievements.org/game/10119/hashes</url>
 	</game>
 

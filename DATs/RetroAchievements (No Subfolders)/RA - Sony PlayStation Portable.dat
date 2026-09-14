@@ -3,11 +3,11 @@
 	<header>
 		<name>RA - Sony PlayStation Portable</name>
 		<description>Sony PlayStation Portable</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/41-playstation-portable/games</url>
-		<titlecount>348</titlecount>
+		<titlecount>352</titlecount>
 		<hashcount>449</hashcount>
 	</header>
 
@@ -871,61 +871,6 @@
 		<disk name="Def Jam - Fight for NY - The Takeover (USA).chd" sha1="6ec016090ddc9584f91131169c542ffdb4fcfa94"/>
 		<ra_hash>8426c057963fa1d12e9cfc9eed8ce5c3</ra_hash>
 		<url>https://retroachievements.org/game/18712/hashes</url>
-	</machine>
-
-	<machine name="Der Herr der Ringe - Taktiken (DE)" cloneof="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Der Herr der Ringe - Taktiken (DE)</description>
-		<release name="Der Herr der Ringe - Taktiken (DE)" region="Germany"/>
-		<disk name="Der Herr der Ringe - Taktiken (DE).chd" sha1="fae667b0ab32614358f9b9fd22d7d7f42f95ea31"/>
-		<ra_hash>9567dc3ca7c4f80b60805cc4393c2da9</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
-	</machine>
-	<machine name="El Señor de los Anillos - Tácticas (ES)" cloneof="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>El Señor de los Anillos - Tácticas (ES)</description>
-		<release name="El Señor de los Anillos - Tácticas (ES)" region="Spain"/>
-		<disk name="El Señor de los Anillos - Tácticas (ES).chd" sha1="45cfbd24474e9b6b4cc6da3831d7d7200ef926e5"/>
-		<ra_hash>094c3a6fd07da2ff58c821f473dbf1e4</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
-	</machine>
-	<machine name="Il Signore degli Anelli - Tactics (IT)" cloneof="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Il Signore degli Anelli - Tactics (IT)</description>
-		<release name="Il Signore degli Anelli - Tactics (IT)" region="Italy"/>
-		<disk name="Il Signore degli Anelli - Tactics (IT).chd" sha1="7a54dc1cce534f38a4d4ba0e2ddad877100fce28"/>
-		<ra_hash>71ba8be20193b377557b874f0c24bcb6</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
-	</machine>
-	<machine name="Le Seigneur des Anneaux - Tactics (FR)" cloneof="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Le Seigneur des Anneaux - Tactics (FR)</description>
-		<release name="Le Seigneur des Anneaux - Tactics (FR)" region="France"/>
-		<disk name="Le Seigneur des Anneaux - Tactics (FR).chd" sha1="a55489bdae991d2658b10a34a315153d268fb751"/>
-		<ra_hash>df46a01713d8b8ebc0678d8ac72f9054</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
-	</machine>
-	<machine name="Lord of the Rings, The - Tactics (Europe)" cloneof="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Lord of the Rings, The - Tactics (Europe)</description>
-		<release name="Lord of the Rings, The - Tactics (Europe)" region="Europe"/>
-		<disk name="Lord of the Rings, The - Tactics (Europe).chd" sha1="492a8dfd60df89ccbc38ddd4e2c013750452b8e5"/>
-		<ra_hash>7e3422a2569868efacfbd86d0287abb0</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
-	</machine>
-	<machine name="Lord of the Rings, The - Tactics (USA)">
-		<category>Retail</category>
-		<source>Redump</source>
-		<description>Lord of the Rings, The - Tactics (USA)</description>
-		<release name="Lord of the Rings, The - Tactics (USA)" region="USA"/>
-		<disk name="Lord of the Rings, The - Tactics (USA).chd" sha1="339699e815f6fe075d5d3c21bcb60b1cfb25eac9"/>
-		<ra_hash>97eafc37a9efb8377830b4540fa21f65</ra_hash>
-		<url>https://retroachievements.org/game/25057/hashes</url>
 	</machine>
 
 	<machine name="Digimon Adventure (Japan) (En) (v1.2) (Kazari)">
@@ -2131,6 +2076,61 @@
 		<disk name="Hello Kitty - Puzzle Party (Europe) (En,Fr,De,Es,It).chd" sha1="b0dceafee9e86f6e8efc05d2beebbc42aa368180"/>
 		<ra_hash>2d2967a960eff336be39ca834e3bb5cb</ra_hash>
 		<url>https://retroachievements.org/game/17995/hashes</url>
+	</machine>
+
+	<machine name="Herr der Ringe, Der - Taktiken (Germany)" cloneof="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Herr der Ringe, Der - Taktiken (Germany)</description>
+		<release name="Herr der Ringe, Der - Taktiken (Germany)" region="Germany"/>
+		<disk name="Herr der Ringe, Der - Taktiken (Germany).chd" sha1="fae667b0ab32614358f9b9fd22d7d7f42f95ea31"/>
+		<ra_hash>9567dc3ca7c4f80b60805cc4393c2da9</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Lord of the Rings, The - Tactics (Europe)" cloneof="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Lord of the Rings, The - Tactics (Europe)</description>
+		<release name="Lord of the Rings, The - Tactics (Europe)" region="Europe"/>
+		<disk name="Lord of the Rings, The - Tactics (Europe).chd" sha1="492a8dfd60df89ccbc38ddd4e2c013750452b8e5"/>
+		<ra_hash>7e3422a2569868efacfbd86d0287abb0</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Lord of the Rings, The - Tactics (USA)</description>
+		<release name="Lord of the Rings, The - Tactics (USA)" region="USA"/>
+		<disk name="Lord of the Rings, The - Tactics (USA).chd" sha1="339699e815f6fe075d5d3c21bcb60b1cfb25eac9"/>
+		<ra_hash>97eafc37a9efb8377830b4540fa21f65</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Seigneur des Anneaux, Le - Tactics (France)" cloneof="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Seigneur des Anneaux, Le - Tactics (France)</description>
+		<release name="Seigneur des Anneaux, Le - Tactics (France)" region="France"/>
+		<disk name="Seigneur des Anneaux, Le - Tactics (France).chd" sha1="a55489bdae991d2658b10a34a315153d268fb751"/>
+		<ra_hash>df46a01713d8b8ebc0678d8ac72f9054</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Senor de los Anillos, El - Tacticas (Spain)" cloneof="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Senor de los Anillos, El - Tacticas (Spain)</description>
+		<release name="Senor de los Anillos, El - Tacticas (Spain)" region="Spain"/>
+		<disk name="Senor de los Anillos, El - Tacticas (Spain).chd" sha1="45cfbd24474e9b6b4cc6da3831d7d7200ef926e5"/>
+		<ra_hash>094c3a6fd07da2ff58c821f473dbf1e4</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
+	</machine>
+	<machine name="Signore degli Anelli, Il - Tactics (Italy)" cloneof="Lord of the Rings, The - Tactics (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Signore degli Anelli, Il - Tactics (Italy)</description>
+		<release name="Signore degli Anelli, Il - Tactics (Italy)" region="Italy"/>
+		<disk name="Signore degli Anelli, Il - Tactics (Italy).chd" sha1="7a54dc1cce534f38a4d4ba0e2ddad877100fce28"/>
+		<ra_hash>71ba8be20193b377557b874f0c24bcb6</ra_hash>
+		<url>https://retroachievements.org/game/25057/hashes</url>
 	</machine>
 
 	<machine name="Hexyz Force (USA)">

@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>892</titlecount>
-		<hashcount>1367</hashcount>
+		<titlecount>900</titlecount>
+		<hashcount>1382</hashcount>
 	</header>
 
 	<machine name="...Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -3579,6 +3579,23 @@
 		<url>https://retroachievements.org/game/11380/hashes</url>
 	</machine>
 
+	<machine name="Fear Effect 2 - Retro Helix (USA) (Rev 1)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Fear Effect 2 - Retro Helix (USA) (Rev 1)</description>
+		<release name="Fear Effect 2 - Retro Helix (USA) (Rev 1)" region="USA"/>
+		<rom name="Fear Effect 2 - Retro Helix (USA) (Rev 1).m3u" size="224" crc="DB44182D" md5="fe4e5f2375bb29a6ad1361cd1e9d4e5d" sha1="61603c2c10a388b8917ca38a3b0a626bcbbad9be"/>
+		<disk name="Fear Effect 2 - Retro Helix (USA) (Disc 1) (Rev 1).chd" sha1="1143fe5ab3f7aeaa759c58824b5dd7f146bfc308"/>
+		<ra_hash>7346555db433909cd82e7cf6f91464d0</ra_hash>
+		<disk name="Fear Effect 2 - Retro Helix (USA) (Disc 2) (Rev 1).chd" sha1="78286d81defe1ff6122904a2a0e2be4b6ec83db2"/>
+		<ra_hash>fdd674750cd899c157189fc4328f8854</ra_hash>
+		<disk name="Fear Effect 2 - Retro Helix (USA) (Disc 3) (Rev 1).chd" sha1="3b944090b7c08d0dd7e56d2b8278c9c2b621636d"/>
+		<ra_hash>c5ab069c6261a5f73bba164de624717e</ra_hash>
+		<disk name="Fear Effect 2 - Retro Helix (USA) (Disc 4) (Rev 1).chd" sha1="c5e90289969f3f50f9e0f12870dbe78762292fd7"/>
+		<ra_hash>d1f93023cc80ccdf4bd99b2463a446d6</ra_hash>
+		<url>https://retroachievements.org/game/11381/hashes</url>
+	</machine>
+
 	<machine name="Felony 11-79 (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -3677,12 +3694,12 @@
 		<url>https://retroachievements.org/game/17526/hashes</url>
 	</machine>
 
-	<machine name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)">
+	<machine name="Final Fantasy IX (USA, Canada) (Rev 1)">
 		<category>Retail</category>
 		<source>Redump</source>
-		<description>Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)</description>
-		<release name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)" region="USA"/>
-		<release name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)" region="Canada"/>
+		<description>Final Fantasy IX (USA, Canada) (Rev 1)</description>
+		<release name="Final Fantasy IX (USA, Canada) (Rev 1)" region="USA"/>
+		<release name="Final Fantasy IX (USA, Canada) (Rev 1)" region="Canada"/>
 		<rom name="Final Fantasy IX (USA, Canada) (Rev 1).m3u" size="212" crc="B44CD90F" md5="6b3f541609de0cad13eb70f53266c678" sha1="55e2d91f2d3d58b878abe23b025bcef512d6c5ff"/>
 		<disk name="Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1).chd" sha1="aa95b490a84e95c18d8ac127ea6ab98ebe3d8d7f"/>
 		<ra_hash>1fe564ab22981a9f4a90da91e75d2156</ra_hash>
@@ -6929,6 +6946,16 @@
 		<url>https://retroachievements.org/game/16992/hashes</url>
 	</machine>
 
+	<machine name="Ningyo no Rakuin (Japan)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Ningyo no Rakuin (Japan)</description>
+		<release name="Ningyo no Rakuin (Japan)" region="Japan"/>
+		<disk name="Ningyo no Rakuin (Japan).chd" sha1="d041b7e6d98187ae8fc7193a77f3818c96c27903"/>
+		<ra_hash>8f93d735c91e73cc4743979fe3285025</ra_hash>
+		<url>https://retroachievements.org/game/18248/hashes</url>
+	</machine>
+
 	<machine name="Ninja - Shadow of Darkness (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -8415,6 +8442,16 @@
 		<url>https://retroachievements.org/game/11265/hashes</url>
 	</machine>
 
+	<machine name="Resident Evil 3 - Nemesis - Hard Mode (v1.0) (Daniel Street Evil)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>Resident Evil 3 - Nemesis - Hard Mode (v1.0) (Daniel Street Evil)</description>
+		<release name="Resident Evil 3 - Nemesis - Hard Mode (v1.0) (Daniel Street Evil)" region="World"/>
+		<disk name="Resident Evil 3 - Nemesis - Hard Mode (v1.0) (Daniel Street Evil).chd" sha1="830ad7ca4019bd9af116a0438d3bc4e974f18766"/>
+		<ra_hash>cd3e76b9f9e36f5e1e1d2edb44ac1a4f</ra_hash>
+		<url>https://retroachievements.org/game/41274/hashes</url>
+	</machine>
+
 	<machine name="Resident Evil 3 - The Only One (v1.1) (BiohazardEsp)">
 		<category>Hack</category>
 		<source>Redump, RAPatches, moddb</source>
@@ -8737,6 +8774,16 @@
 		<disk name="Rollcage Stage II (USA).chd" sha1="508f6e5bf1321077b0936c7f9d25fc4c024c2f84"/>
 		<ra_hash>f947b41805eb45d6cda11c3a127f27a9</ra_hash>
 		<url>https://retroachievements.org/game/5048/hashes</url>
+	</machine>
+
+	<machine name="Runabout 2 (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Runabout 2 (USA)</description>
+		<release name="Runabout 2 (USA)" region="USA"/>
+		<disk name="Runabout 2 (USA).chd" sha1="fdba21511ea15648c6cf4b3eb4f70b6dc41e0483"/>
+		<ra_hash>14d330ed81c31ea30c0d218081b93ee2</ra_hash>
+		<url>https://retroachievements.org/game/1091/hashes</url>
 	</machine>
 
 	<machine name="Running Wild (USA)">
@@ -10095,6 +10142,16 @@
 		<url>https://retroachievements.org/game/11301/hashes</url>
 	</machine>
 
+	<machine name="Tall - Infinity (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Tall - Infinity (USA)</description>
+		<release name="Tall - Infinity (USA)" region="USA"/>
+		<disk name="Tall - Infinity (USA).chd" sha1="0f366c35545b2dbd0f2ba3ff7b7ce61cfd7debb6"/>
+		<ra_hash>05d2307c09b1f6ba566b3a4956f9febd</ra_hash>
+		<url>https://retroachievements.org/game/27534/hashes</url>
+	</machine>
+
 	<machine name="Tall - Twins Tower (Japan)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -10856,6 +10913,16 @@
 		<url>https://retroachievements.org/game/19403/hashes</url>
 	</machine>
 
+	<machine name="Trick'n Snowboarder (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Trick'n Snowboarder (USA)</description>
+		<release name="Trick'n Snowboarder (USA)" region="USA"/>
+		<disk name="Trick'n Snowboarder (USA).chd" sha1="4c80f27275aabb58d6bd263f63261fb0862a9abd"/>
+		<ra_hash>cedb4ce1f17430af3f45ad0ba39d3e7d</ra_hash>
+		<url>https://retroachievements.org/game/20478/hashes</url>
+	</machine>
+
 	<machine name="Turbo Prop Racing (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -11393,6 +11460,16 @@
 		<url>https://retroachievements.org/game/13493/hashes</url>
 	</machine>
 
+	<machine name="X-Men - Children of the Atom (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>X-Men - Children of the Atom (USA)</description>
+		<release name="X-Men - Children of the Atom (USA)" region="USA"/>
+		<disk name="X-Men - Children of the Atom (USA).chd" sha1="db53105be644f4e24440b3e98bf8971feeb69d52"/>
+		<ra_hash>27da128588afcb4a97071a6daa1fa7ce</ra_hash>
+		<url>https://retroachievements.org/game/17834/hashes</url>
+	</machine>
+
 	<machine name="X-Men - Mutant Academy (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -11515,6 +11592,28 @@
 		<disk name="Yetisports World Tour (Europe) (En,Fr,De,Es,It).chd" sha1="6d5c9d9f575834bdfa767e32153fe16ffc7446ae"/>
 		<ra_hash>dd884fd01527c38819f53f162a20093c</ra_hash>
 		<url>https://retroachievements.org/game/33446/hashes</url>
+	</machine>
+
+	<machine name="You Don't Know Jack (Germany)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>You Don't Know Jack (Germany)</description>
+		<release name="You Don't Know Jack (Germany)" region="Germany"/>
+		<disk name="You Don't Know Jack (Germany).chd" sha1="162caffc8aea3dbd84b2da4d3640e9cfd12a7a33"/>
+		<ra_hash>592c9c9aa360c02d51dcff08fb5b610b</ra_hash>
+		<url>https://retroachievements.org/game/16707/hashes</url>
+	</machine>
+	<machine name="You Don't Know Jack (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>You Don't Know Jack (USA)</description>
+		<release name="You Don't Know Jack (USA)" region="USA"/>
+		<rom name="You Don't Know Jack (USA).m3u" size="80" crc="1E694404" md5="1604ea8763c0539c6ab6b65e54fd4148" sha1="309abc8d8278515bae1dd4f377dab7bf54580130"/>
+		<disk name="You Don't Know Jack (USA) (Disc 1).chd" sha1="730c756663debe4ccb6a5336a73b230963481f00"/>
+		<ra_hash>34dfba23fceef33834310f7e335fe8fe</ra_hash>
+		<disk name="You Don't Know Jack (USA) (Disc 2).chd" sha1="7e90b8af47af306a26d59427f82d04351156e492"/>
+		<ra_hash>c08deb15d35b23519bb78dc56db0462c</ra_hash>
+		<url>https://retroachievements.org/game/16707/hashes</url>
 	</machine>
 
 	<machine name="Yu-Gi-Oh! Forbidden Memories (USA)">

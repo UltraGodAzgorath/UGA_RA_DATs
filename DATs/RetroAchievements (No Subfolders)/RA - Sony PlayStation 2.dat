@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>931</titlecount>
-		<hashcount>1212</hashcount>
+		<titlecount>944</titlecount>
+		<hashcount>1228</hashcount>
 	</header>
 
 	<machine name="007 - Agent Under Fire (USA)" cloneof="007 - Agent Under Fire (USA) (Widescreen + 60fps Driving) (v1.0) (Souzooka)">
@@ -404,6 +404,16 @@
 		<url>https://retroachievements.org/game/22110/hashes</url>
 	</machine>
 
+	<machine name="All-Star Fighters (Europe)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>All-Star Fighters (Europe)</description>
+		<release name="All-Star Fighters (Europe)" region="Europe"/>
+		<disk name="All-Star Fighters (Europe).chd" sha1="801981691139fd3f44cf81724305cf4709902c39"/>
+		<ra_hash>4e0745fd7d4b35e88a05666f2c40af89</ra_hash>
+		<url>https://retroachievements.org/game/20546/hashes</url>
+	</machine>
+
 	<machine name="Amplitude (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -630,18 +640,27 @@
 		<url>https://retroachievements.org/game/22599/hashes</url>
 	</machine>
 
-	<machine name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)">
+	<machine name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" cloneof="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)">
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)</description>
 		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="France"/>
-		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Germany"/>
-		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Italy"/>
-		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="Spain"/>
-		<release name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" region="English"/>
 		<disk name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It).chd" sha1="0082f8966c0ffd5aa4a4a5b9d6c6e7f58249aae0"/>
 		<ra_hash>635a2a6d3ae4e926ec7f3980497d9442</ra_hash>
+		<url>https://retroachievements.org/game/22598/hashes</url>
+	</machine>
+	<machine name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<disk name="Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl).chd" sha1="ed9882a015daf7d29e3eaf9715f400eb8874e61c"/>
+		<ra_hash>9293c7f545d867463d9e0519ff0ecf4d</ra_hash>
 		<url>https://retroachievements.org/game/22598/hashes</url>
 	</machine>
 
@@ -1089,6 +1108,16 @@
 		<url>https://retroachievements.org/game/21481/hashes</url>
 	</machine>
 
+	<machine name="Brothers in Arms - Road to Hill 30 (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Brothers in Arms - Road to Hill 30 (USA)</description>
+		<release name="Brothers in Arms - Road to Hill 30 (USA)" region="USA"/>
+		<disk name="Brothers in Arms - Road to Hill 30 (USA).chd" sha1="60b62c6e8dcf1ee6c658c36e1a31b576ed7597d6"/>
+		<ra_hash>67b71b594c2ec3af40058db0d607f6b7</ra_hash>
+		<url>https://retroachievements.org/game/24575/hashes</url>
+	</machine>
+
 	<machine name="Buffy the Vampire Slayer - Chaos Bleeds (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -1287,6 +1316,32 @@
 		<disk name="Carol Vorderman's Sudoku (USA).chd" sha1="d39cd17fb431d19a3ae1c48e04740d4f14c62e5e"/>
 		<ra_hash>f56777d4f84c60dcc4b5fbf70c59e9e1</ra_hash>
 		<url>https://retroachievements.org/game/24896/hashes</url>
+	</machine>
+
+	<machine name="Casper - Spirit Dimensions (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Casper - Spirit Dimensions (USA)</description>
+		<release name="Casper - Spirit Dimensions (USA)" region="USA"/>
+		<disk name="Casper - Spirit Dimensions (USA).chd" sha1="5e81e7dad85536ced2d01e4712835d4c8c3f7594"/>
+		<ra_hash>e346b5ceb07bb656641fcbee7cea58e7</ra_hash>
+		<url>https://retroachievements.org/game/28905/hashes</url>
+	</machine>
+
+	<machine name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<disk name="Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="132f4ba9c302e750e4cd7a1e655de2affbbc6eab"/>
+		<ra_hash>cecebdda17acb7c10605027072a0e864</ra_hash>
+		<url>https://retroachievements.org/game/24145/hashes</url>
 	</machine>
 
 	<machine name="Castlevania - Curse of Darkness (USA)">
@@ -2711,6 +2766,16 @@
 		<url>https://retroachievements.org/game/19124/hashes</url>
 	</machine>
 
+	<machine name="DoDonPachi Dai-Ou-Jou (Japan)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>DoDonPachi Dai-Ou-Jou (Japan)</description>
+		<release name="DoDonPachi Dai-Ou-Jou (Japan)" region="Japan"/>
+		<disk name="DoDonPachi Dai-Ou-Jou (Japan).chd" sha1="83d944ea9dba6e5af34aacf9a40536d1b4dde85f"/>
+		<ra_hash>d5f145084968d900f79f237587f259fc</ra_hash>
+		<url>https://retroachievements.org/game/19125/hashes</url>
+	</machine>
+
 	<machine name="Dog of Bay (Japan)" cloneof="Dog of Bay (Japan) (En) (v1.0) (Hilltop)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -4070,6 +4135,16 @@
 		<disk name="Formula One 06 (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi).chd" sha1="d8f587fe40f4250749d15345e1838290e1e743e2"/>
 		<ra_hash>f8af97e751bd392c6bb575f070ec7d8a</ra_hash>
 		<url>https://retroachievements.org/game/25864/hashes</url>
+	</machine>
+
+	<machine name="Freedom Fighters (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Freedom Fighters (USA)</description>
+		<release name="Freedom Fighters (USA)" region="USA"/>
+		<disk name="Freedom Fighters (USA).chd" sha1="57d9cbeddc09495e1a86e7a337502f76df2d7fd9"/>
+		<ra_hash>78d6c1648251a4244948c4610166353f</ra_hash>
+		<url>https://retroachievements.org/game/21971/hashes</url>
 	</machine>
 
 	<machine name="Freekstyle (USA)">
@@ -5856,6 +5931,14 @@
 		<url>https://retroachievements.org/game/19239/hashes</url>
 	</machine>
 
+	<machine name="Jaws Unleashed (USA)" cloneof="Jaws Unleashed (USA) (SLUS-21062) (EF14724A) (God Mode Disabled)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Jaws Unleashed (USA)</description>
+		<disk name="Jaws Unleashed (USA).chd" sha1="c43f82a8e275e852763e53341ef40d4f0bc2855d"/>
+		<ra_hash>1ecabf3e1849c907e9ac42047375a921</ra_hash>
+		<url>https://retroachievements.org/game/21009/hashes</url>
+	</machine>
 	<machine name="Jaws Unleashed (USA) (SLUS-21062) (EF14724A) (God Mode Disabled)">
 		<category>Retail</category>
 		<source>Redump, RAPatches</source>
@@ -5977,6 +6060,21 @@
 		<disk name="Mister Mosquito (USA).chd" sha1="ce7c3abfdd665aa56b02fd40b89c488479185c1b"/>
 		<ra_hash>22808da6157ef3bcf7575ea57a325ed6</ra_hash>
 		<url>https://retroachievements.org/game/19023/hashes</url>
+	</machine>
+
+	<machine name="Kaido Racer (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Kaido Racer (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Kaido Racer (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<disk name="Kaido Racer (Europe) (En,Fr,De,Es,It).chd" sha1="ab1b93c46263b8183c9997e1e56b3b1600ca7c9c"/>
+		<ra_hash>0179d0436d81f0eedd304fa77963495f</ra_hash>
+		<url>https://retroachievements.org/game/20777/hashes</url>
 	</machine>
 
 	<machine name="Kao the Kangaroo - Round 2 (USA)">
@@ -6760,7 +6858,7 @@
 	</machine>
 	<machine name="Manhunt (USA) (Ru) (NoData)" cloneof="Manhunt (USA)">
 		<category>Retail</category>
-		<source>Unknown</source>
+		<source>Redump, Lost Level Archive</source>
 		<description>Manhunt (USA) (Ru) (NoData)</description>
 		<release name="Manhunt (USA) (Ru) (NoData)" region="Russia"/>
 		<disk name="Manhunt (USA) (Ru) (NoData).chd" sha1="abc4e2fe71e7316abe674b8364fa3d0f3a65ce90"/>
@@ -7233,7 +7331,7 @@
 		<url>https://retroachievements.org/game/19095/hashes</url>
 	</machine>
 
-	<machine name="Monster Hunter (Japan)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+	<machine name="Monster Hunter (Japan)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool)">
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Monster Hunter (Japan)</description>
@@ -7242,18 +7340,26 @@
 		<ra_hash>4ba57ac625f59f82b487f62453bb2235</ra_hash>
 		<url>https://retroachievements.org/game/39928/hashes</url>
 	</machine>
-	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool)">
 		<category>Retail</category>
-		<source>Unknown</source>
+		<source>Redump, RAPatches</source>
+		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool)</description>
+		<release name="Monster Hunter (Japan) (En) (v9) (MH Oldschool)" region="English"/>
+		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool).chd" sha1="8ed982a84435913e9f94bb19384d069b784f9ec6"/>
+		<ra_hash>fcf67cf4ace623f5ea2c9fb23ec06c2a</ra_hash>
+		<url>https://retroachievements.org/game/39928/hashes</url>
+	</machine>
+	<machine name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
 		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)</description>
-		<release name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)" region="English"/>
 		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki).chd" sha1="7962e25622fb14a366f026107ea91b43c9951bbf"/>
 		<ra_hash>de7420a9f1d05ee4354212ed43db2b4d</ra_hash>
 		<url>https://retroachievements.org/game/39928/hashes</url>
 	</machine>
-	<machine name="Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)">
+	<machine name="Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki)" cloneof="Monster Hunter (Japan) (En) (v9) (MH Oldschool)">
 		<category>Retail</category>
-		<source>Unknown</source>
+		<source>Redump, RAPatches</source>
 		<description>Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki)</description>
 		<disk name="Monster Hunter (Japan) (MH1JPlus) (v4.2) (Nikki).chd" sha1="cb36829c866bff1db93ae90789665865abd64a58"/>
 		<ra_hash>44ba2ff43ff799a93fb8909a2de68a18</ra_hash>
@@ -9275,6 +9381,15 @@
 		<ra_hash>3b361a99bf117771ff3f3c56903ea610</ra_hash>
 		<url>https://retroachievements.org/game/22610/hashes</url>
 	</machine>
+	<machine name="Saint Seiya - Sanctuary Juunikyuu-hen (NTSC) (Es) (TeamBT4)" cloneof="Saint Seiya - The Sanctuary (Europe) (NTSC) (60Hz) (v3.0) (Unknown)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Saint Seiya - Sanctuary Juunikyuu-hen (NTSC) (Es) (TeamBT4)</description>
+		<release name="Saint Seiya - Sanctuary Juunikyuu-hen (NTSC) (Es) (TeamBT4)" region="Spain"/>
+		<disk name="Saint Seiya - Sanctuary Juunikyuu-hen (NTSC) (Es) (TeamBT4).chd" sha1="26166ceb6f30a1290e8942ada1caedb762961424"/>
+		<ra_hash>08e2c1fc59c16ea667e43d2540823d39</ra_hash>
+		<url>https://retroachievements.org/game/22610/hashes</url>
+	</machine>
 	<machine name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" cloneof="Saint Seiya - The Sanctuary (Europe) (NTSC) (60Hz) (v3.0) (Unknown)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -9282,7 +9397,6 @@
 		<release name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" region="France"/>
 		<release name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" region="Germany"/>
 		<release name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" region="Italy"/>
-		<release name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" region="Spain"/>
 		<release name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)" region="English"/>
 		<disk name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It).chd" sha1="59401431943f88d8894ec7746b2e509ed116d250"/>
 		<ra_hash>6c8669454c69680d5c4c39d8f11c314f</ra_hash>
@@ -9676,7 +9790,7 @@
 		<url>https://retroachievements.org/game/27960/hashes</url>
 	</machine>
 
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA)</description>
@@ -9684,24 +9798,24 @@
 		<ra_hash>72e55002257a6e6c540b7625bb91e7b9</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
-		<source>Redump, RAPatches, Lost Level Archive</source>
+		<source>Redump, RAPatches</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)</description>
-		<release name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)" region="USA"/>
 		<disk name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE).chd" sha1="03868c3fd738e3934454005122dd9c708b9601f1"/>
 		<ra_hash>67247a7fae57e8fd881abf1a145ccbdb</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump, RAPatches, Lost Level Archive</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)</description>
+		<release name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)" region="USA"/>
 		<disk name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei).chd" sha1="281e5e7494a0c95884621c0dd4224fb5ac2218d8"/>
 		<ra_hash>e26d1fec86be5754175b72bec0b5d187</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump, RAPatches, Lost Level Archive</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)</description>
@@ -9709,7 +9823,7 @@
 		<ra_hash>235ba0069852347546924d46f6f88be6</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump, RAPatches</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)</description>
@@ -9718,7 +9832,7 @@
 		<ra_hash>1b8907ceadd31e5a1ec9b70bb569ba2a</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump, RAPatches, Lost Level Archive</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei)</description>
@@ -9726,7 +9840,7 @@
 		<ra_hash>0a0ebe21327a53c99764160892cf56a9</ra_hash>
 		<url>https://retroachievements.org/game/2657/hashes</url>
 	</machine>
-	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
 		<category>Retail</category>
 		<source>Redump, RAPatches, Lost Level Archive</source>
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)</description>
@@ -10536,6 +10650,20 @@
 		<url>https://retroachievements.org/game/3060/hashes</url>
 	</machine>
 
+	<machine name="Speed Racer (USA) (En,Fr,Es,Pt)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Speed Racer (USA) (En,Fr,Es,Pt)</description>
+		<release name="Speed Racer (USA) (En,Fr,Es,Pt)" region="USA"/>
+		<release name="Speed Racer (USA) (En,Fr,Es,Pt)" region="France"/>
+		<release name="Speed Racer (USA) (En,Fr,Es,Pt)" region="Spain"/>
+		<release name="Speed Racer (USA) (En,Fr,Es,Pt)" region="Portugal"/>
+		<release name="Speed Racer (USA) (En,Fr,Es,Pt)" region="English"/>
+		<disk name="Speed Racer (USA) (En,Fr,Es,Pt).chd" sha1="0b192864798259f86c8b632298c7c833f1122523"/>
+		<ra_hash>ac4a64dd8452aacff37bb1403deafb04</ra_hash>
+		<url>https://retroachievements.org/game/21121/hashes</url>
+	</machine>
+
 	<machine name="Spider-Man (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -10725,6 +10853,16 @@
 		<disk name="Star Ocean - Till the End of Time (USA) (Disc 2).chd" sha1="0ec03a2f1ee86df5a3aab90bdf1d8e7b1b7020fb"/>
 		<ra_hash>69f68885d0d5f46597ca9a5da8e50c72</ra_hash>
 		<url>https://retroachievements.org/game/19070/hashes</url>
+	</machine>
+
+	<machine name="Star Trek - Conquest (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Star Trek - Conquest (USA)</description>
+		<release name="Star Trek - Conquest (USA)" region="USA"/>
+		<disk name="Star Trek - Conquest (USA).chd" sha1="0b4aabf6070472605d512c9f76d9c449134eca70"/>
+		<ra_hash>8fa0cf0976a994337cf885b355446f58</ra_hash>
+		<url>https://retroachievements.org/game/21129/hashes</url>
 	</machine>
 
 	<machine name="Star Trek - Voyager - Elite Force (USA)">
@@ -11549,6 +11687,19 @@
 		<url>https://retroachievements.org/game/21156/hashes</url>
 	</machine>
 
+	<machine name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)</description>
+		<release name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)" region="USA"/>
+		<release name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)" region="France"/>
+		<release name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)" region="Spain"/>
+		<release name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)" region="English"/>
+		<disk name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es).chd" sha1="b8626d6e9c807c5cba4684d8463096ebe37c6b19"/>
+		<ra_hash>ad3db3dd4a8e71dac6907c48a30f6f75</ra_hash>
+		<url>https://retroachievements.org/game/21160/hashes</url>
+	</machine>
+
 	<machine name="Tom Clancy's Splinter Cell (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -11580,6 +11731,16 @@
 		<disk name="Tony Hawk's American Wasteland (USA) (Collector's Edition).chd" sha1="817d26b86cb92170dcccefe55b94c029887d43a8"/>
 		<ra_hash>c4a52c17232234aecd4154f7e2603037</ra_hash>
 		<url>https://retroachievements.org/game/20637/hashes</url>
+	</machine>
+
+	<machine name="Tony Hawk's Downhill Jam (USA) (AntiCheat) (v1.0) (Prims)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Tony Hawk's Downhill Jam (USA) (AntiCheat) (v1.0) (Prims)</description>
+		<release name="Tony Hawk's Downhill Jam (USA) (AntiCheat) (v1.0) (Prims)" region="USA"/>
+		<disk name="Tony Hawk's Downhill Jam (USA) (AntiCheat) (v1.0) (Prims).chd" sha1="0d41c4ff36ac41a7c92306860c4fa5482b7d86a1"/>
+		<ra_hash>da8c2c798437f36def2bbd92c604f3ce</ra_hash>
+		<url>https://retroachievements.org/game/20650/hashes</url>
 	</machine>
 
 	<machine name="Tony Hawk's Pro Skater 3 (USA)">
@@ -12238,6 +12399,24 @@
 		<disk name="WRC - World Rally Championship (USA).chd" sha1="d220f802cd4c7752a3fb8b9e67b788984372b151"/>
 		<ra_hash>0f952b2b89545da5817c37001da9ecee</ra_hash>
 		<url>https://retroachievements.org/game/19275/hashes</url>
+	</machine>
+
+	<machine name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)</description>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Europe"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Australia"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="France"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Germany"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Italy"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Spain"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Portugal"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="Finland"/>
+		<release name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)" region="English"/>
+		<disk name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi).chd" sha1="73727a42fb90a0656bf305b219feeace249f6a77"/>
+		<ra_hash>64fc7003552f24a0b44e727022c7c6e8</ra_hash>
+		<url>https://retroachievements.org/game/26629/hashes</url>
 	</machine>
 
 	<machine name="WWE SmackDown vs. Raw 2007 (USA)">

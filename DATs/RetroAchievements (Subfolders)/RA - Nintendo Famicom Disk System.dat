@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Famicom Disk System</name>
 		<description>Nintendo Famicom Disk System</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/81-famicom-disk-system/games</url>
-		<titlecount>56</titlecount>
-		<hashcount>56</hashcount>
+		<titlecount>58</titlecount>
+		<hashcount>58</hashcount>
 	</header>
 
 	<game name="Retail/Smash Ping Pong/11 in 1 Ball Series (1992) (-) (AS) (p)">
@@ -243,6 +243,23 @@
 		<rom name="Fire Rock (Japan).fds" size="131000" crc="33B5B551" md5="0ba4a87a4920648109dd2d556f38827f" sha1="8fbc2ea7dd9fe79ef25511815dc0a154c4591c4b"/>
 		<ra_hash>0ba4a87a4920648109dd2d556f38827f</ra_hash>
 		<url>https://retroachievements.org/game/5862/hashes</url>
+	</game>
+
+	<game name="Retail/Fuuun Shourin Ken/Fuuun Shaolin Kyo (1987) (Jaleco)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Fuuun Shaolin Kyo (1987) (Jaleco)</description>
+		<rom name="Fuuun Shaolin Kyo (1987) (Jaleco).fds" size="131016" crc="6804DCD5" md5="0569408c8a032f142080694ca13c2fde" sha1="ef98e1fda655df37afa3e8760a91ba851b911e0c"/>
+		<ra_hash>d427e35917393f41f99819837fa2acca</ra_hash>
+		<url>https://retroachievements.org/game/5824/hashes</url>
+	</game>
+	<game name="Retail/Fuuun Shourin Ken/Fuuun Shourin Ken (Japan)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Fuuun Shourin Ken (Japan)</description>
+		<rom name="Fuuun Shourin Ken (Japan).fds" size="131000" crc="620E0D98" md5="094dec7f7c8a6b82a7660b34362ee8b0" sha1="b59dbf8fdf64e03ec508c40fc8cb59670a6dbf53"/>
+		<ra_hash>094dec7f7c8a6b82a7660b34362ee8b0</ra_hash>
+		<url>https://retroachievements.org/game/5824/hashes</url>
 	</game>
 
 	<game name="Retail/Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (En) (v1.0) (FCandChill)">

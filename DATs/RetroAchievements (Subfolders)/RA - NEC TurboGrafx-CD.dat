@@ -5,12 +5,12 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/76-pc-engine-cd-turbografx-cd/games</url>
-		<titlecount>81</titlecount>
-		<hashcount>87</hashcount>
+		<titlecount>82</titlecount>
+		<hashcount>88</hashcount>
 	</header>
 
 	<machine name="Retail/Advanced V.G. (Japan)">
@@ -91,6 +91,15 @@
 		<disk name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).chd" sha1="a00d3c5570d3a74b1a6d1c8fb2e1f01c79d2bb59"/>
 		<ra_hash>fe14d7bb1b96753954cc7cdab3577d00</ra_hash>
 		<url>https://retroachievements.org/game/18279/hashes</url>
+	</machine>
+
+	<machine name="Retail/Bomberman - Panic Bomber (Japan) (FAAT)">
+		<category></category>
+		<source>Redump</source>
+		<description>Bomberman - Panic Bomber (Japan) (FAAT)</description>
+		<disk name="Bomberman - Panic Bomber (Japan) (FAAT).chd" sha1="4deb946ada0b3176ebd4cb01798eb766af54577b"/>
+		<ra_hash>01a3d4ccc8cde476aeaaa2a814256813</ra_hash>
+		<url>https://retroachievements.org/game/13308/hashes</url>
 	</machine>
 
 	<machine name="Retail/Brandish (Japan)">

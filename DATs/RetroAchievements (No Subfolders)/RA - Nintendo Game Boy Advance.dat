@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260914</version>
+		<date>14 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/5-game-boy-advance/games</url>
-		<titlecount>1216</titlecount>
-		<hashcount>1216</hashcount>
+		<titlecount>1224</titlecount>
+		<hashcount>1224</hashcount>
 	</header>
 
 	<game name="007 - NightFire (USA, Europe) (En,Fr,De)">
@@ -513,6 +513,16 @@
 		<rom name="Azumanga Daiou Advance (Japan).gba" size="8388608" crc="216704F6" md5="34a82a7281e62fdf2051b95dc0df0488" sha1="95b266e8ecdae1938cd180f597e5f21cb86d8b96"/>
 		<ra_hash>34a82a7281e62fdf2051b95dc0df0488</ra_hash>
 		<url>https://retroachievements.org/game/6653/hashes</url>
+	</game>
+
+	<game name="Backyard Hockey (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Backyard Hockey (USA)</description>
+		<release name="Backyard Hockey (USA)" region="USA"/>
+		<rom name="Backyard Hockey (USA).gba" size="4194304" crc="3A8E31AF" md5="ce57edc0645572af5244e3e24b586133" sha1="4829aa329e21d9c4822c3df66426b59a7690baa4"/>
+		<ra_hash>ce57edc0645572af5244e3e24b586133</ra_hash>
+		<url>https://retroachievements.org/game/8185/hashes</url>
 	</game>
 
 	<game name="Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It)" cloneof="Baldur's Gate - Dark Alliance (USA)">
@@ -3546,6 +3556,16 @@
 		<rom name="FE8 - Storge (v1.22) (knabepricer).gba" size="20034916" crc="079106D8" md5="d004c8f14aceb1f861f7277ca3df5cc3" sha1="28ec1fd8f8450670286bcfacc0bf437272fddfb7"/>
 		<ra_hash>d004c8f14aceb1f861f7277ca3df5cc3</ra_hash>
 		<url>https://retroachievements.org/game/26633/hashes</url>
+	</game>
+
+	<game name="FE8 - The Hag in White (v2.4) (SaintRubenio)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>FE8 - The Hag in White (v2.4) (SaintRubenio)</description>
+		<release name="FE8 - The Hag in White (v2.4) (SaintRubenio)" region="World"/>
+		<rom name="FE8 - The Hag in White (v2.4) (SaintRubenio).gba" size="30010328" crc="7479D7E2" md5="6ea329996dc6f918137b4de21af84414" sha1="e4bce475b36dd5f2db18c6c4ef04f8e3a7bb70a4"/>
+		<ra_hash>6ea329996dc6f918137b4de21af84414</ra_hash>
+		<url>https://retroachievements.org/game/36943/hashes</url>
 	</game>
 
 	<game name="FE8 - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar)">
@@ -8270,6 +8290,16 @@
 		<url>https://retroachievements.org/game/17755/hashes</url>
 	</game>
 
+	<game name="Pink Panther - Pinkadelic Pursuit (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Pink Panther - Pinkadelic Pursuit (USA)</description>
+		<release name="Pink Panther - Pinkadelic Pursuit (USA)" region="USA"/>
+		<rom name="Pink Panther - Pinkadelic Pursuit (USA).gba" size="8388608" crc="1762A578" md5="ba7746952e87a2c85927fa691e7230dd" sha1="208c1bcf84856f1f2425cdc32abc10d618fca71d"/>
+		<ra_hash>ba7746952e87a2c85927fa691e7230dd</ra_hash>
+		<url>https://retroachievements.org/game/7029/hashes</url>
+	</game>
+
 	<game name="Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -8284,6 +8314,16 @@
 		<rom name="Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="D1A67BE8" md5="c13785f8c7f0342d4c96c294e600e338" sha1="3a11c76edaad8fa0845b7da55e8ed26e26e09883"/>
 		<ra_hash>c13785f8c7f0342d4c96c294e600e338</ra_hash>
 		<url>https://retroachievements.org/game/9284/hashes</url>
+	</game>
+
+	<game name="PixelPup">
+		<category>Homebrew</category>
+		<source>itchio</source>
+		<description>PixelPup</description>
+		<release name="PixelPup" region="World"/>
+		<rom name="PixelPup.gba" size="12061064" crc="77970C29" md5="78f5cc71299fdcc2815311d2b003454a" sha1="65f8566eb10edb033b86e204ecb28c47c8f5f321"/>
+		<ra_hash>78f5cc71299fdcc2815311d2b003454a</ra_hash>
+		<url>https://retroachievements.org/game/42809/hashes</url>
 	</game>
 
 	<game name="Play Novel - Silent Hill (Japan)" cloneof="Play Novel - Silent Hill (Japan) (En) (v0.1) (07151129)">
@@ -9223,6 +9263,16 @@
 		<url>https://retroachievements.org/game/4964/hashes</url>
 	</game>
 
+	<game name="Pokemon FireRed - No Center Challenge (v2.2) (Cnat)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Pokemon FireRed - No Center Challenge (v2.2) (Cnat)</description>
+		<release name="Pokemon FireRed - No Center Challenge (v2.2) (Cnat)" region="World"/>
+		<rom name="Pokemon FireRed - No Center Challenge (v2.2) (Cnat).gba" size="16777216" crc="89AD8E18" md5="795478d588bf9157209a7f2f0eac2a0b" sha1="1eb54c635851f0d10a6f847fe15ce9db32f9da5a"/>
+		<ra_hash>795478d588bf9157209a7f2f0eac2a0b</ra_hash>
+		<url>https://retroachievements.org/game/41205/hashes</url>
+	</game>
+
 	<game name="Pokemon FireRed - Orange Islands (Beta) (v5.7) (kalarie)">
 		<category>Hack</category>
 		<source>No-Intro, RAPatches</source>
@@ -9251,6 +9301,24 @@
 		<rom name="Pokemon FireRed - Pokemon Battle Ultimate (Final) (Oscar Brock, VerskrDark).gba" size="33554432" crc="82084ADD" md5="dab9c501b5f278fb1ec48a2b53615754" sha1="436a607878240b869f887bc0e499b6ce1d0531a2"/>
 		<ra_hash>dab9c501b5f278fb1ec48a2b53615754</ra_hash>
 		<url>https://retroachievements.org/game/30709/hashes</url>
+	</game>
+
+	<game name="Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches, pokecommunity</source>
+		<description>Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser)</description>
+		<release name="Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser)" region="World"/>
+		<rom name="Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser).gba" size="16777216" crc="D6EBE711" md5="b16d27ee00538824ad70cdbed976b763" sha1="d2440fd6bae5a12dfc3cecc129b9bbff22d74b2e"/>
+		<ra_hash>b16d27ee00538824ad70cdbed976b763</ra_hash>
+		<url>https://retroachievements.org/game/33298/hashes</url>
+	</game>
+	<game name="Pokemon FireRed - Pokemon Elysium (Part B) (v2.5) (BlackKaiser)" cloneof="Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser)">
+		<category>Hack</category>
+		<source>Unknown</source>
+		<description>Pokemon FireRed - Pokemon Elysium (Part B) (v2.5) (BlackKaiser)</description>
+		<rom name="Pokemon FireRed - Pokemon Elysium (Part B) (v2.5) (BlackKaiser).gba" size="16777216" crc="A4A76614" md5="fdec9ab03f8c165872ad22ba2277fce2" sha1="71bf40178a1f5c69dc1c22099623434ba1e74318"/>
+		<ra_hash>fdec9ab03f8c165872ad22ba2277fce2</ra_hash>
+		<url>https://retroachievements.org/game/33298/hashes</url>
 	</game>
 
 	<game name="Pokemon FireRed - Pokemon Odyssey (v4.0.0) (Yggdrasil Project)" cloneof="Pokemon FireRed - Pokemon Odyssey (v4.1.1) (Yggdrasil Project)">
@@ -10711,6 +10779,16 @@
 		<rom name="SMA2 - Yet Another Vanilla SMA2 Hack (v1.1) (Gamer Hedgehog).gba" size="4194304" crc="7C3CD878" md5="2a61c47153fae98c6d6dfc1cf2a840e8" sha1="8a3e6345e12c7cad028ffbfce7b0f3dd6595462a"/>
 		<ra_hash>2a61c47153fae98c6d6dfc1cf2a840e8</ra_hash>
 		<url>https://retroachievements.org/game/33610/hashes</url>
+	</game>
+
+	<game name="SMA2-SMW - Just What Do I Need (v1.2) (GbreezeSunset)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMA2-SMW - Just What Do I Need (v1.2) (GbreezeSunset)</description>
+		<release name="SMA2-SMW - Just What Do I Need (v1.2) (GbreezeSunset)" region="World"/>
+		<rom name="SMA2-SMW - Just What Do I Need (v1.2) (GbreezeSunset).gba" size="4194304" crc="7957D87F" md5="f51a5bf40e073469bcc146dce2c065f4" sha1="374ab4f247c7cbf009a0f9730e8a40c96786df24"/>
+		<ra_hash>f51a5bf40e073469bcc146dce2c065f4</ra_hash>
+		<url>https://retroachievements.org/game/26383/hashes</url>
 	</game>
 
 	<game name="Smashing Drive (Europe) (En,Fr,De,Es,It)">

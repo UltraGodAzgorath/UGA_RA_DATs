@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/29-microsoft-msx/games</url>
 		<titlecount>209</titlecount>
@@ -309,7 +309,7 @@
 	</game>
 
 	<game name="Retail/Castle Excellent/Castle Excellent (Japan)">
-		<category></category>
+		<category>MSX</category>
 		<source>No-Intro</source>
 		<description>Castle Excellent (Japan)</description>
 		<rom name="Castle Excellent (Japan).rom" size="32768" crc="90F38029" md5="0d17cff46c7d26c08fc65671f8761b40" sha1="811dca8fc14a2b00f503fbef74fdeae4f2873d4c"/>
@@ -317,7 +317,7 @@
 		<url>https://retroachievements.org/game/33462/hashes</url>
 	</game>
 	<game name="Retail/Castle Excellent/Castle Excellent (Japan) (Alt)">
-		<category></category>
+		<category>MSX</category>
 		<source>No-Intro</source>
 		<description>Castle Excellent (Japan) (Alt)</description>
 		<rom name="Castle Excellent (Japan) (Alt).rom" size="32768" crc="3794A648" md5="a80048433a4863f8d92ef9082cba7837" sha1="d55e9e237504bc6444c6b62894bf88292150042a"/>
@@ -571,7 +571,7 @@
 	</game>
 
 	<game name="Retail/Gojira-kun (Japan)">
-		<category></category>
+		<category>MSX</category>
 		<source>No-Intro</source>
 		<description>Gojira-kun (Japan)</description>
 		<rom name="Gojira-kun (Japan).rom" size="32768" crc="ED4A211D" md5="4724699f410fa266a6bcb223ee8c99fc" sha1="d6b6cb3d85b991f8adf2e07a0e8e74b586741d12"/>
@@ -819,7 +819,7 @@
 	</game>
 
 	<game name="Retail/M36 - A Life Planet/M36 - A Life Planet (Japan)">
-		<category></category>
+		<category>MSX2</category>
 		<source>No-Intro</source>
 		<description>M36 - A Life Planet (Japan)</description>
 		<rom name="M36 - A Life Planet (Japan).rom" size="131072" crc="FA8F9BBC" md5="ee9fe57e172b4e734847b95cdb57e9d5" sha1="6bde4e6761286a2909858ecef04155e17072996e"/>
@@ -827,7 +827,7 @@
 		<url>https://retroachievements.org/game/4016/hashes</url>
 	</game>
 	<game name="Retail/M36 - A Life Planet/M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz)">
-		<category></category>
+		<category>MSX2</category>
 		<source>No-Intro, RAPatches</source>
 		<description>M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz)</description>
 		<rom name="M36 - A Life Planet (Japan) (En) (v1.2) (Bug Fix,New Font) (Hubz).rom" size="131072" crc="015DA0A4" md5="74d9cae80d15ae5d02ee32893d195ac0" sha1="47779c38c2d7e3e4fe1fc168229fe63352d763f3"/>
@@ -845,7 +845,7 @@
 	</game>
 
 	<game name="Homebrew/Magical Boco (2024) (meichnpp)">
-		<category></category>
+		<category>MSX</category>
 		<source>Lost Level Archive</source>
 		<description>Magical Boco (2024) (meichnpp)</description>
 		<rom name="Magical Boco (2024) (meichnpp).dsk" size="737280" crc="361C3CFA" md5="6309b4f93b799f0464ad0f13c81dd426" sha1="1937df260f3617c4572183efb5eda6f493699fcb"/>
@@ -1541,7 +1541,7 @@
 	</game>
 
 	<game name="Homebrew/Sorcerer Kid Adventure (2024) (v1.02) (Vidaextraretro)">
-		<category></category>
+		<category>MSX</category>
 		<source>itchio, Lost Level Archive</source>
 		<description>Sorcerer Kid Adventure (2024) (v1.02) (Vidaextraretro)</description>
 		<rom name="Sorcerer Kid Adventure (2024) (v1.02) (Vidaextraretro).rom" size="49152" crc="52747ABB" md5="068a853a664c81d95576f53c85ce4464" sha1="b89c846d4330c8ecb89270f88a7ff1b3ac5e4eeb"/>
@@ -1664,7 +1664,7 @@
 	</game>
 
 	<game name="Retail/Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP)">
-		<category></category>
+		<category>MSX</category>
 		<source>TOSEC</source>
 		<description>Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP)</description>
 		<rom name="Takahasi Meijin no Boukenjima. Wonder Boy (1986) (Hudson Soft) (JP).dsk" size="737280" crc="C9C9E404" md5="363ed5de9bd5d701d122c770d473e6c8" sha1="7a3f9b86274f0a11cc4efabf28b8ca122632d695"/>

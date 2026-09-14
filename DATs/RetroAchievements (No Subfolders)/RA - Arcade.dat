@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/27-arcade/games</url>
-		<titlecount>529</titlecount>
-		<hashcount>778</hashcount>
+		<titlecount>535</titlecount>
+		<hashcount>785</hashcount>
 	</header>
 
 	<game name="captcomm">
@@ -4270,6 +4270,30 @@
 		<driver status="good"/>
 		<ra_hash>a452dd6aa39265d21240ca1718cd96f8</ra_hash>
 		<url>https://retroachievements.org/game/11870/hashes</url>
+	</game>
+
+	<game name="outzone">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Out Zone</description>
+		<release name="outzone" region="World"/>
+		<year>1990</year>
+		<manufacturer>Toaplan</manufacturer>
+		<rom name="tp_018_08.6f" size="131072" crc="127a38d7"/>
+		<rom name="tp_018_07.6f" size="131072" crc="9704db16"/>
+		<rom name="tp_018_09.3j" size="32768" crc="73d8e235"/>
+		<rom name="tp-018_rom5.19h" size="524288" crc="c64ec7b6"/>
+		<rom name="tp-018_rom6.22h" size="524288" crc="64b6c5ac"/>
+		<rom name="tp-018_rom2.1c" size="131072" crc="6bb72d16"/>
+		<rom name="tp-018_rom1.1e" size="131072" crc="0934782d"/>
+		<rom name="tp-018_rom3.1d" size="131072" crc="ec903c07"/>
+		<rom name="tp-018_rom4.1b" size="131072" crc="50cbf1a8"/>
+		<rom name="tp018_10.rom10.18a" size="32" crc="bc88cced"/>
+		<rom name="tp018_11.rom11.22c" size="32" crc="a1e17492"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<ra_hash>fbd2c46eee483945592ef763041cbd39</ra_hash>
+		<url>https://retroachievements.org/game/11873/hashes</url>
 	</game>
 
 	<game name="osman">
@@ -14940,6 +14964,55 @@
 		<url>https://retroachievements.org/game/12452/hashes</url>
 	</game>
 
+	<game name="boxyboy">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Boxy Boy (World, SB2)</description>
+		<release name="boxyboy" region="World"/>
+		<year>1990</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="sb1_snd0.bin" size="65536" crc="bf46a106"/>
+		<rom name="sb1_prg0.bin" size="131072" crc="8af8cb73"/>
+		<rom name="sb1_prg1.bin" size="131072" crc="5d1fdd94"/>
+		<rom name="sb2_prg7.bin" size="65536" crc="f570301b"/>
+		<rom name="cus64-64a1.mcu" size="4096" crc="ffb5c0bd"/>
+		<rom name="sb1_voi0.bin" size="65536" crc="63d9cedf"/>
+		<rom name="sb1_chr8.bin" size="65536" crc="5692b297"/>
+		<rom name="sb1_chr0.bin" size="131072" crc="267f1331"/>
+		<rom name="sb1_chr1.bin" size="131072" crc="e5ff61ad"/>
+		<rom name="sb1_chr2.bin" size="131072" crc="099b746b"/>
+		<rom name="sb1_chr3.bin" size="131072" crc="1551bb7c"/>
+		<rom name="sb1_obj0.bin" size="65536" crc="ed810da4"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>ced46190ef09156deaa2e11f7bd0e09a</ra_hash>
+		<url>https://retroachievements.org/game/12461/hashes</url>
+	</game>
+	<game name="soukobdx" cloneof="boxyboy">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Souko Ban Deluxe (Japan, SB1)</description>
+		<release name="soukobdx" region="Japan"/>
+		<year>1990</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="sb1_snd0.bin" size="65536" crc="bf46a106"/>
+		<rom name="sb1_prg0.bin" size="131072" crc="8af8cb73"/>
+		<rom name="sb1_prg1.bin" size="131072" crc="5d1fdd94"/>
+		<rom name="sb1_prg7.bin" size="65536" crc="c3bd418a"/>
+		<rom name="cus64-64a1.mcu" size="4096" crc="ffb5c0bd"/>
+		<rom name="sb1_voi0.bin" size="65536" crc="63d9cedf"/>
+		<rom name="sb1_chr8.bin" size="65536" crc="5692b297"/>
+		<rom name="sb1_chr0.bin" size="131072" crc="267f1331"/>
+		<rom name="sb1_chr1.bin" size="131072" crc="e5ff61ad"/>
+		<rom name="sb1_chr2.bin" size="131072" crc="099b746b"/>
+		<rom name="sb1_chr3.bin" size="131072" crc="1551bb7c"/>
+		<rom name="sb1_obj0.bin" size="65536" crc="ed810da4"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>ce864032315862b02e58e9450306dbf0</ra_hash>
+		<url>https://retroachievements.org/game/12461/hashes</url>
+	</game>
+
 	<game name="hopmappy">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -18601,6 +18674,34 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 	</game>
 
+	<game name="pbillrd">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Perfect Billiard</description>
+		<release name="pbillrd" region="World"/>
+		<year>1987</year>
+		<manufacturer>Nihon System (United Artists license)</manufacturer>
+		<rom name="pb.18" size="16384" crc="9e6275ac"/>
+		<rom name="pb.7" size="32768" crc="dd438431"/>
+		<rom name="pb.9" size="16384" crc="089ce80a"/>
+		<rom name="pb.4" size="16384" crc="2f4d4dd3"/>
+		<rom name="pb.5" size="16384" crc="9dfccbd3"/>
+		<rom name="pb.6" size="16384" crc="b5c3f6f6"/>
+		<rom name="10619.3r" size="8192" crc="3296b9d9"/>
+		<rom name="10621.3m" size="8192" crc="3dca8e4b"/>
+		<rom name="10620.3n" size="8192" crc="ee76b079"/>
+		<rom name="82s129.3a" size="256" crc="44802169"/>
+		<rom name="82s129.4d" size="256" crc="69ca07cc"/>
+		<rom name="82s129.4a" size="256" crc="145f950a"/>
+		<rom name="82s129.3d" size="256" crc="43d24e17"/>
+		<rom name="82s129.3b" size="256" crc="7fdc872c"/>
+		<rom name="82s129.3c" size="256" crc="cc1657e5"/>
+		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>9348ab0688f662882f384d7d45bd7730</ra_hash>
+		<url>https://retroachievements.org/game/13276/hashes</url>
+	</game>
+
 	<game name="fghthist">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -22114,6 +22215,37 @@
 		<driver status="good"/>
 		<ra_hash>8a25e9d131f5acb2849981878e5df7ad</ra_hash>
 		<url>https://retroachievements.org/game/14890/hashes</url>
+	</game>
+
+	<game name="kov2">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)</description>
+		<release name="kov2" region="World"/>
+		<year>2000</year>
+		<manufacturer>IGS</manufacturer>
+		<rom name="v107_u18.u18" size="4194304" crc="661a5b2c"/>
+		<rom name="pgm_t1200.u27" size="8388608" crc="d7e26609"/>
+		<rom name="pgm_a1200.u1" size="8388608" crc="ceeb81d8"/>
+		<rom name="pgm_a1201.u4" size="8388608" crc="21063ca7"/>
+		<rom name="pgm_a1202.u6" size="8388608" crc="4bb92fae"/>
+		<rom name="pgm_a1203.u8" size="8388608" crc="e73cb627"/>
+		<rom name="pgm_a1204.u10" size="2097152" crc="14b4b5bb"/>
+		<rom name="pgm_b1200.u5" size="8388608" crc="bed7d994"/>
+		<rom name="pgm_b1201.u7" size="8388608" crc="f251eb57"/>
+		<rom name="pgm_m1200.u3" size="8388608" crc="b0d88720"/>
+		<rom name="kov2_v100_hongkong.asic" size="16384" crc="e0d7679f"/>
+		<rom name="v102_u19.u19" size="2097152" crc="462e2980"/>
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0"/>
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159"/>
+		<rom name="pgm_p01s.u20" size="131072" crc="e42b166e"/>
+		<rom name="pgm_p02s.u20" size="131072" crc="78c15fa2"/>
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f"/>
+		<rom name="bios.u42" size="131072" crc="517cf7a2"/>
+		<video type="raster" orientation="horizontal" width="448" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>87ca6ae89b1fb54735da2a19db96ea78</ra_hash>
+		<url>https://retroachievements.org/game/14893/hashes</url>
 	</game>
 
 	<game name="mk">
@@ -27844,6 +27976,32 @@
 		<url>https://retroachievements.org/game/28669/hashes</url>
 	</game>
 
+	<game name="numanath">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Numan Athletics (World)</description>
+		<release name="numanath" region="World"/>
+		<year>1993</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="nm2-ep0l.6c" size="524288" crc="f24414bb"/>
+		<rom name="nm2-ep0u.6f" size="524288" crc="25c41616"/>
+		<rom name="nm1-ep1l.7c" size="524288" crc="4581dcb4"/>
+		<rom name="nm1-ep1u.7f" size="524288" crc="30cd589a"/>
+		<rom name="nm1-ma0l.2c" size="1048576" crc="20faaa57"/>
+		<rom name="nm1-ma0u.2f" size="1048576" crc="ed7c37f2"/>
+		<rom name="nm1-ma1l.3c" size="1048576" crc="2232e3b4"/>
+		<rom name="nm1-ma1u.3f" size="1048576" crc="6cc9675c"/>
+		<rom name="nm1-ma2l.4c" size="1048576" crc="208abb39"/>
+		<rom name="nm1-ma2u.4f" size="1048576" crc="03a3f204"/>
+		<rom name="nm1-ma3l.5c" size="1048576" crc="42a539e9"/>
+		<rom name="nm1-ma3u.5f" size="1048576" crc="f79e2112"/>
+		<rom name="c70.bin" size="16384" crc="b4015f23"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>fc8117c3f262a6a55e4c09b08ece7b04</ra_hash>
+		<url>https://retroachievements.org/game/28685/hashes</url>
+	</game>
+
 	<game name="machbrkr">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -27983,6 +28141,44 @@
 		<driver status="good"/>
 		<ra_hash>36140d3035760c6f82a0bbd0a31f6f4a</ra_hash>
 		<url>https://retroachievements.org/game/28949/hashes</url>
+	</game>
+
+	<game name="maxspeed">
+		<category>Retail</category>
+		<source>mamesl</source>
+		<description>Maximum Speed</description>
+		<release name="maxspeed" region="World"/>
+		<year>2003</year>
+		<manufacturer>SIMS / Sammy</manufacturer>
+		<biosset name="bios0" description="Sammy BIOS"/>
+		<biosset name="bios1" description="Sega BIOS"/>
+		<rom name="ax0501m01.ic11" size="16777216" crc="4a847a59" sha1="7808bcd357b85861082b426dbe34a20ae7016f6a"/>
+		<rom name="ax0501p01.ic18" size="8388608" crc="e1651867" sha1="49caf82f4b111da312b14bb0a9c31e3732b4b24e"/>
+		<rom name="ax0502m01.ic12" size="16777216" crc="2580237f" sha1="2e92c940f95edae33d6a7e8a071544a9083a0fd6"/>
+		<rom name="ax0503m01.ic13" size="16777216" crc="e5a3766b" sha1="1fe6e072adad27ac43c0bff04e3c448678aabc18"/>
+		<rom name="ax0504m01.ic14" size="16777216" crc="7955b55a" sha1="927f58d6961e702c2a8afce79bac5e5cff3dfed6"/>
+		<rom name="ax0505m01.ic15" size="16777216" crc="e8ccc660" sha1="a5f414f200a0d41e958430d0fc2d4e1fda1cc67c"/>
+		<rom name="bios0.ic23" size="131072" crc="719b2b0b" sha1="b4c1a26bc8906d5275eb28c701dff2b9365bcdfa"/>
+		<rom name="bios1.ic23" size="131072" crc="d3e80a9f" sha1="33024f9d51c04884c2b44ce146f340e7a857b959"/>
+		<rom name="fpr-24363.ic48" size="524288" crc="82a105f0" sha1="5128fe2ddcced77332bdcab691c09958051fa564"/>
+		<device_ref name="sh7091"/>
+		<device_ref name="timer"/>
+		<device_ref name="dc_g2if"/>
+		<device_ref name="arm7_le"/>
+		<device_ref name="maple_dc"/>
+		<device_ref name="screen"/>
+		<device_ref name="powervr2"/>
+		<device_ref name="speaker"/>
+		<device_ref name="aica"/>
+		<device_ref name="aicartc"/>
+		<device_ref name="macronix_29l001mc"/>
+		<device_ref name="aw_rom_board"/>
+		<device_ref name="nvram"/>
+		<device_ref name="dcctrl"/>
+		<device_ref name="dcctrl"/>
+		<driver status="preliminary"/>
+		<ra_hash>89cf9beeb9ea18529e4bd86703ab5392</ra_hash>
+		<url>https://retroachievements.org/game/29590/hashes</url>
 	</game>
 
 	<game name="waidrive">

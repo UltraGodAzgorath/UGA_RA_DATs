@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>265</titlecount>
-		<hashcount>287</hashcount>
+		<titlecount>272</titlecount>
+		<hashcount>294</hashcount>
 	</header>
 
 	<game name="1080 Avalanche (USA)">
@@ -2045,6 +2045,16 @@
 		<url>https://retroachievements.org/game/15543/hashes</url>
 	</game>
 
+	<game name="Smashing Drive (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Smashing Drive (USA)</description>
+		<release name="Smashing Drive (USA)" region="USA"/>
+		<rom name="Smashing Drive (USA).rvz" size="109114152" crc="5B0448CF" md5="b78988107d31d7900d8d1f4201de0564" sha1="640686825eb1053932f79a2d33802cfba51933f2"/>
+		<ra_hash>c30e6bfe55b9296271b9be1e2fe8547a</ra_hash>
+		<url>https://retroachievements.org/game/30565/hashes</url>
+	</game>
+
 	<game name="SMB2 - Super Monkey Ball 349 (v1.0) (scrap651)">
 		<category>Hack</category>
 		<source>Redump, RAPatches</source>
@@ -2083,6 +2093,16 @@
 		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).rvz" size="587675120" crc="B4D798F9" md5="53ec6e2da09406991aeb0a63134e9f12" sha1="e3b95d7695346113e9400132213fcab6c4f70d13"/>
 		<ra_hash>24ab3dda91dd1a156ca68942f44c15d4</ra_hash>
 		<url>https://retroachievements.org/game/28854/hashes</url>
+	</game>
+
+	<game name="SMS - Super Mario Sunshine Randomizer (v0.3.6 Beta) (TheAzack9)">
+		<category>Hack</category>
+		<source>Redump, github, RAPatches</source>
+		<description>SMS - Super Mario Sunshine Randomizer (v0.3.6 Beta) (TheAzack9)</description>
+		<release name="SMS - Super Mario Sunshine Randomizer (v0.3.6 Beta) (TheAzack9)" region="World"/>
+		<rom name="SMS - Super Mario Sunshine Randomizer (v0.3.6 Beta) (TheAzack9).rvz" size="1052373280" crc="C3B8E9CE" md5="96633238b290bc2207607f6ce8ea397d" sha1="d369f70b104cd01d94e103ea39769023fbcffd49"/>
+		<ra_hash>b538207a641cdcd941b224abdbeb642e</ra_hash>
+		<url>https://retroachievements.org/game/38415/hashes</url>
 	</game>
 
 	<game name="Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)">
@@ -2517,6 +2537,16 @@
 		<url>https://retroachievements.org/game/6253/hashes</url>
 	</game>
 
+	<game name="Super Monkey Ball 2 - 651 (v1.1) (scrap651)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>Super Monkey Ball 2 - 651 (v1.1) (scrap651)</description>
+		<release name="Super Monkey Ball 2 - 651 (v1.1) (scrap651)" region="World"/>
+		<rom name="Super Monkey Ball 2 - 651 (v1.1) (scrap651).rvz" size="684529168" crc="AC218903" md5="39367da997cf91403620a78b9b5da018" sha1="8dc65b803706d11c6e9a60cb46914569ddfd8286"/>
+		<ra_hash>c293ee37a703fa58aad009b7cd37dfc6</ra_hash>
+		<url>https://retroachievements.org/game/38001/hashes</url>
+	</game>
+
 	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
 		<category>Hack</category>
 		<source>Lost Level Archive</source>
@@ -2535,6 +2565,16 @@
 		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).rvz" size="753696108" crc="A1B95ECA" md5="f3410d26f7f9402aa4d805dbf48f69ef" sha1="a06befa370b80e2e1926fb8dc8c24b9081694172"/>
 		<ra_hash>0b4fb1873f47b173590d679796c9948c</ra_hash>
 		<url>https://retroachievements.org/game/31185/hashes</url>
+	</game>
+
+	<game name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)">
+		<category>Hack</category>
+		<source>Lost Level Archive</source>
+		<description>Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)</description>
+		<release name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)" region="World"/>
+		<rom name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie).rvz" size="701661512" crc="5FC4E1BF" md5="4634923e9f134beddd3dd25cc8760df9" sha1="eb5496d4f45db69782ebadd727ddf4c472a824bc"/>
+		<ra_hash>00e8cfb13af4dc36d767566df85037b4</ra_hash>
+		<url>https://retroachievements.org/game/37997/hashes</url>
 	</game>
 
 	<game name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)">
@@ -2661,6 +2701,30 @@
 		<rom name="Turok - Evolution (USA).rvz" size="758208068" crc="537238C8" md5="cd7f869a3103d374fd62f3dde6d5ad56" sha1="cc6094025beb1d855533e9cd4eb65fa09cc084fa"/>
 		<ra_hash>72b6bebe0cd522ef10af08c0513e786c</ra_hash>
 		<url>https://retroachievements.org/game/25484/hashes</url>
+	</game>
+
+	<game name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" cloneof="TY the Tasmanian Tiger (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)</description>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It).rvz" size="1048832096" crc="727AE32A" md5="85844a7b3171d57fa4dd6321df3fdc2f" sha1="2226a4d18c63032f7ffb531552ad5966bebe6530"/>
+		<ra_hash>5cfd78bf4dca7e4efb7f48cde09784e1</ra_hash>
+		<url>https://retroachievements.org/game/7042/hashes</url>
+	</game>
+	<game name="TY the Tasmanian Tiger (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>TY the Tasmanian Tiger (USA)</description>
+		<release name="TY the Tasmanian Tiger (USA)" region="USA"/>
+		<rom name="TY the Tasmanian Tiger (USA).rvz" size="1024666780" crc="42EA1BF8" md5="d7e420e8840eab06edfe6d45478000b5" sha1="482bdd08e3828286153f22f539ac137a8762176d"/>
+		<ra_hash>a3a0e5c27f2fb916c6bc6865f49522cb</ra_hash>
+		<url>https://retroachievements.org/game/7042/hashes</url>
 	</game>
 
 	<game name="Ultimate Muscle - Legends vs. New Generation (USA)" cloneof="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)">
@@ -2805,5 +2869,15 @@
 		<rom name="Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic).rvz" size="394528012" crc="BEBA4573" md5="42a4a0e5c1df1061f622621e7749adaa" sha1="110f7889d71563de07643357643bf28863768113"/>
 		<ra_hash>1f588974615840ad9a82b69735aecdfd</ra_hash>
 		<url>https://retroachievements.org/game/30281/hashes</url>
+	</game>
+
+	<game name="Zoids - Battle Legends (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Zoids - Battle Legends (USA)</description>
+		<release name="Zoids - Battle Legends (USA)" region="USA"/>
+		<rom name="Zoids - Battle Legends (USA).rvz" size="348594624" crc="2F6859E4" md5="03455e4846c20ffeacbc1d99cf2d6cf2" sha1="61456cb14e5c73f67b35762829eed728f4132a9c"/>
+		<ra_hash>57f99a3501f472248926d7715153fead</ra_hash>
+		<url>https://retroachievements.org/game/30277/hashes</url>
 	</game>
 </datafile>

@@ -5,12 +5,12 @@
 		<name>RA - Mattel Intellivision</name>
 		<description>Mattel Intellivision</description>
 		<category>Subfolders</category>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/45-intellivision/games</url>
-		<titlecount>42</titlecount>
-		<hashcount>42</hashcount>
+		<titlecount>43</titlecount>
+		<hashcount>43</hashcount>
 	</header>
 
 	<game name="Homebrew/4-Tris (World) (Aftermarket) (Unl)">
@@ -335,6 +335,15 @@
 		<rom name="Slap Shot - Super Pro Hockey (USA).int" size="16384" crc="BA68FF28" md5="5ec328d358ff8c9664e4ab1deaa89f80" sha1="35e27d918cad45129fcc3924fbb4f2fef8f31776"/>
 		<ra_hash>5ec328d358ff8c9664e4ab1deaa89f80</ra_hash>
 		<url>https://retroachievements.org/game/27237/hashes</url>
+	</game>
+
+	<game name="Retail/Star Wars - The Empire Strikes Back (USA, Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Star Wars - The Empire Strikes Back (USA, Europe)</description>
+		<rom name="Star Wars - The Empire Strikes Back (USA, Europe).int" size="8192" crc="D5B0135A" md5="13478528a31d1092ba1b19a8e9626ff3" sha1="b2995abe45c57e85c36927ba82c428bfbe06cb70"/>
+		<ra_hash>13478528a31d1092ba1b19a8e9626ff3</ra_hash>
+		<url>https://retroachievements.org/game/38860/hashes</url>
 	</game>
 
 	<game name="Homebrew/Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">

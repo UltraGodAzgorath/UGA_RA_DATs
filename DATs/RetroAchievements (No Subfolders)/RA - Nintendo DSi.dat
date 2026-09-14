@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/78-nintendo-dsi/games</url>
-		<titlecount>77</titlecount>
-		<hashcount>77</hashcount>
+		<titlecount>78</titlecount>
+		<hashcount>78</hashcount>
 	</header>
 
 	<game name="1001 Blockbusters (Europe)">
@@ -433,6 +433,17 @@
 		<rom name="Game &amp; Watch - Manhole (USA, Europe).nds" size="1697792" crc="558C0829" md5="5e09c25539a3eb9a6ecba33806beebfc" sha1="feed99bfc504345bba80484b40fb55744f7324d2"/>
 		<ra_hash>a98bd543991cf386dde97adf215f64cb</ra_hash>
 		<url>https://retroachievements.org/game/26329/hashes</url>
+	</game>
+
+	<game name="Game &amp; Watch - Mario's Cement Factory (USA, Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Game &amp; Watch - Mario's Cement Factory (USA, Europe)</description>
+		<release name="Game &amp; Watch - Mario's Cement Factory (USA, Europe)" region="USA"/>
+		<release name="Game &amp; Watch - Mario's Cement Factory (USA, Europe)" region="Europe"/>
+		<rom name="Game &amp; Watch - Mario's Cement Factory (USA, Europe).nds" size="1750016" crc="E0533A2F" md5="fce41d85502ddaf7276d34b7c38d5acf" sha1="ae9dc2c076d417a1862f7e4ac406ba67027b7f41"/>
+		<ra_hash>1b3c7e59ed909a26503c3f1e7f5fb358</ra_hash>
+		<url>https://retroachievements.org/game/22436/hashes</url>
 	</game>
 
 	<game name="Game &amp; Watch - Vermin (USA, Europe)">

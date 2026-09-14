@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
-		<version>20260814</version>
-		<date>14 August 2026</date>
+		<version>20260913</version>
+		<date>13 September 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
-		<titlecount>173</titlecount>
-		<hashcount>225</hashcount>
+		<titlecount>176</titlecount>
+		<hashcount>228</hashcount>
 	</header>
 
 	<machine name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)" cloneof="18 Wheeler - American Pro Trucker (USA)">
@@ -935,6 +935,16 @@
 		<url>https://retroachievements.org/game/3751/hashes</url>
 	</machine>
 
+	<machine name="Marvel vs. Capcom - Clash of Super Heroes (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Marvel vs. Capcom - Clash of Super Heroes (USA)</description>
+		<release name="Marvel vs. Capcom - Clash of Super Heroes (USA)" region="USA"/>
+		<disk name="Marvel vs. Capcom - Clash of Super Heroes (USA).chd" sha1="64549a43b6d512a7f34bbb1bda9dfecabc335cd5"/>
+		<ra_hash>a98d45b342e1eb74cb594eeb57b4f34d</ra_hash>
+		<url>https://retroachievements.org/game/3867/hashes</url>
+	</machine>
+
 	<machine name="Marvel vs. Capcom 2 (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -1122,6 +1132,16 @@
 		<disk name="Project Justice (USA).chd" sha1="a8033087e56d92474696fb617ab20c4315762e4f"/>
 		<ra_hash>04dae242a45f1e4e892df42fe1e44fb8</ra_hash>
 		<url>https://retroachievements.org/game/8302/hashes</url>
+	</machine>
+
+	<machine name="Propeller Arena (USA) (Proto)">
+		<category>Prototype</category>
+		<source>Redump</source>
+		<description>Propeller Arena (USA) (Proto)</description>
+		<release name="Propeller Arena (USA) (Proto)" region="USA"/>
+		<disk name="Propeller Arena (USA) (Proto).chd" sha1="59b16e33a42863cdaf83af2213aa06e3cb91be83"/>
+		<ra_hash>c83ed55939055b0d211cbb9a3439d3d1</ra_hash>
+		<url>https://retroachievements.org/game/17779/hashes</url>
 	</machine>
 
 	<machine name="Puyo Puyo Da! Featuring Ellena System (Japan)">
@@ -1581,7 +1601,7 @@
 	</machine>
 
 	<machine name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype)">
-		<category>Retail</category>
+		<category>Demo</category>
 		<source>Lost Level Archive</source>
 		<description>Sonic Adventure Tournament Disk (1999-08-10) (Prototype)</description>
 		<release name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype)" region="World"/>
@@ -1754,6 +1774,19 @@
 		<disk name="Tech Romancer (USA).chd" sha1="21215f1d4364f4e1ebb60036766854aab502f775"/>
 		<ra_hash>2103e231be2ea211a5330b9b4865a97c</ra_hash>
 		<url>https://retroachievements.org/game/307/hashes</url>
+	</machine>
+
+	<machine name="Test Drive V-Rally (USA) (En,Fr,De)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Test Drive V-Rally (USA) (En,Fr,De)</description>
+		<release name="Test Drive V-Rally (USA) (En,Fr,De)" region="USA"/>
+		<release name="Test Drive V-Rally (USA) (En,Fr,De)" region="English"/>
+		<release name="Test Drive V-Rally (USA) (En,Fr,De)" region="France"/>
+		<release name="Test Drive V-Rally (USA) (En,Fr,De)" region="Germany"/>
+		<disk name="Test Drive V-Rally (USA) (En,Fr,De).chd" sha1="d1a0e61f16eb16303ef4bd6bb40095f389e24d12"/>
+		<ra_hash>67da9236ebb8ac7c0f19819c70600d0d</ra_hash>
+		<url>https://retroachievements.org/game/19155/hashes</url>
 	</machine>
 
 	<machine name="Tokyo Xtreme Racer (USA)">
