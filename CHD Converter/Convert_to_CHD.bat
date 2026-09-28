@@ -8,7 +8,7 @@ rem Put this BAT beside chdman.exe.
 rem Put ROMs inside the matching system folders.
 rem
 rem Compatibility-first defaults:
-rem - 3DO, NEC PC-FX, and NEC TurboGrafx-CD use default CHD compression.
+rem - 3DO, NEC PC-FX, NEC TurboGrafx-CD, and SNK Neo Geo CD use default CHD compression.
 rem - All other CHD-compatible RA folders here use ZSTD.
 rem - CD ZSTD uses cdzs,cdzl,cdfl. DVD ZSTD uses zstd,zlib,huff,flac.
 rem - PS2 uses one folder: .cue = createcd ZSTD, .iso = createdvd ZSTD.
@@ -82,10 +82,12 @@ echo 4 - Fix wrong CHD compression for all systems
 echo 5 - Fix wrong CHD compression for one selected system
 echo 6 - Show folder/method list
 echo 7 - Verify chdman.exe
-echo 8 - Exit
+echo 8 - Convert existing ZSTD CHD to standard CHD
+echo 9 - Exit
 echo.
-choice /C 12345678 /N /M "Choose an option: "
-if errorlevel 8 goto End
+choice /C 123456789 /N /M "Choose an option: "
+if errorlevel 9 goto End
+if errorlevel 8 goto ConvertZstdToStandardMenu
 if errorlevel 7 goto VerifyCHDMan
 if errorlevel 6 goto ShowMethods
 if errorlevel 5 goto FixOneSystemMenu
@@ -108,6 +110,22 @@ call :ReadInstantSystemChoice "Choose a system: "
 call :ResolveSystemChoice
 if not defined SELECTED_SYSTEM goto MainMenu
 goto ConvertSelectedSystem
+
+:ConvertZstdToStandardMenu
+cls
+echo ============================================================
+echo Convert Existing ZSTD CHD to Standard CHD
+echo ============================================================
+echo.
+echo This replaces ZSTD CHDs with standard/default-compressed CHDs.
+echo The original ZSTD CHD is kept as a backup after success.
+echo.
+call :PrintSystemMenu
+call :ReadInstantSystemChoice "Choose a system: "
+call :ResolveSystemChoice
+if not defined SELECTED_SYSTEM goto MainMenu
+call :ConvertSystemZstdToStandard "%SELECTED_SYSTEM%"
+goto MainMenu
 
 :FixOneSystemMenu
 cls
@@ -190,12 +208,12 @@ echo DEFAULT/STANDARD createcd:
 echo   3DO Interactive Multiplayer     *.cue, *.iso
 echo   NEC PC-FX                       *.cue
 echo   NEC TurboGrafx-CD               *.cue
+echo   SNK Neo Geo CD                  *.cue
 echo.
 echo ZSTD createcd -c cdzs,cdzl,cdfl:
 echo   Sega CD                         *.cue
 echo   Sega Dreamcast                  *.gdi, *.cue
 echo   Sega Saturn                     *.cue
-echo   SNK Neo Geo CD                  *.cue
 echo   Sony PlayStation                *.cue
 echo   Sony PlayStation 2              *.cue
 echo.
@@ -207,10 +225,10 @@ echo Existing CHD check/fix rules:
 echo   3DO Interactive Multiplayer     CD CHD, standard/default compression
 echo   NEC PC-FX                       CD CHD, standard/default compression
 echo   NEC TurboGrafx-CD               CD CHD, standard/default compression
+echo   SNK Neo Geo CD                  CD CHD, standard/default compression
 echo   Sega CD                         CD CHD, ZSTD compression
 echo   Sega Dreamcast                  CD CHD, ZSTD compression
 echo   Sega Saturn                     CD CHD, ZSTD compression
-echo   SNK Neo Geo CD                  CD CHD, ZSTD compression
 echo   Sony PlayStation                CD CHD, ZSTD compression
 echo   Sony PlayStation 2              CD or DVD CHD, ZSTD compression
 echo   Sony PlayStation Portable       DVD CHD, ZSTD compression
@@ -223,6 +241,7 @@ echo   - Optional cleanup can move successfully converted source files to _Conve
 echo   - Loose .bin files are ignored; convert from the matching .cue.
 echo   - chdman progress is shown live during conversion and fixing.
 echo   - Fixing existing CHDs uses direct chdman copy, not extract/rebuild.
+ echo   - ZSTD-to-standard conversion uses direct chdman copy without a -c argument.
 echo   - Check/fix uses CHD metadata. Unknown CD/DVD type is logged and skipped by fixer.
 echo.
 pause
@@ -285,13 +304,13 @@ call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.cue"
 call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.iso"
 call :ProcessCDDefaultSafe "NEC PC-FX" "*.cue"
 call :ProcessCDDefaultSafe "NEC TurboGrafx-CD" "*.cue"
+call :ProcessCDDefaultSafe "SNK Neo Geo CD" "*.cue"
 
 rem ZSTD CD CHDs.
 call :ProcessCDZstdSafe "Sega CD" "*.cue"
 call :ProcessCDZstdSafe "Sega Dreamcast" "*.gdi"
 call :ProcessCDZstdSafe "Sega Dreamcast" "*.cue"
 call :ProcessCDZstdSafe "Sega Saturn" "*.cue"
-call :ProcessCDZstdSafe "SNK Neo Geo CD" "*.cue"
 call :ProcessCDZstdSafe "Sony PlayStation" "*.cue"
 call :ProcessCDZstdSafe "Sony PlayStation 2" "*.cue"
 
@@ -522,7 +541,7 @@ if /I "%~1"=="Sega Saturn" (
     exit /b 0
 )
 if /I "%~1"=="SNK Neo Geo CD" (
-    call :ProcessCDZstdSafe "SNK Neo Geo CD" "*.cue"
+    call :ProcessCDDefaultSafe "SNK Neo Geo CD" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sony PlayStation" (
@@ -933,7 +952,7 @@ if /I "%SCAN_SYSTEM%"=="Sega Saturn" (
     exit /b 0
 )
 if /I "%SCAN_SYSTEM%"=="SNK Neo Geo CD" (
-    call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "ZSTD"
+    call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "STANDARD"
     exit /b 0
 )
 if /I "%SCAN_SYSTEM%"=="Sony PlayStation" (
@@ -962,7 +981,7 @@ call :ProcessCHDFolder "NEC TurboGrafx-CD" "CD" "STANDARD"
 call :ProcessCHDFolder "Sega CD" "CD" "ZSTD"
 call :ProcessCHDFolder "Sega Dreamcast" "CD" "ZSTD"
 call :ProcessCHDFolder "Sega Saturn" "CD" "ZSTD"
-call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "ZSTD"
+call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "STANDARD"
 call :ProcessCHDFolder "Sony PlayStation" "CD" "ZSTD"
 
 rem PS2 can be CD or DVD. Metadata decides extraction/fix method.
@@ -1101,6 +1120,125 @@ if /I "%DETECT_TYPE%"=="UNKNOWN" (
 )
 
 if exist "%INFOFILE%" del /f /q "%INFOFILE%" >nul 2>nul
+exit /b 0
+
+:ConvertSystemZstdToStandard
+set "CONVERT_STANDARD_SYSTEM=%~1"
+set /a STD_CHECKED=0
+set /a STD_CONVERTED=0
+set /a STD_SKIPPED=0
+set /a STD_FAILED=0
+cls
+echo ============================================================
+echo Convert ZSTD CHDs to Standard CHD
+echo ============================================================
+echo.
+echo System: %CONVERT_STANDARD_SYSTEM%
+echo.
+echo Only CHDs detected as ZSTD will be converted.
+echo Original ZSTD CHDs are renamed to .backup_RANDOM.chd after success.
+echo.
+choice /C YN /N /M "Continue? [Y/N]: "
+if errorlevel 2 exit /b 0
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo ZSTD-to-standard conversion started: %DATE% %TIME%>>"%LOG%"
+echo System: %CONVERT_STANDARD_SYSTEM%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+set "SYSTEMDIR=%ROOT%%CONVERT_STANDARD_SYSTEM%"
+if not exist "%SYSTEMDIR%" (
+    echo System folder not found.
+    exit /b 1
+)
+
+for /r "%SYSTEMDIR%" %%F in (*.chd) do (
+    set "CHD_CURRENT=%%~fF"
+    set "CHD_CURRENT_NAME=%%~nxF"
+    call :ConvertCurrentZstdToStandard
+)
+
+echo.
+echo ============================================================
+echo Conversion complete
+echo ============================================================
+echo Checked:   %STD_CHECKED%
+echo Converted: %STD_CONVERTED%
+echo Skipped:   %STD_SKIPPED%
+echo Failed:    %STD_FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+pause
+exit /b 0
+
+:ConvertCurrentZstdToStandard
+set "CHD_FILE=%CHD_CURRENT%"
+set /a STD_CHECKED+=1
+call :DetectCHD
+
+if /I not "%DETECT_COMP%"=="ZSTD" (
+    set /a STD_SKIPPED+=1
+    echo [STD SKIP] Not ZSTD: "%CHD_FILE%"
+    echo [STD SKIP] Not ZSTD Type=%DETECT_TYPE% Compression=%DETECT_COMP% "%CHD_FILE%">>"%LOG%"
+    exit /b 0
+)
+
+if /I not "%DETECT_TYPE%"=="CD" if /I not "%DETECT_TYPE%"=="DVD" (
+    set /a STD_FAILED+=1
+    echo [STD FAILED] Unknown disc type: "%CHD_FILE%"
+    echo [STD FAILED] Unknown disc type: "%CHD_FILE%">>"%LOG%"
+    exit /b 0
+)
+
+for %%A in ("%CHD_FILE%") do (
+    set "STD_DIR=%%~dpA"
+    set "STD_BASE=%%~nA"
+)
+set "STD_TMPDIR=%TEMP%\chd_standard_%RANDOM%_%RANDOM%"
+set "STD_FIXED=%STD_TMPDIR%\standard.chd"
+set "STD_BACKUP=%STD_DIR%%STD_BASE%.backup_%RANDOM%.chd"
+
+if exist "%STD_TMPDIR%" rmdir /s /q "%STD_TMPDIR%" >nul 2>nul
+mkdir "%STD_TMPDIR%" >nul 2>nul
+
+echo.
+echo [STD CONVERT] %DETECT_TYPE% ZSTD -^> STANDARD
+echo Input:  "%CHD_FILE%"
+echo Output: "%CHD_FILE%"
+echo Backup: "%STD_BACKUP%"
+echo [STD CONVERT] Type=%DETECT_TYPE% Input="%CHD_FILE%" Backup="%STD_BACKUP%">>"%LOG%"
+
+rem No -c argument means chdman uses its standard/default compression set.
+"%CHDMAN%" copy -i "%CHD_FILE%" -o "%STD_FIXED%"
+if errorlevel 1 goto ConvertStandardFailed
+if not exist "%STD_FIXED%" goto ConvertStandardFailed
+
+move "%CHD_FILE%" "%STD_BACKUP%" >nul
+if errorlevel 1 goto ConvertStandardFailed
+move "%STD_FIXED%" "%CHD_FILE%" >nul
+if errorlevel 1 (
+    echo [STD FAILED] Could not replace original. Attempting restore...
+    echo [STD FAILED] Could not replace original. Attempting restore...>>"%LOG%"
+    if exist "%STD_BACKUP%" move "%STD_BACKUP%" "%CHD_FILE%" >nul 2>nul
+    goto ConvertStandardFailed
+)
+
+set /a STD_CONVERTED+=1
+echo [STD OK] "%CHD_FILE%"
+echo [STD OK] "%CHD_FILE%" Backup="%STD_BACKUP%">>"%LOG%"
+goto ConvertStandardCleanup
+
+:ConvertStandardFailed
+set /a STD_FAILED+=1
+echo [STD FAILED] "%CHD_FILE%"
+echo [STD FAILED] "%CHD_FILE%">>"%LOG%"
+if exist "%STD_FIXED%" del /f /q "%STD_FIXED%" >nul 2>nul
+
+:ConvertStandardCleanup
+if exist "%STD_TMPDIR%" rmdir /s /q "%STD_TMPDIR%" >nul 2>nul
 exit /b 0
 
 :FixCurrentCHD
