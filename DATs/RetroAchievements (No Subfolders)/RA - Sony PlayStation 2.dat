@@ -4821,7 +4821,7 @@
 		<source>Redump</source>
 		<description>Grand Theft Auto - Vice City (USA) (v4.00)</description>
 		<release name="Grand Theft Auto - Vice City (USA) (v4.00)" region="USA"/>
-		<disk name="Grand Theft Auto - Vice City (USA) (v4.00).chd" sha1="0725b9c35f317e27df06891f691c5e89c7af650b"/>
+		<disk name="Grand Theft Auto - Vice City (USA) (v4.00).chd" sha1="cdd981a3c80d992dda7e3f69ffb73bdd13970588"/>
 		<ra_hash>d1957288756ba9b96d3bc501f66981a4</ra_hash>
 		<url>https://retroachievements.org/game/2739/hashes</url>
 	</machine>
