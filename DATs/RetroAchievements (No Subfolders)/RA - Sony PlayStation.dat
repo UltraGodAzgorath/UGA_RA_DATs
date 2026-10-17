@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/12-playstation/games</url>
-		<titlecount>900</titlecount>
-		<hashcount>1382</hashcount>
+		<titlecount>911</titlecount>
+		<hashcount>1395</hashcount>
 	</header>
 
 	<machine name="...Iru! (Japan) (En) (v1.0) (SnowyAria)">
@@ -772,6 +772,16 @@
 		<url>https://retroachievements.org/game/14433/hashes</url>
 	</machine>
 
+	<machine name="Barbie - Race &amp; Ride (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Barbie - Race &amp; Ride (USA)</description>
+		<release name="Barbie - Race &amp; Ride (USA)" region="USA"/>
+		<disk name="Barbie - Race &amp; Ride (USA).chd" sha1="2480ec9c8c5898943664455a67ce66b032f01756"/>
+		<ra_hash>6110e0bffb36dd07116bad55ee526f1f</ra_hash>
+		<url>https://retroachievements.org/game/24605/hashes</url>
+	</machine>
+
 	<machine name="Barbie - Super Sports (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -1013,6 +1023,26 @@
 		<disk name="Bomberman Fantasy Race (USA).chd" sha1="c45a0e8014680eeeae60873e1a7ea71cceffb9ff"/>
 		<ra_hash>94e9de993eeda66641a9fea738a07d7f</ra_hash>
 		<url>https://retroachievements.org/game/5927/hashes</url>
+	</machine>
+
+	<machine name="Bomberman Wars (Japan) (En) (v1.0) (denim)">
+		<category>Retail</category>
+		<source>Redump, RAPatches</source>
+		<description>Bomberman Wars (Japan) (En) (v1.0) (denim)</description>
+		<release name="Bomberman Wars (Japan) (En) (v1.0) (denim)" region="English"/>
+		<disk name="Bomberman Wars (Japan) (En) (v1.0) (denim).chd" sha1="9c489a80c151f338bbe352b0ed6950aa14af149c"/>
+		<ra_hash>b616027d4d41ff4e73e964ac1975433e</ra_hash>
+		<url>https://retroachievements.org/game/2755/hashes</url>
+	</machine>
+	<machine name="Bomberman Wars (Japan, Asia)" cloneof="Bomberman Wars (Japan) (En) (v1.0) (denim)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Bomberman Wars (Japan, Asia)</description>
+		<release name="Bomberman Wars (Japan, Asia)" region="Japan"/>
+		<release name="Bomberman Wars (Japan, Asia)" region="Asia"/>
+		<disk name="Bomberman Wars (Japan, Asia).chd" sha1="74f8f37ddb40319a995b6caf4f57f88661f185f1"/>
+		<ra_hash>dabbedafddea22f439116154dccb9446</ra_hash>
+		<url>https://retroachievements.org/game/2755/hashes</url>
 	</machine>
 
 	<machine name="Bomberman World (USA)">
@@ -1282,6 +1312,16 @@
 		<disk name="Bust A Move 2 - Dance Tengoku Mix (Japan).chd" sha1="c531c90130ac0d7e2af15676fc0f26686626d420"/>
 		<ra_hash>9ce53aa675ed4968ecf558c6c4125f31</ra_hash>
 		<url>https://retroachievements.org/game/7115/hashes</url>
+	</machine>
+
+	<machine name="Bust-A-Move 4 (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Bust-A-Move 4 (USA)</description>
+		<release name="Bust-A-Move 4 (USA)" region="USA"/>
+		<disk name="Bust-A-Move 4 (USA).chd" sha1="5fae962b40cfd65c71af587ad5f9bc7cd3f866c0"/>
+		<ra_hash>34d538ba70167613a75f9e0eb3479463</ra_hash>
+		<url>https://retroachievements.org/game/17802/hashes</url>
 	</machine>
 
 	<machine name="Buster Bros. Collection (USA)">
@@ -2185,6 +2225,16 @@
 		<url>https://retroachievements.org/game/38503/hashes</url>
 	</machine>
 
+	<machine name="CTR 30th Anniversary Custom Adventure (v20260725) (LoloTheSamurai Play)">
+		<category>Hack</category>
+		<source>Redump, RAPatches</source>
+		<description>CTR 30th Anniversary Custom Adventure (v20260725) (LoloTheSamurai Play)</description>
+		<release name="CTR 30th Anniversary Custom Adventure (v20260725) (LoloTheSamurai Play)" region="World"/>
+		<disk name="CTR 30th Anniversary Custom Adventure (v20260725) (LoloTheSamurai Play).chd" sha1="dcbe96323090d45f72d0b0eb62f4cd09e0638058"/>
+		<ra_hash>889379ea4bd2a1e5e742be0fd0cfe868</ra_hash>
+		<url>https://retroachievements.org/game/41185/hashes</url>
+	</machine>
+
 	<machine name="Cubix Robots for Everyone - Race 'n Robots (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2496,6 +2546,16 @@
 		<url>https://retroachievements.org/game/8409/hashes</url>
 	</machine>
 
+	<machine name="Demolition Racer (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Demolition Racer (USA)</description>
+		<release name="Demolition Racer (USA)" region="USA"/>
+		<disk name="Demolition Racer (USA).chd" sha1="2b4875ae1a3312006b3e3ddae5dee38e9f2e7e35"/>
+		<ra_hash>86f28e6f8a731a6d6e4683a00717353b</ra_hash>
+		<url>https://retroachievements.org/game/16697/hashes</url>
+	</machine>
+
 	<machine name="Descent (USA)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -2773,6 +2833,24 @@
 		<disk name="Discworld Noir (Europe) (En,Es,It).chd" sha1="72db93d844a9e88f4980b860d1cf4eb996f8d563"/>
 		<ra_hash>2aa4faed80a4d4eeb0a6d8c6fae00340</ra_hash>
 		<url>https://retroachievements.org/game/6584/hashes</url>
+	</machine>
+
+	<machine name="Disney Presents Tigger's Honey Hunt (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Disney Presents Tigger's Honey Hunt (USA)</description>
+		<release name="Disney Presents Tigger's Honey Hunt (USA)" region="USA"/>
+		<disk name="Disney Presents Tigger's Honey Hunt (USA).chd" sha1="7588e30744238177a8a85c58e7e4e285b2794c50"/>
+		<ra_hash>e8e3b4b82bc1262bbbb3c1ce4adae60d</ra_hash>
+		<url>https://retroachievements.org/game/16669/hashes</url>
+	</machine>
+	<machine name="Disney Presents Tigger's Honey Hunt (USA) (Rerelease)" cloneof="Disney Presents Tigger's Honey Hunt (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Disney Presents Tigger's Honey Hunt (USA) (Rerelease)</description>
+		<disk name="Disney Presents Tigger's Honey Hunt (USA) (Rerelease).chd" sha1="003ab2cae6589186b977c5b1e1db526e565a7722"/>
+		<ra_hash>e918897bce09adeba25565c162831fab</ra_hash>
+		<url>https://retroachievements.org/game/16669/hashes</url>
 	</machine>
 
 	<machine name="Disney's 101 Dalmatians II - Patch's London Adventure (USA)">
@@ -4972,6 +5050,16 @@
 		<url>https://retroachievements.org/game/15935/hashes</url>
 	</machine>
 
+	<machine name="Italian Job, The (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Italian Job, The (USA)</description>
+		<release name="Italian Job, The (USA)" region="USA"/>
+		<disk name="Italian Job, The (USA).chd" sha1="b4cf87ebc7339feedb773b8de3f729109e844cee"/>
+		<ra_hash>fd9bb4841db441e70eda3688a4eb9ddc</ra_hash>
+		<url>https://retroachievements.org/game/22727/hashes</url>
+	</machine>
+
 	<machine name="Iznogoud (Europe) (En,Fr,De,It,Nl)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -5214,6 +5302,16 @@
 		<disk name="Kaze no Notam - Notam of Wind (Japan, Asia).chd" sha1="11f8015536be798541350ff85a7394942d88cc8f"/>
 		<ra_hash>4e5427af6c182b649c674c2d4aef0785</ra_hash>
 		<url>https://retroachievements.org/game/20377/hashes</url>
+	</machine>
+
+	<machine name="Kensei - Sacred Fist (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Kensei - Sacred Fist (USA)</description>
+		<release name="Kensei - Sacred Fist (USA)" region="USA"/>
+		<disk name="Kensei - Sacred Fist (USA).chd" sha1="93174b29ef7e6727fc876951b999d59787c92615"/>
+		<ra_hash>5e5de2241ec6307d3abb09fbf1ea5568</ra_hash>
+		<url>https://retroachievements.org/game/19219/hashes</url>
 	</machine>
 
 	<machine name="Kero Kero King (Japan)">
@@ -5894,6 +5992,16 @@
 		<disk name="Mary-Kate and Ashley - Magical Mystery Mall (USA).chd" sha1="5c18c5912fef8e564daf01775179271d2804768d"/>
 		<ra_hash>8efcf88e7bb07f1bd9d9dec69ecf8639</ra_hash>
 		<url>https://retroachievements.org/game/17341/hashes</url>
+	</machine>
+
+	<machine name="Mat Hoffman's Pro BMX (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Mat Hoffman's Pro BMX (USA)</description>
+		<release name="Mat Hoffman's Pro BMX (USA)" region="USA"/>
+		<disk name="Mat Hoffman's Pro BMX (USA).chd" sha1="93ed50c5969866d5ecb45631e314ea493d1f8061"/>
+		<ra_hash>1504f0b80db57b0076a165ee43210a7e</ra_hash>
+		<url>https://retroachievements.org/game/3838/hashes</url>
 	</machine>
 
 	<machine name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)">
@@ -8040,6 +8148,16 @@
 		<url>https://retroachievements.org/game/20384/hashes</url>
 	</machine>
 
+	<machine name="Rally Cross (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Rally Cross (USA)</description>
+		<release name="Rally Cross (USA)" region="USA"/>
+		<disk name="Rally Cross (USA).chd" sha1="62c54f5e1f989126a1f034c39646a0336c6c8321"/>
+		<ra_hash>3fc8051102cc2b33e5b5ffad61d95df2</ra_hash>
+		<url>https://retroachievements.org/game/15451/hashes</url>
+	</machine>
+
 	<machine name="Rally de Africa (Japan)">
 		<category>Retail</category>
 		<source>Redump</source>
@@ -9353,6 +9471,16 @@
 		<disk name="Space Invaders (USA).chd" sha1="b3aa1b3e2f509e44d5f840cc2d9fa2aa8bceba82"/>
 		<ra_hash>359717c7e7173afb0680b797f9eb3694</ra_hash>
 		<url>https://retroachievements.org/game/17040/hashes</url>
+	</machine>
+
+	<machine name="Speed Punks (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Speed Punks (USA)</description>
+		<release name="Speed Punks (USA)" region="USA"/>
+		<disk name="Speed Punks (USA).chd" sha1="c9713bfce1fa9a24d2be30c1ffff2b136f030e62"/>
+		<ra_hash>acc70c8cc95253c31f918ce2c262beba</ra_hash>
+		<url>https://retroachievements.org/game/816/hashes</url>
 	</machine>
 
 	<machine name="Speed Racer (USA)">

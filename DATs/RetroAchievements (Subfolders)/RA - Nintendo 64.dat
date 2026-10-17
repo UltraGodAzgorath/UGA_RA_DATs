@@ -5,12 +5,12 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260914</version>
-		<date>14 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/2-nintendo-64/games</url>
-		<titlecount>841</titlecount>
-		<hashcount>841</hashcount>
+		<titlecount>842</titlecount>
+		<hashcount>842</hashcount>
 	</header>
 
 	<game name="Hack/007 - Goldfinger (Hack) (Various)">
@@ -5104,6 +5104,15 @@
 		<rom name="SM64 - Master Quest 2 Two - Best Buy Edition (v1.1) (Cavin856).z64" size="67108864" crc="E1347660" md5="114e458cb64a8e59cfe29711f68e7952" sha1="eb6f36935f847888113c59dd394662048d0680a8"/>
 		<ra_hash>114e458cb64a8e59cfe29711f68e7952</ra_hash>
 		<url>https://retroachievements.org/game/24007/hashes</url>
+	</game>
+
+	<game name="Hack/SM64 - Motos Factory (v1.0) (Various)">
+		<category>Nintendo 64</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SM64 - Motos Factory (v1.0) (Various)</description>
+		<rom name="SM64 - Motos Factory (v1.0) (Various).z64" size="67108960" crc="F150124D" md5="8f110027e6b805dfa816e159e2075124" sha1="0ed497fd7b20c4d90c6e2944c86d0859b89aa544"/>
+		<ra_hash>5e89f9bc4f44af8a2fb3599515b08196</ra_hash>
+		<url>https://retroachievements.org/game/25996/hashes</url>
 	</game>
 
 	<game name="Hack/SM64 - Nightshift at the Beta Museum (v1.1) (rovertronic)">

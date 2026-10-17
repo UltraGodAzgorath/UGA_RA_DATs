@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/6-game-boy-color/games</url>
-		<titlecount>609</titlecount>
-		<hashcount>609</hashcount>
+		<titlecount>614</titlecount>
+		<hashcount>614</hashcount>
 	</header>
 
 	<game name="007 - The World Is Not Enough (USA, Europe)">
@@ -1299,6 +1299,16 @@
 		<url>https://retroachievements.org/game/5105/hashes</url>
 	</game>
 
+	<game name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced)">
+		<category>Retail</category>
+		<source>Unknown</source>
+		<description>Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced)</description>
+		<release name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced)" region="USA"/>
+		<rom name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced).gbc" size="4194304" crc="35EC5FB2" md5="8e79dcdee0e15ef069b3f376a0fee37d" sha1="a68451e7d3accd81b240c4b60a1f552e39211ede"/>
+		<ra_hash>8e79dcdee0e15ef069b3f376a0fee37d</ra_hash>
+		<url>https://retroachievements.org/game/41277/hashes</url>
+	</game>
+
 	<game name="Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -2148,6 +2158,16 @@
 		<rom name="Keitai Denjuu Telefang - Power Version (Japan) (En) (v1.62) (kmeisthax, andwhyisit).gbc" size="2097152" crc="D3FF2F8A" md5="bae9542c90b3b440572f554f6181538c" sha1="47e81c29fcc0947f7d91c0d248a5563ebac520cd"/>
 		<ra_hash>bae9542c90b3b440572f554f6181538c</ra_hash>
 		<url>https://retroachievements.org/game/15932/hashes</url>
+	</game>
+
+	<game name="Kero Kero Cowboy (World) (v1.2) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Kero Kero Cowboy (World) (v1.2) (Aftermarket) (Unl)</description>
+		<release name="Kero Kero Cowboy (World) (v1.2) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Kero Kero Cowboy (World) (v1.2) (Aftermarket) (Unl).gbc" size="4194304" crc="49898E9A" md5="8285cf41513a36871e3475fceff33ac7" sha1="36702f54f5b22c249956c290ef816d941f21caf9"/>
+		<ra_hash>8285cf41513a36871e3475fceff33ac7</ra_hash>
+		<url>https://retroachievements.org/game/34054/hashes</url>
 	</game>
 
 	<game name="Kikansha Thomas - Sodor-tou no Nakama-tachi (Japan)">
@@ -4688,6 +4708,17 @@
 		<url>https://retroachievements.org/game/3635/hashes</url>
 	</game>
 
+	<game name="Rocket Power - Gettin' Air (USA, Europe)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Rocket Power - Gettin' Air (USA, Europe)</description>
+		<release name="Rocket Power - Gettin' Air (USA, Europe)" region="USA"/>
+		<release name="Rocket Power - Gettin' Air (USA, Europe)" region="Europe"/>
+		<rom name="Rocket Power - Gettin' Air (USA, Europe).gbc" size="1048576" crc="7025EB63" md5="b3bd4adc4613ff8f4b9cf8c80ff0a6ef" sha1="d9c5c22f1f5a2a922cb2b39d5e8f3df31c1155d7"/>
+		<ra_hash>b3bd4adc4613ff8f4b9cf8c80ff0a6ef</ra_hash>
+		<url>https://retroachievements.org/game/8362/hashes</url>
+	</game>
+
 	<game name="Rockman 8 (Taiwan) (Bootleg) (Unl)">
 		<category>Unlicensed</category>
 		<source>Lost Level Archive</source>
@@ -5363,6 +5394,25 @@
 		<rom name="Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="AB8B25D8" md5="9d2f7e1ac30a46456a841c264963e5ea" sha1="8fd720d5b035939b553910a3ec45c1bd052484eb"/>
 		<ra_hash>9d2f7e1ac30a46456a841c264963e5ea</ra_hash>
 		<url>https://retroachievements.org/game/12803/hashes</url>
+	</game>
+
+	<game name="Sutte Hakkun GB (Japan) (Proto)" cloneof="Sutte Hakkun GB (Japan) (Proto) (En) (1.0) (Raccoon Sam)">
+		<category>Prototype</category>
+		<source>No-Intro</source>
+		<description>Sutte Hakkun GB (Japan) (Proto)</description>
+		<release name="Sutte Hakkun GB (Japan) (Proto)" region="Japan"/>
+		<rom name="Sutte Hakkun GB (Japan) (Proto).gbc" size="524288" crc="E0386F84" md5="243b2b6151d41d8e111e98ac49ba9ab4" sha1="6efd637f039d4f3a2240640921724a69a2844cc7"/>
+		<ra_hash>243b2b6151d41d8e111e98ac49ba9ab4</ra_hash>
+		<url>https://retroachievements.org/game/15592/hashes</url>
+	</game>
+	<game name="Sutte Hakkun GB (Japan) (Proto) (En) (1.0) (Raccoon Sam)">
+		<category>Prototype</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Sutte Hakkun GB (Japan) (Proto) (En) (1.0) (Raccoon Sam)</description>
+		<release name="Sutte Hakkun GB (Japan) (Proto) (En) (1.0) (Raccoon Sam)" region="English"/>
+		<rom name="Sutte Hakkun GB (Japan) (Proto) (En) (1.0) (Raccoon Sam).gbc" size="524288" crc="94E095CF" md5="7273f7069729f49cd7991314d303f1d8" sha1="14d92e5a859c52a4fbd9165903c427e47fadc220"/>
+		<ra_hash>7273f7069729f49cd7991314d303f1d8</ra_hash>
+		<url>https://retroachievements.org/game/15592/hashes</url>
 	</game>
 
 	<game name="Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)">

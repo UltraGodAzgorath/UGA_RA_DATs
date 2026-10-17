@@ -5,12 +5,12 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/38/games</url>
-		<titlecount>149</titlecount>
-		<hashcount>397</hashcount>
+		<titlecount>151</titlecount>
+		<hashcount>403</hashcount>
 	</header>
 
 	<game name="Retail/A.E">
@@ -77,6 +77,29 @@
 		<rom name="Battle of Hoth (1980) (Tukumo).do" size="143360" crc="9F25AE79" md5="01fa5ae0a155665e31421491e03d7c2e" sha1="062d6b8b092917201ff74c7d9f1dddc92a82de00"/>
 		<ra_hash>01fa5ae0a155665e31421491e03d7c2e</ra_hash>
 		<url>https://retroachievements.org/game/20871/hashes</url>
+	</game>
+
+	<game name="Retail/Below the Root/Below the Root (4am crack)">
+		<category></category>
+		<source>4amcrack</source>
+		<description>Below the Root (4am crack)</description>
+		<rom name="Below the Root (4am crack).m3u" size="82" crc="34344E6A" md5="5b4f04ddb703571a1509b16e899f22d1" sha1="97df9be317c79a103927659c1389f8dc91345cb5"/>
+		<rom name="Below the Root (4am crack) (Side A).dsk" size="143360" crc="B546F694" md5="be90531e2260e2be92b2e3b4b661d2b2" sha1="e4a03625fd40389af5f787c39f574c1eed569547"/>
+		<ra_hash>be90531e2260e2be92b2e3b4b661d2b2</ra_hash>
+		<rom name="Below the Root (4am crack) (Side B).dsk" size="143360" crc="3298FDC6" md5="8b8bfda43083b003d5c9f5de0ec2f616" sha1="f6b2a638a96afb4c99e182ff6ee477763bb440fa"/>
+		<ra_hash>8b8bfda43083b003d5c9f5de0ec2f616</ra_hash>
+		<url>https://retroachievements.org/game/14317/hashes</url>
+	</game>
+	<game name="Retail/Below the Root/Below the Root">
+		<category></category>
+		<source>wozaday</source>
+		<description>Below the Root</description>
+		<rom name="Below the Root.m3u" size="58" crc="69D701F8" md5="8c4fc791c1ef61de79d6b0ebbbc6ab55" sha1="76036ab5a477101142c0b84dea502570cf24b0c7"/>
+		<rom name="Below the Root (Side A).woz" size="233490" crc="9129BB1C" md5="48c4f6c412807d53a49b748e764e3b59" sha1="a51a653e2886a00f636a7bc3a192745dcb06327b"/>
+		<ra_hash>48c4f6c412807d53a49b748e764e3b59</ra_hash>
+		<rom name="Below the Root (Side B).woz" size="233515" crc="F3F181F8" md5="f7dcf03bb6c946bce3d1b551feecbba8" sha1="2451c2c2f441c9b17ea82619e57e22e865c926d1"/>
+		<ra_hash>f7dcf03bb6c946bce3d1b551feecbba8</ra_hash>
+		<url>https://retroachievements.org/game/14317/hashes</url>
 	</game>
 
 	<game name="Retail/The Black Cauldron/Black Cauldron, The">

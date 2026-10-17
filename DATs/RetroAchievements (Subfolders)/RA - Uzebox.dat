@@ -5,12 +5,12 @@
 		<name>RA - Uzebox</name>
 		<description>Uzebox</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/80-uzebox/games</url>
-		<titlecount>46</titlecount>
-		<hashcount>46</hashcount>
+		<titlecount>47</titlecount>
+		<hashcount>47</hashcount>
 	</header>
 
 	<game name="Retail/2048 (World) (Harty123)">
@@ -74,6 +74,15 @@
 		<rom name="Chicken in Choppers (World) (CunningFellow).uze" size="61952" crc="DBBAA9EA" md5="d781bdc469c322270bb7b6f177435e8a" sha1="e9ae022e3a1daa3f51b80f5373ca03435995f233"/>
 		<ra_hash>d781bdc469c322270bb7b6f177435e8a</ra_hash>
 		<url>https://retroachievements.org/game/24725/hashes</url>
+	</game>
+
+	<game name="Retail/Chuckie Egg (World) (v1.0) (Pitfall Jones)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Chuckie Egg (World) (v1.0) (Pitfall Jones)</description>
+		<rom name="Chuckie Egg (World) (v1.0) (Pitfall Jones).uze" size="51192" crc="1AF4AAE5" md5="699b4d5966c4de632b109e8342c080b4" sha1="f5d62f8e2ca9fcb40eaee0260f34a8207c362c83"/>
+		<ra_hash>699b4d5966c4de632b109e8342c080b4</ra_hash>
+		<url>https://retroachievements.org/game/24726/hashes</url>
 	</game>
 
 	<game name="Retail/Circuit Puzzle (World) (Artcfox)">

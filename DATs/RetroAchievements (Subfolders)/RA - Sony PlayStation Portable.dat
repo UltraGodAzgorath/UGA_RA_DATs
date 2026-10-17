@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation Portable</name>
 		<description>Sony PlayStation Portable</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/41-playstation-portable/games</url>
-		<titlecount>352</titlecount>
-		<hashcount>449</hashcount>
+		<titlecount>357</titlecount>
+		<hashcount>453</hashcount>
 	</header>
 
 	<machine name="Retail/hack--Link (Japan) (En)">
@@ -484,6 +484,23 @@
 		<disk name="Cladun - This is an RPG! (USA) (PSP) (PSN).chd" sha1="74a51f9c4d2f8a09a857e38a872d24749fb3a692"/>
 		<ra_hash>b2a1152db94234f2aaf6bdc05c3c52f5</ra_hash>
 		<url>https://retroachievements.org/game/14498/hashes</url>
+	</machine>
+
+	<machine name="Retail/Cloudy with a Chance of Meatballs/Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It).chd" sha1="0217a6dbcd321f190b11a01b42306ceac24d72a1"/>
+		<ra_hash>1c850ffc7b5ec299dfd1bf70ce02882e</ra_hash>
+		<url>https://retroachievements.org/game/34172/hashes</url>
+	</machine>
+	<machine name="Retail/Cloudy with a Chance of Meatballs/Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)</description>
+		<disk name="Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It).chd" sha1="9d4d905189ee30b1d01612876c1c440bf4bec30f"/>
+		<ra_hash>1e6fffb80615fa7f83c0cf7b7356c6cd</ra_hash>
+		<url>https://retroachievements.org/game/34172/hashes</url>
 	</machine>
 
 	<machine name="Retail/Coconut Dodge (USA) (minis) (PSN)">
@@ -2603,7 +2620,7 @@
 		<url>https://retroachievements.org/game/3999/hashes</url>
 	</machine>
 
-	<machine name="Subset/Nayuta no Kiseki [Subset - Boss Challenges]/Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Boss Challenges)">
+	<machine name="Subset/The Legend of Nayuta - Boundless Trails [Subset - Boss Challenges]/Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Boss Challenges)">
 		<category>PSP</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Boss Challenges)</description>
@@ -2611,7 +2628,7 @@
 		<ra_hash>f6e123671e85305561e771a996f72262</ra_hash>
 		<url>https://retroachievements.org/game/19563/hashes</url>
 	</machine>
-	<machine name="Subset/Nayuta no Kiseki [Subset - Boss Challenges]/Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Boss Challenges)">
+	<machine name="Subset/The Legend of Nayuta - Boundless Trails [Subset - Boss Challenges]/Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Boss Challenges)">
 		<category>PSP</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Boss Challenges)</description>
@@ -3666,6 +3683,23 @@
 		<disk name="Valkyrie Profile - Lenneth (USA).chd" sha1="6128f56237631181276846c976ffbdb615845f89"/>
 		<ra_hash>8903bab594e8ff84ebbc566f75573158</ra_hash>
 		<url>https://retroachievements.org/game/14169/hashes</url>
+	</machine>
+
+	<machine name="Retail/Vantage Master Portable/Vantage Master Portable (Japan) (En) (v1.0) (WanderingHeiHo)">
+		<category>PSP</category>
+		<source>Redump, RAPatches</source>
+		<description>Vantage Master Portable (Japan) (En) (v1.0) (WanderingHeiHo)</description>
+		<disk name="Vantage Master Portable (Japan) (En) (v1.0) (WanderingHeiHo).chd" sha1="4aa5103273cb4160b1801ef7d6b18b9c82c04395"/>
+		<ra_hash>09b5b018a1f29f0f4d8fd404e2d4de4f</ra_hash>
+		<url>https://retroachievements.org/game/3251/hashes</url>
+	</machine>
+	<machine name="Retail/Vantage Master Portable/Vantage Master Portable (Japan) (v1.01)">
+		<category>PSP</category>
+		<source>Redump</source>
+		<description>Vantage Master Portable (Japan) (v1.01)</description>
+		<disk name="Vantage Master Portable (Japan) (v1.01).chd" sha1="4876c326a6c40e1d63075a55a6f7f5722af8f6d8"/>
+		<ra_hash>9dc7fa8baa2f2684b53112c7ad1c99b8</ra_hash>
+		<url>https://retroachievements.org/game/3251/hashes</url>
 	</machine>
 
 	<machine name="Retail/Vector TD/Vector TD (Europe) (minis) (PSN)">

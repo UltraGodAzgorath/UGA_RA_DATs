@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/1-mega-drive-genesis/games</url>
-		<titlecount>943</titlecount>
-		<hashcount>943</hashcount>
+		<titlecount>944</titlecount>
+		<hashcount>944</hashcount>
 	</header>
 
 	<game name="16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)">
@@ -2032,7 +2032,7 @@
 	</game>
 
 	<game name="Double Dragon (USA, Europe) (Unl)">
-		<category>Retail</category>
+		<category>Unlicensed</category>
 		<source>No-Intro</source>
 		<description>Double Dragon (USA, Europe) (Unl)</description>
 		<release name="Double Dragon (USA, Europe) (Unl)" region="USA"/>
@@ -6814,6 +6814,16 @@
 		<rom name="Sonic 1 - Gatoslip - X-Mas Demo (v2023-12-07) (VAdaPEGA).md" size="3248004" crc="56903A5B" md5="b4c6bcd0b0db9d2cc0f47e2fbb86a97b" sha1="c52bef7f846db64d24d33f3bc064f5d41a07041f"/>
 		<ra_hash>b4c6bcd0b0db9d2cc0f47e2fbb86a97b</ra_hash>
 		<url>https://retroachievements.org/game/30734/hashes</url>
+	</game>
+
+	<game name="Sonic 1 - Hatsune Miku in Sonic 1 (SHC2025) (Team Brickheads)">
+		<category>Hack</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Sonic 1 - Hatsune Miku in Sonic 1 (SHC2025) (Team Brickheads)</description>
+		<release name="Sonic 1 - Hatsune Miku in Sonic 1 (SHC2025) (Team Brickheads)" region="World"/>
+		<rom name="Sonic 1 - Hatsune Miku in Sonic 1 (SHC2025) (Team Brickheads).md" size="1048576" crc="5AE24029" md5="f03a0b0aa78631db598f57bc13e9802a" sha1="fa4321eb3c6fb87f8cafaa692bfb6556bb3ac1a7"/>
+		<ra_hash>f03a0b0aa78631db598f57bc13e9802a</ra_hash>
+		<url>https://retroachievements.org/game/37828/hashes</url>
 	</game>
 
 	<game name="Sonic 1 - Knuckles the Echidna in Sonic The Hedgehog (v1.1) (Stealth)">

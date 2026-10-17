@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/18-nintendo-ds/games</url>
-		<titlecount>837</titlecount>
-		<hashcount>837</hashcount>
+		<titlecount>854</titlecount>
+		<hashcount>854</hashcount>
 	</header>
 
 	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
@@ -215,6 +215,38 @@
 		<rom name="Adventures of Pinocchio (Europe).nds" size="33554432" crc="84C2DF05" md5="fbf60b68ab9b6ad327b466bba272fb87" sha1="697cfe56848fd3df640f0b45fd479c815f98de71"/>
 		<ra_hash>19f1c299901dcd89b912b246d85f3d44</ra_hash>
 		<url>https://retroachievements.org/game/14906/hashes</url>
+	</game>
+
+	<game name="Age of Empires - The Age of Kings (Europe) (En,Es,It)" cloneof="Age of Empires - The Age of Kings (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Age of Empires - The Age of Kings (Europe) (En,Es,It)</description>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Es,It)" region="Europe"/>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Es,It)" region="Italy"/>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Es,It)" region="Spain"/>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Es,It)" region="English"/>
+		<rom name="Age of Empires - The Age of Kings (Europe) (En,Es,It).nds" size="67108864" crc="8AEBC321" md5="a1064bed71a8166625acd7f421ba4275" sha1="12f6c3a21011e25fd544d413bcce6ae6b5cbb2ca"/>
+		<ra_hash>80de6a816ab6f9a6f941015c15d8a3ce</ra_hash>
+		<url>https://retroachievements.org/game/9096/hashes</url>
+	</game>
+	<game name="Age of Empires - The Age of Kings (Europe) (En,Fr,De)" cloneof="Age of Empires - The Age of Kings (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Age of Empires - The Age of Kings (Europe) (En,Fr,De)</description>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Fr,De)" region="France"/>
+		<release name="Age of Empires - The Age of Kings (Europe) (En,Fr,De)" region="Germany"/>
+		<rom name="Age of Empires - The Age of Kings (Europe) (En,Fr,De).nds" size="67108864" crc="B5AECC63" md5="efcd2442ad2f56b985aafdd3a8a136fb" sha1="2d9a1a8827b303af241e35964d2eaadd60c2af5a"/>
+		<ra_hash>7667e9f09afe4e7a94e7ef257d10631c</ra_hash>
+		<url>https://retroachievements.org/game/9096/hashes</url>
+	</game>
+	<game name="Age of Empires - The Age of Kings (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Age of Empires - The Age of Kings (USA)</description>
+		<release name="Age of Empires - The Age of Kings (USA)" region="USA"/>
+		<rom name="Age of Empires - The Age of Kings (USA).nds" size="67108864" crc="F49A566E" md5="5d25798ea86f42ff345c812a0955e656" sha1="e92b412dd09b826f3d0978bd9c4058e4fc310eee"/>
+		<ra_hash>fd4ca460dc0e6e4547137b79e4d8bf47</ra_hash>
+		<url>https://retroachievements.org/game/9096/hashes</url>
 	</game>
 
 	<game name="Air Traffic Chaos (USA)" cloneof="Air Traffic Chaos (USA) (No Music + No Radio Chatter) (v1.0) (multonic)">
@@ -650,6 +682,21 @@
 		<rom name="Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="EA0026A3" md5="b7a24f18ea33bf479ed45bac4f7b775f" sha1="ea92960f7ac01d5107fb363aa902a668b64c8912"/>
 		<ra_hash>0fed87589592785966f9fa86dd16f616</ra_hash>
 		<url>https://retroachievements.org/game/17066/hashes</url>
+	</game>
+
+	<game name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="CB996A39" md5="4deca80534ee74ff683134a0555d6435" sha1="29922d1cdd8b1f539ead49cef0d4a139f7dadc5c"/>
+		<ra_hash>35d01df89de17f44a824ea35ccd2d4ea</ra_hash>
+		<url>https://retroachievements.org/game/17417/hashes</url>
 	</game>
 
 	<game name="Ben 10 - Protector of Earth (USA)">
@@ -1661,6 +1708,21 @@
 		<url>https://retroachievements.org/game/16382/hashes</url>
 	</game>
 
+	<game name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Crazy Chicken Carnival (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5E7D4885" md5="de7ba04a78e7a5bda84565a3807161ff" sha1="ad2f2797a97be4796db32d2fac06ca18ef15a489"/>
+		<ra_hash>55c11d139d6ffda9fcc2c2a0dded7917</ra_hash>
+		<url>https://retroachievements.org/game/27824/hashes</url>
+	</game>
+
 	<game name="Crazy Machines (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -1743,6 +1805,25 @@
 		<rom name="Culdcept DS (Japan) (En) (v1.0) (theli).nds" size="66865724" crc="2B23C97F" md5="b25f48238c7378c5d7d24358be223c91" sha1="2a948595b44e535a2eb12c5750e43c528708cd3c"/>
 		<ra_hash>e9c8dbcd4307f2e925fa5b3b6ef68743</ra_hash>
 		<url>https://retroachievements.org/game/3042/hashes</url>
+	</game>
+
+	<game name="Custom Beat Battle - Draglade 2 (Japan)" cloneof="Custom Beat Battle - Draglade 2 (Japan) (En) (v1.2) (Rev 1) (Kenta61)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Custom Beat Battle - Draglade 2 (Japan)</description>
+		<release name="Custom Beat Battle - Draglade 2 (Japan)" region="Japan"/>
+		<rom name="Custom Beat Battle - Draglade 2 (Japan).nds" size="67108864" crc="C041AC94" md5="f0785e7f58ebbbdde837ea3e713bb365" sha1="29828e97a344fc9d08c4a0399e75b8af875abcbe"/>
+		<ra_hash>0435f45206b90d48c46da8405f668c93</ra_hash>
+		<url>https://retroachievements.org/game/26886/hashes</url>
+	</game>
+	<game name="Custom Beat Battle - Draglade 2 (Japan) (En) (v1.2) (Rev 1) (Kenta61)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Custom Beat Battle - Draglade 2 (Japan) (En) (v1.2) (Rev 1) (Kenta61)</description>
+		<release name="Custom Beat Battle - Draglade 2 (Japan) (En) (v1.2) (Rev 1) (Kenta61)" region="English"/>
+		<rom name="Custom Beat Battle - Draglade 2 (Japan) (En) (v1.2) (Rev 1) (Kenta61).nds" size="67108864" crc="3923FB58" md5="478d1f139388afdc99925aa0debdb82a" sha1="7333cbcdf5f890b485b8da6ec123038fa3a68fdb"/>
+		<ra_hash>8bd41a3b5d9a0082438a0eb920ed03bd</ra_hash>
+		<url>https://retroachievements.org/game/26886/hashes</url>
 	</game>
 
 	<game name="Custom Robo Arena (Europe) (En,Fr,De,Es,It)">
@@ -2452,6 +2533,18 @@
 		<url>https://retroachievements.org/game/9100/hashes</url>
 	</game>
 
+	<game name="Elebits - The Adventures of Kai and Zero (USA) (En,Fr)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Elebits - The Adventures of Kai and Zero (USA) (En,Fr)</description>
+		<release name="Elebits - The Adventures of Kai and Zero (USA) (En,Fr)" region="USA"/>
+		<release name="Elebits - The Adventures of Kai and Zero (USA) (En,Fr)" region="France"/>
+		<release name="Elebits - The Adventures of Kai and Zero (USA) (En,Fr)" region="English"/>
+		<rom name="Elebits - The Adventures of Kai and Zero (USA) (En,Fr).nds" size="67108864" crc="5B1EB3E3" md5="f555cb21b445d200113af0217da3f28f" sha1="f1f31c940c0d8d864db53b2b7913d18f069ee6a6"/>
+		<ra_hash>72e452e9711a5ba8c40c3e7c5cbf4136</ra_hash>
+		<url>https://retroachievements.org/game/14780/hashes</url>
+	</game>
+
 	<game name="Elf Bowling 1 &amp; 2 (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -2982,6 +3075,21 @@
 		<rom name="Giana Sisters DS (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="0475CB77" md5="3b2611dcefac9ffdc746449481a01ade" sha1="723e5584dcb42b8fe541aaaa3d2da7aa5d5d1c76"/>
 		<ra_hash>d9e18922e7c60b90c0111a9111a6d054</ra_hash>
 		<url>https://retroachievements.org/game/7062/hashes</url>
+	</game>
+
+	<game name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Go! Go! Cosmo Cops! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="D0AE3DDC" md5="8587fb5d5f95cfdce22fff8b417939e9" sha1="8bf921d5fd742e7f9319829946b5310012215cc4"/>
+		<ra_hash>9dbf6ec7e4fa228bca71f4fad7ceec79</ra_hash>
+		<url>https://retroachievements.org/game/16490/hashes</url>
 	</game>
 
 	<game name="Gogo's Crazy Bones (Europe) (En,Fr)" cloneof="Gogo's Crazy Bones (USA)">
@@ -4712,6 +4820,25 @@
 		<url>https://retroachievements.org/game/27660/hashes</url>
 	</game>
 
+	<game name="Metal Max 2 - Reloaded (Japan)" cloneof="Metal Max 2 - ReLOADED (Japan) (En) (v1.0) (Metal Dreamers)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Metal Max 2 - Reloaded (Japan)</description>
+		<release name="Metal Max 2 - Reloaded (Japan)" region="Japan"/>
+		<rom name="Metal Max 2 - Reloaded (Japan).nds" size="67108864" crc="4416E3EC" md5="c34945237a362c7ebc03c37c48df00f2" sha1="7a04340c8ca4913014baf1ee1ba247d15931afd3"/>
+		<ra_hash>d91634b41679b8fec08bfdc53ac70846</ra_hash>
+		<url>https://retroachievements.org/game/24022/hashes</url>
+	</game>
+	<game name="Metal Max 2 - ReLOADED (Japan) (En) (v1.0) (Metal Dreamers)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Metal Max 2 - ReLOADED (Japan) (En) (v1.0) (Metal Dreamers)</description>
+		<release name="Metal Max 2 - ReLOADED (Japan) (En) (v1.0) (Metal Dreamers)" region="English"/>
+		<rom name="Metal Max 2 - ReLOADED (Japan) (En) (v1.0) (Metal Dreamers).nds" size="69011968" crc="5D1A9686" md5="bc652b8f1cca1423b67407c9bdc68765" sha1="bcae6cd9cb7eddcfd962fd93ae7ddbc8e60d1c7a"/>
+		<ra_hash>ad8f943356748966c4efb83cd0472d64</ra_hash>
+		<url>https://retroachievements.org/game/24022/hashes</url>
+	</game>
+
 	<game name="Metal Max 3 (Japan)" cloneof="Metal Max 3 (Japan) (En) (v1.0) (Metal Dreamers)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -4953,6 +5080,21 @@
 		<rom name="Monsters vs Aliens (Europe) (Es,It).nds" size="67108864" crc="F15B594B" md5="c7ee1bf2d351ce84fa885dd97837b31b" sha1="e331b284bc9e309fa5e2f7fc1c209d6e4d3ea59d"/>
 		<ra_hash>6cbfd8c823f4f256080e98508c669d7d</ra_hash>
 		<url>https://retroachievements.org/game/24969/hashes</url>
+	</game>
+
+	<game name="Moon (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Moon (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Moon (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Moon (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="E84B85BF" md5="5503f15576c724673757125871a19215" sha1="b9157b930d993db1e1cba24118516958328b7c4d"/>
+		<ra_hash>43f26456eb6c3cbfbf4b7fb97fc154d7</ra_hash>
+		<url>https://retroachievements.org/game/9969/hashes</url>
 	</game>
 
 	<game name="Mr Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
@@ -5772,6 +5914,19 @@
 		<url>https://retroachievements.org/game/27975/hashes</url>
 	</game>
 
+	<game name="Petz - Bunnyz Bunch (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Petz - Bunnyz Bunch (USA) (En,Fr,Es)</description>
+		<release name="Petz - Bunnyz Bunch (USA) (En,Fr,Es)" region="USA"/>
+		<release name="Petz - Bunnyz Bunch (USA) (En,Fr,Es)" region="France"/>
+		<release name="Petz - Bunnyz Bunch (USA) (En,Fr,Es)" region="Spain"/>
+		<release name="Petz - Bunnyz Bunch (USA) (En,Fr,Es)" region="English"/>
+		<rom name="Petz - Bunnyz Bunch (USA) (En,Fr,Es).nds" size="16777216" crc="17A6C6D5" md5="3a1bf6bea84b62801e71df8e2730978c" sha1="1d57da4c2b4451ffd54830129954b8801ed7ee36"/>
+		<ra_hash>56af5163e3c74e0eadf24505ac010b7f</ra_hash>
+		<url>https://retroachievements.org/game/38487/hashes</url>
+	</game>
+
 	<game name="Petz - Dolphinz Encounter (USA) (En,Fr,Es) (NDSi Enhanced)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -5808,6 +5963,22 @@
 		<rom name="Phantasy Star 0 (Europe).nds" size="134217728" crc="B9027C0C" md5="7b13926d3b02a730588537e0577a2dbd" sha1="2aec29f7fbd29580a51325c4026c6e35699afe63"/>
 		<ra_hash>113c2fd7665b28122be821b1809230ac</ra_hash>
 		<url>https://retroachievements.org/game/15653/hashes</url>
+	</game>
+
+	<game name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<rom name="Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="2256D6C1" md5="fb557eaf7b392a2cc2add3d5543da0e1" sha1="bc6ad724c56622451909da36c7686a6fbec2b8c7"/>
+		<ra_hash>bc1b4055372a9a672cddef5e7ff1f326</ra_hash>
+		<url>https://retroachievements.org/game/25929/hashes</url>
 	</game>
 
 	<game name="Phoenix Wright - Ace Attorney (USA)">
@@ -6539,6 +6710,30 @@
 		<rom name="Pokemon Mystery Dungeon - Divided Spirits (tainted3886).nds" size="92382792" crc="0FCAA6B4" md5="87f5e8c626ab54c55739d179da58e559" sha1="575352924f7891b63780f8f6f4f9fe4b24ff2797"/>
 		<ra_hash>6630d61ac94fb03e381a613c8fe9d1f1</ra_hash>
 		<url>https://retroachievements.org/game/24939/hashes</url>
+	</game>
+
+	<game name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" cloneof="Pokemon Mystery Dungeon - Explorers of Darkness (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="5D8D853A" md5="d385be9db26d3f85b295ba770adb908a" sha1="b91a9716f08e2780ab4392331de2349aaec3d42a"/>
+		<ra_hash>01a16e344dadada5671968014a1ea748</ra_hash>
+		<url>https://retroachievements.org/game/16293/hashes</url>
+	</game>
+	<game name="Pokemon Mystery Dungeon - Explorers of Darkness (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Pokemon Mystery Dungeon - Explorers of Darkness (USA)</description>
+		<release name="Pokemon Mystery Dungeon - Explorers of Darkness (USA)" region="USA"/>
+		<rom name="Pokemon Mystery Dungeon - Explorers of Darkness (USA).nds" size="67108864" crc="F2EE539E" md5="caf4b6ec51576218225d93bd6005030c" sha1="ee69bb80ff278851fb5074a118039bd4a86f01e0"/>
+		<ra_hash>242622d88770371ca8f87acf329d913d</ra_hash>
+		<url>https://retroachievements.org/game/16293/hashes</url>
 	</game>
 
 	<game name="Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)">
@@ -8826,6 +9021,21 @@
 		<rom name="Thor - God of Thunder (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="0E594AE6" md5="991398c960743c2d8fb88ff3a3c4a44e" sha1="1435790df86e95a686d119301e5204e0936e390f"/>
 		<ra_hash>a83c60e3d080ca5689d175b7e63db4c3</ra_hash>
 		<url>https://retroachievements.org/game/16609/hashes</url>
+	</game>
+
+	<game name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="98EA8F01" md5="bb5bd4337267125a44df042a3674a4c4" sha1="e2b4665cce091e87c7f592673c392c127a2e65de"/>
+		<ra_hash>e7b92df24ef159d0ef6d4eb7294d443a</ra_hash>
+		<url>https://retroachievements.org/game/20027/hashes</url>
 	</game>
 
 	<game name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)">

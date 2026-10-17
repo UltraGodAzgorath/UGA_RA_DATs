@@ -5,12 +5,12 @@
 		<name>RA - Interton VC 4000</name>
 		<description>Interton VC 4000</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/74-vc-4000/games</url>
-		<titlecount>36</titlecount>
-		<hashcount>39</hashcount>
+		<titlecount>37</titlecount>
+		<hashcount>40</hashcount>
 	</header>
 
 	<game name="Retail/Air-Sea Battle (Europe)">
@@ -65,6 +65,15 @@
 		<rom name="Car Races (Europe).bin" size="2048" crc="2C770DC3" md5="8676fd26de370e88a71368be41b6a0a0" sha1="dec79fb5203a8bce9553437bb96953ca2cf64f68"/>
 		<ra_hash>8676fd26de370e88a71368be41b6a0a0</ra_hash>
 		<url>https://retroachievements.org/game/21625/hashes</url>
+	</game>
+
+	<game name="Retail/Casino (Europe)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Casino (Europe)</description>
+		<rom name="Casino (Europe).bin" size="2048" crc="50FD6A18" md5="485c7e91e79a88c76c3bea9df2e68c9b" sha1="7d2549a3a3373592d2eb88c3a5c9918b32fddafd"/>
+		<ra_hash>485c7e91e79a88c76c3bea9df2e68c9b</ra_hash>
+		<url>https://retroachievements.org/game/21626/hashes</url>
 	</game>
 
 	<game name="Retail/Circus (Europe)">

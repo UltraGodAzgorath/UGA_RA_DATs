@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
-		<version>20260914</version>
-		<date>14 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/5-game-boy-advance/games</url>
-		<titlecount>1224</titlecount>
-		<hashcount>1224</hashcount>
+		<titlecount>1237</titlecount>
+		<hashcount>1237</hashcount>
 	</header>
 
 	<game name="007 - NightFire (USA, Europe) (En,Fr,De)">
@@ -335,6 +335,21 @@
 		<rom name="Animal Snap - Rescue Them 2 by 2 (USA).gba" size="4194304" crc="7304DCA4" md5="8a65cc927274981d1b431bc005fe185d" sha1="899b9158f622ab145c6787b2af65abda902e6a95"/>
 		<ra_hash>8a65cc927274981d1b431bc005fe185d</ra_hash>
 		<url>https://retroachievements.org/game/5544/hashes</url>
+	</game>
+
+	<game name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="840D11C1" md5="4075c0553f360e180cf9efc899b1d8bc" sha1="85dd6bd76f285fac7ddbd729b76fbd5ed83e62cc"/>
+		<ra_hash>4075c0553f360e180cf9efc899b1d8bc</ra_hash>
+		<url>https://retroachievements.org/game/8856/hashes</url>
 	</game>
 
 	<game name="Apotris (World) (v4.0.2) (Aftermarket) (Unl)" cloneof="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)">
@@ -3432,6 +3447,16 @@
 		<url>https://retroachievements.org/game/6582/hashes</url>
 	</game>
 
+	<game name="Famicom Mini 08 - Mappy (Japan) (En)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Famicom Mini 08 - Mappy (Japan) (En)</description>
+		<release name="Famicom Mini 08 - Mappy (Japan) (En)" region="English"/>
+		<rom name="Famicom Mini 08 - Mappy (Japan) (En).gba" size="1048576" crc="C29E4A08" md5="71dffd1adcef71adf9d4ca089b08b6b2" sha1="72ae0ef34e40210ca8cdead5d9e145e28190ded5"/>
+		<ra_hash>71dffd1adcef71adf9d4ca089b08b6b2</ra_hash>
+		<url>https://retroachievements.org/game/12965/hashes</url>
+	</game>
+
 	<game name="Famicom Mini 16 - Dig Dug (Japan)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -5672,6 +5697,16 @@
 		<url>https://retroachievements.org/game/768/hashes</url>
 	</game>
 
+	<game name="Kingdom Hearts - Chain of Memories (Specialty Subset - Level 1)">
+		<category>Specialty Subset</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Kingdom Hearts - Chain of Memories (Specialty Subset - Level 1)</description>
+		<release name="Kingdom Hearts - Chain of Memories (Specialty Subset - Level 1)" region="World"/>
+		<rom name="Kingdom Hearts - Chain of Memories (Specialty Subset - Level 1).gba" size="33554432" crc="87FD9036" md5="02c38fb19dab302379ece65724fb4e0f" sha1="fcfb7b427dd54aeb96d143dd9cf6bf32fcd1c3e7"/>
+		<ra_hash>02c38fb19dab302379ece65724fb4e0f</ra_hash>
+		<url>https://retroachievements.org/game/40413/hashes</url>
+	</game>
+
 	<game name="Kirby &amp; The Amazing Mirror (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -6169,6 +6204,16 @@
 		<rom name="Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba" size="4194304" crc="F11009F9" md5="5f98ec175e2c67d3ba28504c1706dc07" sha1="7ace37aec21c058aa98e3de12140cb691c070e00"/>
 		<ra_hash>5f98ec175e2c67d3ba28504c1706dc07</ra_hash>
 		<url>https://retroachievements.org/game/7330/hashes</url>
+	</game>
+
+	<game name="Lode Runner (Japan)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Lode Runner (Japan)</description>
+		<release name="Lode Runner (Japan)" region="Japan"/>
+		<rom name="Lode Runner (Japan).gba" size="4194304" crc="3E2CF3FF" md5="704943bd18075740bc9157a34d8c612f" sha1="4a52758503a0b6fff2f42277686a6d0c2dbd07f8"/>
+		<ra_hash>704943bd18075740bc9157a34d8c612f</ra_hash>
+		<url>https://retroachievements.org/game/9574/hashes</url>
 	</game>
 
 	<game name="Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)">
@@ -6839,6 +6884,25 @@
 		<rom name="Mega Man &amp; Bass (USA).gba" size="8388608" crc="EEA68C2E" md5="88792ae1fbc74f4a5425d0c6f0482023" sha1="7610847b331870d4338e5ac894b36e55e2bec5a0"/>
 		<ra_hash>88792ae1fbc74f4a5425d0c6f0482023</ra_hash>
 		<url>https://retroachievements.org/game/2179/hashes</url>
+	</game>
+
+	<game name="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)</description>
+		<release name="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)" region="USA"/>
+		<rom name="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console).gba" size="8388608" crc="78DD4EDC" md5="759281beed4bfa975262fd49028efebb" sha1="c715f1d01e016ad6890ebc8ec90120bc3b146a7e"/>
+		<ra_hash>759281beed4bfa975262fd49028efebb</ra_hash>
+		<url>https://retroachievements.org/game/778/hashes</url>
+	</game>
+	<game name="Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console)" cloneof="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console)</description>
+		<release name="Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console)" region="Europe"/>
+		<rom name="Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console).gba" size="8388608" crc="5247772C" md5="a32d78cb1d76eb097760417f232b4b76" sha1="061c291b29629d5ce44011d2d83931f2e35044ed"/>
+		<ra_hash>a32d78cb1d76eb097760417f232b4b76</ra_hash>
+		<url>https://retroachievements.org/game/778/hashes</url>
 	</game>
 
 	<game name="Mega Man Battle Network (Europe) (Pt) (TransFac)" cloneof="Megaman - Battle Network (USA)">
@@ -7567,6 +7631,21 @@
 		<rom name="Monopoly (USA).gba" size="4194304" crc="B01CBC07" md5="ce55f087d1ed4ab12a5bad411dae1113" sha1="81314b9ffe3c4da5060de098ee1394ecef6fe9ad"/>
 		<ra_hash>ce55f087d1ed4ab12a5bad411dae1113</ra_hash>
 		<url>https://retroachievements.org/game/5344/hashes</url>
+	</game>
+
+	<game name="Monster Force (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Monster Force (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Monster Force (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Monster Force (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="137B0F9A" md5="4e1b65a22eddc145fd7efecabff0282e" sha1="4b1578129de4b82003806f7a9b193a8ec813dc46"/>
+		<ra_hash>4e1b65a22eddc145fd7efecabff0282e</ra_hash>
+		<url>https://retroachievements.org/game/5260/hashes</url>
 	</game>
 
 	<game name="Monster House (Europe) (En,Fr,De,Es)">
@@ -9578,6 +9657,22 @@
 		<url>https://retroachievements.org/game/4675/hashes</url>
 	</game>
 
+	<game name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="USA"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="France"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="Germany"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="Italy"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="Spain"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="Netherlands"/>
+		<release name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" region="English"/>
+		<rom name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="DFB57DCF" md5="28a2b3e44952944e29a168e5f17b5696" sha1="e6d3537f4e95e578dcdc84200578e77fbdc381b1"/>
+		<ra_hash>28a2b3e44952944e29a168e5f17b5696</ra_hash>
+		<url>https://retroachievements.org/game/4674/hashes</url>
+	</game>
+
 	<game name="Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Prince of Persia - The Sands of Time (USA) (En,Fr,Es)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -9891,6 +9986,16 @@
 		<rom name="Rhythm Tengoku - Tempo Up! (v1.0) (Jornker) (En) (Beta 14) (Shaffy).gba" size="16777216" crc="88DD7D8D" md5="3958f95015c17091d398871899b323ea" sha1="a516969440b7579c3a64de220a131ad9f0aaa936"/>
 		<ra_hash>3958f95015c17091d398871899b323ea</ra_hash>
 		<url>https://retroachievements.org/game/26958/hashes</url>
+	</game>
+
+	<game name="Ring Dash (World) (v1.0c) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Ring Dash (World) (v1.0c) (Aftermarket) (Unl)</description>
+		<release name="Ring Dash (World) (v1.0c) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Ring Dash (World) (v1.0c) (Aftermarket) (Unl).gba" size="1116952" crc="69687F2B" md5="6674a36645a801ce159766827ca6d8f0" sha1="9345e13b0eb12886a5675078874e3e5aece55c5d"/>
+		<ra_hash>6674a36645a801ce159766827ca6d8f0</ra_hash>
+		<url>https://retroachievements.org/game/31918/hashes</url>
 	</game>
 
 	<game name="Ripping Friends, The - The World's Most Manly Men! (USA, Europe)">
@@ -10254,6 +10359,30 @@
 		<rom name="Sea Trader - Rise of Taipan (USA).gba" size="4194304" crc="7597E8C1" md5="ac807e619878b8219240d908bd7d5ed6" sha1="b4ef625996f413fc563bd3319aff1dc6c1d2dcfe"/>
 		<ra_hash>ac807e619878b8219240d908bd7d5ed6</ra_hash>
 		<url>https://retroachievements.org/game/9208/hashes</url>
+	</game>
+
+	<game name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" cloneof="Secret Agent Barbie - Royal Jewels Mission (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="DA3133C3" md5="065b12ab5b43e941fa0011a5483a47df" sha1="d0e9c2d804d2f47bf8ac22e99c31289e2167a18d"/>
+		<ra_hash>065b12ab5b43e941fa0011a5483a47df</ra_hash>
+		<url>https://retroachievements.org/game/18321/hashes</url>
+	</game>
+	<game name="Secret Agent Barbie - Royal Jewels Mission (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Secret Agent Barbie - Royal Jewels Mission (USA)</description>
+		<release name="Secret Agent Barbie - Royal Jewels Mission (USA)" region="USA"/>
+		<rom name="Secret Agent Barbie - Royal Jewels Mission (USA).gba" size="4194304" crc="610913E0" md5="b5da52577265dbb1d98977da249c4e20" sha1="78b2d7a05998918f047ba2ad68dc00086cbf3ff2"/>
+		<ra_hash>b5da52577265dbb1d98977da249c4e20</ra_hash>
+		<url>https://retroachievements.org/game/18321/hashes</url>
 	</game>
 
 	<game name="SEGA Rally Championship (USA)">
@@ -11065,6 +11194,30 @@
 		<rom name="SonyC (World) (Demo - MSX Port) (Unl).gba" size="372744" crc="DFD9C36A" md5="2dfeaaab827614e32b8868e522be4783" sha1="876b7caba27a24947b943d61bc4a998f2c59c6ab"/>
 		<ra_hash>2dfeaaab827614e32b8868e522be4783</ra_hash>
 		<url>https://retroachievements.org/game/16286/hashes</url>
+	</game>
+
+	<game name="Sound of Thunder, A (Europe) (En,Fr,De,Es,It)" cloneof="Sound of Thunder, A (USA) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Sound of Thunder, A (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Sound of Thunder, A (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Sound of Thunder, A (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="CF404AEE" md5="4a0e450c74e3e07f261a9a8f5624b788" sha1="de11ab261fde7548db244206dd712e50ac486b7b"/>
+		<ra_hash>4a0e450c74e3e07f261a9a8f5624b788</ra_hash>
+		<url>https://retroachievements.org/game/9135/hashes</url>
+	</game>
+	<game name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Sound of Thunder, A (USA) (En,Fr,De,Es,It)</description>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="USA"/>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Sound of Thunder, A (USA) (En,Fr,De,Es,It).gba" size="8388608" crc="72894E1B" md5="26b44c6f29e95b1aae1b79f37725d959" sha1="6eeb95555c432e2a28e29438711f2fdee4d9cf7f"/>
+		<ra_hash>26b44c6f29e95b1aae1b79f37725d959</ra_hash>
+		<url>https://retroachievements.org/game/9135/hashes</url>
 	</game>
 
 	<game name="Space Channel 5 - Ulala's Cosmic Attack (Europe)" cloneof="Space Channel 5 - Ulala's Cosmic Attack (USA)">

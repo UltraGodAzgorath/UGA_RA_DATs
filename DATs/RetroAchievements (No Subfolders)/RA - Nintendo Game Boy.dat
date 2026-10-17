@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/4-game-boy/games</url>
-		<titlecount>745</titlecount>
-		<hashcount>745</hashcount>
+		<titlecount>754</titlecount>
+		<hashcount>754</hashcount>
 	</header>
 
 	<game name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
@@ -943,6 +943,16 @@
 		<rom name="Block Kuzushi GB (Japan) (SGB Enhanced).gb" size="131072" crc="54B67501" md5="55ef8421492242c2726e355c41aef000" sha1="7540fe9af69d8c7d48f50c2d5fe6d3ce07421f74"/>
 		<ra_hash>55ef8421492242c2726e355c41aef000</ra_hash>
 		<url>https://retroachievements.org/game/4064/hashes</url>
+	</game>
+
+	<game name="Blodia (Japan)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Blodia (Japan)</description>
+		<release name="Blodia (Japan)" region="Japan"/>
+		<rom name="Blodia (Japan).gb" size="65536" crc="51FF6E53" md5="5e3005e18f030f58e8b919d35cb297d7" sha1="a3927543ca471f479ba7aae7295788434672464e"/>
+		<ra_hash>5e3005e18f030f58e8b919d35cb297d7</ra_hash>
+		<url>https://retroachievements.org/game/7289/hashes</url>
 	</game>
 
 	<game name="Blues Brothers, The (USA, Europe)">
@@ -4249,6 +4259,16 @@
 		<url>https://retroachievements.org/game/717/hashes</url>
 	</game>
 
+	<game name="mortal-coil">
+		<category>Homebrew</category>
+		<source>itchio</source>
+		<description>mortal-coil</description>
+		<release name="mortal-coil" region="World"/>
+		<rom name="mortal-coil.gb" size="32768" crc="AAFA7686" md5="f9bba2eb6e79512dbf387cfb8a8f25ae" sha1="c8758167487e863a0070545fdb02e9191bf67c2b"/>
+		<ra_hash>f9bba2eb6e79512dbf387cfb8a8f25ae</ra_hash>
+		<url>https://retroachievements.org/game/45174/hashes</url>
+	</game>
+
 	<game name="Motocross Maniacs (Europe)" cloneof="Motocross Maniacs (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -4276,6 +4296,25 @@
 		<rom name="Mr. Chin's Gourmet Paradise (USA).gb" size="65536" crc="D03E59AA" md5="1efbb42c4db24e5e42e778d969ba1f5d" sha1="1b510734463a5095fa94786fc233b57587ee402d"/>
 		<ra_hash>1efbb42c4db24e5e42e778d969ba1f5d</ra_hash>
 		<url>https://retroachievements.org/game/6410/hashes</url>
+	</game>
+
+	<game name="Mr. Do! (Europe)" cloneof="Mr. Do! (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Mr. Do! (Europe)</description>
+		<release name="Mr. Do! (Europe)" region="Europe"/>
+		<rom name="Mr. Do! (Europe).gb" size="65536" crc="CF84AC77" md5="d8fafe7e8bf3d169d03b48ea23262fd5" sha1="83663a2d49cfe41e6d9a6aad6157d7d8f024e969"/>
+		<ra_hash>d8fafe7e8bf3d169d03b48ea23262fd5</ra_hash>
+		<url>https://retroachievements.org/game/4746/hashes</url>
+	</game>
+	<game name="Mr. Do! (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Mr. Do! (USA)</description>
+		<release name="Mr. Do! (USA)" region="USA"/>
+		<rom name="Mr. Do! (USA).gb" size="65536" crc="A1122FC0" md5="65e455737df458e59cc7b0892b95e6cd" sha1="1262a3119e7d7cb724863afa0ac467756f2fe611"/>
+		<ra_hash>65e455737df458e59cc7b0892b95e6cd</ra_hash>
+		<url>https://retroachievements.org/game/4746/hashes</url>
 	</game>
 
 	<game name="Mr. Nutz (Europe)">
@@ -6819,6 +6858,16 @@
 		<url>https://retroachievements.org/game/41261/hashes</url>
 	</game>
 
+	<game name="Unown Message (World) (v1.2) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>Unknown</source>
+		<description>Unown Message (World) (v1.2) (Aftermarket) (Unl)</description>
+		<release name="Unown Message (World) (v1.2) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Unown Message (World) (v1.2) (Aftermarket) (Unl).gb" size="524288" crc="D4B15C14" md5="e51575af9a823e28b0b9078d00eef377" sha1="071923840b8c09d414134ab92d2b924829a2f690"/>
+		<ra_hash>e51575af9a823e28b0b9078d00eef377</ra_hash>
+		<url>https://retroachievements.org/game/45048/hashes</url>
+	</game>
+
 	<game name="UNPAN (World) (Aftermarket) (GB Studio)">
 		<category>Homebrew</category>
 		<source>itchio, Lost Level Archive</source>
@@ -7294,6 +7343,46 @@
 		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65A35AE5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06"/>
 		<ra_hash>35e6e4336d8c1a1997cf7c4f047bc91a</ra_hash>
 		<url>https://retroachievements.org/game/595/hashes</url>
+	</game>
+
+	<game name="Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl)</description>
+		<release name="Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="C5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e"/>
+		<ra_hash>b814eb1064975392a2db18b5f410abf7</ra_hash>
+		<url>https://retroachievements.org/game/33386/hashes</url>
+	</game>
+
+	<game name="Yurivania 0 - Soul Night Prelude (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Yurivania 0 - Soul Night Prelude (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)</description>
+		<release name="Yurivania 0 - Soul Night Prelude (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Yurivania 0 - Soul Night Prelude (World) (v1.3) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="8CDF4B90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003"/>
+		<ra_hash>97b6eb86385cc51fed8f65c6db04548a</ra_hash>
+		<url>https://retroachievements.org/game/33385/hashes</url>
+	</game>
+
+	<game name="Yurivania II - Josette's Quest (World) (v1.3) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro, itchio</source>
+		<description>Yurivania II - Josette's Quest (World) (v1.3) (Aftermarket) (Unl)</description>
+		<release name="Yurivania II - Josette's Quest (World) (v1.3) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Yurivania II - Josette's Quest (World) (v1.3) (Aftermarket) (Unl).gbc" size="1048576" crc="B80D7525" md5="bea053b0d658d549444a2f3e71a3e135" sha1="05c7256bf9f12f60f453a0627d813904c8713378"/>
+		<ra_hash>bea053b0d658d549444a2f3e71a3e135</ra_hash>
+		<url>https://retroachievements.org/game/45078/hashes</url>
+	</game>
+
+	<game name="Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl)</description>
+		<release name="Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl).gbc" size="2097152" crc="0EBD50FE" md5="9e679016b9d0e1e5a5039343b36a0a4d" sha1="59dd1d43576c56c8843df2307a5c2ae0ec5331f7"/>
+		<ra_hash>9e679016b9d0e1e5a5039343b36a0a4d</ra_hash>
+		<url>https://retroachievements.org/game/45082/hashes</url>
 	</game>
 
 	<game name="Yuuto Ichika Makes Friends (World) (En,Ja) (Aftermarket) (Unl)">

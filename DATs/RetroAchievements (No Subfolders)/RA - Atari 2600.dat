@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/25-atari-2600/games</url>
-		<titlecount>205</titlecount>
-		<hashcount>219</hashcount>
+		<titlecount>207</titlecount>
+		<hashcount>221</hashcount>
 	</header>
 
 	<game name="3-D Tic-Tac-Toe (Europe)" cloneof="3-D Tic-Tac-Toe (USA)">
@@ -614,6 +614,16 @@
 		<url>https://retroachievements.org/game/12999/hashes</url>
 	</game>
 
+	<game name="DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)">
+		<category>Homebrew</category>
+		<source>Lost Level Archive</source>
+		<description>DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)</description>
+		<release name="DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)" region="USA"/>
+		<rom name="DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26" size="4096" crc="C286867D" md5="586e564c757288003b7f97ec25dd3430" sha1="142642c96f28c8eb138979e2c56cfbcc913535b0"/>
+		<ra_hash>586e564c757288003b7f97ec25dd3430</ra_hash>
+		<url>https://retroachievements.org/game/33605/hashes</url>
+	</game>
+
 	<game name="Dolphin (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -652,6 +662,16 @@
 		<rom name="Donkey Kong Junior (USA).a26" size="8192" crc="9EF649E5" md5="c8fa5d69d9e555eb16068ef87b1c9c45" sha1="98f98ac0728c68de66afda6500cafbdffe8ab50a"/>
 		<ra_hash>c8fa5d69d9e555eb16068ef87b1c9c45</ra_hash>
 		<url>https://retroachievements.org/game/13323/hashes</url>
+	</game>
+
+	<game name="Double Dragon (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Double Dragon (USA)</description>
+		<release name="Double Dragon (USA)" region="USA"/>
+		<rom name="Double Dragon (USA).a26" size="16384" crc="8320BB37" md5="7e2fe40a788e56765fe56a3576019968" sha1="cc99dba0a78fedd171387f492e9810f3037a5f05"/>
+		<ra_hash>7e2fe40a788e56765fe56a3576019968</ra_hash>
+		<url>https://retroachievements.org/game/13331/hashes</url>
 	</game>
 
 	<game name="Dragonfire (USA)">

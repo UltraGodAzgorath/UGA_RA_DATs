@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/10-sega-32x/games</url>
-		<titlecount>40</titlecount>
-		<hashcount>40</hashcount>
+		<titlecount>41</titlecount>
+		<hashcount>41</hashcount>
 	</header>
 
 	<game name="After Burner Complete (Japan, USA) (En)">
@@ -270,6 +270,16 @@
 		<rom name="Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman).32x" size="4194304" crc="FD23368F" md5="16a811628cd9245f2101e218581cd594" sha1="688dab802b8d17e624d00f45832ea33060065b79"/>
 		<ra_hash>16a811628cd9245f2101e218581cd594</ra_hash>
 		<url>https://retroachievements.org/game/33276/hashes</url>
+	</game>
+
+	<game name="Sonic_4_Cybernetic_Outbreak_(VarionIcaria)_(SHC2015)">
+		<category>Hack</category>
+		<source>Unknown</source>
+		<description>Sonic_4_Cybernetic_Outbreak_(VarionIcaria)_(SHC2015)</description>
+		<release name="Sonic_4_Cybernetic_Outbreak_(VarionIcaria)_(SHC2015)" region="World"/>
+		<rom name="Sonic_4_Cybernetic_Outbreak_(VarionIcaria)_(SHC2015).32x" size="4194304" crc="C063C79F" md5="574af49a22145205c82d01fb8d9d23f5" sha1="ba0ad18b5b7ab9af0db82c03f5dd84d1b7313f1d"/>
+		<ra_hash>574af49a22145205c82d01fb8d9d23f5</ra_hash>
+		<url>https://retroachievements.org/game/45167/hashes</url>
 	</game>
 
 	<game name="Soulstar X (USA) (Proto)">

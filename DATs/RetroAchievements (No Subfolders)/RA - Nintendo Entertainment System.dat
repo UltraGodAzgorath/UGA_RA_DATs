@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/7-nintendo-entertainment-system/games</url>
-		<titlecount>1979</titlecount>
-		<hashcount>1979</hashcount>
+		<titlecount>1988</titlecount>
+		<hashcount>1988</hashcount>
 	</header>
 
 	<game name="10-Yard Fight (USA, Europe)">
@@ -1274,6 +1274,16 @@
 		<url>https://retroachievements.org/game/1564/hashes</url>
 	</game>
 
+	<game name="Baseball Stars (USA)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Baseball Stars (USA)</description>
+		<release name="Baseball Stars (USA)" region="USA"/>
+		<rom name="Baseball Stars (USA).nes" size="262160" crc="7CFF4E35" md5="0f102f4dce163bfa2381b0ea201c3376" sha1="290aa75dcdd8c7bde995107cca200cb03c314875"/>
+		<ra_hash>657933b8730e30a080a85c4c04c15d38</ra_hash>
+		<url>https://retroachievements.org/game/1563/hashes</url>
+	</game>
+
 	<game name="Bases Loaded (USA)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -2293,12 +2303,12 @@
 		<url>https://retroachievements.org/game/1611/hashes</url>
 	</game>
 
-	<game name="Castlevania (Subset - Bonus)">
+	<game name="Castlevania (Subset - Extreme Challenges)">
 		<category>Subset</category>
 		<source>No-Intro, RAPatches</source>
-		<description>Castlevania (Subset - Bonus)</description>
-		<release name="Castlevania (Subset - Bonus)" region="World"/>
-		<rom name="Castlevania (Subset - Bonus).nes" size="131088" crc="720AABEE" md5="cc0b84caf863637bb8a61bc071761c40" sha1="e472df16e20bc447de87674fc15d6bd43ead7ee1"/>
+		<description>Castlevania (Subset - Extreme Challenges)</description>
+		<release name="Castlevania (Subset - Extreme Challenges)" region="World"/>
+		<rom name="Castlevania (Subset - Extreme Challenges).nes" size="131088" crc="720AABEE" md5="cc0b84caf863637bb8a61bc071761c40" sha1="e472df16e20bc447de87674fc15d6bd43ead7ee1"/>
 		<ra_hash>18c676ea6195c865b892f8e03ef589e2</ra_hash>
 		<url>https://retroachievements.org/game/1865/hashes</url>
 	</game>
@@ -3338,6 +3348,33 @@
 		<rom name="D+Pad Hero II (USA) (Aftermarket) (Unl).nes" size="262160" crc="1B63956A" md5="938fa042965bcffb50fa04364fd0eb04" sha1="e224bad759ba6e52dc46b5a416b10ec2ba7d20d7"/>
 		<ra_hash>f86ae8bf771b96bc1d6493c387a5fc9b</ra_hash>
 		<url>https://retroachievements.org/game/4598/hashes</url>
+	</game>
+
+	<game name="Daikaijuu Deburas (En) (v1.0) (BlackPaladin)" cloneof="Daikaijuu Deburas (En) (v1.01) (BlackPaladin)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Daikaijuu Deburas (En) (v1.0) (BlackPaladin)</description>
+		<rom name="Daikaijuu Deburas (En) (v1.0) (BlackPaladin).nes" size="524304" crc="C24206CD" md5="6dfaa66e3ce1fbb3eb4e2513706ff796" sha1="c179971d8b7c82335680915bbfbc98f4fc3a3fef"/>
+		<ra_hash>f625a52b8d34994fcf81d74163ab2dcf</ra_hash>
+		<url>https://retroachievements.org/game/7923/hashes</url>
+	</game>
+	<game name="Daikaijuu Deburas (En) (v1.01) (BlackPaladin)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Daikaijuu Deburas (En) (v1.01) (BlackPaladin)</description>
+		<release name="Daikaijuu Deburas (En) (v1.01) (BlackPaladin)" region="English"/>
+		<rom name="Daikaijuu Deburas (En) (v1.01) (BlackPaladin).nes" size="524304" crc="A129647C" md5="4bd6e94181d75e09f1b1cd5f16154784" sha1="6b12d851fb073b6fd088332e3d00f606e3cc1c88"/>
+		<ra_hash>0312557f6978f6ed5f22e8a8ad62b6b9</ra_hash>
+		<url>https://retroachievements.org/game/7923/hashes</url>
+	</game>
+	<game name="Daikaijuu Deburas (Japan)" cloneof="Daikaijuu Deburas (En) (v1.01) (BlackPaladin)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Daikaijuu Deburas (Japan)</description>
+		<release name="Daikaijuu Deburas (Japan)" region="Japan"/>
+		<rom name="Daikaijuu Deburas (Japan).nes" size="393232" crc="7FDF1BB3" md5="13b8206c2e0dcc0532ac355a4a2ee5f8" sha1="fa8f9a417161d1731e7f26bbd8ca13dd06963c4f"/>
+		<ra_hash>52c1ce5616a04f43a4b9df63e3d93a00</ra_hash>
+		<url>https://retroachievements.org/game/7923/hashes</url>
 	</game>
 
 	<game name="Daiku no Gen-san (Japan)" cloneof="Hammerin' Harry (Europe)">
@@ -7544,16 +7581,6 @@
 		<url>https://retroachievements.org/game/1742/hashes</url>
 	</game>
 
-	<game name="Hyperbeatz (World) (v1.2.1) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
-		<source>No-Intro</source>
-		<description>Hyperbeatz (World) (v1.2.1) (Aftermarket) (Unl)</description>
-		<release name="Hyperbeatz (World) (v1.2.1) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Hyperbeatz (World) (v1.2.1) (Aftermarket) (Unl).nes" size="40976" crc="F312583E" md5="70ae1fb3f1e1bd2e97556723caf969f7" sha1="07d78c3738e3a07fc483241b341dfa68ba58806b"/>
-		<ra_hash>47b32b45a5be030506d7d9496b7acc39</ra_hash>
-		<url>https://retroachievements.org/game/5839/hashes</url>
-	</game>
-
 	<game name="I Wanna Flip the Sky (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
 		<source>No-Intro</source>
@@ -9097,6 +9124,43 @@
 		<url>https://retroachievements.org/game/7004/hashes</url>
 	</game>
 
+	<game name="Kunio-kun no Nekketsu Soccer League (Japan)" cloneof="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Kunio-kun no Nekketsu Soccer League (Japan)</description>
+		<release name="Kunio-kun no Nekketsu Soccer League (Japan)" region="Japan"/>
+		<rom name="Kunio-kun no Nekketsu Soccer League (Japan).nes" size="262160" crc="907D7BCB" md5="54947cb5718ba8579e0c3a0a731f60e4" sha1="f47c60143992c5f2e36a31c5f290900c54dc346e"/>
+		<ra_hash>8bdc944fa785466ea2cb81e148ff86e6</ra_hash>
+		<url>https://retroachievements.org/game/2752/hashes</url>
+	</game>
+	<game name="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)</description>
+		<release name="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)" region="English"/>
+		<rom name="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero).nes" size="262160" crc="05A01BFE" md5="ab554e71c1d68a2a9afb41c028881b35" sha1="651ce98dd49a812dfa6ae3d79a2a73b05fdc5cc8"/>
+		<ra_hash>ecce7b973d090e2f8990c8399231d092</ra_hash>
+		<url>https://retroachievements.org/game/2752/hashes</url>
+	</game>
+	<game name="Kunio-kun no Nekketsu Soccer League (Japan) (Es) (v1.0) (Butz Klauser)" cloneof="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Kunio-kun no Nekketsu Soccer League (Japan) (Es) (v1.0) (Butz Klauser)</description>
+		<release name="Kunio-kun no Nekketsu Soccer League (Japan) (Es) (v1.0) (Butz Klauser)" region="Spain"/>
+		<rom name="Kunio-kun no Nekketsu Soccer League (Japan) (Es) (v1.0) (Butz Klauser).nes" size="262160" crc="34634F21" md5="b5a869bebb6a736bb1e706f92894135e" sha1="d7ec696163285f0fa72c6dff3f2e3855e459bd16"/>
+		<ra_hash>1389007c29f70ac1fc399581008d4e3a</ra_hash>
+		<url>https://retroachievements.org/game/2752/hashes</url>
+	</game>
+	<game name="Kunio-kun no Nekketsu Soccer League (Japan) (Ru) (v1.0) (eXponat)" cloneof="Kunio-kun no Nekketsu Soccer League (Japan) (En) (v1.2) (PentarouZero)">
+		<category>Retail</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Kunio-kun no Nekketsu Soccer League (Japan) (Ru) (v1.0) (eXponat)</description>
+		<release name="Kunio-kun no Nekketsu Soccer League (Japan) (Ru) (v1.0) (eXponat)" region="Russia"/>
+		<rom name="Kunio-kun no Nekketsu Soccer League (Japan) (Ru) (v1.0) (eXponat).nes" size="262160" crc="7BE946AE" md5="65cb286ae7bd75b9653ea7ed9e2871dd" sha1="391f987b34bc19785af6bc98bb9d5ea5f6aa1141"/>
+		<ra_hash>40c8166dcf82397a29887fd5560a791b</ra_hash>
+		<url>https://retroachievements.org/game/2752/hashes</url>
+	</game>
+
 	<game name="Kyouryuu Sentai Juuranger (Japan) (En) (v0.99) (DankTrans)">
 		<category>Retail</category>
 		<source>No-Intro, RAPatches</source>
@@ -10300,6 +10364,16 @@
 		<rom name="Maniac Mansion (USA) (Fr) (v0.1) (HIEI).nes" size="262160" crc="21E76F3A" md5="13466a581e17f63b97f120cf039a4e54" sha1="435779628ee8541c330aa3416e00632c8c453451"/>
 		<ra_hash>2717773e0fe484f15ea0fe679606d03a</ra_hash>
 		<url>https://retroachievements.org/game/1482/hashes</url>
+	</game>
+
+	<game name="Mantle (World) (v1.1) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Mantle (World) (v1.1) (Aftermarket) (Unl)</description>
+		<release name="Mantle (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mantle (World) (v1.1) (Aftermarket) (Unl).nes" size="163856" crc="C3B96D0F" md5="797fa67c5b7926154ffdb16a4e36fba9" sha1="8ef4aa2f142c7daa1c1b7793e454d198f8183e52"/>
+		<ra_hash>1b237dad2776c11740323b3a58f71542</ra_hash>
+		<url>https://retroachievements.org/game/34512/hashes</url>
 	</game>
 
 	<game name="Mappy (Japan)" cloneof="Mappy (Japan) (Marippy Sprite Hack) (1.0) (DASTARD)">
@@ -12828,6 +12902,16 @@
 		<rom name="Peek-A-Boo Poker (USA) (Unl).nes" size="98320" crc="2D61DD1B" md5="66e1db915122cea14cab718ab2646a83" sha1="adc05d7b9627ee180a58910cba26184ca545cfce"/>
 		<ra_hash>5dbe4f8550a5ed3b16a05e8f9a45a3df</ra_hash>
 		<url>https://retroachievements.org/game/4565/hashes</url>
+	</game>
+
+	<game name="Penguin - Sokoban Adventure (World) (v1.1) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<source>No-Intro</source>
+		<description>Penguin - Sokoban Adventure (World) (v1.1) (Aftermarket) (Unl)</description>
+		<release name="Penguin - Sokoban Adventure (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Penguin - Sokoban Adventure (World) (v1.1) (Aftermarket) (Unl).nes" size="65552" crc="21278B6F" md5="a1fcc5075ad3e0211ad0304e9ba3a31d" sha1="043abe285e41ead437d87e9d4998f625cfaf02a5"/>
+		<ra_hash>0fc8a4a91b863f376631410a302a4494</ra_hash>
+		<url>https://retroachievements.org/game/43565/hashes</url>
 	</game>
 
 	<game name="Penguin-kun Wars (Japan)">

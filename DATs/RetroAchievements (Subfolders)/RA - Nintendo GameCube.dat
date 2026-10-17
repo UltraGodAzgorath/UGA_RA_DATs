@@ -5,12 +5,12 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/16-gamecube/games</url>
-		<titlecount>272</titlecount>
-		<hashcount>294</hashcount>
+		<titlecount>277</titlecount>
+		<hashcount>299</hashcount>
 	</header>
 
 	<game name="Retail/1080 Avalanche (USA)">
@@ -1742,6 +1742,15 @@
 		<url>https://retroachievements.org/game/38660/hashes</url>
 	</game>
 
+	<game name="Hack/SMB2 - Super Monkey Ball Jr. Remake (v1.0) (Dunkmaner)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>SMB2 - Super Monkey Ball Jr. Remake (v1.0) (Dunkmaner)</description>
+		<rom name="SMB2 - Super Monkey Ball Jr. Remake (v1.0) (Dunkmaner).rvz" size="654655696" crc="57FA4ACA" md5="f89897a029096ac3017169ff3d247054" sha1="8de4ed8d59cc247ec4eee5a7e413b791f20fc971"/>
+		<ra_hash>391597776dc7c9e55697591e290e2461</ra_hash>
+		<url>https://retroachievements.org/game/42494/hashes</url>
+	</game>
+
 	<game name="Hack/SMS - Super Doot Sunshine (v1.4.0) (warspyking)">
 		<category></category>
 		<source>Redump, gamebanana, RAPatches</source>
@@ -1910,6 +1919,40 @@
 		<rom name="SpongeBob SquarePants - The Movie - Movie Mashup (v1.0) (Eyepie).rvz" size="499341596" crc="80FEA580" md5="dbca142747020dfdbca58434a40b040c" sha1="149d5ce39bb32443d89f9221c089440f6d279554"/>
 		<ra_hash>4fb9ceceac4822a8d20c4081178502ec</ra_hash>
 		<url>https://retroachievements.org/game/31936/hashes</url>
+	</game>
+
+	<game name="Hack/SpongeBob SquarePants Movie - The Twilight Fair (v1.1) (Heavy Iron Modding)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>SpongeBob SquarePants Movie - The Twilight Fair (v1.1) (Heavy Iron Modding)</description>
+		<rom name="SpongeBob SquarePants Movie - The Twilight Fair (v1.1) (Heavy Iron Modding).rvz" size="604478800" crc="EE3D5C78" md5="1c5fb7f21fac3c880b6d298a8542e9c1" sha1="a435297fdf3784f60803edd2a1ebd965d7bc1a61"/>
+		<ra_hash>594ee9f77f7d8fa471662d9a0900abb7</ra_hash>
+		<url>https://retroachievements.org/game/39690/hashes</url>
+	</game>
+
+	<game name="Retail/SSX 3/SSX 3 (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>SSX 3 (Europe) (En,Fr,De,Es)</description>
+		<rom name="SSX 3 (Europe) (En,Fr,De,Es).rvz" size="1225395464" crc="34C0E1D8" md5="8464a78087da53fb114fe7d4b2eb4821" sha1="45a269e98a82de288a4341bf37c8e4e6df3175d4"/>
+		<ra_hash>813e392d62be2991e09360ddd24c3bfe</ra_hash>
+		<url>https://retroachievements.org/game/3776/hashes</url>
+	</game>
+	<game name="Retail/SSX 3/SSX 3 (Japan)">
+		<category></category>
+		<source>Redump</source>
+		<description>SSX 3 (Japan)</description>
+		<rom name="SSX 3 (Japan).rvz" size="1169582136" crc="D9C922D9" md5="096778887b04d1bec68fe8476ed14bd2" sha1="80c571f8b9996dd445a7333586163172a2cef35c"/>
+		<ra_hash>00656d64afbdcaada265a9adf0b206f6</ra_hash>
+		<url>https://retroachievements.org/game/3776/hashes</url>
+	</game>
+	<game name="Retail/SSX 3/SSX 3 (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>SSX 3 (USA)</description>
+		<rom name="SSX 3 (USA).rvz" size="1043189072" crc="D7984AC4" md5="bf6b403c3eb0d2693da3e7dcc68234dd" sha1="ac833a7b7a148661c4d776e24c497f1ba534a5f8"/>
+		<ra_hash>80ca1596e351c2b142f5a18183b27ac2</ra_hash>
+		<url>https://retroachievements.org/game/3776/hashes</url>
 	</game>
 
 	<game name="Retail/Star Fox - Assault (USA)">

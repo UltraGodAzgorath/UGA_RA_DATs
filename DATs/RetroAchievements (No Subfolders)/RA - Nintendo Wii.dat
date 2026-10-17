@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/19-wii/games</url>
-		<titlecount>389</titlecount>
-		<hashcount>389</hashcount>
+		<titlecount>396</titlecount>
+		<hashcount>396</hashcount>
 	</header>
 
 	<game name="3D Pixel Racing (USA) (WiiWare)">
@@ -19,6 +19,34 @@
 		<rom name="3D Pixel Racing (USA) (WiiWare).wad" size="13333312" crc="29ECA369" md5="c710aa4ef53b3d6f732cf7cda5faaacb" sha1="74277eda48626f1d994399d9695dbc6aeb4e05b2"/>
 		<ra_hash>2f66e9946c1695f15576fd64885298a6</ra_hash>
 		<url>https://retroachievements.org/game/36128/hashes</url>
+	</game>
+
+	<game name="Aa! Mitsuketa! Item Sagashi Game (Japan) (WiiWare)" cloneof="Aha! I Found It! - Hidden Object Game (USA) (WiiWare)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Aa! Mitsuketa! Item Sagashi Game (Japan) (WiiWare)</description>
+		<release name="Aa! Mitsuketa! Item Sagashi Game (Japan) (WiiWare)" region="Japan"/>
+		<rom name="Aa! Mitsuketa! Item Sagashi Game (Japan) (WiiWare).wad" size="11441088" crc="A9FF1AC8" md5="b3f946ee05b8db1e964fee62de17f19c" sha1="68d46e8e0b80edb919c172903e81de5900b7156e"/>
+		<ra_hash>80d5e21c786ad1239d2158c58e306fc2</ra_hash>
+		<url>https://retroachievements.org/game/38568/hashes</url>
+	</game>
+	<game name="Aha! I Found It! - Hidden Object Game (Europe) (WiiWare)" cloneof="Aha! I Found It! - Hidden Object Game (USA) (WiiWare)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Aha! I Found It! - Hidden Object Game (Europe) (WiiWare)</description>
+		<release name="Aha! I Found It! - Hidden Object Game (Europe) (WiiWare)" region="Europe"/>
+		<rom name="Aha! I Found It! - Hidden Object Game (Europe) (WiiWare).wad" size="12072192" crc="1E077883" md5="23cb15996a637c78ee8b484b7b96332e" sha1="1100a4d25f4673ae1126c82c1aa52139d2782e30"/>
+		<ra_hash>ab6a43800cf54d9ec5133f5fd5cb2231</ra_hash>
+		<url>https://retroachievements.org/game/38568/hashes</url>
+	</game>
+	<game name="Aha! I Found It! - Hidden Object Game (USA) (WiiWare)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Aha! I Found It! - Hidden Object Game (USA) (WiiWare)</description>
+		<release name="Aha! I Found It! - Hidden Object Game (USA) (WiiWare)" region="USA"/>
+		<rom name="Aha! I Found It! - Hidden Object Game (USA) (WiiWare).wad" size="12078848" crc="94B0BE66" md5="2677fcf70e54a99151dae551fdfebd91" sha1="54c046f4e67f80d6c6b9d3ba30fd072979a5fa58"/>
+		<ra_hash>4b1670bc86ad3dcc6b1804ef775e626e</ra_hash>
+		<url>https://retroachievements.org/game/38568/hashes</url>
 	</game>
 
 	<game name="Adventure Island - The Beginning (Europe) (WiiWare)" cloneof="Adventure Island - The Beginning (USA) (WiiWare)">
@@ -168,6 +196,16 @@
 		<rom name="Art of Balance (USA) (WiiWare).wad" size="36751552" crc="85F0D5DE" md5="5be9ca02614c49dff6d80a1588913a7e" sha1="960f758c278a30d3f53c6995f237285438571014"/>
 		<ra_hash>4837cff21bd762c8980295f7e53497c3</ra_hash>
 		<url>https://retroachievements.org/game/35964/hashes</url>
+	</game>
+
+	<game name="Art Style - ROTOZOA (USA) (WiiWare)">
+		<category>Retail</category>
+		<source>No-Intro</source>
+		<description>Art Style - ROTOZOA (USA) (WiiWare)</description>
+		<release name="Art Style - ROTOZOA (USA) (WiiWare)" region="USA"/>
+		<rom name="Art Style - ROTOZOA (USA) (WiiWare).wad" size="15638336" crc="EF28EF14" md5="d3dbe2596ee395e28140533922d60f8a" sha1="18ffa206fc86a390358afe1301e2de315365a561"/>
+		<ra_hash>eb95b58873842dd610f4d5f239a698a2</ra_hash>
+		<url>https://retroachievements.org/game/35536/hashes</url>
 	</game>
 
 	<game name="Babysitting Mama (USA)">
@@ -1330,6 +1368,19 @@
 		<url>https://retroachievements.org/game/34671/hashes</url>
 	</game>
 
+	<game name="FlingSmash (USA) (En,Fr,Es) (Rev 1)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>FlingSmash (USA) (En,Fr,Es) (Rev 1)</description>
+		<release name="FlingSmash (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+		<release name="FlingSmash (USA) (En,Fr,Es) (Rev 1)" region="France"/>
+		<release name="FlingSmash (USA) (En,Fr,Es) (Rev 1)" region="Spain"/>
+		<release name="FlingSmash (USA) (En,Fr,Es) (Rev 1)" region="English"/>
+		<rom name="FlingSmash (USA) (En,Fr,Es) (Rev 1).rvz" size="861948696" crc="D46706D9" md5="4bce39e813d5d83ecca6043d16af8ab7" sha1="56cd6bdae6d009fe11381fd67e8085b580362f9b"/>
+		<ra_hash>5a014827ee3d98dfae16b15ef07ebc65</ra_hash>
+		<url>https://retroachievements.org/game/36034/hashes</url>
+	</game>
+
 	<game name="Fluidity (USA) (WiiWare)">
 		<category>Retail</category>
 		<source>No-Intro</source>
@@ -2208,6 +2259,19 @@
 		<rom name="Mad Dog McCree - Gunslinger Pack (USA) (En,Fr,Es).rvz" size="4270301756" crc="1ED42767" md5="504552db7aa0d3680fa659e512aeef4b" sha1="1d71173165990e5114a258a3a321bc6bbf9c5350"/>
 		<ra_hash>5992757160d695e8d88acaf8cd025e46</ra_hash>
 		<url>https://retroachievements.org/game/35261/hashes</url>
+	</game>
+
+	<game name="MadWorld (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>MadWorld (USA) (En,Fr,Es)</description>
+		<release name="MadWorld (USA) (En,Fr,Es)" region="USA"/>
+		<release name="MadWorld (USA) (En,Fr,Es)" region="France"/>
+		<release name="MadWorld (USA) (En,Fr,Es)" region="Spain"/>
+		<release name="MadWorld (USA) (En,Fr,Es)" region="English"/>
+		<rom name="MadWorld (USA) (En,Fr,Es).rvz" size="2427771660" crc="F0FB6E4C" md5="6190e6be2525cc997eb3b3f0339b1e8f" sha1="8a4bc9be7c261496f8a414bf8ed80416ea940a67"/>
+		<ra_hash>311c5102f4486b2b8b5df539c58a8a8c</ra_hash>
+		<url>https://retroachievements.org/game/86/hashes</url>
 	</game>
 
 	<game name="Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It)">
@@ -4296,6 +4360,21 @@
 		<rom name="Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl).rvz" size="2661728624" crc="CA978182" md5="03ee7368c88c15d36b3f49d853e47d37" sha1="77624f959e8354e903bc5c50b406366134398265"/>
 		<ra_hash>b2f8010e0806241451c9605a0e600237</ra_hash>
 		<url>https://retroachievements.org/game/35523/hashes</url>
+	</game>
+
+	<game name="Wii Chess (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Wii Chess (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="France"/>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="Germany"/>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="Italy"/>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="Spain"/>
+		<release name="Wii Chess (Europe) (En,Fr,De,Es,It)" region="English"/>
+		<rom name="Wii Chess (Europe) (En,Fr,De,Es,It).rvz" size="194848044" crc="C5B66D41" md5="b4123a46629efeccca733fd0b762f40b" sha1="2ecacd36f1543340f399c31fb8e888c5e199faf4"/>
+		<ra_hash>d9be53705d71d78d86e7d2ae6238f16a</ra_hash>
+		<url>https://retroachievements.org/game/35966/hashes</url>
 	</game>
 
 	<game name="Wii Play (USA) (Rev 1)">

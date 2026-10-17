@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/27-arcade/games</url>
-		<titlecount>535</titlecount>
-		<hashcount>785</hashcount>
+		<titlecount>539</titlecount>
+		<hashcount>790</hashcount>
 	</header>
 
 	<game name="captcomm">
@@ -11448,6 +11448,53 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 	</game>
 
+	<game name="spang">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Super Pang (World 900914)</description>
+		<release name="spang" region="World"/>
+		<year>1990</year>
+		<manufacturer>Mitchell</manufacturer>
+		<rom name="spe_06.11h" size="32768" crc="1af106fb"/>
+		<rom name="spe_07.13h" size="131072" crc="208b5f54"/>
+		<rom name="spe_08.14h" size="131072" crc="2bc03ade"/>
+		<rom name="spe_02.1e" size="131072" crc="63c9dfd2"/>
+		<rom name="spj_03.3e" size="131072" crc="3ae28bc1"/>
+		<rom name="spe_04.1g" size="131072" crc="9d7b225b"/>
+		<rom name="spj_05.2g" size="131072" crc="4a060884"/>
+		<rom name="spj_10.2k" size="131072" crc="eedd0ade"/>
+		<rom name="spj_09.1k" size="131072" crc="04b41b75"/>
+		<rom name="spe_01.1d" size="131072" crc="2d19c133"/>
+		<rom name="eeprom-spang.bin" size="128" crc="deae1291"/>
+		<video type="raster" orientation="horizontal" width="384" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>cb0f93018340d3e639053139fb4c8e30</ra_hash>
+		<url>https://retroachievements.org/game/12239/hashes</url>
+	</game>
+	<game name="sbbros" cloneof="spang">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Super Buster Bros. (USA 901001)</description>
+		<release name="sbbros" region="USA"/>
+		<year>1990</year>
+		<manufacturer>Mitchell (Capcom license)</manufacturer>
+		<rom name="spu_06.11h" size="32768" crc="292eee6a"/>
+		<rom name="spu_07.13h" size="131072" crc="f46b698d"/>
+		<rom name="spu_08.14h" size="131072" crc="a75e7fbe"/>
+		<rom name="spu_02.1e" size="131072" crc="0c22ffc6"/>
+		<rom name="spj_03.3e" size="131072" crc="3ae28bc1"/>
+		<rom name="spu_04.1g" size="131072" crc="bb3dee5b"/>
+		<rom name="spj_05.2g" size="131072" crc="4a060884"/>
+		<rom name="spu_10.2k" size="131072" crc="d6675d8f"/>
+		<rom name="spu_09.1k" size="131072" crc="8f678bc8"/>
+		<rom name="spj_01.1d" size="131072" crc="b96ea126"/>
+		<rom name="eeprom-sbbros.bin" size="128" crc="ed69d3cd"/>
+		<video type="raster" orientation="horizontal" width="384" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>110196a9e2732d9088959ef2e59fba1c</ra_hash>
+		<url>https://retroachievements.org/game/12239/hashes</url>
+	</game>
+
 	<game name="maglord">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -19185,6 +19232,65 @@
 		<url>https://retroachievements.org/game/13588/hashes</url>
 	</game>
 
+	<game name="legendos">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Legend of Success Joe / Ashita no Joe Densetsu</description>
+		<release name="legendos" region="World"/>
+		<year>1991</year>
+		<manufacturer>SNK / Wave</manufacturer>
+		<rom name="029-p1.p1" size="524288" crc="9d563f19"/>
+		<rom name="029-s1.s1" size="131072" crc="bcd502f0"/>
+		<rom name="029-c1.c1" size="1048576" crc="2f5ab875"/>
+		<rom name="029-c2.c2" size="1048576" crc="318b2711"/>
+		<rom name="029-c3.c3" size="1048576" crc="6bc52cb2"/>
+		<rom name="029-c4.c4" size="1048576" crc="37ef298c"/>
+		<rom name="029-m1.m1" size="131072" crc="6f2843f0"/>
+		<rom name="029-v1.v1" size="1048576" crc="85065452"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>ebd3cddeb83c929ca8c65fc76525e9d7</ra_hash>
+		<url>https://retroachievements.org/game/13598/hashes</url>
+	</game>
+
 	<game name="contcirc">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -23140,6 +23246,32 @@
 		<url>https://retroachievements.org/game/15079/hashes</url>
 	</game>
 
+	<game name="gravitar">
+		<category>Retail</category>
+		<source>fbneo</source>
+		<description>Gravitar (version 3)</description>
+		<release name="gravitar" region="World"/>
+		<year>1982</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="136010-210.l7" size="2048" crc="debcb243"/>
+		<rom name="136010-207.mn7" size="4096" crc="4135629a"/>
+		<rom name="136010-208.np7" size="4096" crc="358f25d9"/>
+		<rom name="136010-309.r7" size="4096" crc="4ac78df4"/>
+		<rom name="136010-301.d1" size="4096" crc="a2a55013"/>
+		<rom name="136010-302.ef1" size="4096" crc="d3700b3c"/>
+		<rom name="136010-303.h1" size="4096" crc="8e12e3e0"/>
+		<rom name="136010-304.j1" size="4096" crc="467ad5da"/>
+		<rom name="136010-305.kl1" size="4096" crc="840603af"/>
+		<rom name="136010-306.m1" size="4096" crc="3f3805ad"/>
+		<rom name="136002-125.n4" size="256" crc="5903af03"/>
+		<rom name="136010-111.r1" size="32" crc="6bf2dc46"/>
+		<rom name="136010-112.r2" size="32" crc="b6af29d1"/>
+		<video type="vector" orientation="horizontal" width="800" height="600" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>66290536a3c25585763d26dbee36ad8f</ra_hash>
+		<url>https://retroachievements.org/game/15080/hashes</url>
+	</game>
+
 	<game name="tempest">
 		<category>Retail</category>
 		<source>fbneo</source>
@@ -25202,6 +25334,79 @@
 		<driver status="good"/>
 		<ra_hash>44431c0853eb56ca03110d9731873e3a</ra_hash>
 		<url>https://retroachievements.org/game/16956/hashes</url>
+	</game>
+
+	<game name="kof99ae">
+		<category>Hack</category>
+		<source>fbneo</source>
+		<comment>Hack</comment>
+		<description>The King of Fighters '99 - Millennium Battle (Anniversary, Hack)</description>
+		<release name="kof99ae" region="World"/>
+		<year>2020</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="152-p1ae.p1" size="1048576" crc="4c63e81c"/>
+		<rom name="152-p2ae.sp2" size="4194304" crc="f3f47f41"/>
+		<rom name="152-p3ae.p3" size="4194304" crc="e3847545"/>
+		<rom name="251-s1ae.s1" size="131072" crc="3c31ee43"/>
+		<rom name="251-c1ae.c1" size="8388608" crc="7eabea6c"/>
+		<rom name="251-c2ae.c2" size="8388608" crc="e5a5bc5c"/>
+		<rom name="251-c3d.c3" size="8388608" crc="b047c9d5"/>
+		<rom name="251-c4d.c4" size="8388608" crc="6bc8e4b1"/>
+		<rom name="251-c5d.c5" size="8388608" crc="9746268c"/>
+		<rom name="251-c6d.c6" size="8388608" crc="238b3e71"/>
+		<rom name="251-c7ae.c7" size="8388608" crc="963c28ab"/>
+		<rom name="251-c8ae.c8" size="8388608" crc="43f1e92e"/>
+		<rom name="251-c9ae.c9" size="8388608" crc="86a3550d"/>
+		<rom name="251-c10ae.c10" size="8388608" crc="986bb897"/>
+		<rom name="251-c11ae.c11" size="8388608" crc="7fe785c2"/>
+		<rom name="251-c12ae.c12" size="8388608" crc="a7541483"/>
+		<rom name="251-m1ae.m1" size="131072" crc="f847e188"/>
+		<rom name="251-v1ae.v1" size="4194304" crc="ceaa3bae"/>
+		<rom name="251-v2ae.v2" size="4194304" crc="07d70650"/>
+		<rom name="251-v3.v3" size="4194304" crc="821901da"/>
+		<rom name="251-v4.v4" size="2097152" crc="b49e6178"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<ra_hash>692eb761c012d9bded45de479d1b899d</ra_hash>
+		<url>https://retroachievements.org/game/17369/hashes</url>
 	</game>
 
 	<game name="krull">

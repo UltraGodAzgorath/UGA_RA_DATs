@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/37-amstrad-cpc/games</url>
-		<titlecount>124</titlecount>
-		<hashcount>134</hashcount>
+		<titlecount>128</titlecount>
+		<hashcount>138</hashcount>
 	</header>
 
 	<game name="3D Grand Prix (1985) (Amsoft)">
@@ -125,6 +125,16 @@
 		<rom name="Arkanoid (1987) (Imagine Software).dsk" size="195379" crc="00E4BF51" md5="7034aac069febf8ee81732cb1e9e9854" sha1="1b2fb879ab7683d571f41ead005ec2ef544c09db"/>
 		<ra_hash>7034aac069febf8ee81732cb1e9e9854</ra_hash>
 		<url>https://retroachievements.org/game/34029/hashes</url>
+	</game>
+
+	<game name="Army Moves (1986) (Dinamic Software)">
+		<category>Retail</category>
+		<source>CleanCPC</source>
+		<description>Army Moves (1986) (Dinamic Software)</description>
+		<release name="Army Moves (1986) (Dinamic Software)" region="World"/>
+		<rom name="Army Moves (1986) (Dinamic Software).dsk" size="195379" crc="3DB8FC89" md5="a25aceb3a6148ebaae469f994dbc04c4" sha1="301719ba26aae702bcd8e65ecaff21d800f3ae30"/>
+		<ra_hash>a25aceb3a6148ebaae469f994dbc04c4</ra_hash>
+		<url>https://retroachievements.org/game/33187/hashes</url>
 	</game>
 
 	<game name="Astrocop (2022) (Mananuk)">
@@ -309,6 +319,16 @@
 		<rom name="Dizzy - The Ultimate Cartoon Adventure (UK) (1988) (Original) (b).dsk" size="73216" crc="C9121001" md5="c18827bfd5ba0185702128e7f332c67c" sha1="38b0f8a74fafd7c58e8c414c9de19d5ad045b9af"/>
 		<ra_hash>c18827bfd5ba0185702128e7f332c67c</ra_hash>
 		<url>https://retroachievements.org/game/24694/hashes</url>
+	</game>
+
+	<game name="Dizzy IV - Magicland Dizzy (1989) (Codemasters)">
+		<category>Retail</category>
+		<source>TOSEC</source>
+		<description>Dizzy IV - Magicland Dizzy (1989) (Codemasters)</description>
+		<release name="Dizzy IV - Magicland Dizzy (1989) (Codemasters)" region="World"/>
+		<rom name="Dizzy IV - Magicland Dizzy (1989) (Codemasters).dsk" size="194816" crc="DCD0048D" md5="70608b21796b5148e5bb6362f9ed03cf" sha1="881fee804abea4b13c6186dce9718773eb4ce92f"/>
+		<ra_hash>70608b21796b5148e5bb6362f9ed03cf</ra_hash>
+		<url>https://retroachievements.org/game/19499/hashes</url>
 	</game>
 
 	<game name="Doctor Who and the Mines of Terror (1986) (Micro Power)">
@@ -1035,6 +1055,16 @@
 		<url>https://retroachievements.org/game/33621/hashes</url>
 	</game>
 
+	<game name="Sorcerers (v1.1) (2020) (Salva Kantero)">
+		<category>Homebrew</category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Sorcerers (v1.1) (2020) (Salva Kantero)</description>
+		<release name="Sorcerers (v1.1) (2020) (Salva Kantero)" region="World"/>
+		<rom name="Sorcerers (v1.1) (2020) (Salva Kantero).dsk" size="204544" crc="11DBCEBE" md5="4aae7b4beb43ec00af5ddff50eb4beb2" sha1="107b5f8d23242ccdd4b9ce17adfed643f9cc39eb"/>
+		<ra_hash>4aae7b4beb43ec00af5ddff50eb4beb2</ra_hash>
+		<url>https://retroachievements.org/game/24950/hashes</url>
+	</game>
+
 	<game name="Sorcery+ (1985) (Amsoft)">
 		<category>Retail</category>
 		<source>CleanCPC</source>
@@ -1142,6 +1172,16 @@
 		<rom name="Thomas the Tank Engine's Fun with Words (1990) (Britt Allcroft Thomas).dsk" size="194816" crc="FCADEF95" md5="c43654390a859cd4c46fe6637bffc928" sha1="b45221573293fb708b88863903cb0ba9b8ffc9e4"/>
 		<ra_hash>c43654390a859cd4c46fe6637bffc928</ra_hash>
 		<url>https://retroachievements.org/game/19857/hashes</url>
+	</game>
+
+	<game name="Thrust (1986) (Firebird) (v7-86) (cr)">
+		<category>Retail</category>
+		<source>CleanCPC</source>
+		<description>Thrust (1986) (Firebird) (v7-86) (cr)</description>
+		<release name="Thrust (1986) (Firebird) (v7-86) (cr)" region="World"/>
+		<rom name="Thrust (1986) (Firebird) (v7-86) (cr).dsk" size="204544" crc="B77647E6" md5="ab532c894cc3f1c8d4f53ecbdc0b0dbb" sha1="6dc66381bb95a7397343a88edaf27aaba84995cf"/>
+		<ra_hash>ab532c894cc3f1c8d4f53ecbdc0b0dbb</ra_hash>
+		<url>https://retroachievements.org/game/37380/hashes</url>
 	</game>
 
 	<game name="WEC Le Mans (1988) (Ocean Software)">

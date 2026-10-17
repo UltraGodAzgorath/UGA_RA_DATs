@@ -5,12 +5,12 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/40-dreamcast/games</url>
-		<titlecount>176</titlecount>
-		<hashcount>228</hashcount>
+		<titlecount>177</titlecount>
+		<hashcount>229</hashcount>
 	</header>
 
 	<machine name="Retail/18 Wheeler - American Pro Trucker/18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)">
@@ -529,6 +529,15 @@
 		<disk name="Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es).chd" sha1="be170bf7b9013c39efb39bdef2d5c2d6f72b05b7"/>
 		<ra_hash>edf827581b59afcd18efaf701f5c744d</ra_hash>
 		<url>https://retroachievements.org/game/3872/hashes</url>
+	</machine>
+
+	<machine name="Retail/Elemental Gimmick Gear (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Elemental Gimmick Gear (USA)</description>
+		<disk name="Elemental Gimmick Gear (USA).chd" sha1="bed83cb493755e89c64da82c0499272d277edf3c"/>
+		<ra_hash>41b94ff357fab983a6eda4f4b69974bf</ra_hash>
+		<url>https://retroachievements.org/game/3750/hashes</url>
 	</machine>
 
 	<machine name="Retail/Evolution - The World of Sacred Device (USA)">

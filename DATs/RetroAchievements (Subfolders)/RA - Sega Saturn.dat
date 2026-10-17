@@ -5,12 +5,12 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/39-saturn/games</url>
-		<titlecount>205</titlecount>
-		<hashcount>231</hashcount>
+		<titlecount>207</titlecount>
+		<hashcount>233</hashcount>
 	</header>
 
 	<machine name="Retail/Advanced V.G. (Japan)">
@@ -948,6 +948,15 @@
 		<url>https://retroachievements.org/game/17212/hashes</url>
 	</machine>
 
+	<machine name="Retail/Marvel Super Heroes vs. Street Fighter (Japan)">
+		<category></category>
+		<source>Redump</source>
+		<description>Marvel Super Heroes vs. Street Fighter (Japan)</description>
+		<disk name="Marvel Super Heroes vs. Street Fighter (Japan).chd" sha1="15a0979ca3f7308fd6a2724ec259e06063338c20"/>
+		<ra_hash>6f15bfb86f1537d50e7a6a8b18c51ddc</ra_hash>
+		<url>https://retroachievements.org/game/17880/hashes</url>
+	</machine>
+
 	<machine name="Retail/Mega Man 8 (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -1840,6 +1849,15 @@
 		<disk name="X-Men - Children of the Atom (USA).chd" sha1="ac65bf4a964a1393eef01ec28d0703ea57e6d23c"/>
 		<ra_hash>40604b35cbdc512485cf228d057345c2</ra_hash>
 		<url>https://retroachievements.org/game/14550/hashes</url>
+	</machine>
+
+	<machine name="Retail/X-Men vs. Street Fighter (Japan) (1M)">
+		<category></category>
+		<source>Redump</source>
+		<description>X-Men vs. Street Fighter (Japan) (1M)</description>
+		<disk name="X-Men vs. Street Fighter (Japan) (1M).chd" sha1="9f6e14476d62832fd061a6a327458375e03e893e"/>
+		<ra_hash>5bfb1a925a03cc5bd6a7c04a38d31727</ra_hash>
+		<url>https://retroachievements.org/game/14567/hashes</url>
 	</machine>
 
 	<machine name="Retail/Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M)">

@@ -5,12 +5,12 @@
 		<name>RA - Nintendo Virtual Boy</name>
 		<description>Nintendo Virtual Boy</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/28-virtual-boy/games</url>
-		<titlecount>52</titlecount>
-		<hashcount>52</hashcount>
+		<titlecount>53</titlecount>
+		<hashcount>53</hashcount>
 	</header>
 
 	<game name="Retail/3-D Tetris (USA)">
@@ -74,6 +74,15 @@
 		<rom name="Castle of Doom (USA) (Aftermarket) (Unl) (VirtualChris).vb" size="524288" crc="B8CEA688" md5="fcfbeeca4bb33af756b025136c8b2549" sha1="eabde81ec527c671da6accd958120a57de03de15"/>
 		<ra_hash>fcfbeeca4bb33af756b025136c8b2549</ra_hash>
 		<url>https://retroachievements.org/game/19564/hashes</url>
+	</game>
+
+	<game name="Homebrew/Chris's Casino (World) (v040125) (Aftermarket) (Chris Read)">
+		<category></category>
+		<source>Lost Level Archive</source>
+		<description>Chris's Casino (World) (v040125) (Aftermarket) (Chris Read)</description>
+		<rom name="Chris's Casino (World) (v040125) (Aftermarket) (Chris Read).vb" size="524288" crc="2F8F1D00" md5="e4792303fcba7998285b666327a30039" sha1="2db6f5d56f62e93747630953090cc378b5bd4ec8"/>
+		<ra_hash>e4792303fcba7998285b666327a30039</ra_hash>
+		<url>https://retroachievements.org/game/28194/hashes</url>
 	</game>
 
 	<game name="Homebrew/Fishbone (World) (Aftermarket) (Unl)">

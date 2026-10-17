@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/71-arduboy/games</url>
-		<titlecount>105</titlecount>
-		<hashcount>109</hashcount>
+		<titlecount>106</titlecount>
+		<hashcount>110</hashcount>
 	</header>
 
 	<game name="1944 (World) (Erwin's Collection)">
@@ -435,6 +435,16 @@
 		<rom name="Dark and Under (World) (Erwin's Collection).hex" size="74759" crc="1F001323" md5="0f43defeddea8b5fc033722080d24820" sha1="826ab468fb76c367e4955356a8f47a88532c5dc4"/>
 		<ra_hash>03e6ae7fc84878476d385f68e748000e</ra_hash>
 		<url>https://retroachievements.org/game/11123/hashes</url>
+	</game>
+
+	<game name="Dark and Under II (World) (v1.0) (Garage Collective)">
+		<category>Retail</category>
+		<source>Lost Level Archive</source>
+		<description>Dark and Under II (World) (v1.0) (Garage Collective)</description>
+		<release name="Dark and Under II (World) (v1.0) (Garage Collective)" region="World"/>
+		<rom name="Dark and Under II (World) (v1.0) (Garage Collective).arduboy" size="286283" crc="9685B11C" md5="c798f6395e7bdfa8b344f25a7b779efb" sha1="b6cf33cdb964add651ed4d7e42cf654a4fea4baa"/>
+		<ra_hash>0e240ab35746f97dad2b9b5df9b61d21</ra_hash>
+		<url>https://retroachievements.org/game/34395/hashes</url>
 	</game>
 
 	<game name="Dazzle Dash (World) (brow1067)">

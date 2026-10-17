@@ -3,12 +3,12 @@
 	<header>
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/43-3do-interactive-multiplayer/games</url>
-		<titlecount>41</titlecount>
-		<hashcount>41</hashcount>
+		<titlecount>42</titlecount>
+		<hashcount>42</hashcount>
 	</header>
 
 	<machine name="Alone in the Dark (USA)">
@@ -29,6 +29,16 @@
 		<disk name="Alone in the Dark 2 (USA).chd" sha1="18e2d79456f501d55b8b76993bb5305f038e5556"/>
 		<ra_hash>2b8f6037654255aac56ff5c12c0b44e6</ra_hash>
 		<url>https://retroachievements.org/game/7895/hashes</url>
+	</machine>
+
+	<machine name="Battle Chess (USA)">
+		<category>Retail</category>
+		<source>Redump</source>
+		<description>Battle Chess (USA)</description>
+		<release name="Battle Chess (USA)" region="USA"/>
+		<disk name="Battle Chess (USA).chd" sha1="3628b2e34b3ab58c42a1e5030ae0bf0ca9738bbe"/>
+		<ra_hash>a4e7faa3f76cbbb053e8fc9e0116fdc3</ra_hash>
+		<url>https://retroachievements.org/game/16674/hashes</url>
 	</machine>
 
 	<machine name="BioFury (USA) (Aftermarket) (Zyzix Games)">

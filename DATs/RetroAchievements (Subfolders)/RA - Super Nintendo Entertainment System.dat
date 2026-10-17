@@ -5,12 +5,12 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/3-snes/games</url>
-		<titlecount>1968</titlecount>
-		<hashcount>1968</hashcount>
+		<titlecount>1977</titlecount>
+		<hashcount>1977</hashcount>
 	</header>
 
 	<game name="Homebrew/16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl)">
@@ -1635,7 +1635,7 @@
 		<url>https://retroachievements.org/game/8747/hashes</url>
 	</game>
 
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<source>No-Intro</source>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)</description>
@@ -1643,7 +1643,7 @@
 		<ra_hash>a90f92a606e342b35aa4bc070cfe3f78</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<source>No-Intro</source>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)</description>
@@ -1651,7 +1651,7 @@
 		<ra_hash>f203ab9d9720c2ba8ac8453b0c10553c</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<source>No-Intro</source>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)</description>
@@ -1659,7 +1659,7 @@
 		<ra_hash>59cee44354ed6fd664236ba9f6b18a63</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<source>No-Intro</source>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)</description>
@@ -1667,7 +1667,7 @@
 		<ra_hash>da4d548e54a593e635e023bbf7db72b1</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/Zelda no Densetsu - Inishie no Sekiban - Dai-1-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/Zelda no Densetsu - Inishie no Sekiban - Dai-1-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
 		<category>Satellaview</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda no Densetsu - Inishie no Sekiban - Dai-1-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)</description>
@@ -1675,7 +1675,7 @@
 		<ra_hash>2abc914f715036b3969d3c4be7e125f0</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/Zelda no Densetsu - Inishie no Sekiban - Dai-2-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/Zelda no Densetsu - Inishie no Sekiban - Dai-2-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
 		<category>Satellaview</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda no Densetsu - Inishie no Sekiban - Dai-2-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)</description>
@@ -1683,7 +1683,7 @@
 		<ra_hash>7de3cf6032b9ba94a41baa4a229cad51</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/Zelda no Densetsu - Inishie no Sekiban - Dai-3-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/Zelda no Densetsu - Inishie no Sekiban - Dai-3-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
 		<category>Satellaview</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda no Densetsu - Inishie no Sekiban - Dai-3-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)</description>
@@ -1691,7 +1691,7 @@
 		<ra_hash>e9d7770a1973f2b3ecd331870f7e9018</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/Zelda no Densetsu - Inishie no Sekiban - Dai-4-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/Zelda no Densetsu - Inishie no Sekiban - Dai-4-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)">
 		<category>Satellaview</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda no Densetsu - Inishie no Sekiban - Dai-4-Hanashi (Japan) (BS-X) (En) (Euclid) (1.0)</description>
@@ -1699,7 +1699,7 @@
 		<ra_hash>d5ce2ad741adb7263b4dacc91bc7bae7</ra_hash>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 	</game>
-	<game name="Retail/BS The Legend of Zelda - Ancient Stone Tablets/Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (En) (BSZHP) (2015-08-18)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban/Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (En) (BSZHP) (2015-08-18)">
 		<category>Satellaview</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (En) (BSZHP) (2015-08-18)</description>
@@ -2376,6 +2376,23 @@
 		<rom name="Darius Twin (USA).sfc" size="1048576" crc="C5341764" md5="0e7c6781a6ae15d36a5885a03c132898" sha1="46fc172c87d32f307551502277ffdcd79984a702"/>
 		<ra_hash>0e7c6781a6ae15d36a5885a03c132898</ra_hash>
 		<url>https://retroachievements.org/game/868/hashes</url>
+	</game>
+
+	<game name="Retail/Dark Half/Dark Half (Japan)">
+		<category>Super Nintendo</category>
+		<source>No-Intro</source>
+		<description>Dark Half (Japan)</description>
+		<rom name="Dark Half (Japan).sfc" size="3145728" crc="7B9793B1" md5="55108013f875db3b39da04b8f58489ab" sha1="70f4e9c39eeefc00dfb35e77c604372b305aae03"/>
+		<ra_hash>55108013f875db3b39da04b8f58489ab</ra_hash>
+		<url>https://retroachievements.org/game/2607/hashes</url>
+	</game>
+	<game name="Retail/Dark Half/Dark Half (Japan) (En) (v1.0) (AGTP)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>Dark Half (Japan) (En) (v1.0) (AGTP)</description>
+		<rom name="Dark Half (Japan) (En) (v1.0) (AGTP).sfc" size="4194304" crc="18877841" md5="1095474903c14921a17edb56a2d58870" sha1="8567b555a998aa3df29bd2fc7f6c83c296cd9366"/>
+		<ra_hash>1095474903c14921a17edb56a2d58870</ra_hash>
+		<url>https://retroachievements.org/game/2607/hashes</url>
 	</game>
 
 	<game name="Retail/Dark Law - Meaning of Death/Dark Law - Meaning of Death (Japan)">
@@ -4439,6 +4456,15 @@
 		<url>https://retroachievements.org/game/352/hashes</url>
 	</game>
 
+	<game name="Homebrew/Find 87 (USA) (v2.0) (Aftermarket) (ditnera)">
+		<category>Super Nintendo</category>
+		<source>itchio, Lost Level Archive</source>
+		<description>Find 87 (USA) (v2.0) (Aftermarket) (ditnera)</description>
+		<rom name="Find 87 (USA) (v2.0) (Aftermarket) (ditnera).sfc" size="262144" crc="797EB82B" md5="f374534b100b180cda7bcf0b3c4c3fd8" sha1="363876b5401a74a3eb9372dffdd0cf04ba96e4f3"/>
+		<ra_hash>f374534b100b180cda7bcf0b3c4c3fd8</ra_hash>
+		<url>https://retroachievements.org/game/45085/hashes</url>
+	</game>
+
 	<game name="Retail/Fire Emblem - Monsho No Nazo/Fire Emblem - Monshou no Nazo (Japan)">
 		<category>Super Nintendo</category>
 		<source>No-Intro</source>
@@ -4639,6 +4665,15 @@
 		<rom name="Flintstones, The - The Treasure of Sierra Madrock (USA).sfc" size="1048576" crc="594F5CC6" md5="c7db2a255421554ba940099caad060ee" sha1="1083161ad7474b9be1152240247d569b405bea25"/>
 		<ra_hash>c7db2a255421554ba940099caad060ee</ra_hash>
 		<url>https://retroachievements.org/game/4045/hashes</url>
+	</game>
+
+	<game name="Hack/Forbidden Fruit v1.0">
+		<category>Super Nintendo</category>
+		<source>Unknown</source>
+		<description>Forbidden Fruit v1.0</description>
+		<rom name="Forbidden Fruit v1.0.sfc" size="4194304" crc="2BD8E70C" md5="608e496053908eec45ab291b64c10f46" sha1="322c26707239c054a9806ba2dbaaca4039e9bb43"/>
+		<ra_hash>608e496053908eec45ab291b64c10f46</ra_hash>
+		<url>https://retroachievements.org/game/43627/hashes</url>
 	</game>
 
 	<game name="Homebrew/Fork Parker's Crunch Out (World) (Aftermarket) (Unl)">
@@ -5288,7 +5323,7 @@
 		<url>https://retroachievements.org/game/409/hashes</url>
 	</game>
 
-	<game name="Retail/The Violinist of Hameln/Hamelin no Violin Hiki (Japan) (En) (J2e Translations) (1.0)">
+	<game name="Retail/Hamelin no Violin Hiki/Hamelin no Violin Hiki (Japan) (En) (J2e Translations) (1.0)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Hamelin no Violin Hiki (Japan) (En) (J2e Translations) (1.0)</description>
@@ -5296,7 +5331,7 @@
 		<ra_hash>feeed7666e84d0e23a1c8a4e7401464d</ra_hash>
 		<url>https://retroachievements.org/game/2965/hashes</url>
 	</game>
-	<game name="Retail/The Violinist of Hameln/Hamelin no Violin Hiki (Japan) (Pt) (Hexagon) (1.01)">
+	<game name="Retail/Hamelin no Violin Hiki/Hamelin no Violin Hiki (Japan) (Pt) (Hexagon) (1.01)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
 		<description>Hamelin no Violin Hiki (Japan) (Pt) (Hexagon) (1.01)</description>
@@ -5304,7 +5339,7 @@
 		<ra_hash>9a3fbda325a00ffdc28c22393ba2ab32</ra_hash>
 		<url>https://retroachievements.org/game/2965/hashes</url>
 	</game>
-	<game name="Retail/The Violinist of Hameln/Hameln no Violin Hiki (Japan)">
+	<game name="Retail/Hamelin no Violin Hiki/Hameln no Violin Hiki (Japan)">
 		<category>Super Nintendo</category>
 		<source>No-Intro</source>
 		<description>Hameln no Violin Hiki (Japan)</description>
@@ -12724,6 +12759,23 @@
 		<url>https://retroachievements.org/game/27722/hashes</url>
 	</game>
 
+	<game name="Hack/Super Dram World 2/SMW - Super Dram World 2 (v1.3) (No Death Counter) (PangaeaPanga)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches, smwcentral</source>
+		<description>SMW - Super Dram World 2 (v1.3) (No Death Counter) (PangaeaPanga)</description>
+		<rom name="SMW - Super Dram World 2 (v1.3) (No Death Counter) (PangaeaPanga).sfc" size="2097152" crc="0D7DE981" md5="3871150d89e9c3f0eaf7511ec2e896c2" sha1="fb6b9ab160368fe8e849efa961ed7e343f102a19"/>
+		<ra_hash>3871150d89e9c3f0eaf7511ec2e896c2</ra_hash>
+		<url>https://retroachievements.org/game/3787/hashes</url>
+	</game>
+	<game name="Hack/Super Dram World 2/SMW - Super Dram World 2 (v1.3) (PangaeaPanga)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches, smwcentral</source>
+		<description>SMW - Super Dram World 2 (v1.3) (PangaeaPanga)</description>
+		<rom name="SMW - Super Dram World 2 (v1.3) (PangaeaPanga).sfc" size="2097152" crc="D476B4F2" md5="07c7ea158bbee54b9c8cba558bcbe95f" sha1="0bcb4aa3973fc0cb3786f1e24c4954f9583ca7cf"/>
+		<ra_hash>07c7ea158bbee54b9c8cba558bcbe95f</ra_hash>
+		<url>https://retroachievements.org/game/3787/hashes</url>
+	</game>
+
 	<game name="Hack/Super Kitiku Mario - Brutal Mario/SMW - Super Kitiku Mario Brutal Mario (Carol) (Bowser's Castle)">
 		<category>Super Nintendo</category>
 		<source>No-Intro, RAPatches</source>
@@ -12972,6 +13024,15 @@
 		<rom name="SMW - Super Mario Starlight Remix (v2.1) (Gamma V).sfc" size="2097152" crc="B3E90D62" md5="57394e53476a769f5682069d7c203c78" sha1="01e643271c264513534184f14ac290ff0aedfdc1"/>
 		<ra_hash>57394e53476a769f5682069d7c203c78</ra_hash>
 		<url>https://retroachievements.org/game/16275/hashes</url>
+	</game>
+
+	<game name="Hack/SMW - Super Mario vorld (v1.33) (Remastered) (4chan)">
+		<category>Super Nintendo</category>
+		<source>No-Intro, RAPatches</source>
+		<description>SMW - Super Mario vorld (v1.33) (Remastered) (4chan)</description>
+		<rom name="SMW - Super Mario vorld (v1.33) (Remastered) (4chan).sfc" size="3145728" crc="286851B1" md5="ba66f6bf845444a8ed623700d5ba202e" sha1="bac56963192289269589ce20749a594932defe0b"/>
+		<ra_hash>ba66f6bf845444a8ed623700d5ba202e</ra_hash>
+		<url>https://retroachievements.org/game/20066/hashes</url>
 	</game>
 
 	<game name="Hack/SMW - Super Mario vorld - New Vegas (v1.09) (4chan)">
@@ -13655,6 +13716,15 @@
 		<rom name="Soul Blazer (USA) (Es) (v1.1b) (Hexplus).sfc" size="1572864" crc="DEFDDDE9" md5="5c9d36b947fabf7bfc29633470056c5a" sha1="737862536de733de054a1f6084788f49635ee018"/>
 		<ra_hash>5c9d36b947fabf7bfc29633470056c5a</ra_hash>
 		<url>https://retroachievements.org/game/1168/hashes</url>
+	</game>
+
+	<game name="Prototype/Sound Factory (Japan) (En) (Proto) (1993-08-22)">
+		<category>Super Nintendo</category>
+		<source>No-Intro</source>
+		<description>Sound Factory (Japan) (En) (Proto) (1993-08-22)</description>
+		<rom name="Sound Factory (Japan) (En) (Proto) (1993-08-22).sfc" size="1048576" crc="FB0A855A" md5="5ae643072832047b09462f111099b4f5" sha1="060bf62f0d2cd30d9cd4b843d8b316ebecbb96b6"/>
+		<ra_hash>5ae643072832047b09462f111099b4f5</ra_hash>
+		<url>https://retroachievements.org/game/14699/hashes</url>
 	</game>
 
 	<game name="Retail/Space Megaforce (USA)">
@@ -15324,6 +15394,15 @@
 		<rom name="Tales of Phantasia (Japan) (Ru) (rowaasr13) (0.75).sfc" size="6291456" crc="AAB25762" md5="3b951e4ae194425d48681dbc45a7fc4d" sha1="9b1e0157307533735e7caca56af5a521074c053c"/>
 		<ra_hash>3b951e4ae194425d48681dbc45a7fc4d</ra_hash>
 		<url>https://retroachievements.org/game/2209/hashes</url>
+	</game>
+
+	<game name="Retail/Tamagotch Town (Japan) (NP)">
+		<category>Super Nintendo</category>
+		<source>No-Intro</source>
+		<description>Tamagotch Town (Japan) (NP)</description>
+		<rom name="Tamagotch Town (Japan) (NP).sfc" size="1048576" crc="2C877794" md5="c9bfaa0cf1365a1ae1d9be62abe0366b" sha1="e5fa0a457278c831750213014f859e535de06734"/>
+		<ra_hash>c9bfaa0cf1365a1ae1d9be62abe0366b</ra_hash>
+		<url>https://retroachievements.org/game/23626/hashes</url>
 	</game>
 
 	<game name="Retail/Tamori no Picross/Tamori no Picross (6-13) (Japan)">

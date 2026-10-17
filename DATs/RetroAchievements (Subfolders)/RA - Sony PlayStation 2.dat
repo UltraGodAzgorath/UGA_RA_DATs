@@ -5,12 +5,12 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/21-playstation-2/games</url>
-		<titlecount>944</titlecount>
-		<hashcount>1228</hashcount>
+		<titlecount>956</titlecount>
+		<hashcount>1242</hashcount>
 	</header>
 
 	<machine name="Retail/007 - Agent Under Fire/007 - Agent Under Fire (USA)">
@@ -411,9 +411,25 @@
 		<ra_hash>55260663f8326f0188ee891e831b6784</ra_hash>
 		<url>https://retroachievements.org/game/19038/hashes</url>
 	</machine>
+	<machine name="Retail/Ar tonelico II - Melody of Metafalica/Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica)</description>
+		<disk name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica).chd" sha1="bffe163b4c657c7c1153ec4f1262270a6c9a20f1"/>
+		<ra_hash>ca8b0bdfaae31b50c59fa4b51a1447e1</ra_hash>
+		<url>https://retroachievements.org/game/19038/hashes</url>
+	</machine>
+	<machine name="Retail/Ar tonelico II - Melody of Metafalica/Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)</description>
+		<disk name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica).chd" sha1="de0eee0c2f696801f87f0d12517e61c6f22b4797"/>
+		<ra_hash>de0ac9892cfde89c9cff96ed27eed808</ra_hash>
+		<url>https://retroachievements.org/game/19038/hashes</url>
+	</machine>
 	<machine name="Retail/Ar tonelico II - Melody of Metafalica/Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)">
 		<category></category>
-		<source>Lost Level Archive</source>
+		<source>Redump, Lost Level Archive</source>
 		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)</description>
 		<disk name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica).chd" sha1="d2152f060405dd4d0a86991d7f835849a4747336"/>
 		<ra_hash>de3f215b8c1d69f0c66a81e641cf7abb</ra_hash>
@@ -577,6 +593,15 @@
 		<disk name="Baldur's Gate - Dark Alliance II (USA).chd" sha1="a5984e0fd7cc04b491137508f6b36b7dc728dfb5"/>
 		<ra_hash>b0509a4de0ee63e18a649bf71e2e5258</ra_hash>
 		<url>https://retroachievements.org/game/2933/hashes</url>
+	</machine>
+
+	<machine name="Retail/Barbie Horse Adventures - Wild Horse Rescue (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Barbie Horse Adventures - Wild Horse Rescue (USA)</description>
+		<disk name="Barbie Horse Adventures - Wild Horse Rescue (USA).chd" sha1="01220b222957f9d102520549240e6d5d4483935f"/>
+		<ra_hash>a5cbae055c833070b8ea3c4f66e6ebd5</ra_hash>
+		<url>https://retroachievements.org/game/25226/hashes</url>
 	</machine>
 
 	<machine name="Retail/The Bard's Tale/Bard's Tale, The (Europe) (En,Fr,De,Es)">
@@ -4961,6 +4986,15 @@
 		<url>https://retroachievements.org/game/21013/hashes</url>
 	</machine>
 
+	<machine name="Retail/Just Cause (USA) (En,Fr,Es)">
+		<category></category>
+		<source>Redump</source>
+		<description>Just Cause (USA) (En,Fr,Es)</description>
+		<disk name="Just Cause (USA) (En,Fr,Es).chd" sha1="5d1b4314920b44418be15dc5ff93da231150ad8f"/>
+		<ra_hash>a503c946557caa51253bdbc5edee7d95</ra_hash>
+		<url>https://retroachievements.org/game/21014/hashes</url>
+	</machine>
+
 	<machine name="Retail/K-1 World GP 2006 (Japan)">
 		<category></category>
 		<source>Redump</source>
@@ -5587,6 +5621,15 @@
 		<disk name="Lord of the Rings, The - The Return of the King (USA).chd" sha1="5bcda9103857eaa80571314730c9604eb814a1e7"/>
 		<ra_hash>6b75d64925583166f48792ff95abb05d</ra_hash>
 		<url>https://retroachievements.org/game/19263/hashes</url>
+	</machine>
+
+	<machine name="Retail/Lumines Plus (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<source>Redump</source>
+		<description>Lumines Plus (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Lumines Plus (Europe) (En,Fr,De,Es,It).chd" sha1="2ff8a9c5c732dbb016e9f64a8b68dc42580c2e3d"/>
+		<ra_hash>6b645b0e9230910bbf7f2eadff4ce12c</ra_hash>
+		<url>https://retroachievements.org/game/21030/hashes</url>
 	</machine>
 
 	<machine name="Retail/Lupin the 3rd - Treasure of the Sorcerer King (USA)">
@@ -6533,6 +6576,15 @@
 		<disk name="Nickelodeon Barnyard (USA).chd" sha1="854fcdbe1f7db66d8e77af663c46b3bc890560a2"/>
 		<ra_hash>fc422b53b0abd79012f8b37793d2f1f1</ra_hash>
 		<url>https://retroachievements.org/game/20694/hashes</url>
+	</machine>
+
+	<machine name="Retail/Nickelodeon El Tigre - The Adventures of Manny Rivera (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Nickelodeon El Tigre - The Adventures of Manny Rivera (USA)</description>
+		<disk name="Nickelodeon El Tigre - The Adventures of Manny Rivera (USA).chd" sha1="620739870b2abe5b45fd9f01c1a9d3708a9e30f7"/>
+		<ra_hash>666daaf7472a0ec95d37d7d04eb60aad</ra_hash>
+		<url>https://retroachievements.org/game/20711/hashes</url>
 	</machine>
 
 	<machine name="Retail/Nickelodeon Go Diego Go! Great Dinosaur Rescue (USA)">
@@ -7508,6 +7560,15 @@
 		<url>https://retroachievements.org/game/3047/hashes</url>
 	</machine>
 
+	<machine name="Retail/Red Faction II (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Red Faction II (USA)</description>
+		<disk name="Red Faction II (USA).chd" sha1="17b2f8858620e975b0a0c9a4456ceb600e63c5ac"/>
+		<ra_hash>715b2bdd3443d6f4dada9de399ac2b0e</ra_hash>
+		<url>https://retroachievements.org/game/3048/hashes</url>
+	</machine>
+
 	<machine name="Retail/Red Ninja - End of Honor (USA)">
 		<category></category>
 		<source>Redump</source>
@@ -7536,7 +7597,7 @@
 	</machine>
 	<machine name="Retail/Resident Evil CODE - Veronica X/Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999)">
 		<category></category>
-		<source>Unknown</source>
+		<source>Lost Level Archive</source>
 		<description>Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999)</description>
 		<disk name="Resident Evil - CODE Veronica X (USA) (Pt) (v1.5) (Gledson999).chd" sha1="581e1c0c70a2394f6642c141fdcc33dd03fac5dc"/>
 		<ra_hash>28bac4408edebbd8a53f9bfca94604ef</ra_hash>
@@ -7594,6 +7655,24 @@
 		<disk name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez).chd" sha1="00fc9d19cc4e2eb047131f30f02447f6f053303b"/>
 		<ra_hash>b8157fd246eef69e70403ff5a74eeb2e</ra_hash>
 		<url>https://retroachievements.org/game/20466/hashes</url>
+	</machine>
+
+	<machine name="Hack/Resident Evil 4 - Ashley Redemption (Normal) (v1.0) (Chicharo Gonzalez)">
+		<category></category>
+		<source>Unknown</source>
+		<description>Resident Evil 4 - Ashley Redemption (Normal) (v1.0) (Chicharo Gonzalez)</description>
+		<disk name="Resident Evil 4 - Ashley Redemption (Normal) (v1.0) (Chicharo Gonzalez).chd" sha1="3bf8818b678ae817a88ea92663bb95563d25a27f"/>
+		<ra_hash>6fe6223ff284f492737a21f784437185</ra_hash>
+		<url>https://retroachievements.org/game/44529/hashes</url>
+	</machine>
+
+	<machine name="Hack/Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up)">
+		<category></category>
+		<source>Redump, Lost Level Archive</source>
+		<description>Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up)</description>
+		<disk name="Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up).chd" sha1="151f920b023eea9fb3df2611ce0593663c084784"/>
+		<ra_hash>d2b70006d7144af1a1d6467460696d45</ra_hash>
+		<url>https://retroachievements.org/game/41273/hashes</url>
 	</machine>
 
 	<machine name="Hack/Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)">
@@ -7862,7 +7941,7 @@
 		<category></category>
 		<source>Redump</source>
 		<description>Saru! Get You! Million Monkeys (Japan)</description>
-		<disk name="Saru! Get You! Million Monkeys (Japan).chd" sha1="ff7d971221c940f8caeab3421b20c134fbb5ed8a"/>
+		<disk name="Saru! Get You! Million Monkeys (Japan).chd" sha1="a6ca57b7f87ab72b0255c2c7a254db5e1633588d"/>
 		<ra_hash>4e692bea4a855133df05ebe2150d485b</ra_hash>
 		<url>https://retroachievements.org/game/20778/hashes</url>
 	</machine>
@@ -8633,6 +8712,31 @@
 		<disk name="SingStar Party (Europe, Australia).chd" sha1="5c98bccffa4f7f9e4135fb5b2f6ee4471594826c"/>
 		<ra_hash>77ed7e5738395aebf93527597004a099</ra_hash>
 		<url>https://retroachievements.org/game/30933/hashes</url>
+	</machine>
+
+	<machine name="Retail/SingStar Pop/SingStar Pop (Europe)">
+		<category></category>
+		<source>Redump</source>
+		<description>SingStar Pop (Europe)</description>
+		<disk name="SingStar Pop (Europe).chd" sha1="87b78c5255a6c1efde013588cc47974eba630c12"/>
+		<ra_hash>53c0a0f116431d4c77d98868e3a3d7ed</ra_hash>
+		<url>https://retroachievements.org/game/38256/hashes</url>
+	</machine>
+	<machine name="Retail/SingStar Pop/SingStar Pop (France)">
+		<category></category>
+		<source>Redump</source>
+		<description>SingStar Pop (France)</description>
+		<disk name="SingStar Pop (France).chd" sha1="255d05c863f5d611fee5e167586147e33ced986f"/>
+		<ra_hash>f3a42f92ea4ed874f217b66ae9a48ad4</ra_hash>
+		<url>https://retroachievements.org/game/38256/hashes</url>
+	</machine>
+	<machine name="Retail/SingStar Pop/SingStar Popworld (UK)">
+		<category></category>
+		<source>Redump</source>
+		<description>SingStar Popworld (UK)</description>
+		<disk name="SingStar Popworld (UK).chd" sha1="b135cfec3565e06d6301eb266bd3062c23661e7e"/>
+		<ra_hash>5651e4b018755d4970dba76aa824ca88</ra_hash>
+		<url>https://retroachievements.org/game/38256/hashes</url>
 	</machine>
 
 	<machine name="Retail/Siren (USA)">
@@ -9522,6 +9626,15 @@
 		<disk name="Test Drive Unlimited (USA).chd" sha1="438e9e77a9f2503314056401ed62a6f6eea75a08"/>
 		<ra_hash>a149afcd651b45e392f626ad18a3fba1</ra_hash>
 		<url>https://retroachievements.org/game/21154/hashes</url>
+	</machine>
+
+	<machine name="Retail/Tetris Worlds (USA)">
+		<category></category>
+		<source>Redump</source>
+		<description>Tetris Worlds (USA)</description>
+		<disk name="Tetris Worlds (USA).chd" sha1="65beb8eb679aa723fd5b56edbb9e613f0bbe22cf"/>
+		<ra_hash>65417a9f170dd1a30152be1ed4412cad</ra_hash>
+		<url>https://retroachievements.org/game/21155/hashes</url>
 	</machine>
 
 	<machine name="Retail/Theme Park World (Europe) (En,Fr,De)">
@@ -10480,12 +10593,20 @@
 		<url>https://retroachievements.org/game/3300/hashes</url>
 	</machine>
 
-	<machine name="Retail/Ys III - Wanderers from Ys (Japan)">
+	<machine name="Retail/Ys III - Wanderers from Ys/Ys III - Wanderers from Ys (Japan)">
 		<category></category>
 		<source>Redump</source>
 		<description>Ys III - Wanderers from Ys (Japan)</description>
 		<disk name="Ys III - Wanderers from Ys (Japan).chd" sha1="828d17e3dd9cd8c1392d0198387c64fef087dd32"/>
 		<ra_hash>9a5ebae24f81f2384141826e4e4cc0d2</ra_hash>
+		<url>https://retroachievements.org/game/9451/hashes</url>
+	</machine>
+	<machine name="Retail/Ys III - Wanderers from Ys/Ys III - Wanderers from Ys (Japan) (En) (v1.0) (Kaisaan)">
+		<category></category>
+		<source>Redump, RAPatches</source>
+		<description>Ys III - Wanderers from Ys (Japan) (En) (v1.0) (Kaisaan)</description>
+		<disk name="Ys III - Wanderers from Ys (Japan) (En) (v1.0) (Kaisaan).chd" sha1="2e1c596f70b3733135dc08a1ef04181407c43797"/>
+		<ra_hash>c0b0d0353d7826772a30b0d29f771803</ra_hash>
 		<url>https://retroachievements.org/game/9451/hashes</url>
 	</machine>
 

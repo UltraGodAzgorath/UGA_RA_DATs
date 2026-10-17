@@ -5,12 +5,12 @@
 		<name>RA - ColecoVision</name>
 		<description>ColecoVision</description>
 		<category>Subfolders</category>
-		<version>20260913</version>
-		<date>13 September 2026</date>
+		<version>20261017</version>
+		<date>17 October 2026</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<url>https://retroachievements.org/system/44-colecovision/games</url>
-		<titlecount>47</titlecount>
-		<hashcount>49</hashcount>
+		<titlecount>48</titlecount>
+		<hashcount>50</hashcount>
 	</header>
 
 	<game name="Retail/Alcazar - The Forgotten Fortress (USA)">
@@ -343,6 +343,15 @@
 		<rom name="Rocky - Super Action Boxing (USA, Europe).col" size="20480" crc="37F144D3" md5="d35fdb81f4a733925b0a33dfb53d9d78" sha1="11def2adb622bbf62bfd2ac14d8151c8f2f772eb"/>
 		<ra_hash>d35fdb81f4a733925b0a33dfb53d9d78</ra_hash>
 		<url>https://retroachievements.org/game/32358/hashes</url>
+	</game>
+
+	<game name="Retail/Root Beer Tapper (USA)">
+		<category></category>
+		<source>No-Intro</source>
+		<description>Root Beer Tapper (USA)</description>
+		<rom name="Root Beer Tapper (USA).col" size="32768" crc="8AFD7DB2" md5="6cdb3a03f8d66bedbd29899895d83f94" sha1="bbb25e64aefa3adaff9f864713ecabe3b6f0316b"/>
+		<ra_hash>6cdb3a03f8d66bedbd29899895d83f94</ra_hash>
+		<url>https://retroachievements.org/game/32951/hashes</url>
 	</game>
 
 	<game name="Homebrew/Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)">
